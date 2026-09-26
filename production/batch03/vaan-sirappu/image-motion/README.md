@@ -96,3 +96,30 @@ prefer environments, objects, rain, water, smoke, and light with physically
 bounded animation. Use actual moving footage for prominent people, gestures,
 and ritual actions whenever possible. Review at normal speed with the song,
 then run technical decode, black-frame, audio continuity, and cut-boundary QC.
+
+## Clean branded cut
+
+`render_branded.py` rebuilds the first 3,870 frames directly from the 24
+director-selected source ranges in `batch-v15.json`, omitting the provisional
+upper-left review text. It regenerates the 20-shot image-motion tail without
+that text, joins both sections, and overlays the official Guru Kula Desam
+channel emblem at the lower left (102 x 102 pixels, 24-pixel margin). The
+avatar source is `production/gananatha-om/channel-avatar-reference.jpg`.
+
+Run from the repository root after materializing the source clips with Git LFS:
+
+```powershell
+python production/batch03/vaan-sirappu/image-motion/render_branded.py
+```
+
+The resulting `VAAN-SIRAPPU-CINEMATIC-v2.mp4` has 7,501 frames at 24 fps,
+1280 x 720, and uses the original AAC stream byte-for-byte. Full video/audio
+decode passed on 2026-09-27, blackdetect found zero intervals at the
+0.02-second threshold, and `branded-contact-sheet.jpg` was inspected at 12
+points including both sides of the 161.25-second join. The first section
+contains actual selected moving footage; the final 151.29 seconds use still
+artwork with camera and bounded environmental animation. These technical
+checks do not prove lyric timing or full-speed human audiovisual approval.
+
+The clean 161-second section, silent image-motion tail, and small logo PNG are
+generated intermediates and are not committed.
