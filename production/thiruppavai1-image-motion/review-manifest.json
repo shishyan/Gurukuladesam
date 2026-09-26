@@ -1,0 +1,373 @@
+{
+  "sourceVideoId": "RDcw0Bol-cE",
+  "sourceAudio": "source\\youtube\\RDcw0Bol-cE-திருப்பாவை - 1 (மார்கழி திங்கள்).m4a",
+  "imageDerived": true,
+  "fps": 24,
+  "frames": 7945,
+  "logo": "production\\gananatha-om\\channel-avatar-reference.jpg",
+  "shots": [
+    {
+      "image": "production\\approved\\thiruppavai1\\S24-imagegen-gopuram-reflection.png",
+      "role": "blue-hour gopuram reflection",
+      "inFrame": 0,
+      "outFrame": 259,
+      "center": [
+        0.5,
+        0.51
+      ],
+      "baseZoom": 1.06
+    },
+    {
+      "image": "production\\approved\\thiruppavai1\\S21-imagegen-lotus-ripples.png",
+      "role": "lotus-tank first light",
+      "inFrame": 259,
+      "outFrame": 496,
+      "center": [
+        0.48,
+        0.52
+      ],
+      "baseZoom": 1.1
+    },
+    {
+      "image": "production\\approved\\thiruppavai1\\S19-imagegen-rain-eaves.png",
+      "role": "Margazhi rain",
+      "inFrame": 496,
+      "outFrame": 726,
+      "center": [
+        0.52,
+        0.5
+      ],
+      "baseZoom": 1.08
+    },
+    {
+      "image": "production\\approved\\thiruppavai1\\S07-imagegen-doorway.png",
+      "role": "nine devotees gather",
+      "inFrame": 726,
+      "outFrame": 958,
+      "center": [
+        0.5,
+        0.49
+      ],
+      "baseZoom": 1.04
+    },
+    {
+      "image": "production\\approved\\thiruppavai1\\S09-imagegen-kolam-feet.png",
+      "role": "kolam threshold",
+      "inFrame": 958,
+      "outFrame": 1187,
+      "center": [
+        0.5,
+        0.55
+      ],
+      "baseZoom": 1.13
+    },
+    {
+      "image": "production\\thiruppavai1-image-motion\\TG02-nine-devotees-tank.png",
+      "role": "nine devotees at tank",
+      "inFrame": 1187,
+      "outFrame": 1433,
+      "center": [
+        0.5,
+        0.47
+      ],
+      "baseZoom": 1.05
+    },
+    {
+      "image": "production\\approved\\thiruppavai1\\S18-imagegen-temple-bell.png",
+      "role": "morning temple bell",
+      "inFrame": 1433,
+      "outFrame": 1697,
+      "center": [
+        0.48,
+        0.48
+      ],
+      "baseZoom": 1.12
+    },
+    {
+      "image": "production\\approved\\thiruppavai1\\S22-imagegen-protected-lamp.png",
+      "role": "sheltered lamp",
+      "inFrame": 1697,
+      "outFrame": 1924,
+      "center": [
+        0.48,
+        0.54
+      ],
+      "baseZoom": 1.08
+    },
+    {
+      "image": "production\\approved\\thiruppavai1\\S21-imagegen-lotus-ripples.png",
+      "role": "lotus water detail",
+      "inFrame": 1924,
+      "outFrame": 2154,
+      "center": [
+        0.56,
+        0.59
+      ],
+      "baseZoom": 1.36
+    },
+    {
+      "image": "production\\thiruppavai1-image-motion\\TG03-nine-devotees-walk.png",
+      "role": "nine devotees walk together",
+      "inFrame": 2154,
+      "outFrame": 2414,
+      "center": [
+        0.5,
+        0.49
+      ],
+      "baseZoom": 1.04
+    },
+    {
+      "image": "production\\approved\\thiruppavai1\\S30-imagegen-nine-lotus-departure.png",
+      "role": "nine lotus departure",
+      "inFrame": 2414,
+      "outFrame": 2638,
+      "center": [
+        0.5,
+        0.55
+      ],
+      "baseZoom": 1.06
+    },
+    {
+      "image": "production\\approved\\thiruppavai1\\S32-imagegen-nine-footprint-pairs.png",
+      "role": "nine pairs of footprints",
+      "inFrame": 2638,
+      "outFrame": 2873,
+      "center": [
+        0.5,
+        0.54
+      ],
+      "baseZoom": 1.07
+    },
+    {
+      "image": "production\\approved\\thiruppavai1\\S33-imagegen-first-ascent.png",
+      "role": "temple ascent",
+      "inFrame": 2873,
+      "outFrame": 3140,
+      "center": [
+        0.5,
+        0.54
+      ],
+      "baseZoom": 1.09
+    },
+    {
+      "image": "production\\approved\\thiruppavai1\\S34-imagegen-post-rain-ascent.png",
+      "role": "after rain ascent",
+      "inFrame": 3140,
+      "outFrame": 3380,
+      "center": [
+        0.5,
+        0.54
+      ],
+      "baseZoom": 1.07
+    },
+    {
+      "image": "production\\approved\\thiruppavai1\\S35-imagegen-gopuram-approach.png",
+      "role": "gopuram approach",
+      "inFrame": 3380,
+      "outFrame": 3621,
+      "center": [
+        0.5,
+        0.49
+      ],
+      "baseZoom": 1.06
+    },
+    {
+      "image": "production\\thiruppavai1-image-motion\\TG03-nine-devotees-walk.png",
+      "role": "walking group closer framing",
+      "inFrame": 3621,
+      "outFrame": 3848,
+      "center": [
+        0.61,
+        0.48
+      ],
+      "baseZoom": 1.35
+    },
+    {
+      "image": "production\\approved\\thiruppavai1\\S36-imagegen-wet-dry-threshold.png",
+      "role": "wet-to-dry threshold",
+      "inFrame": 3848,
+      "outFrame": 4080,
+      "center": [
+        0.49,
+        0.52
+      ],
+      "baseZoom": 1.06
+    },
+    {
+      "image": "production\\approved\\thiruppavai1\\S37-imagegen-garland-passage.png",
+      "role": "garland passage",
+      "inFrame": 4080,
+      "outFrame": 4352,
+      "center": [
+        0.51,
+        0.53
+      ],
+      "baseZoom": 1.09
+    },
+    {
+      "image": "production\\approved\\thiruppavai1\\S38-imagegen-garland-inward.png",
+      "role": "garland toward sanctum",
+      "inFrame": 4352,
+      "outFrame": 4560,
+      "center": [
+        0.49,
+        0.52
+      ],
+      "baseZoom": 1.09
+    },
+    {
+      "image": "production\\thiruppavai1-image-motion\\TG01-nine-devotees-mandapam.png",
+      "role": "nine devotees in mandapam",
+      "inFrame": 4560,
+      "outFrame": 4831,
+      "center": [
+        0.5,
+        0.49
+      ],
+      "baseZoom": 1.04
+    },
+    {
+      "image": "production\\approved\\thiruppavai1\\S27-imagegen-conch-chakra-vision.png",
+      "role": "sacred conch and chakra",
+      "inFrame": 4831,
+      "outFrame": 5060,
+      "center": [
+        0.5,
+        0.49
+      ],
+      "baseZoom": 1.06
+    },
+    {
+      "image": "production\\approved\\thiruppavai1\\S28-imagegen-ritual-conch.png",
+      "role": "ritual conch",
+      "inFrame": 5060,
+      "outFrame": 5289,
+      "center": [
+        0.48,
+        0.51
+      ],
+      "baseZoom": 1.11
+    },
+    {
+      "image": "production\\approved\\thiruppavai1\\S29-imagegen-chakra-reflection.png",
+      "role": "chakra reflection",
+      "inFrame": 5289,
+      "outFrame": 5525,
+      "center": [
+        0.53,
+        0.52
+      ],
+      "baseZoom": 1.11
+    },
+    {
+      "image": "production\\approved\\thiruppavai1\\S25-imagegen-sacred-gold-reflection.png",
+      "role": "sacred gold reflection",
+      "inFrame": 5525,
+      "outFrame": 5778,
+      "center": [
+        0.51,
+        0.51
+      ],
+      "baseZoom": 1.09
+    },
+    {
+      "image": "production\\thiruppavai1-image-motion\\TG01-nine-devotees-mandapam.png",
+      "role": "mandapam group closer framing",
+      "inFrame": 5778,
+      "outFrame": 6023,
+      "center": [
+        0.6,
+        0.48
+      ],
+      "baseZoom": 1.3
+    },
+    {
+      "image": "production\\approved\\thiruppavai1\\S39-imagegen-nine-garland-offering.png",
+      "role": "nine garlands",
+      "inFrame": 6023,
+      "outFrame": 6275,
+      "center": [
+        0.5,
+        0.52
+      ],
+      "baseZoom": 1.06
+    },
+    {
+      "image": "production\\approved\\thiruppavai1\\S40-imagegen-sanctum-light-offering.png",
+      "role": "sanctum light offering",
+      "inFrame": 6275,
+      "outFrame": 6493,
+      "center": [
+        0.5,
+        0.49
+      ],
+      "baseZoom": 1.06
+    },
+    {
+      "image": "production\\thiruppavai1-image-motion\\TG04-nine-devotees-offering.png",
+      "role": "nine devotees offer flowers",
+      "inFrame": 6493,
+      "outFrame": 6727,
+      "center": [
+        0.5,
+        0.49
+      ],
+      "baseZoom": 1.04
+    },
+    {
+      "image": "production\\approved\\thiruppavai1\\S41a-imagegen-offering-reaches-sanctum.png",
+      "role": "offering reaches sanctum",
+      "inFrame": 6727,
+      "outFrame": 6987,
+      "center": [
+        0.5,
+        0.5
+      ],
+      "baseZoom": 1.06
+    },
+    {
+      "image": "production\\approved\\thiruppavai1\\S41b-imagegen-sanctum-door-light.png",
+      "role": "sanctum door light",
+      "inFrame": 6987,
+      "outFrame": 7209,
+      "center": [
+        0.5,
+        0.49
+      ],
+      "baseZoom": 1.07
+    },
+    {
+      "image": "production\\thiruppavai1-image-motion\\TG04-nine-devotees-offering.png",
+      "role": "group prayer closer framing",
+      "inFrame": 7209,
+      "outFrame": 7453,
+      "center": [
+        0.58,
+        0.48
+      ],
+      "baseZoom": 1.3
+    },
+    {
+      "image": "production\\approved\\thiruppavai1\\S31-imagegen-vision-resolves.png",
+      "role": "vision resolves",
+      "inFrame": 7453,
+      "outFrame": 7712,
+      "center": [
+        0.5,
+        0.5
+      ],
+      "baseZoom": 1.07
+    },
+    {
+      "image": "production\\approved\\thiruppavai1\\S42-imagegen-sanctum-end-hold.png",
+      "role": "final sanctum hold",
+      "inFrame": 7712,
+      "outFrame": 7945,
+      "center": [
+        0.5,
+        0.49
+      ],
+      "baseZoom": 1.04
+    }
+  ]
+}
