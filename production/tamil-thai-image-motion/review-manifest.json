@@ -1,0 +1,241 @@
+{
+  "sourceVideoId": "ETELjf0OTi4",
+  "sourceAudio": "source\\youtube\\ETELjf0OTi4-தமிழ்த்தாய் வாழ்த்து.m4a",
+  "imageDerived": true,
+  "fps": 24,
+  "frames": 6035,
+  "logo": "production\\gananatha-om\\channel-avatar-reference.jpg",
+  "shots": [
+    {
+      "image": "production\\approved\\tamil-thai-vazhthu\\S01-imagegen-cosmic-southern-ocean.png",
+      "role": "southern night over sea",
+      "inFrame": 0,
+      "outFrame": 291,
+      "center": [
+        0.5,
+        0.51
+      ],
+      "baseZoom": 1.04
+    },
+    {
+      "image": "production\\approved\\tamil-thai-vazhthu\\S02-imagegen-three-seas.png",
+      "role": "three seas at sunrise",
+      "inFrame": 291,
+      "outFrame": 584,
+      "center": [
+        0.5,
+        0.52
+      ],
+      "baseZoom": 1.06
+    },
+    {
+      "image": "production\\approved\\tamil-thai-vazhthu\\S03-imagegen-western-ghats.png",
+      "role": "Western Ghats waterfall",
+      "inFrame": 584,
+      "outFrame": 875,
+      "center": [
+        0.5,
+        0.5
+      ],
+      "baseZoom": 1.06
+    },
+    {
+      "image": "production\\approved\\tamil-thai-vazhthu\\S04-imagegen-cauvery-delta.png",
+      "role": "fertile Cauvery fields",
+      "inFrame": 875,
+      "outFrame": 1167,
+      "center": [
+        0.5,
+        0.53
+      ],
+      "baseZoom": 1.05
+    },
+    {
+      "image": "production\\approved\\tamil-thai-vazhthu\\S06-imagegen-cauvery-anicut.png",
+      "role": "ancient river anicut",
+      "inFrame": 1167,
+      "outFrame": 1437,
+      "center": [
+        0.5,
+        0.52
+      ],
+      "baseZoom": 1.08
+    },
+    {
+      "image": "production\\approved\\tamil-thai-vazhthu\\S05-imagegen-chola-temple-civilization.png",
+      "role": "Chola temple civilization",
+      "inFrame": 1437,
+      "outFrame": 1712,
+      "center": [
+        0.5,
+        0.5
+      ],
+      "baseZoom": 1.05
+    },
+    {
+      "image": "production\\approved\\tamil-thai-vazhthu\\S09-imagegen-sangam-port.png",
+      "role": "Sangam port and trade",
+      "inFrame": 1712,
+      "outFrame": 1999,
+      "center": [
+        0.5,
+        0.52
+      ],
+      "baseZoom": 1.07
+    },
+    {
+      "image": "production\\approved\\tamil-thai-vazhthu\\S07-imagegen-oral-poetry-gathering.png",
+      "role": "poetry gathering place",
+      "inFrame": 1999,
+      "outFrame": 2283,
+      "center": [
+        0.5,
+        0.53
+      ],
+      "baseZoom": 1.08
+    },
+    {
+      "image": "production\\tamil-thai-image-motion\\TT18-poetry-gathering.png",
+      "role": "poet and listeners",
+      "inFrame": 2283,
+      "outFrame": 2599,
+      "center": [
+        0.5,
+        0.5
+      ],
+      "baseZoom": 1.05
+    },
+    {
+      "image": "production\\approved\\tamil-thai-vazhthu\\S08-imagegen-palm-leaf-learning.png",
+      "role": "palm-leaf learning",
+      "inFrame": 2599,
+      "outFrame": 2884,
+      "center": [
+        0.5,
+        0.51
+      ],
+      "baseZoom": 1.1
+    },
+    {
+      "image": "production\\approved\\tamil-thai-vazhthu\\S13-imagegen-village-learning.png",
+      "role": "learning beneath banyan",
+      "inFrame": 2884,
+      "outFrame": 3163,
+      "center": [
+        0.5,
+        0.51
+      ],
+      "baseZoom": 1.04
+    },
+    {
+      "image": "production\\approved\\tamil-thai-vazhthu\\S16-imagegen-stone-inscription-craft.png",
+      "role": "stone inscription craft",
+      "inFrame": 3163,
+      "outFrame": 3462,
+      "center": [
+        0.5,
+        0.52
+      ],
+      "baseZoom": 1.11
+    },
+    {
+      "image": "production\\approved\\tamil-thai-vazhthu\\S17-imagegen-chola-bronze-casting.png",
+      "role": "bronze-casting craft",
+      "inFrame": 3462,
+      "outFrame": 3752,
+      "center": [
+        0.5,
+        0.51
+      ],
+      "baseZoom": 1.09
+    },
+    {
+      "image": "production\\approved\\tamil-thai-vazhthu\\S12-imagegen-handloom-craft.png",
+      "role": "handloom craft",
+      "inFrame": 3752,
+      "outFrame": 4013,
+      "center": [
+        0.5,
+        0.52
+      ],
+      "baseZoom": 1.07
+    },
+    {
+      "image": "production\\tamil-thai-image-motion\\TT21-handloom-weavers.png",
+      "role": "Tamil women at the loom",
+      "inFrame": 4013,
+      "outFrame": 4304,
+      "center": [
+        0.5,
+        0.5
+      ],
+      "baseZoom": 1.05
+    },
+    {
+      "image": "production\\approved\\tamil-thai-vazhthu\\S10-imagegen-tamil-music.png",
+      "role": "traditional instruments",
+      "inFrame": 4304,
+      "outFrame": 4594,
+      "center": [
+        0.5,
+        0.51
+      ],
+      "baseZoom": 1.08
+    },
+    {
+      "image": "production\\tamil-thai-image-motion\\TT19-music-ensemble.png",
+      "role": "Tamil music ensemble",
+      "inFrame": 4594,
+      "outFrame": 4902,
+      "center": [
+        0.5,
+        0.49
+      ],
+      "baseZoom": 1.05
+    },
+    {
+      "image": "production\\approved\\tamil-thai-vazhthu\\S11-imagegen-dance-heritage.png",
+      "role": "dance heritage",
+      "inFrame": 4902,
+      "outFrame": 5164,
+      "center": [
+        0.5,
+        0.52
+      ],
+      "baseZoom": 1.08
+    },
+    {
+      "image": "production\\tamil-thai-image-motion\\TT20-bharatanatyam.png",
+      "role": "Bharatanatyam performance",
+      "inFrame": 5164,
+      "outFrame": 5467,
+      "center": [
+        0.5,
+        0.49
+      ],
+      "baseZoom": 1.05
+    },
+    {
+      "image": "production\\approved\\tamil-thai-vazhthu\\S14-imagegen-tamil-thai-reveal.png",
+      "role": "Tamil Thai at sunrise",
+      "inFrame": 5467,
+      "outFrame": 5759,
+      "center": [
+        0.5,
+        0.5
+      ],
+      "baseZoom": 1.04
+    },
+    {
+      "image": "production\\approved\\tamil-thai-vazhthu\\S15-imagegen-kolam-end-hold.png",
+      "role": "lamp and kolam closing",
+      "inFrame": 5759,
+      "outFrame": 6035,
+      "center": [
+        0.5,
+        0.5
+      ],
+      "baseZoom": 1.04
+    }
+  ]
+}
