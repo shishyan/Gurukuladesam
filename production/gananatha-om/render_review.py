@@ -8,6 +8,7 @@ import json
 import math
 import random
 import subprocess
+import sys
 from pathlib import Path
 
 import imageio_ffmpeg
@@ -20,6 +21,8 @@ ROOT = HERE.parents[1]
 FFMPEG = imageio_ffmpeg.get_ffmpeg_exe()
 AUDIO = ROOT / "source/youtube/GydxHEmyDPc.m4a"
 OUTPUT = HERE / "GANA-NATHA-OM-FULL-IMAGE-MOTION-REVIEW-v1.mp4"
+BRANDED_OUTPUT = HERE / "GANA-NATHA-OM-CINEMATIC-v2.mp4"
+CHANNEL_LOGO = HERE / "channel-avatar-reference.jpg"
 MANIFEST = HERE / "review-manifest.json"
 W, H, FPS, TARGET_FRAMES = 1280, 720, 24, 5472
 
@@ -125,6 +128,9 @@ def environment(frame, image_name, global_frame):
 
 
 def main():
+    branded = "--branded" in sys.argv[1:]
+    if branded and not CHANNEL_LOGO.is_file():
+        raise FileNotFoundError(CHANNEL_LOGO)
     assert all((HERE / spec[0]).is_file() for spec in SHOTS)
     points = choose_cuts()
     payload = {"sourceVideoId": "GydxHEmyDPc", "sourceAudio": str(AUDIO.relative_to(ROOT)),
@@ -135,13 +141,23 @@ def main():
                               center=[spec[1], spec[2]], baseZoom=spec[3]) for i, spec in enumerate(SHOTS)]}
     MANIFEST.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     images = {name: Image.open(HERE / name).convert("RGB") for name, *_ in SHOTS}
+    logo = None
+    if branded:
+        source_logo = Image.open(CHANNEL_LOGO).convert("RGB").resize((102, 102), Image.Resampling.LANCZOS)
+        logo = Image.new("RGBA", (102, 102), (0, 0, 0, 0))
+        mask = Image.new("L", (102, 102), 0)
+        ImageDraw.Draw(mask).ellipse((0, 0, 101, 101), fill=255)
+        logo.paste(source_logo, (0, 0), mask)
     filter_text = "drawtext=text='GANA NATHA OM - IMAGE MOTION REVIEW':x=12:y=10:fontsize=18:fontcolor=white:box=1:boxcolor=black@0.45"
     command = [FFMPEG, "-hide_banner", "-loglevel", "error", "-y", "-f", "rawvideo",
                "-pixel_format", "rgb24", "-video_size", f"{W}x{H}", "-framerate", str(FPS),
-               "-i", "pipe:0", "-i", str(AUDIO), "-vf", filter_text,
+               "-i", "pipe:0", "-i", str(AUDIO)]
+    if not branded:
+        command += ["-vf", filter_text]
+    command += [
                "-map", "0:v:0", "-map", "1:a:0", "-c:v", "libx264", "-preset", "veryfast",
                "-crf", "20", "-pix_fmt", "yuv420p", "-c:a", "copy", "-movflags", "+faststart",
-               str(OUTPUT)]
+               str(BRANDED_OUTPUT if branded else OUTPUT)]
     process = subprocess.Popen(command, stdin=subprocess.PIPE)
     try:
         for i, spec in enumerate(SHOTS):
@@ -150,12 +166,14 @@ def main():
             for local in range(duration):
                 image = camera(images[spec[0]], spec, local, duration, i)
                 image = environment(image, spec[0], points[i] + local)
+                if logo is not None:
+                    image.paste(logo, (24, H - 24 - logo.height), logo)
                 process.stdin.write(image.tobytes())
     finally:
         process.stdin.close()
     if process.wait() != 0:
         raise RuntimeError("ffmpeg encode failed")
-    print(OUTPUT)
+    print(BRANDED_OUTPUT if branded else OUTPUT)
 
 
 if __name__ == "__main__":
