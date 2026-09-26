@@ -1,5 +1,9 @@
 # Thirukkural master — completed 2026-09-16
 
+> Historical audit from 2026-09-16. For the current 2026-09-26 video-ID audit
+> and 105-song Thirukkural playlist, see
+> [playlist-audit/README.md](playlist-audit/README.md) and its catalog.
+
 ## Adhigaram-name audit (follow-up)
 
 Reopened Discography and loaded all 201 actual playlist entries through index 201, excluding recommended videos. Read every displayed title, not merely keyword matches, against the 133-chapter index at https://thirukkural.io/ including spacing variants and English transliterations. No additional identifiable chapter-named tracks beyond the five already copied were found in that source playlist. The non-keyword song இன்னா செய்தாரை is already included. Generic overlaps such as கல்வி within தனந்தரும் கல்விதரும் and புகழ் within திருவடிப் புகழ்ச்சி are not evidence of a Thirukkural chapter. Truncated titles visibly labelled திருவருட்பா were not assumed to be Thirukkural.
