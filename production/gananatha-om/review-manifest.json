@@ -1,0 +1,340 @@
+{
+  "sourceVideoId": "GydxHEmyDPc",
+  "sourceAudio": "source\\youtube\\GydxHEmyDPc.m4a",
+  "fps": 24,
+  "targetFrames": 5472,
+  "cutRule": "nearby RMS minima; human musical and lyric timing unverified",
+  "imageDerived": true,
+  "shots": [
+    {
+      "image": "GN02-temple-exterior.png",
+      "role": "blue-hour exterior",
+      "inFrame": 0,
+      "outFrame": 178,
+      "center": [
+        0.5,
+        0.52
+      ],
+      "baseZoom": 1.05
+    },
+    {
+      "image": "GN07-banyan-garden.png",
+      "role": "rooted temple garden",
+      "inFrame": 178,
+      "outFrame": 366,
+      "center": [
+        0.62,
+        0.49
+      ],
+      "baseZoom": 1.08
+    },
+    {
+      "image": "GN15-temple-road.png",
+      "role": "approach",
+      "inFrame": 366,
+      "outFrame": 564,
+      "center": [
+        0.5,
+        0.53
+      ],
+      "baseZoom": 1.07
+    },
+    {
+      "image": "GN03-temple-bell.png",
+      "role": "bell and distant sanctum",
+      "inFrame": 564,
+      "outFrame": 734,
+      "center": [
+        0.46,
+        0.45
+      ],
+      "baseZoom": 1.08
+    },
+    {
+      "image": "GN06-lamp-corridor.png",
+      "role": "lamp-lined mandapam",
+      "inFrame": 734,
+      "outFrame": 896,
+      "center": [
+        0.51,
+        0.52
+      ],
+      "baseZoom": 1.06
+    },
+    {
+      "image": "GN01-sanctum-master.png",
+      "role": "first complete deity reveal",
+      "inFrame": 896,
+      "outFrame": 1086,
+      "center": [
+        0.5,
+        0.49
+      ],
+      "baseZoom": 1.04
+    },
+    {
+      "image": "GN04-offerings.png",
+      "role": "modakam and durva",
+      "inFrame": 1086,
+      "outFrame": 1279,
+      "center": [
+        0.6,
+        0.55
+      ],
+      "baseZoom": 1.08
+    },
+    {
+      "image": "GN05-mouse-vahana.png",
+      "role": "mouse vahana",
+      "inFrame": 1279,
+      "outFrame": 1473,
+      "center": [
+        0.47,
+        0.55
+      ],
+      "baseZoom": 1.07
+    },
+    {
+      "image": "GN10-idol-close.png",
+      "role": "coherent four-arm close view",
+      "inFrame": 1473,
+      "outFrame": 1664,
+      "center": [
+        0.5,
+        0.47
+      ],
+      "baseZoom": 1.05
+    },
+    {
+      "image": "GN08-temple-tank.png",
+      "role": "tank and dawn light",
+      "inFrame": 1664,
+      "outFrame": 1823,
+      "center": [
+        0.5,
+        0.56
+      ],
+      "baseZoom": 1.04
+    },
+    {
+      "image": "GN13-lotus-tank.png",
+      "role": "rooted lotus",
+      "inFrame": 1823,
+      "outFrame": 1984,
+      "center": [
+        0.5,
+        0.56
+      ],
+      "baseZoom": 1.05
+    },
+    {
+      "image": "GN12-sunrise-courtyard.png",
+      "role": "courtyard morning",
+      "inFrame": 1984,
+      "outFrame": 2177,
+      "center": [
+        0.51,
+        0.51
+      ],
+      "baseZoom": 1.05
+    },
+    {
+      "image": "GN11-incense.png",
+      "role": "source-connected incense",
+      "inFrame": 2177,
+      "outFrame": 2391,
+      "center": [
+        0.47,
+        0.49
+      ],
+      "baseZoom": 1.06
+    },
+    {
+      "image": "GN09-garland.png",
+      "role": "flower garland",
+      "inFrame": 2391,
+      "outFrame": 2553,
+      "center": [
+        0.47,
+        0.53
+      ],
+      "baseZoom": 1.08
+    },
+    {
+      "image": "GN14-deepam.png",
+      "role": "sheltered deepam",
+      "inFrame": 2553,
+      "outFrame": 2722,
+      "center": [
+        0.47,
+        0.52
+      ],
+      "baseZoom": 1.08
+    },
+    {
+      "image": "GN02-temple-exterior.png",
+      "role": "entrance detail",
+      "inFrame": 2722,
+      "outFrame": 2914,
+      "center": [
+        0.5,
+        0.57
+      ],
+      "baseZoom": 1.38
+    },
+    {
+      "image": "GN06-lamp-corridor.png",
+      "role": "lamp detail",
+      "inFrame": 2914,
+      "outFrame": 3122,
+      "center": [
+        0.26,
+        0.52
+      ],
+      "baseZoom": 1.42
+    },
+    {
+      "image": "GN04-offerings.png",
+      "role": "offering detail",
+      "inFrame": 3122,
+      "outFrame": 3275,
+      "center": [
+        0.62,
+        0.61
+      ],
+      "baseZoom": 1.38
+    },
+    {
+      "image": "GN01-sanctum-master.png",
+      "role": "sanctum closer view",
+      "inFrame": 3275,
+      "outFrame": 3488,
+      "center": [
+        0.51,
+        0.49
+      ],
+      "baseZoom": 1.43
+    },
+    {
+      "image": "GN08-temple-tank.png",
+      "role": "tank reflection",
+      "inFrame": 3488,
+      "outFrame": 3659,
+      "center": [
+        0.6,
+        0.67
+      ],
+      "baseZoom": 1.38
+    },
+    {
+      "image": "GN07-banyan-garden.png",
+      "role": "garden to temple",
+      "inFrame": 3659,
+      "outFrame": 3811,
+      "center": [
+        0.71,
+        0.55
+      ],
+      "baseZoom": 1.36
+    },
+    {
+      "image": "GN11-incense.png",
+      "role": "burner detail",
+      "inFrame": 3811,
+      "outFrame": 4003,
+      "center": [
+        0.29,
+        0.48
+      ],
+      "baseZoom": 1.4
+    },
+    {
+      "image": "GN05-mouse-vahana.png",
+      "role": "vahana detail",
+      "inFrame": 4003,
+      "outFrame": 4195,
+      "center": [
+        0.32,
+        0.57
+      ],
+      "baseZoom": 1.37
+    },
+    {
+      "image": "GN12-sunrise-courtyard.png",
+      "role": "gopuram detail",
+      "inFrame": 4195,
+      "outFrame": 4364,
+      "center": [
+        0.59,
+        0.48
+      ],
+      "baseZoom": 1.34
+    },
+    {
+      "image": "GN13-lotus-tank.png",
+      "role": "lotus detail",
+      "inFrame": 4364,
+      "outFrame": 4547,
+      "center": [
+        0.29,
+        0.56
+      ],
+      "baseZoom": 1.38
+    },
+    {
+      "image": "GN14-deepam.png",
+      "role": "flame detail",
+      "inFrame": 4547,
+      "outFrame": 4740,
+      "center": [
+        0.24,
+        0.46
+      ],
+      "baseZoom": 1.39
+    },
+    {
+      "image": "GN09-garland.png",
+      "role": "garland detail",
+      "inFrame": 4740,
+      "outFrame": 4934,
+      "center": [
+        0.25,
+        0.6
+      ],
+      "baseZoom": 1.36
+    },
+    {
+      "image": "GN10-idol-close.png",
+      "role": "blessing hand and face",
+      "inFrame": 4934,
+      "outFrame": 5125,
+      "center": [
+        0.45,
+        0.43
+      ],
+      "baseZoom": 1.34
+    },
+    {
+      "image": "GN15-temple-road.png",
+      "role": "open path to temple",
+      "inFrame": 5125,
+      "outFrame": 5290,
+      "center": [
+        0.53,
+        0.53
+      ],
+      "baseZoom": 1.35
+    },
+    {
+      "image": "GN01-sanctum-master.png",
+      "role": "final sanctum return",
+      "inFrame": 5290,
+      "outFrame": 5472,
+      "center": [
+        0.5,
+        0.49
+      ],
+      "baseZoom": 1.05
+    }
+  ]
+}
