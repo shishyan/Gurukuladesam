@@ -23,7 +23,7 @@ python production/gananatha-om/render_review.py
 Output: `GANA-NATHA-OM-FULL-IMAGE-MOTION-REVIEW-v1.mp4`.
 `review-contact-sheet.jpg` shows ten checkpoints across the film.
 
-## Branded publish candidate
+## Branded public cut
 
 `python production/gananatha-om/render_review.py --branded` writes
 `GANA-NATHA-OM-CINEMATIC-v2.mp4`. It uses the same image edit and original
@@ -38,6 +38,13 @@ intervals at the 0.02-second threshold, and byte-identical source AAC after
 ADTS remux. The five branding checkpoints were visually inspected. This
 technical pass does not establish lyric timing or full-speed audiovisual
 approval.
+
+Published to the official Guru Kula Desam channel on 2026-09-27:
+https://youtu.be/lEHLSYxnpbU . YouTube reported no copyright issue during
+upload. The public video was verified in both `Discography` and `Lord Vinayagar
+Songs`. The custom thumbnail remained unavailable because YouTube requested
+phone verification; its generated video thumbnail is used. `thumbnail-v2.png`
+is an unused proposed still.
 
 Technical QC on 2026-09-26: full video/audio decode exit 0; exactly 5,472
 frames; no black interval detected at the 0.02-second threshold; AAC payload
