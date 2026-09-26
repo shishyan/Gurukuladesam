@@ -123,3 +123,10 @@ checks do not prove lyric timing or full-speed human audiovisual approval.
 
 The clean 161-second section, silent image-motion tail, and small logo PNG are
 generated intermediates and are not committed.
+
+Published on the official Guru Kula Desam channel on 2026-09-27:
+https://youtu.be/f1jxgAbXcdE . YouTube reported no copyright issue during
+upload. Live playlist enumeration confirmed membership in `Discography` and
+`திருக்குறள் | Thirukkural — Master Collection`. YouTube processing may
+continue after publication; the local technical checks above cover the
+uploaded source file.
