@@ -34,3 +34,10 @@ to ADTS is byte-for-byte identical to the original song (SHA-256
 `review-contact-sheet.jpg`, including the group, walk, offering, ending, and
 lower-left channel logo. This is a still-derived film; human motion and exact
 lyric-to-cut timing are not certified by these technical checks.
+
+## Publication
+
+Published September 27, 2026: https://youtu.be/QH-xL37NmGM
+
+YouTube Studio confirmed public visibility, no copyright issues, and membership
+in both `Discography` and `Lord Vishnu Songs`.

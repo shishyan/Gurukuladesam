@@ -14,6 +14,8 @@ STILLS = ROOT / "production/approved/thiruppavai1"
 AUDIO = next((ROOT / "source/youtube").glob("RDcw0Bol-cE*.m4a"))
 LOGO = ROOT / "production/gananatha-om/channel-avatar-reference.jpg"
 OUTPUT = HERE / "THIRUPPAVAI-1-CINEMATIC-v1.mp4"
+SOURCE_VIDEO_ID = "RDcw0Bol-cE"
+ALLOW_REPEAT = True
 FFMPEG = imageio_ffmpeg.get_ffmpeg_exe()
 W, H, FPS = 1280, 720, 24
 
@@ -56,7 +58,7 @@ SHOTS = [
 ]
 
 def source_for(code):
-    folder = HERE if code.startswith("TG") else STILLS
+    folder = STILLS if code.startswith("S") else HERE
     matches = list(folder.glob(f"{code}-*.png"))
     if len(matches) != 1:
         raise ValueError(f"Expected one source for {code}: {matches}")
@@ -103,7 +105,9 @@ def main():
     avatar=Image.open(LOGO).convert("RGB").resize((102,102),Image.Resampling.LANCZOS)
     mask=Image.new("L",avatar.size,0)
     ImageDraw.Draw(mask).ellipse((0,0,101,101),fill=255)
-    manifest={"sourceVideoId":"RDcw0Bol-cE","sourceAudio":str(AUDIO.relative_to(ROOT)),"imageDerived":True,"fps":FPS,"frames":count,"logo":str(LOGO.relative_to(ROOT)),"shots":[{"image":str(sources[spec[0]].relative_to(ROOT)),"role":spec[4],"inFrame":points[i],"outFrame":points[i+1],"center":[spec[1],spec[2]],"baseZoom":spec[3]} for i,spec in enumerate(SHOTS)]}
+    if not ALLOW_REPEAT and len(sources) != len(SHOTS):
+        raise ValueError("Every shot must have a distinct source image")
+    manifest={"sourceVideoId":SOURCE_VIDEO_ID,"sourceAudio":str(AUDIO.relative_to(ROOT)),"imageDerived":True,"fps":FPS,"frames":count,"logo":str(LOGO.relative_to(ROOT)),"shots":[{"image":str(sources[spec[0]].relative_to(ROOT)),"role":spec[4],"inFrame":points[i],"outFrame":points[i+1],"center":[spec[1],spec[2]],"baseZoom":spec[3]} for i,spec in enumerate(SHOTS)]}
     (HERE/"review-manifest.json").write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     cmd=[FFMPEG,"-hide_banner","-loglevel","error","-y","-f","rawvideo","-pixel_format","rgb24","-video_size",f"{W}x{H}","-framerate",str(FPS),"-i","pipe:0","-i",str(AUDIO),"-map","0:v:0","-map","1:a:0","-c:v","libx264","-preset","veryfast","-crf","20","-pix_fmt","yuv420p","-c:a","copy","-movflags","+faststart",str(OUTPUT)]
     process=subprocess.Popen(cmd,stdin=subprocess.PIPE)
