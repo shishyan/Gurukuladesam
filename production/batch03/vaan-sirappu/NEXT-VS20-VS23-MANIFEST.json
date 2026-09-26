@@ -1,0 +1,19 @@
+{
+  "status":"prepared-not-submitted",
+  "preparedDate":"2026-09-22",
+  "timezone":"Asia/Calcutta",
+  "notBefore":"2026-09-22T12:09:00+05:30",
+  "resetGuaranteesAvailability":false,
+  "publicationAuthorized":false,
+  "purchaseAuthorized":false,
+  "promptSource":"NEXT-VS20-VS23-PRODUCTION.md",
+  "queue":[
+    {"id":"VS20","method":"normal-ui-text-to-video","reference":null,"stem":"VS20-mature-grain-take01","requestedSeconds":10,"aspectRatio":"16:9","acceptedSeconds":0,"continuity":"honest seasonal montage, not same-day crop growth"},
+    {"id":"VS21","method":"normal-ui-text-to-video","reference":null,"stem":"VS21-attached-panicle-take01","requestedSeconds":10,"aspectRatio":"16:9","acceptedSeconds":0,"continuity":"same crop type only; hand does not establish identity"},
+    {"id":"VS22","method":"normal-ui-text-to-video","reference":null,"stem":"VS22-sheltered-sheaves-take01","requestedSeconds":10,"aspectRatio":"16:9","acceptedSeconds":0,"continuity":"actual source establishes independent pair, three sheaves and shelter"},
+    {"id":"VS23","method":"normal-ui-image-conditioned-video","reference":null,"status":"blocked-until-VS22-director-selected-endpoint","stem":"VS23-harvest-partner-conditioned-take01","requestedSeconds":10,"aspectRatio":"16:9","acceptedSeconds":0}
+  ],
+  "gates":["not-before time","normal availability","no duplicate active request","VS23 exact attachment visually verified","original preserved","silent full decode","contact/full-resolution screening","director exact range","separate full-speed audiovisual release approval"],
+  "requiredOutputs":["original mp4","silent-review mp4","contact png","generation-QC md"],
+  "sameMethodIncenseRetry":false
+}

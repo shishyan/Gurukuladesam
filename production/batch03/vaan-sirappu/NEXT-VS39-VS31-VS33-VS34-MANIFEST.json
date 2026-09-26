@@ -1,0 +1,42 @@
+{
+  "prepared_date": "2026-09-22",
+  "not_before": "2026-09-22T22:09:00+05:30",
+  "status": "all_four_generated_downloaded_decode_passed_director_qc_pending",
+  "mode": "Videos",
+  "aspect_ratio": "16:9",
+  "conditioning": "none",
+  "requested_duration_seconds": 10,
+  "earned_seconds": 0,
+  "audio": "Preserve original generated file; strip all generated audio from review/editor input. Original channel song added later.",
+  "policy": "One normal request per shot at or after reset; stop fresh quota or decline. No purchase, bypass, retry of declined ideas, publication, continuity or named-temple authenticity claims.",
+  "shots": [
+    {
+      "id": "VS39",
+      "stem": "VS39-mountain-rain-take01",
+      "prompt_source": "VS36-DECLINE-NEXT-VS38-VS39.md",
+      "prompt": "10s very wide unnamed Western-Ghats-inspired green valley with cultivated rice foreground and dark midground trees. Visible soft outdoor rain streaks and small irregular fieldwater impacts, clouds slowly drift between intact slopes, anchored rice sways independently. Locked camera; no people, buildings, obstruction, flood, landslide, giant splash crowns or mist-only rain substitution.",
+      "qc_gates": ["Read actual rain against dark trees and evolving small water impacts", "Stable slopes and anchored crops with genuine motion", "Weak rain becomes atmospheric reserve, not fulfilled rain coverage", "No authentic named geography claim"]
+    },
+    {
+      "id": "VS31",
+      "stem": "VS31-sheltered-prayer-take01",
+      "prompt_source": "NEXT-VS31-VS33-VS34-RESET-BRIEFS.md",
+      "prompt": "Create one continuous10-second photorealistic cinematic16:9 shot, held eye-level side-wide camera. A well-maintained Tamil stone temple's broad roofed mandapam, intact clean carved columns and sound tiled/stone roof, no damaged masonry. Five adult devotees stand comfortably spaced in a shallow diagonal facing an offscreen sanctum to screen left. Modest everyday saris and veshtis; hands already joined at chest level, no new hand gestures. Two people independently lower their eyes briefly, another gently settles posture; others breathe naturally, never synchronized bows. Keep all five bodies anatomically stable and separate. The right open edge reveals a dark green garden and clearly visible soft rainfall OUTSIDE the roof; eave droplets fall onto wet stone beyond the dry prayer floor, producing small changing splashes. Restrained gray daylight and warm reflected interior light. No camera orbit, crowd arrival, walking, text, fog, incense smoke, flame, deity reveal, ruined temple, extra limbs or new people.",
+      "qc_gates": ["Independent subtle body motion and stable actual group count", "Joined fingers remain separate and plausible", "Intact stable roof and dry prayer floor", "Rain visible against garden, not haze", "Independent conceptual temple, not VS06 continuity"]
+    },
+    {
+      "id": "VS33",
+      "stem": "VS33-lingam-detail-take01",
+      "prompt_source": "NEXT-VS31-VS33-VS34-RESET-BRIEFS.md",
+      "prompt": "Create one continuous10-second photorealistic cinematic16:9 medium-wide interior shrine shot in an unnamed well-maintained Tamil Shaivite temple. A single plain polished dark-stone Shiva lingam: upright smooth cylindrical shaft with rounded top, visibly seated in ONE continuous oval stone yoni pedestal with a clear projecting drainage spout, supported on a stable low plinth. Keep the complete shaft, pedestal and spout visible and geometrically unchanged throughout. Restrained simple flower arrangement rests on the base without obscuring its form. View from an open doorway at slight three-quarter angle, not frontal macro. Soft natural side daylight; a narrow area beyond the doorway shows living rain dripping from an exterior eave onto wet stone, while the shrine and sacred object stay dry. Camera locked, no person, hand, pouring ritual, moving idol, text, flame, incense, smoke, extra shrine object or damaged architecture. Actual motion comes from distant exterior rain and a small hanging doorway fabric edge moving gently, never from the stone object.",
+      "qc_gates": ["Recognizable complete shaft, oval pedestal and projecting spout", "Reject arbitrary dark rock, duplicated or warped base, floating flowers", "No claim of authenticated regional or specific temple accuracy from prompt", "Rain/fabric motion must actually read; static scene does not earn ten seconds", "Shrine dry, no smoke/dhoopam claim", "Independent montage, not VS31 sanctum reveal continuity"]
+    },
+    {
+      "id": "VS34",
+      "stem": "VS34-temple-forecourt-rain-take01",
+      "prompt_source": "NEXT-VS31-VS33-VS34-RESET-BRIEFS.md",
+      "prompt": "Create one continuous10-second photorealistic cinematic16:9 low-angle wide shot from the dry outer veranda of a maintained Tamil temple toward its rain-wet stone forecourt. Foreground right: visible intact roof eave sheds irregular separated drops onto a shallow puddle two metres outside shelter; show small physically scaled changing splash rings and thin surface runoff following stone joints gently away from the camera. Background left under the same broad roof, four adults sit comfortably on a fixed stone bench, separate bodies and hands resting; one adjusts an already-draped shawl at the shoulder once, another looks toward the rain, others make small independent natural posture changes. Keep adults dry and stable, rain confined outdoors, muted green garden beyond, no ceremonial gestures. Held camera, sound intact columns, natural gray daylight. No temple ruin, shrine/deity, flame, incense, fog, giant splash crowns, walking, synchronized motion, new people, text or camera shake.",
+      "qc_gates": ["Readable roof-to-drop-to-wet-ground path and plausible splash scale", "No rain through roof or people", "Stable bench, bodies and hands; group not frozen silhouettes", "No exact cast or geography match to VS31/33"]
+    }
+  ]
+}

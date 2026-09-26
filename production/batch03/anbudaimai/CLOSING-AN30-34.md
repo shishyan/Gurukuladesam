@@ -1,0 +1,25 @@
+# Closing return: five connected shots
+
+Parent approved exactly five connected candidate shots targeting42.78 unique seconds after v15=172s. Target is not proof of coverage. Request10-second actual sources with useful handles; select clean unique motion, then rebalance actual ranges to214.78 without loops, freeze extension or speed-padding. If five clips do not contain enough clean unique coverage, report deficit rather than falsely claim completion. Original audio cadence not heard/certified.
+
+## Inspected master
+
+AN30-closing-family-master-v1.png created with built-in imagegen from inspected AN09 master and AN10 mediumv3, saved non-destructively. Same ochre/maroon elder left, jasmine/teal host center, cream-shirt brown-trouser visitor right. All already seated after honest elapsed time; added host chair and side-table reposition are deliberate staging, not continuous match action. Single folded towel stays on existing small square table between host/visitor. Faces/wardrobes/roof/pillars/courtyard broadly preserved, plausible supported seats/feet, separated hands. No smoke or extra people.
+
+## Five-shot action chain
+
+AN30 / target8.5s: re-establish known family, host already seated. Host gently adjusts seated shoulder/posture and rests forearms naturally on her own chair/lap; elder shifts her own hands on lap; visitor eases one shoulder. Small asynchronous living motion, no sit/stand/walk or synchronized nods. Fixed towel/table. Rain exterior, dry shelter. Actual endpoint becomesAN31.
+
+AN31 / target8.5s: host turns to towel and smooths its top fold with one palm, entirely supported. Visitor places nearer hand on his own side of table edge only after her hand retreats, separated hands/no handoff; elder watches. No unfolding/lift/second cloth. Use actualAN30 geography.
+
+AN32 / target8.5s: visitor modestly slides same supported folded towel a few centimetres toward far/back tabletop edge to clear front working area for host, then returns hand to own lap. Host relaxes hand onto newly clear edge; elder stays naturally engaged without reaching across. No new stable object invented; towel is the one object set aside. If actual previous towel state prevents safe movement, shorten/simplify based on endpoint.
+
+AN33 / target8.5s: host notices exterior rain-fed garden and turns gradually toward it; elder follows at different time, visitor follows last. Independent breaths/hands/posture, no synchronized gaze snap, no smiles to camera. Props fixed. No collective camera pullback.
+
+AN34 / target8.78s: same wide sheltered composition already established, no new staging or widening that invents architecture. Their outdoor attention gently settles; individual small breath/cloth/posture motion and genuine rain/foliage continue through ending. Clean region may support minimal editor end-card overlay only in final2–3s on MOVING footage, not generated text/frozen hold. No unapproved wording invented; editor uses established title treatment or no overlay. Short end fade only if timing budget accounts for it.
+
+Actual endpoints condition every subsequent shot. Do not blindly force nominal allocations. Fullspeed facial/hand/weather and audio-emotional pacing review remains required before publication.
+
+## Exact master prompt
+
+Use case: identity-preserve. Asset type: ONE 16:9 photorealistic film continuity master, closing return to SAME hospitality family after an honest elapsed-time cut. Image1 establishes exact veranda architecture, rainy courtyard, props and three identities. Image2 provides closer facial/wardrobe identity. Preserve exactly those three adult identities: grey-haired ochre-sari elder with maroon blouse, jasmine-haired teal-sari middle-aged host, salt-and-pepper moustached cream-shirt dark-brown-trouser male visitor. They are NOW ALL ALREADY SEATED in a loose shallow semicircle, elder left on her cane-backed wooden armchair, host center on a modest matching plain wooden chair, visitor right on his slatted wooden armchair. Host's additional chair is a deliberate elapsed-time restaging, NOT another person. The SAME small square wooden side table with SAME single folded off-white towel has been moved between host and visitor, within comfortable reach of both; elder's hands rest separately on her own lap and do not reach across anyone. All furniture fully supported on same dry level stone floor. Keep cream plaster house on left, timber pillars/terracotta roof overhead, green rainy courtyard on right, wet/dry boundary, soft overcast light and muted colours. Eye-level medium-wide35mm composition showing chairs/feet and natural anatomically coherent separated hands. Host relaxed just settling shoulders, no sitting-transition pose; other two calmly attend to her, NOT all facing camera or smiling advertisement. No additional people, cups, trays, new decorations, smoke, temples, text, montage. Single folded towel completely supported on tabletop, enough clear table edge for a short later towel slide. Rain only outside roof; clothes/table/chairs dry. Natural skin/fabric texture; preserve identities more than glamour.

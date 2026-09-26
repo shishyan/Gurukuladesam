@@ -1,0 +1,47 @@
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/maasil-veenaiyum/01-veena.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/maasil-veenaiyum/02-moon-tank.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/maasil-veenaiyum/03-konrai.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/maasil-veenaiyum/04-sanctum.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/maasil-veenaiyum/01-veena.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/maasil-veenaiyum/02-moon-tank.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/maasil-veenaiyum/03-konrai.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/maasil-veenaiyum/04-sanctum.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/maasil-veenaiyum/01-veena.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/maasil-veenaiyum/02-moon-tank.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/maasil-veenaiyum/03-konrai.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/maasil-veenaiyum/04-sanctum.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/maasil-veenaiyum/01-veena.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/maasil-veenaiyum/02-moon-tank.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/maasil-veenaiyum/03-konrai.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/maasil-veenaiyum/04-sanctum.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/maasil-veenaiyum/01-veena.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/maasil-veenaiyum/02-moon-tank.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/maasil-veenaiyum/03-konrai.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/maasil-veenaiyum/04-sanctum.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/maasil-veenaiyum/01-veena.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/maasil-veenaiyum/02-moon-tank.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/maasil-veenaiyum/03-konrai.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/maasil-veenaiyum/03-konrai.png'

@@ -1,0 +1,545 @@
+{
+  "schema_version": "1.0",
+  "project": "Thiruppavai 1: Margazhi Thingal",
+  "qc_standard": "production/THIRUPPAVAI-TRUE-VIDEO-QC.md",
+  "manifest_status": "working",
+  "audit_date": "2026-09-12",
+  "audit_scope": "Local true-video candidates S01, S02 and S04",
+  "audit_limitations": [
+    "No review frames or media were generated, per instruction.",
+    "Direct local-file playback through the available browser surface was blocked by browser URL policy.",
+    "S01 visual observations below are prior documented observations from production/THIRUPPAVAI-TRUE-VIDEO-DIRECTORS-PLAN.md and are not an independent frame-by-frame recheck in this audit.",
+    "S02 has no located visual QC record; all visual fields remain explicitly uncertain.",
+    "Neither clip is approved by this manifest until the outstanding real-time and frame-step visual checks are completed."
+  ],
+  "hard_exclusions": {
+    "rule": "Old ImageGen motion proofs, still-derived motion, rejected assets, and deleted or superseded releases are never eligible for assembly.",
+    "path_patterns": [
+      "renders/tests/*imagegen*motion-proof*.mp4",
+      "renders/tests/*motion-proof*.mp4"
+    ],
+    "prohibited_methods": [
+      "production/render_motion_test.py",
+      "still-image pan/zoom/parallax",
+      "Ken Burns animation",
+      "frame interpolation used to disguise a still"
+    ],
+    "excluded_asset_paths_or_hashes": []
+  },
+  "clips": [
+    {
+      "clip_id": "S01-take01",
+      "story_beat": "Procession with gopuram reveal; precise final timeline assignment uncertain",
+      "intended_timeline": {
+        "start": null,
+        "end": null,
+        "certainty": "uncertain"
+      },
+      "prompt": null,
+      "prompt_status": "uncertain: exact generation prompt not found locally",
+      "generator": {
+        "service": "Google generator (inferred from MP4 encoder metadata)",
+        "model_or_version": null,
+        "job_id": null,
+        "project_url": null,
+        "generated_at": null,
+        "certainty": "service inferred; all other provenance unknown"
+      },
+      "download": {
+        "native_path": "production/approved/thiruppavai-true-video/S01-procession-gopuram-reveal.mp4",
+        "sha256": "F63720445ABE2BE2F9301F0B11BD57D05EE21F24428D45DA57FBD89C0204F6B9",
+        "original_filename": "S01-procession-gopuram-reveal.mp4",
+        "native_download_status": "uncertain: file is in approved directory but untouched-download provenance is not documented"
+      },
+      "duration_seconds": 10.01,
+      "technical": {
+        "width": 1280,
+        "height": 720,
+        "aspect_ratio": "16:9",
+        "fps": 24.0,
+        "codec": "H.264 High, yuv420p progressive",
+        "bitrate_kbps": 5914,
+        "audio_present": true,
+        "audio": "AAC-LC 48 kHz stereo 128 kb/s; discard for final music edit",
+        "decoded_frames": 240,
+        "decode_ok": true,
+        "black_or_corrupt_frames": "uncertain: decode succeeded, but no visual black-frame pass performed",
+        "pass": "conditional",
+        "notes": "Meets minimum dimensions and target frame rate; full video stream decoded without reported errors."
+      },
+      "headcount": {
+        "required_total": 9,
+        "visible": null,
+        "intentionally_occluded": null,
+        "count_stable": null,
+        "identity_and_costume_stable": null,
+        "pass": null,
+        "notes": "Uncertain; prior director-plan audit warns that count, face, costume and spacing drift must be checked."
+      },
+      "camera_motion": {
+        "prompted_type": "unknown",
+        "observed_type": "stable lateral procession ending in gopuram reveal (prior documented observation)",
+        "stable": true,
+        "physically_motivated": true,
+        "jitter_or_pulse": null,
+        "ken_burns_or_fake_depth": null,
+        "pass": null,
+        "notes": "Prior production plan calls this the movement benchmark; independent playback verification remains outstanding."
+      },
+      "human_object_motion": {
+        "true_temporal_motion_present": true,
+        "human_motion_natural": true,
+        "object_and_material_motion_natural": null,
+        "frozen_scene_masked_by_camera": null,
+        "morph_duplicate_vanish_or_teleport": null,
+        "pass": null,
+        "notes": "Natural walking cadence and continuous group action are documented; material motion and temporal defects remain uncertain."
+      },
+      "rain_physicality": {
+        "required": true,
+        "present": true,
+        "world_space_direction_coherent": null,
+        "depth_and_occlusion_coherent": true,
+        "surface_impacts_and_reflections_plausible": true,
+        "indoors_violation": false,
+        "screen_space_overlay_appearance": null,
+        "pass": null,
+        "notes": "Prior plan documents rain in actor depth and coherent wet-stone reflections; direction, impacts and overlay appearance need direct recheck."
+      },
+      "dhoopam_physicality": {
+        "required": "uncertain",
+        "present": null,
+        "bottom_center_and_correct_scale": null,
+        "holder_anchored_and_stable": null,
+        "smoke_origin_and_flow_natural": null,
+        "depth_occlusion_coherent": null,
+        "design_continuity": null,
+        "pass": null,
+        "notes": "No supported local observation."
+      },
+      "anatomy": {
+        "faces_and_eyes": "uncertain",
+        "hands_and_fingers": "uncertain",
+        "feet_and_gait": "uncertain",
+        "limbs_and_body_intersections": "uncertain",
+        "jewellery_cloth_and_object_contact": "uncertain",
+        "pass": null,
+        "issues": []
+      },
+      "watermark": {
+        "present": null,
+        "unintended_text_or_logo_present": null,
+        "pass": null,
+        "details": "Uncertain; requires full-frame playback review."
+      },
+      "transition_handles": {
+        "head_seconds": null,
+        "tail_seconds": null,
+        "clean_head": null,
+        "clean_tail": null,
+        "stable_motion_and_exposure": null,
+        "no_generator_fade_or_freeze": null,
+        "pass": null,
+        "notes": "Uncertain; handle timing requires direct playback/frame-step review."
+      },
+      "review": {
+        "decision": "rejected",
+        "approval_reason": "",
+        "rejection_codes": ["MODERN_OBJECT"],
+        "rejection_reason": "One-second contact sheet shows overhead wires and electric street lighting across the period procession. Retain as user-approved motion reference, not final footage.",
+        "reviewer": "Codex contact-sheet review",
+        "reviewed_at": "2026-09-12T23:48:00+05:30"
+      }
+    },
+    {
+      "clip_id": "S02-take01",
+      "story_beat": "Low kolam-foot tracking passage; precise final timeline assignment uncertain",
+      "intended_timeline": {
+        "start": null,
+        "end": null,
+        "certainty": "uncertain"
+      },
+      "prompt": null,
+      "prompt_status": "uncertain: exact generation prompt not found locally",
+      "generator": {
+        "service": "Google generator (inferred from MP4 encoder metadata)",
+        "model_or_version": null,
+        "job_id": null,
+        "project_url": null,
+        "generated_at": null,
+        "certainty": "service inferred; all other provenance unknown"
+      },
+      "download": {
+        "native_path": "production/approved/thiruppavai-true-video/S02-kolam-feet-tracking.mp4",
+        "sha256": "0261108EEDE68931BF104868DBC3C1C24D866E6448EF86761D72F825EF8087D9",
+        "original_filename": "S02-kolam-feet-tracking.mp4",
+        "native_download_status": "uncertain: file is in approved directory but untouched-download provenance is not documented"
+      },
+      "duration_seconds": 10.01,
+      "technical": {
+        "width": 1280,
+        "height": 720,
+        "aspect_ratio": "16:9",
+        "fps": 24.0,
+        "codec": "H.264 High, yuv420p progressive",
+        "bitrate_kbps": 6312,
+        "audio_present": true,
+        "audio": "AAC-LC 48 kHz stereo 128 kb/s; discard for final music edit",
+        "decoded_frames": 240,
+        "decode_ok": true,
+        "black_or_corrupt_frames": "uncertain: decode succeeded, but no visual black-frame pass performed",
+        "pass": "conditional",
+        "notes": "Meets minimum dimensions and target frame rate; full video stream decoded without reported errors."
+      },
+      "headcount": {
+        "required_total": "uncertain: detail shot may require fewer visible people",
+        "visible": null,
+        "intentionally_occluded": null,
+        "count_stable": null,
+        "identity_and_costume_stable": null,
+        "pass": null,
+        "notes": "Filename indicates a feet detail; exact prompt/timeline must establish required pairs before counting."
+      },
+      "camera_motion": {
+        "prompted_type": "likely low lateral tracking; exact prompt unknown",
+        "observed_type": null,
+        "stable": null,
+        "physically_motivated": null,
+        "jitter_or_pulse": null,
+        "ken_burns_or_fake_depth": null,
+        "pass": null,
+        "notes": "Uncertain; no independent visual observation available."
+      },
+      "human_object_motion": {
+        "true_temporal_motion_present": null,
+        "human_motion_natural": null,
+        "object_and_material_motion_natural": null,
+        "frozen_scene_masked_by_camera": null,
+        "morph_duplicate_vanish_or_teleport": null,
+        "pass": null,
+        "notes": "Uncertain; feet, gait, wet hems and kolam interaction require real-time and frame-step review."
+      },
+      "rain_physicality": {
+        "required": "uncertain until prompt/timeline is recovered",
+        "present": null,
+        "world_space_direction_coherent": null,
+        "depth_and_occlusion_coherent": null,
+        "surface_impacts_and_reflections_plausible": null,
+        "indoors_violation": null,
+        "screen_space_overlay_appearance": null,
+        "pass": null,
+        "notes": "No supported local observation."
+      },
+      "dhoopam_physicality": {
+        "required": "uncertain",
+        "present": null,
+        "bottom_center_and_correct_scale": null,
+        "holder_anchored_and_stable": null,
+        "smoke_origin_and_flow_natural": null,
+        "depth_occlusion_coherent": null,
+        "design_continuity": null,
+        "pass": null,
+        "notes": "No supported local observation."
+      },
+      "anatomy": {
+        "faces_and_eyes": "not_visible_or_uncertain",
+        "hands_and_fingers": "not_visible_or_uncertain",
+        "feet_and_gait": "uncertain",
+        "limbs_and_body_intersections": "uncertain",
+        "jewellery_cloth_and_object_contact": "uncertain",
+        "pass": null,
+        "issues": []
+      },
+      "watermark": {
+        "present": null,
+        "unintended_text_or_logo_present": null,
+        "pass": null,
+        "details": "Uncertain; requires full-frame playback review."
+      },
+      "transition_handles": {
+        "head_seconds": null,
+        "tail_seconds": null,
+        "clean_head": null,
+        "clean_tail": null,
+        "stable_motion_and_exposure": null,
+        "no_generator_fade_or_freeze": null,
+        "pass": null,
+        "notes": "Uncertain; handle timing requires direct playback/frame-step review."
+      },
+      "review": {
+        "decision": "rejected",
+        "approval_reason": "",
+        "rejection_codes": ["SMOKE_SOURCE_DISCONNECT"],
+        "rejection_reason": "Dhoopam smoke becomes an oversized free-floating foreground ribbon after the burner leaves the frame; the source relationship is not readable.",
+        "reviewer": "Codex contact-sheet review",
+        "reviewed_at": "2026-09-12T23:48:00+05:30"
+      }
+    },
+    {
+      "clip_id": "S04-take01",
+      "story_beat": "Andal wakes and listens toward the doorway in a dry predawn interior",
+      "intended_timeline": {
+        "start": "00:26",
+        "end": "00:34",
+        "certainty": "planned"
+      },
+      "prompt_status": "recorded in Gemini conversation bc9b924c21c9a341",
+      "generator": {
+        "service": "Google Gemini Videos",
+        "project_url": "https://gemini.google.com/app/bc9b924c21c9a341?hl=en-IN",
+        "generated_at": "2026-09-12T12:04:00+05:30"
+      },
+      "download": {
+        "native_path": "production/approved/thiruppavai-true-video/S04-andal-hears-temple-bell-candidate.mp4",
+        "sha256": "D110250F9E25BD3A171A9C239A2972E6D604CC434FB0A2EB94A2CE18A4852AD6",
+        "original_filename": "Create_a_single_continuous_.mp4"
+      },
+      "duration_seconds": 10.0,
+      "visual_qc": {
+        "true_temporal_motion": true,
+        "interior_dry": true,
+        "single_woman_only": true,
+        "sit_up_action_completed": true,
+        "camera_move_appears_stable": true,
+        "costume": "maroon sari with green border; stable in sampled frames",
+        "outstanding_checks": [
+          "Confirm white-and-red Vaishnava namam visibility across unoccluded frames",
+          "Frame-step hands, face and body transition",
+          "Confirm curtain and lamp airflow continuity",
+          "Confirm clean head and tail handles"
+        ]
+      },
+      "review": {
+        "decision": "rejected",
+        "approval_reason": "",
+        "rejection_codes": ["CHARACTER_CONTINUITY"],
+        "rejection_reason": "Contact sheet shows no white-and-red Vaishnava namam throughout the unoccluded waking action; later Andal shots have the prominent locked mark.",
+        "reviewer": "Codex contact-sheet review",
+        "reviewed_at": "2026-09-12T23:48:00+05:30"
+      }
+    },
+    {
+      "clip_id": "S05-take01",
+      "story_beat": "Andal completes jasmine preparation and lifts the tulasi-jasmine garland",
+      "intended_timeline": { "start": "00:34", "end": "00:43", "certainty": "planned" },
+      "prompt_status": "recorded in Gemini conversation 80506610f9ebfb31",
+      "generator": {
+        "service": "Google Gemini Videos",
+        "project_url": "https://gemini.google.com/app/80506610f9ebfb31?hl=en-IN",
+        "generated_at": "2026-09-12T12:58:00+05:30"
+      },
+      "download": {
+        "native_path": "production/approved/thiruppavai-true-video/S05-jasmine-namam-garland-candidate.mp4",
+        "sha256": "7F147A565A79784054D7BA45B4260B4747D34E1AB9A08F06F828E2314D326B00",
+        "original_filename": "Create_a_single_continuous_ (1).mp4"
+      },
+      "duration_seconds": 10.0,
+      "visual_qc": {
+        "true_temporal_motion": true,
+        "interior_dry": true,
+        "namam_visible_and_stable_in_samples": true,
+        "garland_lift_completed": true,
+        "hands_and_flowers_plausible_in_samples": true,
+        "outstanding_checks": [
+          "Frame-step both hands and flower topology through the full lift",
+          "Verify braid-jasmine continuity during the mid-shot transition",
+          "Confirm clean head and tail handles"
+        ]
+      },
+      "review": {
+        "decision": "conditional",
+        "approval_reason": "Forty-frame contact sheet shows stable jasmine adjustment, hand motion, face, namam and garland lift; matching identity to replacement neighboring shots and clean handles remain",
+        "rejection_codes": [],
+        "reviewer": "Codex dense contact-sheet review",
+        "reviewed_at": "2026-09-12T23:51:00+05:30"
+      }
+    },
+    {
+      "clip_id": "S06-take01",
+      "story_beat": "Andal walks from dry room to sheltered veranda with physical dhoopam and exterior rain",
+      "intended_timeline": { "start": "00:43", "end": "00:52", "certainty": "planned" },
+      "prompt_status": "recorded in Gemini conversation 2acccec21e274581",
+      "generator": {
+        "service": "Google Gemini Videos",
+        "project_url": "https://gemini.google.com/app/2acccec21e274581?hl=en-IN",
+        "generated_at": "2026-09-12T13:58:00+05:30"
+      },
+      "download": {
+        "native_path": "production/approved/thiruppavai-true-video/S06-dry-room-veranda-dhoopam-candidate.mp4",
+        "sha256": "5AB4A903A4CCB5F26E4ED795B389E2E562784BCC654FAE38383871A9732E96F2",
+        "original_filename": "Create_a_single_continuous_ (2).mp4"
+      },
+      "duration_seconds": 10.0,
+      "visual_qc": {
+        "true_temporal_motion": true,
+        "dhoopam_burner_anchored_to_ledge": true,
+        "smoke_origin_visible": true,
+        "exterior_wetness_and_rain_present": true,
+        "interior_and_veranda_dry": true,
+        "prop_hands_correct_in_samples": true,
+        "outstanding_checks": [
+          "Resolve Andal facial continuity against S04 and S05",
+          "Frame-step smoke density and occlusion near Andal",
+          "Confirm rain depth and roof runoff through full shot",
+          "Confirm clean handles and gait"
+        ]
+      },
+      "review": {
+        "decision": "rejected",
+        "approval_reason": "",
+        "rejection_codes": ["MODERN_OBJECT"],
+        "rejection_reason": "Contact sheet reveals a yellow electrical fixture beside the doorway and modern concrete/utility details outside, breaking the period-neutral set.",
+        "reviewer": "Codex contact-sheet review",
+        "reviewed_at": "2026-09-12T23:48:00+05:30"
+      }
+    },
+    {
+      "clip_id": "S07-take01",
+      "story_beat": "Andal crosses the rainy lane and knocks at the first companion's door",
+      "intended_timeline": { "start": "00:52", "end": "01:00", "certainty": "planned" },
+      "prompt_status": "recorded in Gemini conversation 6142867438054052",
+      "generator": {
+        "service": "Google Gemini Videos",
+        "project_url": "https://gemini.google.com/app/6142867438054052?hl=en-IN",
+        "generated_at": "2026-09-12T14:59:00+05:30"
+      },
+      "download": { "native_download_status": "not downloaded: rejected during browser QC" },
+      "duration_seconds": 10.0,
+      "visual_qc": {
+        "true_temporal_motion": true,
+        "rain_and_wet_street_present": true,
+        "knock_completed": true,
+        "failures": [
+          "Tulasi-jasmine garland disappears during the crossing",
+          "Modern motorcycle is visible in the lane",
+          "An extra woman appears under the source-side eave in the ending frame"
+        ]
+      },
+      "review": {
+        "decision": "rejected",
+        "approval_reason": "",
+        "rejection_codes": ["PROP_DISAPPEARANCE", "MODERN_OBJECT", "EXTRA_PERSON"],
+        "rejection_reason": "Continuity and period-world violations despite successful rain crossing and completed knock",
+        "reviewer": "Codex live browser review",
+        "reviewed_at": "2026-09-12T15:00:00+05:30"
+      }
+    },
+    {
+      "clip_id": "S08-take01",
+      "story_beat": "First companion joins Andal beneath the dry eave",
+      "generator": { "service": "Google Gemini Videos", "project_url": "https://gemini.google.com/app/6b6b87757183f418?hl=en-IN" },
+      "download": { "native_download_status": "not downloaded: rejected during browser QC" },
+      "duration_seconds": 10.0,
+      "visual_qc": { "true_temporal_motion": true, "exactly_two_women": true, "door_and_turn_complete": true, "failure": "Hallucinated '24 fps Srivilliputhur' text remains visible in the frame" },
+      "review": { "decision": "rejected", "rejection_codes": ["UNINTENDED_TEXT"], "rejection_reason": "Persistent generated text breaks the clean cinematic frame", "reviewer": "Codex live browser review", "reviewed_at": "2026-09-12T16:00:00+05:30" }
+    },
+    {
+      "clip_id": "INSERT-temple-bell-rain-dhoopam-take01",
+      "story_beat": "Temple bell, physical dhoopam and rainy courtyard reveal",
+      "generator": { "service": "Google Gemini Videos", "project_url": "https://gemini.google.com/app/62691781c7c1bfeb?hl=en-IN" },
+      "download": { "native_path": "production/approved/thiruppavai-true-video/INSERT-temple-bell-rain-dhoopam-candidate.mp4", "sha256": "D4101EF8A52442F1841E0C98393C27A45AA7AF70CF03FF2CE74E1A3EE77300F4", "original_filename": "Create_a_single_continuous_ (3).mp4" },
+      "duration_seconds": 10.0,
+      "visual_qc": { "true_temporal_motion": true, "people_free": true, "bell_and_dhoopam_present_at_head": true, "rain_and_wet_reflections_present": true, "gopuram_reveal_complete": true, "outstanding_checks": ["Frame-step bell inertia", "Check smoke density and topology", "Confirm all visible lamps are period-appropriate", "Confirm clean handles"] },
+      "review": { "decision": "rejected", "approval_reason": "", "rejection_codes": ["MODERN_OBJECT"], "rejection_reason": "Contact sheet shows electric lamps across the courtyard and tower rather than period oil lighting.", "reviewer": "Codex contact-sheet review", "reviewed_at": "2026-09-12T23:48:00+05:30" }
+    },
+    {
+      "clip_id": "S09-take01",
+      "story_beat": "Two pairs of rain-wet feet become four pairs at a threshold",
+      "generator": { "service": "Google Gemini Videos", "project_url": "https://gemini.google.com/app/05eae9afef77d694?hl=en-IN" },
+      "download": { "native_path": "production/approved/thiruppavai-true-video/S09-four-pairs-feet-rain-candidate.mp4", "sha256": "8044D33507562DBFECFE9F11F73CE13F0336D917D78EE7EB933EEBE376EFD215", "original_filename": "Create_a_single_continuous_ (4).mp4" },
+      "duration_seconds": 10.0,
+      "visual_qc": { "true_temporal_motion": true, "four_pairs_visible": true, "gait_and_wet_cloth_plausible_in_samples": true, "rain_wetness_present": true, "outstanding_checks": ["Frame-step all eight feet", "Verify the two-to-four join occurs without pop-in", "Confirm kolam avoidance through full shot", "Confirm clean handles"] },
+      "review": { "decision": "rejected", "approval_reason": "", "rejection_codes": ["KOLAM_CONTACT"], "rejection_reason": "Contact sheet shows the women stepping directly across the white kolam in the opening seconds despite the planned avoidance.", "reviewer": "Codex contact-sheet review", "reviewed_at": "2026-09-12T23:48:00+05:30" }
+    },
+    {
+      "clip_id": "INSERT-wayside-bell-take01",
+      "story_beat": "Bell tilt to rain, lamp and dhoopam detail",
+      "generator": { "service": "Google Gemini Videos", "project_url": "https://gemini.google.com/app/a27785a04636212d?hl=en-IN" },
+      "download": { "native_download_status": "not downloaded: rejected during browser QC" },
+      "duration_seconds": 10.0,
+      "visual_qc": { "true_temporal_motion": true, "bell_and_rain_present": true, "failure": "Ending places the lamp and dhoopam on visibly rain-wet exposed stone rather than under a dry eave" },
+      "review": { "decision": "rejected", "rejection_codes": ["SHELTER_BOUNDARY_VIOLATION"], "rejection_reason": "Rain/shelter physical continuity is broken", "reviewer": "Codex live browser review", "reviewed_at": "2026-09-12T18:11:00+05:30" }
+    },
+    {
+      "clip_id": "S03-take04",
+      "story_beat": "Fixed-camera rain and kolam rack focus toward sheltered lamp",
+      "generator": { "service": "Google Gemini Videos", "project_url": "https://gemini.google.com/app/e55519c1b3bcb7f5?hl=en-IN" },
+      "download": { "native_download_status": "not downloaded: rejected during browser QC" },
+      "duration_seconds": 10.0,
+      "visual_qc": { "true_temporal_motion": true, "rain_and_kolam_present_at_head": true, "failure": "Camera pushes in substantially, and kolam leaves the frame by the end despite the fixed-camera instruction" },
+      "review": { "decision": "rejected", "rejection_codes": ["CAMERA_MOTION_VIOLATION", "SUBJECT_OUT_OF_FRAME"], "rejection_reason": "Does not satisfy the designed locked-off focus-pull composition", "reviewer": "Codex live browser review", "reviewed_at": "2026-09-12T21:47:00+05:30" }
+    },
+    {
+      "clip_id": "S08-take02",
+      "story_beat": "Andal's first companion opens her door and joins beneath the eave",
+      "generator": { "service": "Google Gemini Videos", "project_url": "https://gemini.google.com/app/c0f1a2cdb81ce2a8?hl=en-IN" },
+      "download": { "native_path": "production/approved/thiruppavai-true-video/S08-andal-companion-doorway-candidate.mp4", "sha256": "74785A3AF279B2B28C8320974C894BC759EFD45D4FF7CCAF1C4DC68EA01DFE60", "original_filename": "Photorealistic_landscape_live_.mp4" },
+      "duration_seconds": 10.0,
+      "visual_qc": { "true_temporal_motion": true, "exactly_two_women_in_samples": true, "rain_outdoors_only_in_samples": true, "door_and_turn_complete_in_samples": true, "failure": "One flower tray remains on the ground while the companion carries a second, and overhead modern wires and electric light are visible" },
+      "review": { "decision": "rejected", "approval_reason": "", "rejection_codes": ["PROP_DUPLICATION", "MODERN_OBJECT"], "rejection_reason": "Full-file one-second contact sheet exposed errors missed in browser sampling", "reviewer": "Codex frame-contact-sheet review", "reviewed_at": "2026-09-12T22:49:00+05:30" }
+    },
+    {
+      "clip_id": "S21-take01",
+      "story_beat": "Source-connected dhoopam smoke under dry tank shrine with rain beyond",
+      "generator": { "service": "Google Gemini Videos", "project_url": "https://gemini.google.com/app/563baf1681fb55a5?hl=en-IN" },
+      "download": { "native_download_status": "not downloaded: rejected during browser QC" },
+      "duration_seconds": 10.0,
+      "visual_qc": { "true_temporal_motion": true, "burner_and_lamp_under_roof": true, "tank_ripples_present": true, "failure": "Smoke expands into several disembodied plumes over the tank by the ending frame" },
+      "review": { "decision": "rejected", "rejection_codes": ["SMOKE_SOURCE_DISCONNECT"], "rejection_reason": "The dominant smoke cannot be traced back to the brass burner", "reviewer": "Codex live browser review", "reviewed_at": "2026-09-12T22:45:00+05:30" }
+    },
+    {
+      "clip_id": "S14-take01",
+      "story_beat": "Procession passes a sheltered cow and calf in predawn drizzle",
+      "generator": { "service": "Google Gemini Videos", "project_url": "https://gemini.google.com/app/d6a4cfad42b1890a?hl=en-IN" },
+      "download": { "native_download_status": "not downloaded: rejected during browser QC" },
+      "duration_seconds": 10.0,
+      "visual_qc": { "true_temporal_motion": true, "cow_and_calf_present": true, "rain_and_wet_street_present": true, "failure": "Only four women are visible instead of five, and modern utility poles and overhead wires appear" },
+      "review": { "decision": "rejected", "rejection_codes": ["GROUP_COUNT_DRIFT", "MODERN_OBJECT"], "rejection_reason": "Continuity and period-world violations", "reviewer": "Codex live browser review", "reviewed_at": "2026-09-12T22:45:00+05:30" }
+    },
+    {
+      "clip_id": "S19-take01",
+      "story_beat": "Rainy temple tank establishing reveal at lavender dawn",
+      "generator": { "service": "Google Gemini Videos", "project_url": "https://gemini.google.com/app/b1cd3910ae318203?hl=en-IN" },
+      "download": { "native_download_status": "not downloaded: rejected during browser QC" },
+      "duration_seconds": 10.0,
+      "visual_qc": { "true_temporal_motion": true, "tank_ripples_and_wet_steps_present": true, "failure": "Modern utility poles and overhead wires visible across the far tank edge" },
+      "review": { "decision": "rejected", "rejection_codes": ["MODERN_OBJECT"], "rejection_reason": "Period-world contamination in the establishing geography", "reviewer": "Codex live browser review", "reviewed_at": "2026-09-13T00:47:00+05:30" }
+    },
+    {
+      "clip_id": "S25-take01",
+      "story_beat": "Single lotus floats on temple tank under fine drizzle",
+      "generator": { "service": "Google Gemini Videos", "project_url": "https://gemini.google.com/app/bb98a603b08f627f?hl=en-IN" },
+      "download": { "native_download_status": "not downloaded: rejected during browser QC" },
+      "duration_seconds": 10.0,
+      "visual_qc": { "true_temporal_motion": true, "lotus_and_water_ripples_present": true, "failure": "A black camera tripod stands in the tank behind the lotus through the shot" },
+      "review": { "decision": "rejected", "rejection_codes": ["FILMING_EQUIPMENT_IN_FRAME"], "rejection_reason": "Visible production equipment breaks the scene", "reviewer": "Codex live browser review", "reviewed_at": "2026-09-13T00:47:00+05:30" }
+    },
+    {
+      "clip_id": "S03-flow-lite-take01",
+      "story_beat": "Rain-wet kolam rack-focuses to a sheltered brass oil lamp",
+      "generator": { "service": "Google Flow Veo 3.1 Lite", "project_url": "https://flow.google.com/project/cf01b563-51f1-423b-8afc-3676dcd65d30/edit/5ec8f904-b144-40aa-98bf-c8ea86ae6c10", "credits_spent": 10 },
+      "download": { "native_download_status": "downloaded for QC, not accepted into final footage", "downloaded_file": "C:/Users/Shishyan/Downloads/Brass_oil_lamp_on_stone_20260913015303.mp4", "sha256": "EEDE8D51FAE92C5675D7B28DD4D432B526E8F8028425540D5CC6ECBB249FF827" },
+      "duration_seconds": 8.0,
+      "visual_qc": { "true_temporal_motion": true, "rain_and_lamp_present": true, "failure": "Thirty-two-frame contact sheet shows the kolam stays blurred with no requested focus pull, and the lamp shelf is visibly rain-wet rather than dry and sheltered" },
+      "review": { "decision": "rejected", "rejection_codes": ["FOCUS_PULL_MISSING", "SHELTER_BOUNDARY_VIOLATION"], "rejection_reason": "Misses both the visual job and physical rain boundary of S03", "reviewer": "Codex dense contact-sheet review", "reviewed_at": "2026-09-13T01:54:00+05:30" }
+    },
+    {
+      "clip_id": "S19-take02",
+      "story_beat": "Temple tank seen from beneath a granite arcade in drizzle",
+      "generator": { "service": "Google Gemini Videos", "project_url": "https://gemini.google.com/app/28b1bcbda1575b4f?hl=en-IN" },
+      "download": { "native_download_status": "not downloaded: rejected during browser QC" },
+      "duration_seconds": 10.0,
+      "visual_qc": { "true_temporal_motion": true, "rain_ripples_present": true, "failure": "Modern buildings visible above the far tank wall and the supposedly dry sheltered foreground floor is wet" },
+      "review": { "decision": "rejected", "rejection_codes": ["MODERN_OBJECT", "SHELTER_BOUNDARY_VIOLATION"], "rejection_reason": "Framing and rain geography violate the planned tank shot", "reviewer": "Codex live browser review", "reviewed_at": "2026-09-13T07:27:00+05:30" }
+    },
+    {
+      "clip_id": "S21-take02",
+      "story_beat": "Source-connected dhoopam on a dry shrine altar with rain beyond the doorway",
+      "generator": { "service": "Google Gemini Videos", "project_url": "https://gemini.google.com/app/627b87389b9c69ce?hl=en-IN" },
+      "download": { "native_path": "production/approved/thiruppavai-true-video/S21-deep-shrine-dhoopam-candidate.mp4", "sha256": "76C8F3D5AD2B626DEC7256F58225A3D88A68F0000E7832BEB14FE0319481E914", "original_filename": "Photorealistic_continuous_land.mp4" },
+      "duration_seconds": 10.0,
+      "visual_qc": { "true_temporal_motion": true, "source_connected_smoke_in_40_sampled_frames": true, "interior_altar_dry": true, "rain_beyond_doorway": true, "outstanding_checks": ["Full-speed playback for smoke motion artifacts", "Confirm clean head and tail edit handles", "Check final scene geography and grade against adjacent shots"] },
+      "review": { "decision": "conditional", "approval_reason": "Forty-frame contact sheet shows a stable dry altar, source-connected burner plume and rain confined outside", "rejection_codes": [], "reviewer": "Codex dense contact-sheet review", "reviewed_at": "2026-09-13T07:28:00+05:30" }
+    }
+  ]
+}

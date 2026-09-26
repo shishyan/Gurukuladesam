@@ -1,0 +1,43 @@
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/tamil-thai-vazhthu/01-tamil-thai.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/tamil-thai-vazhthu/02-kanyakumari.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/tamil-thai-vazhthu/03-poets.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/tamil-thai-vazhthu/04-performance.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/tamil-thai-vazhthu/01-tamil-thai.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/tamil-thai-vazhthu/02-kanyakumari.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/tamil-thai-vazhthu/03-poets.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/tamil-thai-vazhthu/04-performance.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/tamil-thai-vazhthu/01-tamil-thai.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/tamil-thai-vazhthu/02-kanyakumari.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/tamil-thai-vazhthu/03-poets.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/tamil-thai-vazhthu/04-performance.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/tamil-thai-vazhthu/01-tamil-thai.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/tamil-thai-vazhthu/02-kanyakumari.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/tamil-thai-vazhthu/03-poets.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/tamil-thai-vazhthu/04-performance.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/tamil-thai-vazhthu/01-tamil-thai.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/tamil-thai-vazhthu/02-kanyakumari.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/tamil-thai-vazhthu/03-poets.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/tamil-thai-vazhthu/04-performance.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/tamil-thai-vazhthu/01-tamil-thai.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/tamil-thai-vazhthu/01-tamil-thai.png'

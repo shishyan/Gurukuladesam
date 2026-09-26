@@ -1,0 +1,9 @@
+# AN22 — 2026-09-20
+
+Exact AN22-community-together-reference-v1.png attachment/thumbnail verified, normal Videos16:9 one request. https://gemini.google.com/app/217627dafd3c4087 responsea7408e78b8860520. Download00:27IST10sec5,287,601bytes Animate_this_exact_attached_re (2).mp4. Preserved AN22-community-together-conditioned-take01.mp4 plus silentcopy/AN22-contact.png4fps.
+
+Sampled4cast retained, eldersseated, helpers sequentiallyease upright, stabletable/bench/cloth and exteriorwetgarden. Finehand/body fullspeedQC remains; no release or musicfit claim. Wider timeellipse, not pixel-exactendpoint. Noquota on completion. Sentdirector/editor before nextshot.
+
+## Exact prompt
+
+Animate this exact attached reference into one continuous 10-second cinematic 16:9 video. Preserve exactly these four established Tamil adults, identities and clothes, two elders already seated on fixed bench, helpers at table ends, empty ivory cloth table, maintained pavilion/garden. The teal-sari woman gently eases from slight forward lean to relaxed upright stance, lifting only her own palm off the table. Seated ochre-sari woman follows her face with appreciative attention. AFTERWARD the young cream-shirt man eases shoulders upright and looks toward seated brown-shirt elder. Independent natural actions, not synchronized. All four stay present, stable feet/body support, separate hands. No walking, sitting transition, handoffs, cloth handling, cups, food or new objects. Gentle independent breathing, cloth and exterior foliage/rain motion; sheltered people/table stay dry, no indoor rain streaks. Locked camera or extremely restrained organic pullback; real actor motion, not synthetic still zoom. No cuts, writing/signs, dialogue or music. This wider later moment is a modest time ellipsis, not exact endpoint match.

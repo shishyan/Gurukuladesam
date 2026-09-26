@@ -1,0 +1,11 @@
+# MT06 seated-side — bounded sampled QC
+
+2026-09-18. Read MAASIL-SEATED-JOINING.md. **Conditional SELECT production/candidates/maasil/MT06-seated-side-take01.mp4,3.00–9.00sec**, end-exclusive6sec. Initial crossing foreground pillar excluded; selected interval offers clear diagonal congregation-to-shrine composition. MG03 remains excluded, not re-reviewed/rescued.
+
+Evidence: existing40sample4fps contact and full-resolution5sec detail under production/qc/MT06-seated-side-take01-{contact,detail}.png. Lateral reframing first carries pillar across group, then opens line of sight. By selected start, six seated bodies are distinguishable and consistently oriented to right-hand shrine rather than opposing each other. At midpoint crossed legs, resting hands and shoulders read coherently; no gross extra arm/body fusion. Tiny fingers/faces are unresolved.
+
+Rounded black lingam-shaped upright rests on broad pedestal, with cobra-like flared ornament above and small brass fixtures at threshold. These retain major silhouettes and physical separation in samples. Their addition alone is not a generation defect; no ritual/regional authenticity or exact object identity is certified. Doorway, columns, ceiling beams and dry floor remain coherent, light walls and occupied space read maintained rather than collapsed. A visible overhead fixture is not proof of structural damage. No conspicuous invented lettering observed in inspected detail; devotional marking remains.
+
+No observed cut or repeated prefix within selected interval. Selected6sec is meaningfully distinct from frontal MT04, but independent location/cast and canopy difference mean it is not a verified reverse angle of that shrine. Use as independent communal Shiva-focused montage. No claim all participants have joined palms: resting hands are visible.
+
+This is sampled evidence, NOT full-speed motion certification. Human playback targets: column/relief texture crawling, subtle body/cloth changes, pedestal/canopy rigidity and lateral cadence. No new exhaustive scan substituted for audition. Original channel audio only, watermark retained, no loops/speed changes, no publication/generation. Source preserved; exact conditional range sent to editor.

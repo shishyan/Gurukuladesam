@@ -1,0 +1,23 @@
+# Anbudaimai opening — blocked by video quota
+
+## AN01 fresh authorized rainy-scene attempt — completed2026-09-18 11:56IST
+
+Supersedes unknown-availability checkpoint below: exactly one fresh normal submission accepted and completed. https://gemini.google.com/app/11d276333c74caa4 response4e9d3b9eb0c7cd25. No purchase/bypass/retry.10sec original `anbudaimai/AN01-rainy-courtyard-take01.mp4`5,143,754bytes copied from Downloads/Create_ONE_second_photor.mp4. Silent `anbudaimai/AN01-rainy-courtyard-take01-silent-review.mp4`.40samples/4fps contact and5sec detail beside source with `-contact.png`/`-detail.png` suffixes.
+
+HOLD: actual moving people now present (daughter shifts chair, neighbour turns and sits), visible rain/eave drops, wet courtyard and changing foliage, unlike frozen sunny plate. However neighbour and chair are on exterior wet paving/step beyond veranda, NOT all three fully sheltered as required. Chair appears to straddle floor-height boundary, requiring detailed leg/contact checks. Mother/daughter remain on drier veranda. Small wall pictures/marks generated; no asserted readable text. Rain primarily streaks/eave runoff; fine impact physics/full-speed fluidity not certified. No release, audio sync, exact continuity or completed-film claim. Preserve source; do not describe this as fully solved dry-shelter scene.
+
+Submitted fresh prompt:10sec16:9 photoreal actual moving Anbudaimai Tamil home courtyard, overcast not sunny, fine rain/irregular puddle impacts outside, complete red-tiled dry raised veranda; ochre grandmother seated left, teal daughter center, cream-shirt/veshti neighbour right all behind dripline. Daughter places empty chair within shelter, neighbour nods, elder turns; simple independent action, wind-responsive tree/cloth, smooth lateral camera, no frozen people/still pan/cuts/repeats/incense/audio/signs/shrine. Original channel song later; independent illustrative cast/location, not verified sung timing. Actual output fails some specified geometry as noted.
+
+## Fresh UI check after10:51IST request — 2026-09-18
+
+Opened existing conversation once and read loaded UI. It still shows the saved earlier response: "Sorry, I can't generate more videos for you today, but come back tomorrow and we can make more." Pro/input enabled, but no current video quota counter, reset time or explicit availability confirmation shown. Important: this is a persisted prior response, NOT a fresh server rejection. Current quota cannot be established from that message alone. Under instruction to generate only if explicitly available, no new request/Redo was submitted, no purchase/bypass; no new rainy-courtyard output exists. User's rainy courtyard requirement remains pending, not replaced by dry still/effects test. Existing assets preserved.
+
+2026-09-18. Read ANBUDAIMAI-PLAN.md before one fresh submission. Conversation https://gemini.google.com/app/29d1a5caeac380d8 responseb24a6add6b84e66d.
+
+Exact response: "Sorry, I can't generate more videos for you today, but come back tomorrow and we can make more."
+
+No opening footage produced or downloaded; no QC/release/audio-sync claim. Exact reset time not provided. No retry, purchase or bypass. Vaan VS01 and Maasil assets preserved.
+
+## Submitted prompt
+
+Create ONE10-second16:9 photorealistic cinematic moving opening for Thirukkural ANBUDAIMAI, love expressed through family/neighbour reciprocal care. Literary chapter theme only, not verified recording lyrics/timing. Contemporary well-kept modest Tamil HOME courtyard, NOT temple. Establish reusable geography: cream limewashed house with intact red tiled veranda along rear, open doorway rear RIGHT, shaded low table LEFT, plain wooden empty chair center. Three anchor adults: grandmother muted ochre sari seated left sorting vegetables in a basket, daughter teal sari standing near table, neighbour cream shirt/white veshti at right doorway. Quiet simple action: daughter notices neighbour and gently draws the empty chair a short distance into shade as invitation; grandmother looks up warmly, neighbour acknowledges with small nod, no handshake/object transfer or sitting transition in this shot. Each has agency, no poverty/helplessness caricature, no synchronized smiles. Keep all three and chair legs grounded/visible, coherent doorway geography, independent subtle breathing/cloth movement. Slow smooth medium-wide lateral camera, warm daylight and tree shade, dignified natural lived-in home, no ruins, signage/writing, shrines, rain/incense or mountains. One continuous actual moving shot, no cuts/repeats/still pan. No generated audio/music/dialogue; exact original channel song to be added later. No false same-cast continuity with any previous film.

@@ -1,0 +1,29 @@
+{
+  "audio": "source/youtube/cKyT1Cv7zEA-மாசில் வீணையும்.m4a",
+  "dissolve_seconds": 0.5,
+  "clips": [
+    "renders/tests/M01-maasil-pilgrimage-motion-proof.mp4",
+    "renders/tests/M02-maasil-veena-motion-proof.mp4",
+    "renders/tests/M03-maasil-moon-lotus-motion-proof.mp4",
+    "renders/tests/M04-maasil-spring-konrai-motion-proof.mp4",
+    "renders/tests/M05-maasil-sanctum-threshold-motion-proof.mp4",
+    "renders/tests/M06-maasil-sacred-feet-motion-proof.mp4",
+    "renders/tests/M07-maasil-bees-lotus-motion-proof.mp4",
+    "renders/tests/M08-maasil-temple-spring-motion-proof.mp4",
+    "renders/tests/M09-maasil-moonlit-veena-strings-motion-proof.mp4",
+    "renders/tests/M10-maasil-earth-temple-step-motion-proof.mp4",
+    "renders/tests/M11-maasil-breeze-bells-corridor-motion-proof.mp4",
+    "renders/tests/M12-maasil-grace-footlight-motion-proof.mp4",
+    "renders/tests/M13-maasil-moon-vimana-motion-proof.mp4",
+    "renders/tests/M14-maasil-summer-to-shade-motion-proof.mp4",
+    "renders/tests/M15-maasil-bilva-lamp-offering-motion-proof.mp4",
+    "renders/tests/M16-maasil-overhead-pilgrimage-motion-proof.mp4",
+    "renders/tests/M17-maasil-moonlit-tank-breeze-motion-proof.mp4",
+    "renders/tests/M18-maasil-tripundra-rudraksha-motion-proof.mp4",
+    "renders/tests/M19-maasil-pilgrim-breeze-portrait-motion-proof.mp4",
+    "renders/tests/M20-maasil-yali-rain-channel-motion-proof.mp4",
+    "renders/tests/M21-maasil-sunrise-departure-motion-proof.mp4",
+    "renders/tests/M22-maasil-nandi-sanctum-axis-motion-proof.mp4",
+    "renders/tests/M23-maasil-burdens-laid-down-motion-proof.mp4"
+  ]
+}

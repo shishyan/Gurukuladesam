@@ -1,0 +1,11 @@
+# Anbu rain/environment effects test v2
+
+Actual20sec MP4: `ANBU-rain-environment-EFFECTS-TEST-v2.mp4`. Original still and v1 video untouched. Original channel `source/youtube/lneosghJWgs.m4a` seconds0–20 only, no generated sound or unrelated incense.
+
+Method: procedural grayscale rain/splash video frames composed in RGB screen mode with the original source still using FFmpeg. Source still is not repainted. Fixed outdoor polygon excludes roof/veranda/people; conservative occluder exclusions cover dog, foreground flowers and prominent pots/plants.340 independently parameterized falling streaks at variable speeds/lengths, sparse randomly timed small partial splash arcs/short impact strokes on exposed paving. No blanket haze, no rain inside veranda, no smoke without burner. Source3:2 aspect preserved at1080x720 within1280x720 side bars; locked camera eliminates integer-pan jitter. All actual motion is effect-layer rain/impacts; **people, dog, foliage and architecture remain still**.
+
+This is explicitly an EFFECTS TEST, not a believable completed rainy scene. Bright sunlight, hard shadows and dry stone persist; no wet-surface evolution/reflections or reactive foliage. Conservative masks lack detailed leaf-depth mattes and feathered natural rain boundaries. Rain is restrained/faint against the bright background; impacts are visual suggestions, not physically simulated drop-to-surface trajectories. A sun shower is possible in principle but not established here. Family togetherness concept retained; no added doctrinal claims or lyric timing.
+
+Inspection: read render_motion_test.py and active rules; avoided its blanket haze/rain. First test exposed an RGB/YUV screen-blend tint bug; fixed using planar RGB before delivery. Corrected full-resolution5sec frame and four sampled0/5/10/15sec frames inspected: source colors restored, veranda/people clear of effect layer, persistent honest effects/still-people label visible. Sample inspection cannot certify full-speed fluidity. Final complete video/audio decode exit0,480frames,20sec1280x72024fps H.264/AAC44.1kHz stereo. V1 preserved; no publication or full-song claim.
+
+Reproduce: `render_anbu_rain_v2.py`. Actual output is a bounded composite for user audition, not claimed true generated character video.

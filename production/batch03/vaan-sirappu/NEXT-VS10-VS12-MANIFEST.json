@@ -1,0 +1,44 @@
+{
+  "status": "both-downloaded-director-selected",
+  "preparedDate": "2026-09-21",
+  "timezone": "Asia/Calcutta",
+  "lastObservedReset": "2026-09-21T21:09:00+05:30",
+  "resetIsAvailabilityGuarantee": false,
+  "promptSource": "NEXT-VS10-VS12-PRODUCTION.md",
+  "publicationAuthorized": false,
+  "purchaseAuthorized": false,
+  "shots": [
+    {
+      "id": "VS10",
+      "status": "downloaded-director-selection-pending",
+      "method": "normal-ui-text-to-video",
+      "reference": null,
+      "promptSection": "VS10 — planted-row consequence",
+      "requestedSeconds": 10,
+      "aspectRatio": "16:9",
+      "plannedStem": "VS10-planted-row-take01",
+      "deliberateSimplification": "No edge hand; director approved water and anchored plants as valid consequence.",
+      "acceptedSeconds": 7
+    },
+    {
+      "id": "VS12",
+      "status": "downloaded-director-selection-pending",
+      "method": "normal-ui-text-to-video",
+      "reference": null,
+      "promptSection": "VS12 — water distribution junction",
+      "requestedSeconds": 10,
+      "aspectRatio": "16:9",
+      "plannedStem": "VS12-canal-junction-take01",
+      "acceptedSeconds": 8
+    }
+  ],
+  "requiredOutputs": ["original.mp4", "silent-review.mp4", "contact.png", "generation-QC.md"],
+  "gates": ["fresh normal availability", "one request per shot", "download verified", "silent decode", "sampled visual QC", "director exact range"],
+  "dhoopam": {
+    "take01": "rejected-preserved",
+    "take02": "rejected-preserved",
+    "sameMethodRetry": false,
+    "alternative": "permission-verified real burner-and-smoke footage; separately authorized licensed live-action compositing if needed",
+    "readyAsset": null
+  }
+}

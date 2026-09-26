@@ -1,0 +1,13 @@
+{
+  "batchReady": true,
+  "fullLength": false,
+  "outputName": "VAAN-BATCH-REVIEW-v2.mp4",
+  "shots": [
+    {"file":"VS02-mountain-rain-take01-silent-review.mp4","inFrame":24,"outFrame":168,"directorSelected":true,"role":"Mountain atmosphere, falling rain remains weak"},
+    {"file":"VS03-granite-runoff-take01-silent-review.mp4","inFrame":12,"outFrame":156,"directorSelected":true,"role":"Downhill runoff, stylized ring caveat"},
+    {"file":"VS04-irrigation-take01-silent-review.mp4","inFrame":12,"outFrame":204,"directorSelected":true,"role":"Irrigation into paddy"},
+    {"file":"VS05-farmers-conditioned-take01-silent-review.mp4","inFrame":6,"outFrame":132,"directorSelected":true,"role":"First planting and withdrawal"},
+    {"file":"VS06-temple-community-conditioned-take01-silent-review.mp4","inFrame":12,"outFrame":204,"directorSelected":true,"role":"Actual moving temple, gathering and farming; stylized landscape, no dhoopam certification"},
+    {"file":"VS08-mountain-community-rain-take01-silent-review.mp4","inFrame":12,"outFrame":204,"directorSelected":true,"role":"Five people under pavilion with rain, separate warmer-weather montage"}
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "status": "prepared-not-submitted",
+  "preparedDate": "2026-09-22",
+  "timezone": "Asia/Calcutta",
+  "notBefore": "2026-09-22T02:09:00+05:30",
+  "resetGuaranteesAvailability": false,
+  "publicationAuthorized": false,
+  "purchaseAuthorized": false,
+  "queue": [
+    {"id":"VS16","promptSource":"NEXT-VS16-VS19-PRODUCTION.md","method":"normal-ui-text-to-video","reference":null,"stem":"VS16-banana-grove-take01","requestedSeconds":10,"aspectRatio":"16:9","acceptedSeconds":0},
+    {"id":"VS19","promptSource":"NEXT-VS16-VS19-PRODUCTION.md","method":"normal-ui-text-to-video","reference":null,"stem":"VS19-soil-runoff-take01","requestedSeconds":10,"aspectRatio":"16:9","acceptedSeconds":0},
+    {"id":"VS17","promptSource":"NEXT-VS17-VS18-PRODUCTION.md","method":"normal-ui-text-to-video","reference":null,"stem":"VS17-vegetable-care-take01","requestedSeconds":10,"aspectRatio":"16:9","acceptedSeconds":0,"continuity":"independent garden pair; actual output establishes next shot"},
+    {"id":"VS18","promptSource":"NEXT-VS17-VS18-PRODUCTION.md","method":"normal-ui-image-conditioned-video","reference":null,"status":"blocked-until-VS17-clean-selected-endpoint","stem":"VS18-vegetable-check-conditioned-take01","requestedSeconds":10,"aspectRatio":"16:9","acceptedSeconds":0}
+  ],
+  "gates": ["not-before time", "fresh normal availability", "no duplicate active request", "exact attachment verified for VS18", "original preserved", "silent full decode", "contact and full-frame inspection", "director exact selection", "full-speed audiovisual release review separately"],
+  "requiredOutputs": ["original mp4", "silent-review mp4", "contact png", "generation-QC md"],
+  "incenseRetry": false
+}

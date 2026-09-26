@@ -1,0 +1,25 @@
+# Downloaded dependencies and package caches
+node_modules/
+.pnpm-store/
+tools/bgutil-ytdlp-pot-provider/
+
+# Temporary working files
+tmp/
+*.tmp
+*.temp
+
+# Unrelated document-generation workspace output
+output/
+make_tailoring_pdf.py
+print_tailoring_pdf.cjs
+
+# Python and tool caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# OS and editor metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

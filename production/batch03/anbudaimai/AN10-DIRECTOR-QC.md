@@ -1,0 +1,9 @@
+# AN10 director sampled QC
+
+Source AN10-reaction-conditioned-take01-silent-review.mp4, actual10sec reported by producer, exact v3 medium reference attached. Inspected4fps contact sheet and independently extracted4sec full-size AN10-director-detail.png.
+
+Conditional review-edit select **0.50–8.00sec,7.50 unique seconds**, no crop. Append immediately after AN09's0.50–8.50 select. AN09 invitation followed by AN10 seated acknowledgement is an intentional elliptical cut omitting sitting, not a continuous matched action. Existing52.50 + AN09 8.00 + AN10 7.50 = **68.00sec target v4**, not rendered by director.
+
+Observed: same recognizable host teal sari/jasmine, elder ochre/maroon sari/grey hair, visitor cream shirt/brown trousers/salt-and-pepper moustache. Cream house/timber roof/pillars, table with folded towel, seated chair relationships retained. Medium framing avoids elder seat-surface discrepancy. Host changes nod/gaze toward elder and brings hands together; visitor looks up/turns head and changes expression; elder attention shifts. Clear subject-pose changes, not only a still-camera push. No gross sampled extra/fused limbs, unsupported sitting, disappearing towel or new figures. Outdoor rain/wet courtyard behind; dry clothing, no conspicuous overlay crossing sheltered people.
+
+Range contains reaction, interpersonal attention and settle; trim excludes extended terminal gaze hold. These are editorial bounds, not precise detected defect boundaries. No extra crop needed or provenance removal. Original generator audio excluded; continuous original channel soundtrack only. Rain and camera/full-speed finger/facial continuity plus musical phrasing still require audiovisual playback; sample inspection is not that certification. No full-film release approval. Exact selection sent editor immediately.

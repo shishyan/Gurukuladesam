@@ -1,0 +1,9 @@
+# AN25 — 2026-09-20
+
+Exact AN25-practical-care-reference-v1.png attachment/thumbnail verified in normal Videos16:9; one accepted request https://gemini.google.com/app/6e3f43987f28f8c1 responsef4bbeacb8e795f8a. Download10:01IST10sec3,468,827bytes Animate_this_exact_attached_re (3).mp4. Preserved AN25-practical-care-conditioned-take01.mp4, silentcopy, AN25-contact.png4fps.
+
+Sampled deviation: requested supported towel slide became brief lift/tilt around1.5–3s, then placement ontable; later onefoldedtowel stable. Not claimed exact instructionpass. Cast/chair/table/basket broadlystable, realbodyaction/exteriorrain. Director notified immediately for honest selection orhold and cleanendpoint. Noquota oncompletion. Originalaudio preserved separately; no soundtrack/releaseclaim.
+
+## Exact request
+
+Animate this exact attached reference into one continuous 10-second cinematic 16:9 moving video. Preserve same two adult identities, indigo-sari woman and already-seated olive-shirt man, wooden table/chair, one folded cream towel supported on table and fixed basket at left. Simple practical care: woman slides the supported folded towel only a few inches RIGHT toward seated man, then releases her hands separately. Man watches attentively and keeps both hands on his own thighs. Towel never lifts, unfolds, changes size or multiplies; basket remains fixed, chair/body support unchanged. No handoff, pickup, sitting transition, walking or new objects/people. Natural independent small head/breath/cloth motion, actual exterior rain and foliage move beyond dry intact veranda. Clothes and table sheltered; no rain indoors. Locked camera, no cuts/static-image zoom, no writing/signs, dialogue or soundtrack. Stable anatomy, hands and tabletop contact. Quiet reciprocal care, not a posed smile sequence.

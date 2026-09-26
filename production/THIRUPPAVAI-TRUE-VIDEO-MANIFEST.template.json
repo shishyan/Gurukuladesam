@@ -1,0 +1,139 @@
+{
+  "schema_version": "1.0",
+  "project": "Thiruppavai 1: Margazhi Thingal",
+  "qc_standard": "production/THIRUPPAVAI-TRUE-VIDEO-QC.md",
+  "manifest_status": "working",
+  "hard_exclusions": {
+    "rule": "Old ImageGen motion proofs, still-derived motion, rejected assets, and deleted or superseded releases are never eligible for assembly.",
+    "path_patterns": [
+      "renders/tests/*imagegen*motion-proof*.mp4",
+      "renders/tests/*motion-proof*.mp4"
+    ],
+    "prohibited_methods": [
+      "production/render_motion_test.py",
+      "still-image pan/zoom/parallax",
+      "Ken Burns animation",
+      "frame interpolation used to disguise a still"
+    ],
+    "excluded_asset_paths_or_hashes": []
+  },
+  "clips": [
+    {
+      "clip_id": "S00-take01",
+      "story_beat": "REPLACE_ME",
+      "intended_timeline": {
+        "start": "00:00.000",
+        "end": "00:08.000"
+      },
+      "prompt": "PASTE_THE_EXACT_FINAL_GENERATION_PROMPT",
+      "generator": {
+        "service": "REPLACE_ME",
+        "model_or_version": "REPLACE_ME",
+        "job_id": "REPLACE_ME",
+        "project_url": "REPLACE_ME",
+        "generated_at": "YYYY-MM-DDThh:mm:ss+05:30"
+      },
+      "download": {
+        "native_path": "ABSOLUTE_OR_WORKSPACE_RELATIVE_PATH_TO_UNTOUCHED_DOWNLOAD",
+        "sha256": "REPLACE_ME",
+        "original_filename": "REPLACE_ME"
+      },
+      "duration_seconds": 0.0,
+      "technical": {
+        "width": 0,
+        "height": 0,
+        "aspect_ratio": "16:9",
+        "fps": 0.0,
+        "codec": "REPLACE_ME",
+        "progressive": null,
+        "audio_present": null,
+        "decode_ok": null,
+        "black_or_corrupt_frames": null,
+        "notes": ""
+      },
+      "headcount": {
+        "required_total": 9,
+        "visible": 0,
+        "intentionally_occluded": 0,
+        "count_stable": null,
+        "identity_and_costume_stable": null,
+        "pass": null,
+        "notes": "For inserts, replace required_total and explain why."
+      },
+      "camera_motion": {
+        "prompted_type": "tripod|slider|dolly|crane|other",
+        "observed_type": "REPLACE_ME",
+        "stable": null,
+        "physically_motivated": null,
+        "jitter_or_pulse": null,
+        "ken_burns_or_fake_depth": null,
+        "pass": null,
+        "notes": ""
+      },
+      "human_object_motion": {
+        "true_temporal_motion_present": null,
+        "human_motion_natural": null,
+        "object_and_material_motion_natural": null,
+        "frozen_scene_masked_by_camera": null,
+        "morph_duplicate_vanish_or_teleport": null,
+        "pass": null,
+        "notes": ""
+      },
+      "rain_physicality": {
+        "required": null,
+        "present": null,
+        "world_space_direction_coherent": null,
+        "depth_and_occlusion_coherent": null,
+        "surface_impacts_and_reflections_plausible": null,
+        "indoors_violation": null,
+        "screen_space_overlay_appearance": null,
+        "pass": null,
+        "notes": ""
+      },
+      "dhoopam_physicality": {
+        "required": null,
+        "present": null,
+        "bottom_center_and_correct_scale": null,
+        "holder_anchored_and_stable": null,
+        "smoke_origin_and_flow_natural": null,
+        "depth_occlusion_coherent": null,
+        "design_continuity": null,
+        "pass": null,
+        "notes": ""
+      },
+      "anatomy": {
+        "faces_and_eyes": "pass|fail|not_visible",
+        "hands_and_fingers": "pass|fail|not_visible",
+        "feet_and_gait": "pass|fail|not_visible",
+        "limbs_and_body_intersections": "pass|fail|not_visible",
+        "jewellery_cloth_and_object_contact": "pass|fail|not_visible",
+        "pass": null,
+        "issues": []
+      },
+      "watermark": {
+        "present": null,
+        "unintended_text_or_logo_present": null,
+        "pass": null,
+        "details": ""
+      },
+      "transition_handles": {
+        "head_seconds": 0.0,
+        "tail_seconds": 0.0,
+        "clean_head": null,
+        "clean_tail": null,
+        "stable_motion_and_exposure": null,
+        "no_generator_fade_or_freeze": null,
+        "pass": null,
+        "notes": ""
+      },
+      "review": {
+        "decision": "pending|conditional|approved|rejected",
+        "approval_reason": "",
+        "rejection_codes": [],
+        "rejection_reason": "",
+        "reviewer": "REPLACE_ME",
+        "reviewed_at": "YYYY-MM-DDThh:mm:ss+05:30"
+      }
+    }
+  ]
+}

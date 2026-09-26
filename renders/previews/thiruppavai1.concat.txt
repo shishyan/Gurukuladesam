@@ -1,0 +1,57 @@
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/thiruppavai1/01-street.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/thiruppavai1/02-awakening.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/thiruppavai1/03-temple-tank.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/thiruppavai1/04-threshold.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/thiruppavai1/01-street.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/thiruppavai1/02-awakening.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/thiruppavai1/03-temple-tank.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/thiruppavai1/04-threshold.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/thiruppavai1/01-street.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/thiruppavai1/02-awakening.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/thiruppavai1/03-temple-tank.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/thiruppavai1/04-threshold.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/thiruppavai1/01-street.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/thiruppavai1/02-awakening.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/thiruppavai1/03-temple-tank.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/thiruppavai1/04-threshold.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/thiruppavai1/01-street.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/thiruppavai1/02-awakening.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/thiruppavai1/03-temple-tank.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/thiruppavai1/04-threshold.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/thiruppavai1/01-street.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/thiruppavai1/02-awakening.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/thiruppavai1/03-temple-tank.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/thiruppavai1/04-threshold.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/thiruppavai1/01-street.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/thiruppavai1/02-awakening.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/thiruppavai1/03-temple-tank.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/thiruppavai1/04-threshold.png'
+duration 12
+file 'C:/Users/Shishyan/Documents/ChatGPT/Guru Kula Desam/production/visuals/thiruppavai1/04-threshold.png'
