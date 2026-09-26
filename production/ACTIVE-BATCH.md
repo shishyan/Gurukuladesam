@@ -1,5 +1,24 @@
 # Active production batch
 
+## 2026-09-26 image-motion full-length Vaan review
+
+User now explicitly requests continuing films with ImageGen-based image-to-video
+techniques because video-generation tokens are unavailable. This supersedes
+the older still-effects exclusion for the purpose of making a **review cut**;
+it is not automatic release approval. `production/batch03/vaan-sirappu/image-motion/`
+contains 20 distinct artwork shots, an 18-second technique study, and
+`VAAN-FULL-LENGTH-IMAGE-MOTION-REVIEW-v1.mp4` at 312.541667 seconds / 7,501
+frames. It joins the prior 161.25-second v15 moving-footage cut to a
+151.291667-second image-motion tail. The original song's AAC payload is
+unchanged, full decode passed, and no black intervals were detected. Full-speed
+human audio/visual review is still required; the still-derived tail has no
+independent human or pictured-water motion. Do not publish it as an approved
+film. See `image-motion/README.md` for exact limits and render command.
+
+The channel Videos tab on 2026-09-26 showed a published Anbudaimai Cinematic
+Thirukkural Film (`jO2i4bcZ2ts`). Older entries below calling it unpublished
+are historical and should not be used as the current publication status.
+
 ## USER OVERRIDE — Batch03 Thirukkural; Maasil paused
 
 USER MOVED TO NEXT SONG: Anbudaimai full-length review v1 is technically complete at214.791667sec with original audio preserved,31 unique moving shots,no black frames. It remains UNPUBLISHED because user did not provide full-speed audiovisual approval and explicitly said move to next. Preserve all Anbu assets; do not publish automatically.

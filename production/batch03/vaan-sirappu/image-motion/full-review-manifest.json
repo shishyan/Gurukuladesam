@@ -1,0 +1,148 @@
+{
+  "sourceAudio": "tX4JtRSOuxE.m4a",
+  "priorFrames": 3870,
+  "targetFrames": 7501,
+  "cutMethod": "nearby audio RMS minima, not verified lyric phrases",
+  "shots": [
+    {
+      "image": "VS40-monsoon-valley.png",
+      "tailInFrame": 0,
+      "tailOutFrame": 158,
+      "filmInFrame": 3870,
+      "filmOutFrame": 4028
+    },
+    {
+      "image": "VS41-rain-fed-paddy.png",
+      "tailInFrame": 158,
+      "tailOutFrame": 375,
+      "filmInFrame": 4028,
+      "filmOutFrame": 4245
+    },
+    {
+      "image": "VS42-temple-tank.png",
+      "tailInFrame": 375,
+      "tailOutFrame": 561,
+      "filmInFrame": 4245,
+      "filmOutFrame": 4431
+    },
+    {
+      "image": "VS43-rain-watershed.png",
+      "tailInFrame": 561,
+      "tailOutFrame": 706,
+      "filmInFrame": 4431,
+      "filmOutFrame": 4576
+    },
+    {
+      "image": "VS44-granite-stream.png",
+      "tailInFrame": 706,
+      "tailOutFrame": 911,
+      "filmInFrame": 4576,
+      "filmOutFrame": 4781
+    },
+    {
+      "image": "VS45-banana-grove.png",
+      "tailInFrame": 911,
+      "tailOutFrame": 1090,
+      "filmInFrame": 4781,
+      "filmOutFrame": 4960
+    },
+    {
+      "image": "VS46-irrigation-sluice.png",
+      "tailInFrame": 1090,
+      "tailOutFrame": 1264,
+      "filmInFrame": 4960,
+      "filmOutFrame": 5134
+    },
+    {
+      "image": "VS47-tank-overflow.png",
+      "tailInFrame": 1264,
+      "tailOutFrame": 1438,
+      "filmInFrame": 5134,
+      "filmOutFrame": 5308
+    },
+    {
+      "image": "VS48-rooted-rice.png",
+      "tailInFrame": 1438,
+      "tailOutFrame": 1650,
+      "filmInFrame": 5308,
+      "filmOutFrame": 5520
+    },
+    {
+      "image": "VS49-mature-paddy.png",
+      "tailInFrame": 1650,
+      "tailOutFrame": 1795,
+      "filmInFrame": 5520,
+      "filmOutFrame": 5665
+    },
+    {
+      "image": "VS50-sheltered-grain.png",
+      "tailInFrame": 1795,
+      "tailOutFrame": 2012,
+      "filmInFrame": 5665,
+      "filmOutFrame": 5882
+    },
+    {
+      "image": "VS51-communal-food.png",
+      "tailInFrame": 2012,
+      "tailOutFrame": 2157,
+      "filmInFrame": 5882,
+      "filmOutFrame": 6027
+    },
+    {
+      "image": "VS52-water-vessel.png",
+      "tailInFrame": 2157,
+      "tailOutFrame": 2367,
+      "filmInFrame": 6027,
+      "filmOutFrame": 6237
+    },
+    {
+      "image": "VS54-dhoopam-burner.png",
+      "tailInFrame": 2367,
+      "tailOutFrame": 2540,
+      "filmInFrame": 6237,
+      "filmOutFrame": 6410
+    },
+    {
+      "image": "VS55-lingam.png",
+      "tailInFrame": 2540,
+      "tailOutFrame": 2721,
+      "filmInFrame": 6410,
+      "filmOutFrame": 6591
+    },
+    {
+      "image": "VS56b-gratitude-offering.png",
+      "tailInFrame": 2721,
+      "tailOutFrame": 2897,
+      "filmInFrame": 6591,
+      "filmOutFrame": 6767
+    },
+    {
+      "image": "VS57-village-fields.png",
+      "tailInFrame": 2897,
+      "tailOutFrame": 3109,
+      "filmInFrame": 6767,
+      "filmOutFrame": 6979
+    },
+    {
+      "image": "VS58-river-valley.png",
+      "tailInFrame": 3109,
+      "tailOutFrame": 3270,
+      "filmInFrame": 6979,
+      "filmOutFrame": 7140
+    },
+    {
+      "image": "VS59-temple-tank-dusk.png",
+      "tailInFrame": 3270,
+      "tailOutFrame": 3449,
+      "filmInFrame": 7140,
+      "filmOutFrame": 7319
+    },
+    {
+      "image": "VS60-living-watershed.png",
+      "tailInFrame": 3449,
+      "tailOutFrame": 3631,
+      "filmInFrame": 7319,
+      "filmOutFrame": 7501
+    }
+  ]
+}

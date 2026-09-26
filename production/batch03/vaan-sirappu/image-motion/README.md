@@ -1,8 +1,9 @@
 # Vaan Sirappu image-motion study
 
-This is an **18-second production study**, timed to original source audio at
-161.25–179.25 seconds. It is not a completed film or an approved addition to
-the existing 161.25-second moving-footage edit.
+This folder contains an 18-second technique study and a **full-length,
+unpublished review cut**. The latter preserves the existing 161.25 seconds of
+selected moving footage and adds 151.291667 seconds of image-derived scenes
+from 20 distinct stills. It is complete in duration, not approved for release.
 
 ## Assets and technique
 
@@ -20,6 +21,9 @@ the existing 161.25-second moving-footage edit.
   six seconds, original song audio only. Deterministic render.
 - `VAAN-image-motion-study-18s.mp4`: 1280×720 H.264/AAC, 24 fps, 432 frames.
 
+`ARTWORK-PROMPTS.md` records the subject and physical constraints for every
+generated frame, including the two held images.
+
 Run with Python, Pillow, and `imageio-ffmpeg` from the repository root:
 
 ```powershell
@@ -34,6 +38,44 @@ lamp is also a still element. Human motion, iconography, music phrasing, and
 full-speed playback need review before expanding this into the remaining
 151 seconds. Repeating these three frames to fill the song would not meet the
 existing film standard.
+
+## Full-length review
+
+`render_full_review.py` renders the distinct scene tail and joins it to the
+prior v15. It chooses cut points near quiet samples in the soundtrack, within
+approximately one second of a uniform seven-to-eight-second shot grid. Those
+measurements do **not** establish lyric or phrase timing. The 20-shot order is
+listed with exact frame boundaries in `full-review-manifest.json`.
+
+Run from the repository root:
+
+```powershell
+python production/batch03/vaan-sirappu/image-motion/render_full_review.py
+```
+
+Output: `VAAN-FULL-LENGTH-IMAGE-MOTION-REVIEW-v1.mp4`, 1280×720, 24 fps,
+7,501 frames, 5:12.54 picture. `VAAN-image-motion-tail-151s.mp4` is a generated
+silent intermediate and is not committed. `full-review-contact.jpg` shows ten checkpoints including both
+sides of the cut at 161.25 seconds.
+
+Technical QC on 2026-09-26: full video/audio decode exit 0, exactly 7,501
+frames, no detected black interval at 0.02-second threshold, and extracted
+AAC payload SHA-256 identical to the original `tX4JtRSOuxE.m4a` (both
+`87d5f7d614311eefb27c4e528e89ae05182eda4d13f3d87913229be491dce750`
+when remuxed as ADTS). The final picture extends approximately 0.02 second
+beyond the source audio because of whole-frame rounding.
+
+Review limits: no full-speed human audiovisual approval, lyric cut approval,
+or publication. Camera motion, rain and water impacts are composited from
+still artwork; the water and foliage pictured within those stills do not have
+true source motion. VS40 has small static farmers. The prior v15 footage has
+an upper-left provisional review overlay; the new tail has a matching review
+label added at assembly. Two
+generated temple frames, `VS53-temple-passage-HOLD.png` and
+`VS56-gratitude-offering.png`, were excluded for wet-looking sheltered stone.
+Avoid treating this as 312 seconds of accepted moving footage. Review the
+entire cut at normal speed with sound before deciding whether still-derived
+shots meet the film's standard or need replacement.
 
 ## Channel and production improvements
 
