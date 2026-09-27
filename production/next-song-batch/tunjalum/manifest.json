@@ -1,0 +1,131 @@
+{
+  "sourceId": "xGb7ZXDRvVU",
+  "output": "TUNJALUM-TUNJAL-CINEMATIC-v1.mp4",
+  "title": "துஞ்சலும் துஞ்சல் | Tunjalum Tunjal Cinematic Devotional Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 592
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 592,
+      "outFrame": 1148
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 1148,
+      "outFrame": 1699
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1699,
+      "outFrame": 2295
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 2295,
+      "outFrame": 2839
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 2839,
+      "outFrame": 3435
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 3435,
+      "outFrame": 3995
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 3995,
+      "outFrame": 4576
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 4576,
+      "outFrame": 5148
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 5148,
+      "outFrame": 5688
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 5688,
+      "outFrame": 6285
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 6285,
+      "outFrame": 6837
+    },
+    {
+      "image": "S13.png",
+      "role": "scene 13",
+      "inFrame": 6837,
+      "outFrame": 7429
+    },
+    {
+      "image": "S14.png",
+      "role": "scene 14",
+      "inFrame": 7429,
+      "outFrame": 8007
+    },
+    {
+      "image": "S15.png",
+      "role": "scene 15",
+      "inFrame": 8007,
+      "outFrame": 8554
+    },
+    {
+      "image": "S16.png",
+      "role": "scene 16",
+      "inFrame": 8554,
+      "outFrame": 9152
+    },
+    {
+      "image": "S17.png",
+      "role": "scene 17",
+      "inFrame": 9152,
+      "outFrame": 9675
+    },
+    {
+      "image": "S18.png",
+      "role": "scene 18",
+      "inFrame": 9675,
+      "outFrame": 10271
+    },
+    {
+      "image": "S19.png",
+      "role": "scene 19",
+      "inFrame": 10271,
+      "outFrame": 10828
+    },
+    {
+      "image": "S20.png",
+      "role": "scene 20",
+      "inFrame": 10828,
+      "outFrame": 11411
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 11411,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

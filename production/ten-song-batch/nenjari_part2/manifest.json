@@ -1,0 +1,83 @@
+{
+  "sourceId": "7wJJCQrYo04",
+  "output": "NENJARI-VURUTHAL-PART2-CINEMATIC-v1.mp4",
+  "title": "நெஞ்சறிவுறுத்தல் பகுதி 2 | Nenjari Vuruthal Part 2 Cinematic Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 509
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 509,
+      "outFrame": 1079
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 1079,
+      "outFrame": 1601
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1601,
+      "outFrame": 2123
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 2123,
+      "outFrame": 2661
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 2661,
+      "outFrame": 3182
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 3182,
+      "outFrame": 3671
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 3671,
+      "outFrame": 4231
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 4231,
+      "outFrame": 4731
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 4731,
+      "outFrame": 5276
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 5276,
+      "outFrame": 5799
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 5799,
+      "outFrame": 6328
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 6328,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

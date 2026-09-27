@@ -1,0 +1,155 @@
+{
+  "sourceId": "JDqbpISJjIA",
+  "output": "NENJARI-VURUTHAL-PART1-CINEMATIC-v1.mp4",
+  "title": "நெஞ்சறிவுறுத்தல் பகுதி 1 | Nenjari Vuruthal Part 1 Cinematic Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 821
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 821,
+      "outFrame": 1691
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 1691,
+      "outFrame": 2532
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 2532,
+      "outFrame": 3384
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 3384,
+      "outFrame": 4192
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 4192,
+      "outFrame": 5044
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 5044,
+      "outFrame": 5904
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 5904,
+      "outFrame": 6729
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 6729,
+      "outFrame": 7561
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 7561,
+      "outFrame": 8404
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 8404,
+      "outFrame": 9251
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 9251,
+      "outFrame": 10067
+    },
+    {
+      "image": "S13.png",
+      "role": "scene 13",
+      "inFrame": 10067,
+      "outFrame": 10927
+    },
+    {
+      "image": "S14.png",
+      "role": "scene 14",
+      "inFrame": 10927,
+      "outFrame": 11737
+    },
+    {
+      "image": "S15.png",
+      "role": "scene 15",
+      "inFrame": 11737,
+      "outFrame": 12588
+    },
+    {
+      "image": "S16.png",
+      "role": "scene 16",
+      "inFrame": 12588,
+      "outFrame": 13428
+    },
+    {
+      "image": "S17.png",
+      "role": "scene 17",
+      "inFrame": 13428,
+      "outFrame": 14288
+    },
+    {
+      "image": "S18.png",
+      "role": "scene 18",
+      "inFrame": 14288,
+      "outFrame": 15130
+    },
+    {
+      "image": "S19.png",
+      "role": "scene 19",
+      "inFrame": 15130,
+      "outFrame": 15965
+    },
+    {
+      "image": "S20.png",
+      "role": "scene 20",
+      "inFrame": 15965,
+      "outFrame": 16813
+    },
+    {
+      "image": "S21.png",
+      "role": "scene 21",
+      "inFrame": 16813,
+      "outFrame": 17618
+    },
+    {
+      "image": "S22.png",
+      "role": "scene 22",
+      "inFrame": 17618,
+      "outFrame": 18494
+    },
+    {
+      "image": "S23.png",
+      "role": "scene 23",
+      "inFrame": 18494,
+      "outFrame": 19344
+    },
+    {
+      "image": "S24.png",
+      "role": "scene 24",
+      "inFrame": 19344,
+      "outFrame": 20161
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 20161,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

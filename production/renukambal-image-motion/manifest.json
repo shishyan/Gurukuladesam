@@ -1,0 +1,83 @@
+{
+  "sourceId": "K0N0k3mNh_w",
+  "output": "ANNAI-RENUKAMBAL-CINEMATIC-v1.mp4",
+  "title": "அன்னை ரேணுகாம்பாள் துதி | Annai Renukambal Cinematic Devotional Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "temple at dawn",
+      "inFrame": 0,
+      "outFrame": 354
+    },
+    {
+      "image": "S04.png",
+      "role": "offerings on village lane",
+      "inFrame": 354,
+      "outFrame": 733
+    },
+    {
+      "image": "S03.png",
+      "role": "sacred thread",
+      "inFrame": 733,
+      "outFrame": 1145
+    },
+    {
+      "image": "S05.png",
+      "role": "flower offerings",
+      "inFrame": 1145,
+      "outFrame": 1514
+    },
+    {
+      "image": "S06.png",
+      "role": "temple water tank",
+      "inFrame": 1514,
+      "outFrame": 1909
+    },
+    {
+      "image": "S07.png",
+      "role": "prasadam preparation",
+      "inFrame": 1909,
+      "outFrame": 2278
+    },
+    {
+      "image": "S08.png",
+      "role": "grandmother and child",
+      "inFrame": 2278,
+      "outFrame": 2635
+    },
+    {
+      "image": "S09.png",
+      "role": "temple music",
+      "inFrame": 2635,
+      "outFrame": 3004
+    },
+    {
+      "image": "S02.png",
+      "role": "Renukambal darshan",
+      "inFrame": 3004,
+      "outFrame": 3399
+    },
+    {
+      "image": "S10.png",
+      "role": "aarti",
+      "inFrame": 3399,
+      "outFrame": 3782
+    },
+    {
+      "image": "S11.png",
+      "role": "shared prasadam",
+      "inFrame": 3782,
+      "outFrame": 4150
+    },
+    {
+      "image": "S12.png",
+      "role": "temple at dusk",
+      "inFrame": 4150,
+      "outFrame": 4542
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 4542,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

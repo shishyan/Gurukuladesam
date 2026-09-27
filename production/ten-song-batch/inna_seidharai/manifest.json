@@ -1,0 +1,83 @@
+{
+  "sourceId": "Y3xujLwXuBs",
+  "output": "INNA-SEIDHARAI-CINEMATIC-v1.mp4",
+  "title": "இன்னா செய்தாரை | Inna Seidharai Cinematic Thirukkural Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 972
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 972,
+      "outFrame": 1922
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 1922,
+      "outFrame": 2869
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 2869,
+      "outFrame": 3817
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 3817,
+      "outFrame": 4777
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 4777,
+      "outFrame": 5778
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 5778,
+      "outFrame": 6736
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 6736,
+      "outFrame": 7654
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 7654,
+      "outFrame": 8650
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 8650,
+      "outFrame": 9567
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 9567,
+      "outFrame": 10525
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 10525,
+      "outFrame": 11507
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 11507,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

@@ -1,0 +1,83 @@
+{
+  "sourceId": "x355fpndpTI",
+  "output": "KOUMARAM-STUTHI-CINEMATIC-v1.mp4",
+  "title": "கௌமாரம் ஸ்துதி | Koumaram Stuthi Cinematic Devotional Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 445
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 445,
+      "outFrame": 903
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 903,
+      "outFrame": 1380
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1380,
+      "outFrame": 1818
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1818,
+      "outFrame": 2300
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 2300,
+      "outFrame": 2733
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 2733,
+      "outFrame": 3164
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 3164,
+      "outFrame": 3627
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 3627,
+      "outFrame": 4123
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 4123,
+      "outFrame": 4533
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 4533,
+      "outFrame": 5007
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 5007,
+      "outFrame": 5465
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 5465,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

@@ -1,0 +1,83 @@
+{
+  "sourceId": "On2xoZqBsss",
+  "output": "MUTHAI-THARU-CINEMATIC-v1.mp4",
+  "title": "முத்தைத் தரு | Muthai Tharu Cinematic Thiruppugazh Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 439
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 439,
+      "outFrame": 907
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 907,
+      "outFrame": 1377
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1377,
+      "outFrame": 1848
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1848,
+      "outFrame": 2297
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 2297,
+      "outFrame": 2774
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 2774,
+      "outFrame": 3241
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 3241,
+      "outFrame": 3666
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 3666,
+      "outFrame": 4142
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 4142,
+      "outFrame": 4592
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 4592,
+      "outFrame": 5053
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 5053,
+      "outFrame": 5516
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 5516,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

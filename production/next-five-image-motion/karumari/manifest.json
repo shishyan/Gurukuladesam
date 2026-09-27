@@ -1,0 +1,83 @@
+{
+  "sourceId": "fzoZWnsJReg",
+  "output": "THAAYE-KARUMARI-CINEMATIC-v1.mp4",
+  "title": "à®¤à®¾à®¯à¯‡ à®•à®°à¯à®®à®¾à®°à®¿ | Thaaye Karumari Cinematic Devotional Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 457
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 457,
+      "outFrame": 985
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 985,
+      "outFrame": 1455
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1455,
+      "outFrame": 1920
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1920,
+      "outFrame": 2418
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 2418,
+      "outFrame": 2909
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 2909,
+      "outFrame": 3376
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 3376,
+      "outFrame": 3871
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 3871,
+      "outFrame": 4352
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 4352,
+      "outFrame": 4810
+    },
+    {
+      "image": "S11-v2.png",
+      "role": "scene 11",
+      "inFrame": 4810,
+      "outFrame": 5296
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 5296,
+      "outFrame": 5770
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 5770,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}
