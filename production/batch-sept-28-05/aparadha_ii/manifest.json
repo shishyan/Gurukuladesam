@@ -1,0 +1,83 @@
+{
+  "sourceId": "-9bZmHzYO2g",
+  "title": "Thiruvarutpa Aparadha Vinnappam II | Full Song Film",
+  "output": "APARADHA_VINNAPPAM_II-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "opening",
+      "inFrame": 0,
+      "outFrame": 303
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 303,
+      "outFrame": 615
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 615,
+      "outFrame": 943
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 943,
+      "outFrame": 1250
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1250,
+      "outFrame": 1549
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 1549,
+      "outFrame": 1864
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 1864,
+      "outFrame": 2182
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 2182,
+      "outFrame": 2495
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 2495,
+      "outFrame": 2810
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 2810,
+      "outFrame": 3121
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 3121,
+      "outFrame": 3419
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 3419,
+      "outFrame": 3731
+    }
+  ],
+  "imageDerived": true,
+  "fps": 12,
+  "targetFrames": 3731,
+  "cutRule": "near even spacing at low audio energy"
+}

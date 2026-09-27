@@ -1,0 +1,83 @@
+{
+  "sourceId": "7TlWCD9pa_0",
+  "title": "Thiruvarutpa Muthi Upayam | Full Song Film",
+  "output": "MUTHI_UPAYAM-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "opening",
+      "inFrame": 0,
+      "outFrame": 291
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 291,
+      "outFrame": 579
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 579,
+      "outFrame": 867
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 867,
+      "outFrame": 1144
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1144,
+      "outFrame": 1421
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 1421,
+      "outFrame": 1701
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 1701,
+      "outFrame": 2004
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 2004,
+      "outFrame": 2291
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 2291,
+      "outFrame": 2576
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 2576,
+      "outFrame": 2851
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 2851,
+      "outFrame": 3124
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 3124,
+      "outFrame": 3419
+    }
+  ],
+  "imageDerived": true,
+  "fps": 12,
+  "targetFrames": 3419,
+  "cutRule": "near even spacing at low audio energy"
+}
