@@ -1,0 +1,87 @@
+{
+  "sourceId": "SDPLWITWGho",
+  "title": "??????? ???????? 2026 | Cinematic Lord Shiva Devotional Film",
+  "output": "NATTRUNAI_VILAKKAM-CINEMATIC-ritual-v2.mp4",
+  "rainShots": [
+    8
+  ],
+  "lightningShots": [],
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 2234
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 2234,
+      "outFrame": 4425
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 4425,
+      "outFrame": 6632
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 6632,
+      "outFrame": 8858
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 8858,
+      "outFrame": 11096
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 11096,
+      "outFrame": 13308
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 13308,
+      "outFrame": 15510
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 15510,
+      "outFrame": 17742
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 17742,
+      "outFrame": 19992
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 19992,
+      "outFrame": 22185
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 22185,
+      "outFrame": 24409
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 24409,
+      "outFrame": 26626
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 26626,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

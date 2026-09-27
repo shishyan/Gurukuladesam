@@ -1,0 +1,87 @@
+{
+  "sourceId": "xqM-FFGFDC4",
+  "title": "?????? ???? ???????! | Cinematic Lord Shiva Devotional Film",
+  "output": "THILLAI_VAZH_ANTHANAR-CINEMATIC-ritual-v2.mp4",
+  "rainShots": [
+    8
+  ],
+  "lightningShots": [],
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 1112
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 1112,
+      "outFrame": 2204
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 2204,
+      "outFrame": 3263
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 3263,
+      "outFrame": 4360
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 4360,
+      "outFrame": 5481
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 5481,
+      "outFrame": 6558
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 6558,
+      "outFrame": 7684
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 7684,
+      "outFrame": 8759
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 8759,
+      "outFrame": 9851
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 9851,
+      "outFrame": 10930
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 10930,
+      "outFrame": 12033
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 12033,
+      "outFrame": 13145
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 13145,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

@@ -1,0 +1,87 @@
+{
+  "sourceId": "e9fTnxiiLnc",
+  "title": "???????????? 2026 (??????????) | Cinematic Devotional Film",
+  "output": "THIRUVARTHAI-CINEMATIC-ritual-v2.mp4",
+  "rainShots": [
+    8
+  ],
+  "lightningShots": [],
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 1763
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 1763,
+      "outFrame": 3544
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 3544,
+      "outFrame": 5313
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 5313,
+      "outFrame": 7089
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 7089,
+      "outFrame": 8890
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 8890,
+      "outFrame": 10656
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 10656,
+      "outFrame": 12430
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 12430,
+      "outFrame": 14176
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 14176,
+      "outFrame": 15979
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 15979,
+      "outFrame": 17751
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 17751,
+      "outFrame": 19507
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 19507,
+      "outFrame": 21283
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 21283,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}
