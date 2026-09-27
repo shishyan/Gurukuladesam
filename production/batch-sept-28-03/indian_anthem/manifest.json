@@ -1,0 +1,83 @@
+{
+  "sourceId": "Bq6eGijG9T4",
+  "title": "Indian National Anthem 2026 | Full Song Film",
+  "output": "INDIAN_NATIONAL_ANTHEM-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "opening",
+      "inFrame": 0,
+      "outFrame": 243
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 243,
+      "outFrame": 469
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 469,
+      "outFrame": 701
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 701,
+      "outFrame": 918
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 918,
+      "outFrame": 1165
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 1165,
+      "outFrame": 1391
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 1391,
+      "outFrame": 1630
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 1630,
+      "outFrame": 1840
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 1840,
+      "outFrame": 2073
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 2073,
+      "outFrame": 2305
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 2305,
+      "outFrame": 2546
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 2546,
+      "outFrame": 2777
+    }
+  ],
+  "imageDerived": true,
+  "fps": 12,
+  "targetFrames": 2777,
+  "cutRule": "near even spacing at low audio energy"
+}

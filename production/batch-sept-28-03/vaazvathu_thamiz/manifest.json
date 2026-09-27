@@ -1,0 +1,83 @@
+{
+  "sourceId": "sTSKhkPNI64",
+  "title": "Vaazvathu Thamiz Aagattum | Full Song Film",
+  "output": "VAAZVATHU_THAMIZ-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "opening",
+      "inFrame": 0,
+      "outFrame": 281
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 281,
+      "outFrame": 586
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 586,
+      "outFrame": 877
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 877,
+      "outFrame": 1165
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1165,
+      "outFrame": 1446
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 1446,
+      "outFrame": 1726
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 1726,
+      "outFrame": 2033
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 2033,
+      "outFrame": 2316
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 2316,
+      "outFrame": 2594
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 2594,
+      "outFrame": 2904
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 2904,
+      "outFrame": 3186
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 3186,
+      "outFrame": 3472
+    }
+  ],
+  "imageDerived": true,
+  "fps": 12,
+  "targetFrames": 3472,
+  "cutRule": "near even spacing at low audio energy"
+}

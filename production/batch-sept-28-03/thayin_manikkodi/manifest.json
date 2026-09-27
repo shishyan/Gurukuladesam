@@ -1,0 +1,83 @@
+{
+  "sourceId": "CvDDeKLC4mw",
+  "title": "Thayin Manikkodi Paareer | Full Song Film",
+  "output": "THAYIN_MANIKKODI-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "opening",
+      "inFrame": 0,
+      "outFrame": 461
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 461,
+      "outFrame": 934
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 934,
+      "outFrame": 1406
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1406,
+      "outFrame": 1886
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1886,
+      "outFrame": 2341
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 2341,
+      "outFrame": 2827
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 2827,
+      "outFrame": 3297
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 3297,
+      "outFrame": 3760
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 3760,
+      "outFrame": 4230
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 4230,
+      "outFrame": 4709
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 4709,
+      "outFrame": 5162
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 5162,
+      "outFrame": 5640
+    }
+  ],
+  "imageDerived": true,
+  "fps": 12,
+  "targetFrames": 5640,
+  "cutRule": "near even spacing at low audio energy"
+}
