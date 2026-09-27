@@ -1,0 +1,83 @@
+{
+  "sourceId": "DYAKkr0e5jU",
+  "title": "Thiru Sani Bhagavan Thuthi 2026 | Cinematic Devotional Film",
+  "output": "SANI_BHAGAVAN_THUTHI-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "deity opening",
+      "inFrame": 0,
+      "outFrame": 248
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 248,
+      "outFrame": 511
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 511,
+      "outFrame": 787
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 787,
+      "outFrame": 1041
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1041,
+      "outFrame": 1287
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 1287,
+      "outFrame": 1569
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 1569,
+      "outFrame": 1808
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 1808,
+      "outFrame": 2064
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 2064,
+      "outFrame": 2342
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 2342,
+      "outFrame": 2584
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 2584,
+      "outFrame": 2866
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 2866,
+      "outFrame": 3114
+    }
+  ],
+  "imageDerived": true,
+  "fps": 12,
+  "targetFrames": 3114,
+  "cutRule": "near even spacing at low audio energy"
+}
