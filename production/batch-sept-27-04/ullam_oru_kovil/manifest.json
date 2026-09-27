@@ -1,0 +1,83 @@
+{
+  "sourceId": "zuDJOeLjtcQ",
+  "title": "Ullam Oru Kovil 2026 | Cinematic Devotional Film",
+  "output": "ULLAM_ORU_KOVIL-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "opening",
+      "inFrame": 0,
+      "outFrame": 400
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 400,
+      "outFrame": 774
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 774,
+      "outFrame": 1182
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1182,
+      "outFrame": 1565
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1565,
+      "outFrame": 1970
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 1970,
+      "outFrame": 2368
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 2368,
+      "outFrame": 2757
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 2757,
+      "outFrame": 3140
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 3140,
+      "outFrame": 3541
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 3541,
+      "outFrame": 3924
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 3924,
+      "outFrame": 4329
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 4329,
+      "outFrame": 4718
+    }
+  ],
+  "imageDerived": true,
+  "fps": 12,
+  "targetFrames": 4718,
+  "cutRule": "near even spacing at low audio energy"
+}
