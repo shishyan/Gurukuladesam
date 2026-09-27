@@ -11,8 +11,12 @@
 ## Picture and sound
 
 - [ ] Use the exact original Guru Kula Desam song recording without generated vocals or music.
+- [ ] Place a small traditional dheepam (oil lamp) and thoopam holder with **three to five agarbatti sticks burning slowly** at the bottom of **each** side of the frame. Keep the Guru Kula Desam logo visible at lower left and keep faces, lyrics, and important action clear.
+- [ ] Animate each lamp flame with restrained, irregular flicker. Give the agarbatti tips faint embers and thin white-grey smoke that rises slowly from each burning tip, curls and diffuses naturally, and never appears as a detached or repeating loop.
+- [ ] Add light drizzle only to outdoor shots whose weather and ground support it. Use occasional, brief lightning illumination during storm passages; avoid regular flashing, indoor rain, or a cartoon bolt. Preserve the original song audio without artificial thunder sounds unless separately approved.
+- [ ] Review the composited result at full speed, including flame, smoke, rain, lightning, logo clearance, and transitions between dry and wet shots.
 - [ ] Inspect every generated artwork for anatomy, cultural setting, objects, unwanted text, and visual continuity before it enters the edit.
 - [ ] Use a different source image for every shot. Check the final shot manifest for repeated image files before rendering or uploading.
 - [ ] Keep image-derived motion honest: camera movement and composited effects do not imply independent movement within a still artwork.
 - [ ] Finish with full-length audiovisual review, stream decode, black-frame check, and audio-source verification.
-- [ ] Obtain a separate release decision before uploading a new film.
+- [ ] Confirm the current release authorization, title, and visibility before uploading.
