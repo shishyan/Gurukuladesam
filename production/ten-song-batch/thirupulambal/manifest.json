@@ -1,0 +1,83 @@
+{
+  "sourceId": "BbDNJdLDy-4",
+  "output": "THIRUPULAMBAL-CINEMATIC-v1.mp4",
+  "title": "திருப்புலம்பல் | Thirupulambal Cinematic Devotional Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 471
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 471,
+      "outFrame": 896
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 896,
+      "outFrame": 1352
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1352,
+      "outFrame": 1808
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1808,
+      "outFrame": 2255
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 2255,
+      "outFrame": 2666
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 2666,
+      "outFrame": 3133
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 3133,
+      "outFrame": 3587
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 3587,
+      "outFrame": 4004
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 4004,
+      "outFrame": 4459
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 4459,
+      "outFrame": 4938
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 4938,
+      "outFrame": 5369
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 5369,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

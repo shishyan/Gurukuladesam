@@ -1,5 +1,24 @@
 # Active production batch
 
+## 2026-09-27 Kalvi publication
+
+User required no repeated images before uploading. Replaced the repeated-image
+review cut with `production/kalvi-image-motion/KALVI-CINEMATIC-v3-UNIQUE-IMAGES.mp4`:
+24 shots, 24 distinct artworks, wide orchestral opening, lower-left channel
+logo, exact original AAC. Full decode, black-frame and audio identity checks
+passed. Published on Guru Kula Desam: https://youtu.be/KZxknhbVIk0 .
+
+Production-wide music and picture checks are in `production/FILM-PRODUCTION-CHECKLIST.md`.
+
+## 2026-09-27 Kalvi image-motion review
+
+Following the published Gana Natha Om image-based film, a full-length Kalvi
+review cut was created at `production/kalvi-image-motion/KALVI-FULL-IMAGE-MOTION-REVIEW-v1.mp4`.
+It contains 12 new ImageGen artworks in 24 moving framings over the exact
+original `_Ceq0AzIQ9c` AAC. Full decode and black-frame check passed; ADTS
+audio payload matches the source byte-for-byte. This is an unpublished review
+cut. See `production/kalvi-image-motion/README.md` for limits and reproduction.
+
 ## 2026-09-26 image-motion full-length Vaan review
 
 User now explicitly requests continuing films with ImageGen-based image-to-video

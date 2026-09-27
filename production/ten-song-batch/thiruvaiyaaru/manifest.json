@@ -1,0 +1,83 @@
+{
+  "sourceId": "xAgvuRIIl6o",
+  "output": "THIRUVAIYAARU-THIRUMURAI-CINEMATIC-v1.mp4",
+  "title": "திருவையாறு திருமுறை | Thiruvaiyaaru Thirumurai Cinematic Devotional Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 708
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 708,
+      "outFrame": 1372
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 1372,
+      "outFrame": 2092
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 2092,
+      "outFrame": 2798
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 2798,
+      "outFrame": 3459
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 3459,
+      "outFrame": 4183
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 4183,
+      "outFrame": 4878
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 4878,
+      "outFrame": 5542
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 5542,
+      "outFrame": 6259
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 6259,
+      "outFrame": 6957
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 6957,
+      "outFrame": 7606
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 7606,
+      "outFrame": 8321
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 8321,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

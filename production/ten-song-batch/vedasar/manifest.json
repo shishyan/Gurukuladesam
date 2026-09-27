@@ -1,0 +1,83 @@
+{
+  "sourceId": "_6amHDAc8EI",
+  "output": "VEDASAR-SHIVA-STOTRAM-CINEMATIC-v1.mp4",
+  "title": "வேதசார் சிவ ஸ்தோத்திரம் | Vedasar Shiva Stotram Cinematic Devotional Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 737
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 737,
+      "outFrame": 1462
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 1462,
+      "outFrame": 2207
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 2207,
+      "outFrame": 2942
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 2942,
+      "outFrame": 3672
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 3672,
+      "outFrame": 4421
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 4421,
+      "outFrame": 5155
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 5155,
+      "outFrame": 5908
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 5908,
+      "outFrame": 6628
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 6628,
+      "outFrame": 7377
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 7377,
+      "outFrame": 8096
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 8096,
+      "outFrame": 8841
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 8841,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

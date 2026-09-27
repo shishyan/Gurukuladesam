@@ -1,0 +1,274 @@
+{
+  "sourceVideoId": "_Ceq0AzIQ9c",
+  "sourceAudio": "source\\youtube\\_Ceq0AzIQ9c.m4a",
+  "fps": 24,
+  "targetFrames": 8718,
+  "imageDerived": true,
+  "cutRule": "nearby low-energy points; human lyric and music timing unverified",
+  "shots": [
+    {
+      "image": "KV13-wide-orchestral-opening.png",
+      "role": "wide orchestral opening",
+      "inFrame": 0,
+      "outFrame": 337,
+      "center": [
+        0.5,
+        0.51
+      ],
+      "baseZoom": 1.02
+    },
+    {
+      "image": "KV01-learning-courtyard.png",
+      "role": "courtyard gathering",
+      "inFrame": 337,
+      "outFrame": 717,
+      "center": [
+        0.5,
+        0.53
+      ],
+      "baseZoom": 1.04
+    },
+    {
+      "image": "KV03-learning-tools.png",
+      "role": "learning materials",
+      "inFrame": 717,
+      "outFrame": 1072,
+      "center": [
+        0.48,
+        0.55
+      ],
+      "baseZoom": 1.05
+    },
+    {
+      "image": "KV14-pebble-counting.png",
+      "role": "counting pebbles",
+      "inFrame": 1072,
+      "outFrame": 1440,
+      "center": [
+        0.5,
+        0.52
+      ],
+      "baseZoom": 1.05
+    },
+    {
+      "image": "KV02-measurement.png",
+      "role": "patient measurement",
+      "inFrame": 1440,
+      "outFrame": 1793,
+      "center": [
+        0.5,
+        0.51
+      ],
+      "baseZoom": 1.05
+    },
+    {
+      "image": "KV15-measuring-cord.png",
+      "role": "measuring cord",
+      "inFrame": 1793,
+      "outFrame": 2153,
+      "center": [
+        0.51,
+        0.52
+      ],
+      "baseZoom": 1.05
+    },
+    {
+      "image": "KV07-sand-geometry.png",
+      "role": "drawing in sand",
+      "inFrame": 2153,
+      "outFrame": 2539,
+      "center": [
+        0.5,
+        0.56
+      ],
+      "baseZoom": 1.05
+    },
+    {
+      "image": "KV16-palm-reading.png",
+      "role": "reading palm leaf",
+      "inFrame": 2539,
+      "outFrame": 2885,
+      "center": [
+        0.52,
+        0.51
+      ],
+      "baseZoom": 1.05
+    },
+    {
+      "image": "KV08-learning-veranda.png",
+      "role": "reading together",
+      "inFrame": 2885,
+      "outFrame": 3252,
+      "center": [
+        0.52,
+        0.51
+      ],
+      "baseZoom": 1.05
+    },
+    {
+      "image": "KV17-stylus-craft.png",
+      "role": "artisan teaches",
+      "inFrame": 3252,
+      "outFrame": 3630,
+      "center": [
+        0.51,
+        0.52
+      ],
+      "baseZoom": 1.05
+    },
+    {
+      "image": "KV05-water-model.png",
+      "role": "demonstration model",
+      "inFrame": 3630,
+      "outFrame": 3999,
+      "center": [
+        0.5,
+        0.53
+      ],
+      "baseZoom": 1.05
+    },
+    {
+      "image": "KV06-sand-water.png",
+      "role": "water and sand metaphor",
+      "inFrame": 3999,
+      "outFrame": 4372,
+      "center": [
+        0.51,
+        0.54
+      ],
+      "baseZoom": 1.05
+    },
+    {
+      "image": "KV18-irrigation-lesson.png",
+      "role": "irrigation lesson",
+      "inFrame": 4372,
+      "outFrame": 4703,
+      "center": [
+        0.51,
+        0.54
+      ],
+      "baseZoom": 1.05
+    },
+    {
+      "image": "KV04-practical-craft.png",
+      "role": "practice in craft",
+      "inFrame": 4703,
+      "outFrame": 5093,
+      "center": [
+        0.51,
+        0.51
+      ],
+      "baseZoom": 1.05
+    },
+    {
+      "image": "KV19-workshop-inspection.png",
+      "role": "workshop inspection",
+      "inFrame": 5093,
+      "outFrame": 5435,
+      "center": [
+        0.51,
+        0.51
+      ],
+      "baseZoom": 1.05
+    },
+    {
+      "image": "KV11-tools-detail.png",
+      "role": "useful tools",
+      "inFrame": 5435,
+      "outFrame": 5821,
+      "center": [
+        0.5,
+        0.56
+      ],
+      "baseZoom": 1.06
+    },
+    {
+      "image": "KV20-water-channel.png",
+      "role": "water channel",
+      "inFrame": 5821,
+      "outFrame": 6200,
+      "center": [
+        0.5,
+        0.55
+      ],
+      "baseZoom": 1.05
+    },
+    {
+      "image": "KV09-student-explains.png",
+      "role": "learner explains",
+      "inFrame": 6200,
+      "outFrame": 6565,
+      "center": [
+        0.51,
+        0.51
+      ],
+      "baseZoom": 1.05
+    },
+    {
+      "image": "KV21-market-measurement.png",
+      "role": "community craft",
+      "inFrame": 6565,
+      "outFrame": 6904,
+      "center": [
+        0.51,
+        0.52
+      ],
+      "baseZoom": 1.05
+    },
+    {
+      "image": "KV10-irrigation-practice.png",
+      "role": "knowledge in use",
+      "inFrame": 6904,
+      "outFrame": 7251,
+      "center": [
+        0.51,
+        0.53
+      ],
+      "baseZoom": 1.05
+    },
+    {
+      "image": "KV22-seed-counting.png",
+      "role": "teaching onward",
+      "inFrame": 7251,
+      "outFrame": 7618,
+      "center": [
+        0.51,
+        0.53
+      ],
+      "baseZoom": 1.05
+    },
+    {
+      "image": "KV23-teaching-blocks.png",
+      "role": "teaching materials",
+      "inFrame": 7618,
+      "outFrame": 7967,
+      "center": [
+        0.5,
+        0.54
+      ],
+      "baseZoom": 1.05
+    },
+    {
+      "image": "KV12-community-learning.png",
+      "role": "community learning",
+      "inFrame": 7967,
+      "outFrame": 8383,
+      "center": [
+        0.51,
+        0.51
+      ],
+      "baseZoom": 1.05
+    },
+    {
+      "image": "KV24-wide-closing.png",
+      "role": "wide closing",
+      "inFrame": 8383,
+      "outFrame": 8718,
+      "center": [
+        0.5,
+        0.51
+      ],
+      "baseZoom": 1.03
+    }
+  ]
+}

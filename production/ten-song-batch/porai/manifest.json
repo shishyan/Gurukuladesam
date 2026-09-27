@@ -1,0 +1,131 @@
+{
+  "sourceId": "aSQrSHA4YtU",
+  "output": "PORAI-UDAIMAI-CINEMATIC-v1.mp4",
+  "title": "பொறை உடைமை | Porai Udaimai Cinematic Thirukkural Film",
+  "shots": [
+    {
+      "image": "P01.png",
+      "role": "wide earth opening",
+      "inFrame": 0,
+      "outFrame": 456
+    },
+    {
+      "image": "P02.png",
+      "role": "earth bears the hoe",
+      "inFrame": 456,
+      "outFrame": 894
+    },
+    {
+      "image": "P03.png",
+      "role": "shared garden",
+      "inFrame": 894,
+      "outFrame": 1392
+    },
+    {
+      "image": "P04.png",
+      "role": "accidental disorder",
+      "inFrame": 1392,
+      "outFrame": 1851
+    },
+    {
+      "image": "P05.png",
+      "role": "restraint",
+      "inFrame": 1851,
+      "outFrame": 2266
+    },
+    {
+      "image": "P06.png",
+      "role": "pause",
+      "inFrame": 2266,
+      "outFrame": 2723
+    },
+    {
+      "image": "P07.png",
+      "role": "seedling and soil",
+      "inFrame": 2723,
+      "outFrame": 3227
+    },
+    {
+      "image": "P08.png",
+      "role": "respectful space",
+      "inFrame": 3227,
+      "outFrame": 3673
+    },
+    {
+      "image": "P17.png",
+      "role": "separate practical work",
+      "inFrame": 3673,
+      "outFrame": 4145
+    },
+    {
+      "image": "P18.png",
+      "role": "rooted tree",
+      "inFrame": 4145,
+      "outFrame": 4595
+    },
+    {
+      "image": "P09.png",
+      "role": "repair begins",
+      "inFrame": 4595,
+      "outFrame": 5027
+    },
+    {
+      "image": "P10.png",
+      "role": "fence repair",
+      "inFrame": 5027,
+      "outFrame": 5506
+    },
+    {
+      "image": "P11.png",
+      "role": "ordinary cooperation",
+      "inFrame": 5506,
+      "outFrame": 5964
+    },
+    {
+      "image": "P12.png",
+      "role": "quiet tools",
+      "inFrame": 5964,
+      "outFrame": 6419
+    },
+    {
+      "image": "P13.png",
+      "role": "patient listening",
+      "inFrame": 6419,
+      "outFrame": 6891
+    },
+    {
+      "image": "P19.png",
+      "role": "helpful action",
+      "inFrame": 6891,
+      "outFrame": 7323
+    },
+    {
+      "image": "P14.png",
+      "role": "community garden",
+      "inFrame": 7323,
+      "outFrame": 7763
+    },
+    {
+      "image": "P15.png",
+      "role": "enduring land",
+      "inFrame": 7763,
+      "outFrame": 8246
+    },
+    {
+      "image": "P20.png",
+      "role": "calm dusk",
+      "inFrame": 8246,
+      "outFrame": 8713
+    },
+    {
+      "image": "P16.png",
+      "role": "wide closing earth",
+      "inFrame": 8713,
+      "outFrame": 9157
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 9157,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

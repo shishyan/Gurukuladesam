@@ -1,0 +1,149 @@
+{
+  "sourceId": "cKyT1Cv7zEA",
+  "output": "MAASIL-VEENAIYUM-CINEMATIC-v1.mp4",
+  "title": "மாசில் வீணையும் | Maasil Veenaiyum Cinematic Devotional Film",
+  "shots": [
+    {
+      "image": "M01-imagegen-pilgrimage.png",
+      "role": "M01-imagegen-pilgrimage",
+      "inFrame": 0,
+      "outFrame": 308
+    },
+    {
+      "image": "M02-imagegen-veena.png",
+      "role": "M02-imagegen-veena",
+      "inFrame": 308,
+      "outFrame": 591
+    },
+    {
+      "image": "M03-imagegen-moon-lotus-pond.png",
+      "role": "M03-imagegen-moon-lotus-pond",
+      "inFrame": 591,
+      "outFrame": 836
+    },
+    {
+      "image": "M04-imagegen-spring-konrai.png",
+      "role": "M04-imagegen-spring-konrai",
+      "inFrame": 836,
+      "outFrame": 1140
+    },
+    {
+      "image": "M05-imagegen-sanctum-threshold.png",
+      "role": "M05-imagegen-sanctum-threshold",
+      "inFrame": 1140,
+      "outFrame": 1401
+    },
+    {
+      "image": "M06-imagegen-sacred-feet.png",
+      "role": "M06-imagegen-sacred-feet",
+      "inFrame": 1401,
+      "outFrame": 1729
+    },
+    {
+      "image": "M07-imagegen-bees-lotus.png",
+      "role": "M07-imagegen-bees-lotus",
+      "inFrame": 1729,
+      "outFrame": 1993
+    },
+    {
+      "image": "M08-imagegen-temple-spring.png",
+      "role": "M08-imagegen-temple-spring",
+      "inFrame": 1993,
+      "outFrame": 2281
+    },
+    {
+      "image": "M09-imagegen-moonlit-veena-strings.png",
+      "role": "M09-imagegen-moonlit-veena-strings",
+      "inFrame": 2281,
+      "outFrame": 2542
+    },
+    {
+      "image": "M10-imagegen-earth-temple-step.png",
+      "role": "M10-imagegen-earth-temple-step",
+      "inFrame": 2542,
+      "outFrame": 2835
+    },
+    {
+      "image": "M11-imagegen-breeze-bells-corridor.png",
+      "role": "M11-imagegen-breeze-bells-corridor",
+      "inFrame": 2835,
+      "outFrame": 3112
+    },
+    {
+      "image": "M12-imagegen-grace-footlight.png",
+      "role": "M12-imagegen-grace-footlight",
+      "inFrame": 3112,
+      "outFrame": 3406
+    },
+    {
+      "image": "M13-imagegen-moon-vimana.png",
+      "role": "M13-imagegen-moon-vimana",
+      "inFrame": 3406,
+      "outFrame": 3684
+    },
+    {
+      "image": "M14-imagegen-summer-to-shade.png",
+      "role": "M14-imagegen-summer-to-shade",
+      "inFrame": 3684,
+      "outFrame": 3972
+    },
+    {
+      "image": "M15-imagegen-bilva-lamp-offering.png",
+      "role": "M15-imagegen-bilva-lamp-offering",
+      "inFrame": 3972,
+      "outFrame": 4282
+    },
+    {
+      "image": "M16-imagegen-overhead-pilgrimage.png",
+      "role": "M16-imagegen-overhead-pilgrimage",
+      "inFrame": 4282,
+      "outFrame": 4541
+    },
+    {
+      "image": "M17-imagegen-moonlit-tank-breeze.png",
+      "role": "M17-imagegen-moonlit-tank-breeze",
+      "inFrame": 4541,
+      "outFrame": 4813
+    },
+    {
+      "image": "M18-imagegen-tripundra-rudraksha.png",
+      "role": "M18-imagegen-tripundra-rudraksha",
+      "inFrame": 4813,
+      "outFrame": 5095
+    },
+    {
+      "image": "M19-imagegen-pilgrim-breeze-portrait.png",
+      "role": "M19-imagegen-pilgrim-breeze-portrait",
+      "inFrame": 5095,
+      "outFrame": 5411
+    },
+    {
+      "image": "M20-imagegen-yali-rain-channel.png",
+      "role": "M20-imagegen-yali-rain-channel",
+      "inFrame": 5411,
+      "outFrame": 5671
+    },
+    {
+      "image": "M21-imagegen-sunrise-departure.png",
+      "role": "M21-imagegen-sunrise-departure",
+      "inFrame": 5671,
+      "outFrame": 5965
+    },
+    {
+      "image": "M22-imagegen-nandi-sanctum-axis.png",
+      "role": "M22-imagegen-nandi-sanctum-axis",
+      "inFrame": 5965,
+      "outFrame": 6236
+    },
+    {
+      "image": "M23-imagegen-burdens-laid-down.png",
+      "role": "M23-imagegen-burdens-laid-down",
+      "inFrame": 6236,
+      "outFrame": 6539
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 6539,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

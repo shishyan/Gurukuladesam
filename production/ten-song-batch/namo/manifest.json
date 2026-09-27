@@ -1,0 +1,113 @@
+{
+  "sourceId": "4vZEVROZIx8",
+  "output": "NAMO-NARAYANAM-CINEMATIC-v1.mp4",
+  "title": "நமோ நாராயணம் | Namo Narayanam Cinematic Devotional Film",
+  "shots": [
+    {
+      "image": "N17-imagegen-cosmic-ocean-transition.png",
+      "role": "N17-imagegen-cosmic-ocean-transition",
+      "inFrame": 0,
+      "outFrame": 629
+    },
+    {
+      "image": "N01-imagegen-four-emblems.png",
+      "role": "N01-imagegen-four-emblems",
+      "inFrame": 629,
+      "outFrame": 1283
+    },
+    {
+      "image": "N02-imagegen-matsya.png",
+      "role": "N02-imagegen-matsya",
+      "inFrame": 1283,
+      "outFrame": 1920
+    },
+    {
+      "image": "N04-imagegen-kurma.png",
+      "role": "N04-imagegen-kurma",
+      "inFrame": 1920,
+      "outFrame": 2592
+    },
+    {
+      "image": "N05-imagegen-varaha.png",
+      "role": "N05-imagegen-varaha",
+      "inFrame": 2592,
+      "outFrame": 3232
+    },
+    {
+      "image": "N06-imagegen-narasimha-light.png",
+      "role": "N06-imagegen-narasimha-light",
+      "inFrame": 3232,
+      "outFrame": 3835
+    },
+    {
+      "image": "N03-imagegen-vamana-three-steps.png",
+      "role": "N03-imagegen-vamana-three-steps",
+      "inFrame": 3835,
+      "outFrame": 4519
+    },
+    {
+      "image": "N11-imagegen-parashurama-axe.png",
+      "role": "N11-imagegen-parashurama-axe",
+      "inFrame": 4519,
+      "outFrame": 5116
+    },
+    {
+      "image": "N07-imagegen-rama-bow.png",
+      "role": "N07-imagegen-rama-bow",
+      "inFrame": 5116,
+      "outFrame": 5793
+    },
+    {
+      "image": "N12-imagegen-balarama-plough-mace.png",
+      "role": "N12-imagegen-balarama-plough-mace",
+      "inFrame": 5793,
+      "outFrame": 6417
+    },
+    {
+      "image": "N08-imagegen-krishna-flute.png",
+      "role": "N08-imagegen-krishna-flute",
+      "inFrame": 6417,
+      "outFrame": 7060
+    },
+    {
+      "image": "N09-imagegen-kalki-horse.png",
+      "role": "N09-imagegen-kalki-horse",
+      "inFrame": 7060,
+      "outFrame": 7724
+    },
+    {
+      "image": "N15-imagegen-ten-avatar-relief.png",
+      "role": "N15-imagegen-ten-avatar-relief",
+      "inFrame": 7724,
+      "outFrame": 8342
+    },
+    {
+      "image": "N14-imagegen-garuda-banner.png",
+      "role": "N14-imagegen-garuda-banner",
+      "inFrame": 8342,
+      "outFrame": 8968
+    },
+    {
+      "image": "N16-imagegen-tulsi-conch-water.png",
+      "role": "N16-imagegen-tulsi-conch-water",
+      "inFrame": 8968,
+      "outFrame": 9637
+    },
+    {
+      "image": "N13-imagegen-vishnu-lakshmi.png",
+      "role": "N13-imagegen-vishnu-lakshmi",
+      "inFrame": 9637,
+      "outFrame": 10253
+    },
+    {
+      "image": "N10-imagegen-ananta-shayanam.png",
+      "role": "N10-imagegen-ananta-shayanam",
+      "inFrame": 10253,
+      "outFrame": 10916
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 10916,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}
