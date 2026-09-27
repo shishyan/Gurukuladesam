@@ -1,0 +1,86 @@
+{
+  "sourceId": "nsWHXJGDYA8",
+  "title": "அன்னைப்பத்து (2026) திருவாசகம் | Annaippathu Cinematic Devotional Film",
+  "output": "ANNAIPPATHU-CINEMATIC-ritual-v2.mp4",
+  "rainShots": [
+    8
+  ],
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 1090
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 1090,
+      "outFrame": 2115
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 2115,
+      "outFrame": 3225
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 3225,
+      "outFrame": 4263
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 4263,
+      "outFrame": 5342
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 5342,
+      "outFrame": 6417
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 6417,
+      "outFrame": 7499
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 7499,
+      "outFrame": 8538
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 8538,
+      "outFrame": 9619
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 9619,
+      "outFrame": 10699
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 10699,
+      "outFrame": 11745
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 11745,
+      "outFrame": 12815
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 12815,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

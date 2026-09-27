@@ -1,0 +1,86 @@
+{
+  "sourceId": "A2CB3LpJ0Qk",
+  "title": "கரைந்து கைதொழுவாரையும் | Karaindhu Kai Thozhuvaaraiyum Cinematic Devotional Film",
+  "output": "KARAINDHU_KAI_THOZHUVAARAIYUM-CINEMATIC-ritual-v2.mp4",
+  "rainShots": [
+    8
+  ],
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 1146
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 1146,
+      "outFrame": 2262
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 2262,
+      "outFrame": 3431
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 3431,
+      "outFrame": 4597
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 4597,
+      "outFrame": 5695
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 5695,
+      "outFrame": 6853
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 6853,
+      "outFrame": 8004
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 8004,
+      "outFrame": 9157
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 9157,
+      "outFrame": 10296
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 10296,
+      "outFrame": 11441
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 11441,
+      "outFrame": 12569
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 12569,
+      "outFrame": 13719
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 13719,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}
