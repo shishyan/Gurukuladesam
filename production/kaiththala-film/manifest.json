@@ -1,0 +1,83 @@
+{
+  "sourceId": "IhE1OvdIBKs",
+  "title": "கைத்தல நிறைகனி | Kaiththala Niraigani Cinematic Thiruppugazh Film",
+  "output": "KAITHTHALA-NIRAIGANI-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 607
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 607,
+      "outFrame": 1172
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 1172,
+      "outFrame": 1786
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1786,
+      "outFrame": 2373
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 2373,
+      "outFrame": 2960
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 2960,
+      "outFrame": 3506
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 3506,
+      "outFrame": 4122
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 4122,
+      "outFrame": 4721
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 4721,
+      "outFrame": 5282
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 5282,
+      "outFrame": 5864
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 5864,
+      "outFrame": 6464
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 6464,
+      "outFrame": 7046
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 7046,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}
