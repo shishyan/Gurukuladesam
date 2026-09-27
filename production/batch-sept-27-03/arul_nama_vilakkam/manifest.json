@@ -1,0 +1,83 @@
+{
+  "sourceId": "ZsxGP1jIZ-s",
+  "title": "Arul Nama Vilakkam | Cinematic Devotional Film",
+  "output": "ARUL_NAMA_VILAKKAM-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "opening",
+      "inFrame": 0,
+      "outFrame": 523
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 523,
+      "outFrame": 1036
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 1036,
+      "outFrame": 1538
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1538,
+      "outFrame": 2074
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 2074,
+      "outFrame": 2586
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 2586,
+      "outFrame": 3099
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 3099,
+      "outFrame": 3620
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 3620,
+      "outFrame": 4122
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 4122,
+      "outFrame": 4655
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 4655,
+      "outFrame": 5167
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 5167,
+      "outFrame": 5680
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 5680,
+      "outFrame": 6201
+    }
+  ],
+  "imageDerived": true,
+  "fps": 12,
+  "targetFrames": 6201,
+  "cutRule": "near even spacing at low audio energy"
+}

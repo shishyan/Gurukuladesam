@@ -1,0 +1,83 @@
+{
+  "sourceId": "MDK8Oq7p1j8",
+  "title": "Konrai Vendhan | Cinematic Devotional Film",
+  "output": "KONRAI_VENDHAN-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "opening",
+      "inFrame": 0,
+      "outFrame": 389
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 389,
+      "outFrame": 792
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 792,
+      "outFrame": 1186
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1186,
+      "outFrame": 1568
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1568,
+      "outFrame": 1970
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 1970,
+      "outFrame": 2352
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 2352,
+      "outFrame": 2752
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 2752,
+      "outFrame": 3144
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 3144,
+      "outFrame": 3534
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 3534,
+      "outFrame": 3914
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 3914,
+      "outFrame": 4319
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 4319,
+      "outFrame": 4711
+    }
+  ],
+  "imageDerived": true,
+  "fps": 12,
+  "targetFrames": 4711,
+  "cutRule": "near even spacing at low audio energy"
+}
