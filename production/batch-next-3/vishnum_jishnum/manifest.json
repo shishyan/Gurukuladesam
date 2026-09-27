@@ -1,0 +1,83 @@
+{
+  "sourceId": "468ErjVLRCs",
+  "title": "Vishnum Jishnum | Cinematic Devotional Film",
+  "output": "VISHNUM_JISHNUM-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "deity opening",
+      "inFrame": 0,
+      "outFrame": 280
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 280,
+      "outFrame": 543
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 543,
+      "outFrame": 820
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 820,
+      "outFrame": 1083
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1083,
+      "outFrame": 1369
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 1369,
+      "outFrame": 1639
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 1639,
+      "outFrame": 1902
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 1902,
+      "outFrame": 2187
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 2187,
+      "outFrame": 2440
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 2440,
+      "outFrame": 2716
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 2716,
+      "outFrame": 2988
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 2988,
+      "outFrame": 3262
+    }
+  ],
+  "imageDerived": true,
+  "fps": 12,
+  "targetFrames": 3262,
+  "cutRule": "near even spacing at low audio energy"
+}
