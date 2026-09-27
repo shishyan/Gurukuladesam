@@ -1,0 +1,83 @@
+{
+  "sourceId": "gre-26HFBfA",
+  "title": "Arutperunjothi 2026 VI | Full Song Film",
+  "output": "ARUTPERUNJOTHI_VI-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "opening",
+      "inFrame": 0,
+      "outFrame": 1348
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 1348,
+      "outFrame": 2695
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 2695,
+      "outFrame": 4026
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 4026,
+      "outFrame": 5375
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 5375,
+      "outFrame": 6705
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 6705,
+      "outFrame": 8056
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 8056,
+      "outFrame": 9410
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 9410,
+      "outFrame": 10748
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 10748,
+      "outFrame": 12086
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 12086,
+      "outFrame": 13444
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 13444,
+      "outFrame": 14768
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 14768,
+      "outFrame": 16121
+    }
+  ],
+  "imageDerived": true,
+  "fps": 12,
+  "targetFrames": 16121,
+  "cutRule": "near even spacing at low audio energy"
+}
