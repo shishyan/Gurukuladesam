@@ -1,0 +1,86 @@
+{
+  "sourceId": "J2-tBRFihEQ",
+  "title": "திருப்பல்லாண்டு | Thiru Pallaandu Cinematic Devotional Film",
+  "output": "THIRU_PALLAANDU-CINEMATIC-v1.mp4",
+  "rainShots": [
+    9
+  ],
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 525
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 525,
+      "outFrame": 1087
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 1087,
+      "outFrame": 1619
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1619,
+      "outFrame": 2161
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 2161,
+      "outFrame": 2680
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 2680,
+      "outFrame": 3235
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 3235,
+      "outFrame": 3759
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 3759,
+      "outFrame": 4343
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 4343,
+      "outFrame": 4840
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 4840,
+      "outFrame": 5383
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 5383,
+      "outFrame": 5964
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 5964,
+      "outFrame": 6481
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 6481,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

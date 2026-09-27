@@ -1,0 +1,86 @@
+{
+  "sourceId": "7WnikKPxo-k",
+  "title": "ஆனந்த மாலை | Anandha Maalai Cinematic Devotional Film",
+  "output": "ANANDHA_MAALAI-CINEMATIC-v1.mp4",
+  "rainShots": [
+    9
+  ],
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 608
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 608,
+      "outFrame": 1210
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 1210,
+      "outFrame": 1810
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1810,
+      "outFrame": 2402
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 2402,
+      "outFrame": 3038
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 3038,
+      "outFrame": 3601
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 3601,
+      "outFrame": 4222
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 4222,
+      "outFrame": 4822
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 4822,
+      "outFrame": 5436
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 5436,
+      "outFrame": 6041
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 6041,
+      "outFrame": 6661
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 6661,
+      "outFrame": 7242
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 7242,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

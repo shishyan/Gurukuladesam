@@ -1,0 +1,86 @@
+{
+  "sourceId": "pF7fYFU5fKs",
+  "title": "திருவடிப் புகழ்ச்சி | Thiruvadi Pugazhchi Cinematic Devotional Film",
+  "output": "THIRUVADI_PUGAZHCHI-CINEMATIC-v1.mp4",
+  "rainShots": [
+    9
+  ],
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 527
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 527,
+      "outFrame": 1117
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 1117,
+      "outFrame": 1639
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1639,
+      "outFrame": 2224
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 2224,
+      "outFrame": 2744
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 2744,
+      "outFrame": 3310
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 3310,
+      "outFrame": 3847
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 3847,
+      "outFrame": 4402
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 4402,
+      "outFrame": 4959
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 4959,
+      "outFrame": 5489
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 5489,
+      "outFrame": 6035
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 6035,
+      "outFrame": 6600
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 6600,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

@@ -1,0 +1,84 @@
+{
+  "sourceId": "57X8XwJaB0U",
+  "title": "உலகெலாம் உணர்ந்து | Ulagelaam Unarndhu Cinematic Devotional Film",
+  "output": "ULAGELAAM_UNARNDHU-CINEMATIC-v1.mp4",
+  "rainShots": [],
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 501
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 501,
+      "outFrame": 979
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 979,
+      "outFrame": 1451
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1451,
+      "outFrame": 1931
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1931,
+      "outFrame": 2389
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 2389,
+      "outFrame": 2853
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 2853,
+      "outFrame": 3358
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 3358,
+      "outFrame": 3808
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 3808,
+      "outFrame": 4283
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 4283,
+      "outFrame": 4762
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 4762,
+      "outFrame": 5263
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 5263,
+      "outFrame": 5734
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 5734,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}
