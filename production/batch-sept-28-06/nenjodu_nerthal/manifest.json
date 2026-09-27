@@ -1,0 +1,83 @@
+{
+  "sourceId": "8KQc368hCmg",
+  "title": "Thiruvarutpa Nenjodu Nerthal | Full Song Film",
+  "output": "NENJODU_NERTHAL-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "opening",
+      "inFrame": 0,
+      "outFrame": 480
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 480,
+      "outFrame": 962
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 962,
+      "outFrame": 1447
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1447,
+      "outFrame": 1907
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1907,
+      "outFrame": 2384
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 2384,
+      "outFrame": 2874
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 2874,
+      "outFrame": 3340
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 3340,
+      "outFrame": 3822
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 3822,
+      "outFrame": 4301
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 4301,
+      "outFrame": 4775
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 4775,
+      "outFrame": 5270
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 5270,
+      "outFrame": 5744
+    }
+  ],
+  "imageDerived": true,
+  "fps": 12,
+  "targetFrames": 5744,
+  "cutRule": "near even spacing at low audio energy"
+}

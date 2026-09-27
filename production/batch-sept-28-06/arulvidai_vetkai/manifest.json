@@ -1,0 +1,83 @@
+{
+  "sourceId": "cVbT38ujUTQ",
+  "title": "Thiruvarutpa Arulvidai Vetkai | Full Song Film",
+  "output": "ARULVIDAI_VETKAI-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "opening",
+      "inFrame": 0,
+      "outFrame": 512
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 512,
+      "outFrame": 1005
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 1005,
+      "outFrame": 1528
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1528,
+      "outFrame": 2021
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 2021,
+      "outFrame": 2547
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 2547,
+      "outFrame": 3057
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 3057,
+      "outFrame": 3543
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 3543,
+      "outFrame": 4052
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 4052,
+      "outFrame": 4570
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 4570,
+      "outFrame": 5075
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 5075,
+      "outFrame": 5598
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 5598,
+      "outFrame": 6094
+    }
+  ],
+  "imageDerived": true,
+  "fps": 12,
+  "targetFrames": 6094,
+  "cutRule": "near even spacing at low audio energy"
+}

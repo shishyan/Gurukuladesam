@@ -1,0 +1,83 @@
+{
+  "sourceId": "VyUqD3ZO3BU",
+  "title": "Thiruvarutpa Arivarum Perumai | Full Song Film",
+  "output": "ARIVARUM_PERUMAI-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "opening",
+      "inFrame": 0,
+      "outFrame": 400
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 400,
+      "outFrame": 811
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 811,
+      "outFrame": 1241
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1241,
+      "outFrame": 1638
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1638,
+      "outFrame": 2059
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 2059,
+      "outFrame": 2473
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 2473,
+      "outFrame": 2865
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 2865,
+      "outFrame": 3284
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 3284,
+      "outFrame": 3706
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 3706,
+      "outFrame": 4095
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 4095,
+      "outFrame": 4508
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 4508,
+      "outFrame": 4925
+    }
+  ],
+  "imageDerived": true,
+  "fps": 12,
+  "targetFrames": 4925,
+  "cutRule": "near even spacing at low audio energy"
+}
