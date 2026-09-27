@@ -1,0 +1,87 @@
+{
+  "sourceId": "5vieI9fE5Y8",
+  "title": "??????? ???????? | Cinematic Lord Shiva Devotional Film",
+  "output": "PUNNIYA_VILAKKAM-CINEMATIC-ritual-v2.mp4",
+  "rainShots": [
+    8
+  ],
+  "lightningShots": [],
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 1149
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 1149,
+      "outFrame": 2334
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 2334,
+      "outFrame": 3505
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 3505,
+      "outFrame": 4664
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 4664,
+      "outFrame": 5816
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 5816,
+      "outFrame": 6950
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 6950,
+      "outFrame": 8140
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 8140,
+      "outFrame": 9318
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 9318,
+      "outFrame": 10450
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 10450,
+      "outFrame": 11597
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 11597,
+      "outFrame": 12778
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 12778,
+      "outFrame": 13941
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 13941,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

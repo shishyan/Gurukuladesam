@@ -1,0 +1,89 @@
+{
+  "sourceId": "M4KRTTyoD_A",
+  "title": "Achcho Pathigam | Cinematic Lord Shiva Devotional Film",
+  "output": "ACHCHO_PATHIGAM-CINEMATIC-ritual-v2.mp4",
+  "rainShots": [
+    8
+  ],
+  "lightningShots": [
+    8
+  ],
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 898
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 898,
+      "outFrame": 1848
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 1848,
+      "outFrame": 2745
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 2745,
+      "outFrame": 3630
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 3630,
+      "outFrame": 4563
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 4563,
+      "outFrame": 5499
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 5499,
+      "outFrame": 6410
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 6410,
+      "outFrame": 7319
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 7319,
+      "outFrame": 8206
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 8206,
+      "outFrame": 9142
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 9142,
+      "outFrame": 10040
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 10040,
+      "outFrame": 10954
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 10954,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

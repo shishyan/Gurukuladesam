@@ -1,0 +1,89 @@
+{
+  "sourceId": "2_rwWlC09I0",
+  "title": "???????????????? | Cinematic Lord Shiva Devotional Film",
+  "output": "SMARANA_ARUNACHALAM-CINEMATIC-ritual-v2.mp4",
+  "rainShots": [
+    8
+  ],
+  "lightningShots": [
+    8
+  ],
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 1180
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 1180,
+      "outFrame": 2367
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 2367,
+      "outFrame": 3496
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 3496,
+      "outFrame": 4690
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 4690,
+      "outFrame": 5846
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 5846,
+      "outFrame": 7024
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 7024,
+      "outFrame": 8217
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 8217,
+      "outFrame": 9408
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 9408,
+      "outFrame": 10571
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 10571,
+      "outFrame": 11708
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 11708,
+      "outFrame": 12922
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 12922,
+      "outFrame": 14079
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 14079,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

@@ -1,0 +1,87 @@
+{
+  "sourceId": "CSqgMX4LhJI",
+  "title": "????????????? ????? 2026 (??????????) | Cinematic Devotional Film",
+  "output": "PRARTHANAI_PATHU-CINEMATIC-ritual-v2.mp4",
+  "rainShots": [
+    8
+  ],
+  "lightningShots": [],
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 1290
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 1290,
+      "outFrame": 2524
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 2524,
+      "outFrame": 3806
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 3806,
+      "outFrame": 5065
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 5065,
+      "outFrame": 6350
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 6350,
+      "outFrame": 7586
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 7586,
+      "outFrame": 8887
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 8887,
+      "outFrame": 10111
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 10111,
+      "outFrame": 11426
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 11426,
+      "outFrame": 12687
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 12687,
+      "outFrame": 13911
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 13911,
+      "outFrame": 15202
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 15202,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}
