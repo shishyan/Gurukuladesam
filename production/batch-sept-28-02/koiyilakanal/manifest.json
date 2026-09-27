@@ -1,0 +1,83 @@
+{
+  "sourceId": "G4Tk8Z1tKRg",
+  "title": "Koiyilakanal 2026 | Full Song Film",
+  "output": "KOIYILAKANAL-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "opening",
+      "inFrame": 0,
+      "outFrame": 764
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 764,
+      "outFrame": 1544
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 1544,
+      "outFrame": 2331
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 2331,
+      "outFrame": 3103
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 3103,
+      "outFrame": 3884
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 3884,
+      "outFrame": 4654
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 4654,
+      "outFrame": 5425
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 5425,
+      "outFrame": 6205
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 6205,
+      "outFrame": 6980
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 6980,
+      "outFrame": 7771
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 7771,
+      "outFrame": 8537
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 8537,
+      "outFrame": 9311
+    }
+  ],
+  "imageDerived": true,
+  "fps": 12,
+  "targetFrames": 9311,
+  "cutRule": "near even spacing at low audio energy"
+}

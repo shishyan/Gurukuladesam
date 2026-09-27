@@ -1,0 +1,83 @@
+{
+  "sourceId": "28Xnfhctf0I",
+  "title": "Samsaram Enbathu Veenai Remix 2026 | Full Song Film",
+  "output": "SAMSARAM_ENBATHU_VEENAI-REMIX-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "opening",
+      "inFrame": 0,
+      "outFrame": 316
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 316,
+      "outFrame": 617
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 617,
+      "outFrame": 918
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 918,
+      "outFrame": 1226
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1226,
+      "outFrame": 1527
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 1527,
+      "outFrame": 1828
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 1828,
+      "outFrame": 2120
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 2120,
+      "outFrame": 2434
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 2434,
+      "outFrame": 2734
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 2734,
+      "outFrame": 3042
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 3042,
+      "outFrame": 3333
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 3333,
+      "outFrame": 3645
+    }
+  ],
+  "imageDerived": true,
+  "fps": 12,
+  "targetFrames": 3645,
+  "cutRule": "near even spacing at low audio energy"
+}
