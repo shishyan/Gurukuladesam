@@ -1,0 +1,89 @@
+{
+  "sourceId": "I70WNnsVXtY",
+  "title": "கள்ளப் பிழையும் | Kalla Pizhaiyum Cinematic Devotional Film",
+  "output": "KALLA_PIZHAIYUM-CINEMATIC-ritual-v2.mp4",
+  "rainShots": [
+    8
+  ],
+  "lightningShots": [
+    8
+  ],
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 787
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 787,
+      "outFrame": 1547
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 1547,
+      "outFrame": 2302
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 2302,
+      "outFrame": 3031
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 3031,
+      "outFrame": 3805
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 3805,
+      "outFrame": 4580
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 4580,
+      "outFrame": 5360
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 5360,
+      "outFrame": 6131
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 6131,
+      "outFrame": 6890
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 6890,
+      "outFrame": 7627
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 7627,
+      "outFrame": 8414
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 8414,
+      "outFrame": 9164
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 9164,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

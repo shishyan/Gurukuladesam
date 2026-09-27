@@ -1,0 +1,87 @@
+{
+  "sourceId": "rr1zamJEIdg",
+  "title": "பண்டாய நான்மறை | Pandaaya Naanmarai Cinematic Devotional Film",
+  "output": "PANDAAYA_NAANMARAI-CINEMATIC-ritual-v2.mp4",
+  "rainShots": [
+    8
+  ],
+  "lightningShots": [],
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 702
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 702,
+      "outFrame": 1410
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 1410,
+      "outFrame": 2064
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 2064,
+      "outFrame": 2791
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 2791,
+      "outFrame": 3458
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 3458,
+      "outFrame": 4146
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 4146,
+      "outFrame": 4867
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 4867,
+      "outFrame": 5557
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 5557,
+      "outFrame": 6225
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 6225,
+      "outFrame": 6933
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 6933,
+      "outFrame": 7614
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 7614,
+      "outFrame": 8332
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 8332,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

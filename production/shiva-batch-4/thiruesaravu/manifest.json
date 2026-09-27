@@ -1,0 +1,87 @@
+{
+  "sourceId": "RmggfAhGNXU",
+  "title": "திருஏசறவு 2026 (திருவாசகம்) | Thiruesaravu Cinematic Devotional Film",
+  "output": "THIRUESARAVU-CINEMATIC-ritual-v2.mp4",
+  "rainShots": [
+    8
+  ],
+  "lightningShots": [],
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 1119
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 1119,
+      "outFrame": 2244
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 2244,
+      "outFrame": 3356
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 3356,
+      "outFrame": 4419
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 4419,
+      "outFrame": 5530
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 5530,
+      "outFrame": 6662
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 6662,
+      "outFrame": 7763
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 7763,
+      "outFrame": 8863
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 8863,
+      "outFrame": 9972
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 9972,
+      "outFrame": 11112
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 11112,
+      "outFrame": 12235
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 12235,
+      "outFrame": 13327
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 13327,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

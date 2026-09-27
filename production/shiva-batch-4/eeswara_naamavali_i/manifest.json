@@ -1,0 +1,89 @@
+{
+  "sourceId": "-yxeA6nvNZk",
+  "title": "ஈஸ்வர நாமவளி சரணம்! (I) | Eeswara Naamavali Saranam Cinematic Devotional Film",
+  "output": "EESWARA_NAAMAVALI_I-CINEMATIC-ritual-v2.mp4",
+  "rainShots": [
+    8
+  ],
+  "lightningShots": [
+    8
+  ],
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 389
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 389,
+      "outFrame": 734
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 734,
+      "outFrame": 1132
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1132,
+      "outFrame": 1481
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1481,
+      "outFrame": 1888
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 1888,
+      "outFrame": 2229
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 2229,
+      "outFrame": 2614
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 2614,
+      "outFrame": 2985
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 2985,
+      "outFrame": 3359
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 3359,
+      "outFrame": 3735
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 3735,
+      "outFrame": 4104
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 4104,
+      "outFrame": 4474
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 4474,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

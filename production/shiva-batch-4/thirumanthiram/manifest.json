@@ -1,0 +1,87 @@
+{
+  "sourceId": "CHWHsVF0V70",
+  "title": "திருமந்திரம் (முதல் தந்திரம்) | Thirumanthiram Cinematic Devotional Film",
+  "output": "THIRUMANTHIRAM-CINEMATIC-ritual-v2.mp4",
+  "rainShots": [
+    8
+  ],
+  "lightningShots": [],
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 932
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 932,
+      "outFrame": 1924
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 1924,
+      "outFrame": 2855
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 2855,
+      "outFrame": 3802
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 3802,
+      "outFrame": 4757
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 4757,
+      "outFrame": 5703
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 5703,
+      "outFrame": 6674
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 6674,
+      "outFrame": 7609
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 7609,
+      "outFrame": 8552
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 8552,
+      "outFrame": 9492
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 9492,
+      "outFrame": 10483
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 10483,
+      "outFrame": 11411
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 11411,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}
