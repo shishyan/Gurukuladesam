@@ -16,3 +16,14 @@ This ledger counts distinct source songs. All completed renders use the original
 | Thaaye Karumari | [Original](https://youtu.be/fzoZWnsJReg) | Ready locally | Discography; Goddess Amman Songs |
 
 The local films are in `next-five-image-motion`. Update this ledger with public links and verify both playlists after the upload limit clears. Avoid publishing another film of a source song already represented in this table.
+
+## Additional films ready after the ten-song set
+
+These distinct source songs have no earlier cinematic film in the release records. Each has twelve unique image scenes, the original audio, and the lower-left emblem. Both passed exact decoded-audio comparison and full media decode; sampled rendered frames were inspected.
+
+| Song | Source | Local film | Playlists when published |
+|---|---|---|---|
+| Avinasi Pathu | [Original](https://youtu.be/8HUmRJKyxTc) | `next-five-image-motion/avinasi/AVINASI-PATHU-CINEMATIC-v1.mp4` | Discography; Lord Shiva Songs |
+| Ongi Ulagalandha | [Original](https://youtu.be/To2l9uyCjMg) | `next-five-image-motion/ongi/ONGI-ULAGALANDHA-CINEMATIC-v1.mp4` | Discography; Lord Vishnu Songs |
+
+Publish the three pending films above first, then these two, once YouTube Studio permits uploads. Check Studio for any public film of the same source before each upload and add the public URL to this ledger.
