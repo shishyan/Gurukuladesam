@@ -1,0 +1,83 @@
+{
+  "sourceId": "kkDJM6dKTxs",
+  "title": "Thiruvarutpa Ingitha Maalai 2026 | Full Song Film",
+  "output": "INGITHA_MAALAI-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "opening",
+      "inFrame": 0,
+      "outFrame": 677
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 677,
+      "outFrame": 1321
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 1321,
+      "outFrame": 1984
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1984,
+      "outFrame": 2656
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 2656,
+      "outFrame": 3320
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 3320,
+      "outFrame": 3997
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 3997,
+      "outFrame": 4652
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 4652,
+      "outFrame": 5318
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 5318,
+      "outFrame": 5979
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 5979,
+      "outFrame": 6650
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 6650,
+      "outFrame": 7316
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 7316,
+      "outFrame": 7975
+    }
+  ],
+  "imageDerived": true,
+  "fps": 12,
+  "targetFrames": 7975,
+  "cutRule": "near even spacing at low audio energy"
+}

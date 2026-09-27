@@ -1,0 +1,83 @@
+{
+  "sourceId": "4qnq1zW63hI",
+  "title": "Thiruvarutpa Aaram Thirumurai | Full Song Film",
+  "output": "AARAM_THIRUMURAI-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "opening",
+      "inFrame": 0,
+      "outFrame": 398
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 398,
+      "outFrame": 819
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 819,
+      "outFrame": 1231
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1231,
+      "outFrame": 1645
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1645,
+      "outFrame": 2048
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 2048,
+      "outFrame": 2451
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 2451,
+      "outFrame": 2870
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 2870,
+      "outFrame": 3288
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 3288,
+      "outFrame": 3685
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 3685,
+      "outFrame": 4088
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 4088,
+      "outFrame": 4510
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 4510,
+      "outFrame": 4916
+    }
+  ],
+  "imageDerived": true,
+  "fps": 12,
+  "targetFrames": 4916,
+  "cutRule": "near even spacing at low audio energy"
+}
