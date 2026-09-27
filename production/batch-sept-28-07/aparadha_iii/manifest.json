@@ -1,0 +1,83 @@
+{
+  "sourceId": "PLBuPRdKMHE",
+  "title": "Thiruvarutpa Aparadha Vinnappam III Golden | Full Song Film",
+  "output": "APARADHA_VINNAPPAM_III-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "opening",
+      "inFrame": 0,
+      "outFrame": 297
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 297,
+      "outFrame": 573
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 573,
+      "outFrame": 880
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 880,
+      "outFrame": 1168
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1168,
+      "outFrame": 1458
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 1458,
+      "outFrame": 1752
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 1752,
+      "outFrame": 2028
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 2028,
+      "outFrame": 2329
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 2329,
+      "outFrame": 2616
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 2616,
+      "outFrame": 2910
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 2910,
+      "outFrame": 3204
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 3204,
+      "outFrame": 3485
+    }
+  ],
+  "imageDerived": true,
+  "fps": 12,
+  "targetFrames": 3485,
+  "cutRule": "near even spacing at low audio energy"
+}

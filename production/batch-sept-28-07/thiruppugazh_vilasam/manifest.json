@@ -1,0 +1,83 @@
+{
+  "sourceId": "XelTS98bLec",
+  "title": "Thiruvarutpa Thiruppugazh Vilasam | Full Song Film",
+  "output": "THIRUPPUGAZH_VILASAM-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "opening",
+      "inFrame": 0,
+      "outFrame": 247
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 247,
+      "outFrame": 479
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 479,
+      "outFrame": 730
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 730,
+      "outFrame": 974
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 974,
+      "outFrame": 1214
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 1214,
+      "outFrame": 1458
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 1458,
+      "outFrame": 1677
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 1677,
+      "outFrame": 1941
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 1941,
+      "outFrame": 2161
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 2161,
+      "outFrame": 2404
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 2404,
+      "outFrame": 2648
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 2648,
+      "outFrame": 2893
+    }
+  ],
+  "imageDerived": true,
+  "fps": 12,
+  "targetFrames": 2893,
+  "cutRule": "near even spacing at low audio energy"
+}
