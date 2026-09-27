@@ -1,0 +1,87 @@
+{
+  "sourceId": "fcWB5HrGeMs",
+  "title": "திரு உந்தியார் | Thiru Undhiyar Cinematic Devotional Film",
+  "output": "THIRU_UNDHIYAR-CINEMATIC-ritual-v2.mp4",
+  "rainShots": [
+    8
+  ],
+  "lightningShots": [],
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 951
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 951,
+      "outFrame": 1937
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 1937,
+      "outFrame": 2897
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 2897,
+      "outFrame": 3813
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 3813,
+      "outFrame": 4770
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 4770,
+      "outFrame": 5751
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 5751,
+      "outFrame": 6688
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 6688,
+      "outFrame": 7694
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 7694,
+      "outFrame": 8617
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 8617,
+      "outFrame": 9606
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 9606,
+      "outFrame": 10564
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 10564,
+      "outFrame": 11505
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 11505,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

@@ -1,0 +1,89 @@
+{
+  "sourceId": "qQqwD3gjenE",
+  "title": "திருப்புலம்பல் 2026 (திருவாசகம்) | Thiruppulambal Cinematic Devotional Film",
+  "output": "THIRUPPULAMBAL-CINEMATIC-ritual-v2.mp4",
+  "rainShots": [
+    8
+  ],
+  "lightningShots": [
+    8
+  ],
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 471
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 471,
+      "outFrame": 895
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 895,
+      "outFrame": 1351
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1351,
+      "outFrame": 1808
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1808,
+      "outFrame": 2254
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 2254,
+      "outFrame": 2665
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 2665,
+      "outFrame": 3132
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 3132,
+      "outFrame": 3587
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 3587,
+      "outFrame": 4003
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 4003,
+      "outFrame": 4458
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 4458,
+      "outFrame": 4937
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 4937,
+      "outFrame": 5367
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 5367,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}
