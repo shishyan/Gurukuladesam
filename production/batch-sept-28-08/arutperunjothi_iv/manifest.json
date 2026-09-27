@@ -1,0 +1,83 @@
+{
+  "sourceId": "RtHz7rTLNHk",
+  "title": "Arutperunjothi Agaval 2026 IV | Full Song Film",
+  "output": "ARUTPERUNJOTHI_IV-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "opening",
+      "inFrame": 0,
+      "outFrame": 305
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 305,
+      "outFrame": 646
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 646,
+      "outFrame": 948
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 948,
+      "outFrame": 1265
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1265,
+      "outFrame": 1596
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 1596,
+      "outFrame": 1898
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 1898,
+      "outFrame": 2211
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 2211,
+      "outFrame": 2527
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 2527,
+      "outFrame": 2863
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 2863,
+      "outFrame": 3178
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 3178,
+      "outFrame": 3479
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 3479,
+      "outFrame": 3807
+    }
+  ],
+  "imageDerived": true,
+  "fps": 12,
+  "targetFrames": 3807,
+  "cutRule": "near even spacing at low audio energy"
+}
