@@ -58,7 +58,7 @@ SHOTS = [
 ]
 
 def source_for(code):
-    folder = STILLS if code.startswith("S") else HERE
+    folder = HERE if code.startswith(("TG", "TT", "NN")) else STILLS
     matches = list(folder.glob(f"{code}-*.png"))
     if len(matches) != 1:
         raise ValueError(f"Expected one source for {code}: {matches}")

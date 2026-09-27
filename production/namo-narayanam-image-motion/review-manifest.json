@@ -1,0 +1,417 @@
+{
+  "sourceVideoId": "4vZEVROZIx8",
+  "sourceAudio": "source\\youtube\\4vZEVROZIx8-நமோ நாராயணம் ｜ தசாவதாரம்.m4a",
+  "imageDerived": true,
+  "fps": 24,
+  "frames": 10916,
+  "logo": "production\\gananatha-om\\channel-avatar-reference.jpg",
+  "shots": [
+    {
+      "image": "production\\approved\\namo-narayanam\\N01-imagegen-four-emblems.png",
+      "role": "Vishnu emblems",
+      "inFrame": 0,
+      "outFrame": 301,
+      "center": [
+        0.5,
+        0.5
+      ],
+      "baseZoom": 1.04
+    },
+    {
+      "image": "production\\namo-narayanam-image-motion\\NN18-devotees-approach.png",
+      "role": "devotees approach Vishnu temple",
+      "inFrame": 301,
+      "outFrame": 598,
+      "center": [
+        0.5,
+        0.49
+      ],
+      "baseZoom": 1.05
+    },
+    {
+      "image": "production\\approved\\namo-narayanam\\N14-imagegen-garuda-banner.png",
+      "role": "Garuda banner",
+      "inFrame": 598,
+      "outFrame": 868,
+      "center": [
+        0.5,
+        0.5
+      ],
+      "baseZoom": 1.08
+    },
+    {
+      "image": "production\\approved\\namo-narayanam\\N16-imagegen-tulsi-conch-water.png",
+      "role": "tulsi and conch offering",
+      "inFrame": 868,
+      "outFrame": 1169,
+      "center": [
+        0.5,
+        0.51
+      ],
+      "baseZoom": 1.08
+    },
+    {
+      "image": "production\\namo-narayanam-image-motion\\NN21-devotees-tank.png",
+      "role": "devotees at temple tank",
+      "inFrame": 1169,
+      "outFrame": 1475,
+      "center": [
+        0.5,
+        0.49
+      ],
+      "baseZoom": 1.04
+    },
+    {
+      "image": "production\\approved\\namo-narayanam\\N17-imagegen-cosmic-ocean-transition.png",
+      "role": "cosmic ocean transition",
+      "inFrame": 1475,
+      "outFrame": 1784,
+      "center": [
+        0.5,
+        0.5
+      ],
+      "baseZoom": 1.07
+    },
+    {
+      "image": "production\\approved\\namo-narayanam\\N02-imagegen-matsya.png",
+      "role": "Matsya",
+      "inFrame": 1784,
+      "outFrame": 2074,
+      "center": [
+        0.5,
+        0.5
+      ],
+      "baseZoom": 1.05
+    },
+    {
+      "image": "production\\approved\\namo-narayanam\\N04-imagegen-kurma.png",
+      "role": "Kurma",
+      "inFrame": 2074,
+      "outFrame": 2346,
+      "center": [
+        0.5,
+        0.5
+      ],
+      "baseZoom": 1.05
+    },
+    {
+      "image": "production\\namo-narayanam-image-motion\\NN22-varaha-boar.png",
+      "role": "Varaha boar",
+      "inFrame": 2346,
+      "outFrame": 2668,
+      "center": [
+        0.5,
+        0.51
+      ],
+      "baseZoom": 1.05
+    },
+    {
+      "image": "production\\approved\\namo-narayanam\\N06-imagegen-narasimha-light.png",
+      "role": "Narasimha",
+      "inFrame": 2668,
+      "outFrame": 2933,
+      "center": [
+        0.5,
+        0.49
+      ],
+      "baseZoom": 1.06
+    },
+    {
+      "image": "production\\approved\\namo-narayanam\\N03-imagegen-vamana-three-steps.png",
+      "role": "Vamana",
+      "inFrame": 2933,
+      "outFrame": 3231,
+      "center": [
+        0.5,
+        0.5
+      ],
+      "baseZoom": 1.06
+    },
+    {
+      "image": "production\\approved\\namo-narayanam\\N11-imagegen-parashurama-axe.png",
+      "role": "Parashurama",
+      "inFrame": 3231,
+      "outFrame": 3557,
+      "center": [
+        0.5,
+        0.51
+      ],
+      "baseZoom": 1.07
+    },
+    {
+      "image": "production\\approved\\namo-narayanam\\N07-imagegen-rama-bow.png",
+      "role": "Rama",
+      "inFrame": 3557,
+      "outFrame": 3835,
+      "center": [
+        0.5,
+        0.5
+      ],
+      "baseZoom": 1.07
+    },
+    {
+      "image": "production\\approved\\namo-narayanam\\N12-imagegen-balarama-plough-mace.png",
+      "role": "Balarama",
+      "inFrame": 3835,
+      "outFrame": 4139,
+      "center": [
+        0.5,
+        0.51
+      ],
+      "baseZoom": 1.07
+    },
+    {
+      "image": "production\\approved\\namo-narayanam\\N08-imagegen-krishna-flute.png",
+      "role": "Krishna",
+      "inFrame": 4139,
+      "outFrame": 4418,
+      "center": [
+        0.5,
+        0.5
+      ],
+      "baseZoom": 1.08
+    },
+    {
+      "image": "production\\approved\\namo-narayanam\\N09-imagegen-kalki-horse.png",
+      "role": "Kalki",
+      "inFrame": 4418,
+      "outFrame": 4738,
+      "center": [
+        0.5,
+        0.5
+      ],
+      "baseZoom": 1.06
+    },
+    {
+      "image": "production\\namo-narayanam-image-motion\\NN19-avatar-teaching.png",
+      "role": "devotees study Dashavatara relief",
+      "inFrame": 4738,
+      "outFrame": 5030,
+      "center": [
+        0.5,
+        0.5
+      ],
+      "baseZoom": 1.04
+    },
+    {
+      "image": "production\\approved\\namo-narayanam\\N15-imagegen-ten-avatar-relief.png",
+      "role": "ten-avatar relief",
+      "inFrame": 5030,
+      "outFrame": 5321,
+      "center": [
+        0.5,
+        0.49
+      ],
+      "baseZoom": 1.04
+    },
+    {
+      "image": "production\\approved\\namo-narayanam\\N10-imagegen-ananta-shayanam.png",
+      "role": "Ananta Shayanam",
+      "inFrame": 5321,
+      "outFrame": 5617,
+      "center": [
+        0.5,
+        0.5
+      ],
+      "baseZoom": 1.05
+    },
+    {
+      "image": "production\\approved\\namo-narayanam\\N13-imagegen-vishnu-lakshmi.png",
+      "role": "Vishnu and Lakshmi",
+      "inFrame": 5617,
+      "outFrame": 5896,
+      "center": [
+        0.5,
+        0.49
+      ],
+      "baseZoom": 1.04
+    },
+    {
+      "image": "production\\namo-narayanam-image-motion\\NN20-tulsi-offering.png",
+      "role": "priest offers tulsi",
+      "inFrame": 5896,
+      "outFrame": 6212,
+      "center": [
+        0.5,
+        0.49
+      ],
+      "baseZoom": 1.04
+    },
+    {
+      "image": "production\\approved\\namo-narayanam\\N02-imagegen-matsya.png",
+      "role": "Matsya ocean closer",
+      "inFrame": 6212,
+      "outFrame": 6509,
+      "center": [
+        0.49,
+        0.52
+      ],
+      "baseZoom": 1.32
+    },
+    {
+      "image": "production\\approved\\namo-narayanam\\N04-imagegen-kurma.png",
+      "role": "Kurma mountain closer",
+      "inFrame": 6509,
+      "outFrame": 6792,
+      "center": [
+        0.55,
+        0.49
+      ],
+      "baseZoom": 1.31
+    },
+    {
+      "image": "production\\namo-narayanam-image-motion\\NN22-varaha-boar.png",
+      "role": "Varaha boar closer",
+      "inFrame": 6792,
+      "outFrame": 7066,
+      "center": [
+        0.51,
+        0.49
+      ],
+      "baseZoom": 1.31
+    },
+    {
+      "image": "production\\approved\\namo-narayanam\\N06-imagegen-narasimha-light.png",
+      "role": "Narasimha closer",
+      "inFrame": 7066,
+      "outFrame": 7370,
+      "center": [
+        0.5,
+        0.48
+      ],
+      "baseZoom": 1.31
+    },
+    {
+      "image": "production\\approved\\namo-narayanam\\N03-imagegen-vamana-three-steps.png",
+      "role": "Vamana steps closer",
+      "inFrame": 7370,
+      "outFrame": 7689,
+      "center": [
+        0.55,
+        0.49
+      ],
+      "baseZoom": 1.31
+    },
+    {
+      "image": "production\\approved\\namo-narayanam\\N11-imagegen-parashurama-axe.png",
+      "role": "Parashurama axe closer",
+      "inFrame": 7689,
+      "outFrame": 7984,
+      "center": [
+        0.53,
+        0.48
+      ],
+      "baseZoom": 1.33
+    },
+    {
+      "image": "production\\approved\\namo-narayanam\\N07-imagegen-rama-bow.png",
+      "role": "Rama bow closer",
+      "inFrame": 7984,
+      "outFrame": 8264,
+      "center": [
+        0.55,
+        0.49
+      ],
+      "baseZoom": 1.31
+    },
+    {
+      "image": "production\\approved\\namo-narayanam\\N12-imagegen-balarama-plough-mace.png",
+      "role": "Balarama plough closer",
+      "inFrame": 8264,
+      "outFrame": 8553,
+      "center": [
+        0.52,
+        0.52
+      ],
+      "baseZoom": 1.31
+    },
+    {
+      "image": "production\\approved\\namo-narayanam\\N08-imagegen-krishna-flute.png",
+      "role": "Krishna flute closer",
+      "inFrame": 8553,
+      "outFrame": 8855,
+      "center": [
+        0.52,
+        0.51
+      ],
+      "baseZoom": 1.32
+    },
+    {
+      "image": "production\\approved\\namo-narayanam\\N09-imagegen-kalki-horse.png",
+      "role": "Kalki horse closer",
+      "inFrame": 8855,
+      "outFrame": 9164,
+      "center": [
+        0.53,
+        0.51
+      ],
+      "baseZoom": 1.31
+    },
+    {
+      "image": "production\\approved\\namo-narayanam\\N15-imagegen-ten-avatar-relief.png",
+      "role": "Dashavatara medallions closer",
+      "inFrame": 9164,
+      "outFrame": 9440,
+      "center": [
+        0.5,
+        0.5
+      ],
+      "baseZoom": 1.3
+    },
+    {
+      "image": "production\\namo-narayanam-image-motion\\NN21-devotees-tank.png",
+      "role": "devotees return to tank",
+      "inFrame": 9440,
+      "outFrame": 9737,
+      "center": [
+        0.59,
+        0.49
+      ],
+      "baseZoom": 1.28
+    },
+    {
+      "image": "production\\approved\\namo-narayanam\\N14-imagegen-garuda-banner.png",
+      "role": "Garuda banner closer",
+      "inFrame": 9737,
+      "outFrame": 10043,
+      "center": [
+        0.48,
+        0.5
+      ],
+      "baseZoom": 1.31
+    },
+    {
+      "image": "production\\approved\\namo-narayanam\\N10-imagegen-ananta-shayanam.png",
+      "role": "Ananta Shayanam closer",
+      "inFrame": 10043,
+      "outFrame": 10340,
+      "center": [
+        0.5,
+        0.49
+      ],
+      "baseZoom": 1.3
+    },
+    {
+      "image": "production\\namo-narayanam-image-motion\\NN20-tulsi-offering.png",
+      "role": "tulsi reaches sanctum",
+      "inFrame": 10340,
+      "outFrame": 10625,
+      "center": [
+        0.57,
+        0.49
+      ],
+      "baseZoom": 1.28
+    },
+    {
+      "image": "production\\approved\\namo-narayanam\\N13-imagegen-vishnu-lakshmi.png",
+      "role": "Vishnu and Lakshmi final",
+      "inFrame": 10625,
+      "outFrame": 10916,
+      "center": [
+        0.5,
+        0.49
+      ],
+      "baseZoom": 1.04
+    }
+  ]
+}
