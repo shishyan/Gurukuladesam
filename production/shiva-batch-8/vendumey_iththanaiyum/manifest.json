@@ -1,0 +1,87 @@
+{
+  "sourceId": "wC45ZWg05eo",
+  "title": "வேண்டுமே இத்தனையும் (திருவெம்பாவை) | Vendumey Iththanaiyum Cinematic Shiva Film",
+  "output": "VENDUMEY_ITHTHANAIYUM-CINEMATIC-ritual-v2.mp4",
+  "rainShots": [
+    10
+  ],
+  "lightningShots": [],
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 527
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 527,
+      "outFrame": 1021
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 1021,
+      "outFrame": 1529
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1529,
+      "outFrame": 2062
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 2062,
+      "outFrame": 2565
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 2565,
+      "outFrame": 3077
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 3077,
+      "outFrame": 3594
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 3594,
+      "outFrame": 4071
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 4071,
+      "outFrame": 4604
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 4604,
+      "outFrame": 5123
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 5123,
+      "outFrame": 5631
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 5631,
+      "outFrame": 6123
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 6123,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

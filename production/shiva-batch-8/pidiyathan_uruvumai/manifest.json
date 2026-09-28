@@ -1,0 +1,87 @@
+{
+  "sourceId": "AuEZhvVmA90",
+  "title": "பிடியதன் உருவுமை | Pidiyathan Uruvumai Cinematic Shiva Film",
+  "output": "PIDIYATHAN_URUVUMAI-CINEMATIC-ritual-v2.mp4",
+  "rainShots": [
+    10
+  ],
+  "lightningShots": [],
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 1176
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 1176,
+      "outFrame": 2350
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 2350,
+      "outFrame": 3554
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 3554,
+      "outFrame": 4699
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 4699,
+      "outFrame": 5874
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 5874,
+      "outFrame": 7063
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 7063,
+      "outFrame": 8237
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 8237,
+      "outFrame": 9437
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 9437,
+      "outFrame": 10625
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 10625,
+      "outFrame": 11782
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 11782,
+      "outFrame": 12972
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 12972,
+      "outFrame": 14141
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 14141,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

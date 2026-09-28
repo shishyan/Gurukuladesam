@@ -1,0 +1,89 @@
+{
+  "sourceId": "qqpvlkv0mSY",
+  "title": "திருவோத்தூர் பதிகம் - பூத்தேர்ந்து... | Thiruvothur Pathigam Cinematic Shiva Film",
+  "output": "THIRUVOTHUR_PATHIGAM-CINEMATIC-ritual-v2.mp4",
+  "rainShots": [
+    10
+  ],
+  "lightningShots": [
+    10
+  ],
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 1050
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 1050,
+      "outFrame": 2116
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 2116,
+      "outFrame": 3203
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 3203,
+      "outFrame": 4242
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 4242,
+      "outFrame": 5302
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 5302,
+      "outFrame": 6391
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 6391,
+      "outFrame": 7462
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 7462,
+      "outFrame": 8501
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 8501,
+      "outFrame": 9545
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 9545,
+      "outFrame": 10611
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 10611,
+      "outFrame": 11699
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 11699,
+      "outFrame": 12759
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 12759,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

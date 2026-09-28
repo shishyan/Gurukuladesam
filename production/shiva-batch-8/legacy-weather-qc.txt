@@ -1,0 +1,2 @@
+PASS poovar_senni: 12 distinct scenes; exact decoded audio; full media decode; 46702190 bytes
+PASS nattrunai_vilakkam: 12 distinct scenes; exact decoded audio; full media decode; 53565554 bytes

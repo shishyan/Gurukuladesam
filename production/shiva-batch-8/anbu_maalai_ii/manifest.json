@@ -1,0 +1,87 @@
+{
+  "sourceId": "4zG1CdYiVxs",
+  "title": "திருவருட்பா - அன்பு மாலை - 2026 (II) | Anbu Maalai II Cinematic Shiva Film",
+  "output": "ANBU_MAALAI_II-CINEMATIC-ritual-v2.mp4",
+  "rainShots": [
+    10
+  ],
+  "lightningShots": [],
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 554
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 554,
+      "outFrame": 1101
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 1101,
+      "outFrame": 1677
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1677,
+      "outFrame": 2214
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 2214,
+      "outFrame": 2810
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 2810,
+      "outFrame": 3374
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 3374,
+      "outFrame": 3894
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 3894,
+      "outFrame": 4443
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 4443,
+      "outFrame": 5030
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 5030,
+      "outFrame": 5577
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 5577,
+      "outFrame": 6136
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 6136,
+      "outFrame": 6700
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 6700,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

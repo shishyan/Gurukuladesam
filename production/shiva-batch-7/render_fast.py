@@ -78,17 +78,18 @@ def main():
     data = json.loads(path.read_text(encoding="utf-8"))
     folder = path.parent
     shots = data["shots"]
-    assert len(shots) == 12 and len({s["image"] for s in shots}) == 12
+    count = len(shots)
+    assert count in (12, 24) and len({s["image"] for s in shots}) == count
     audio = HERE / "source" / f"{data['sourceId']}.m4a"
     raw = subprocess.check_output([FFMPEG, "-v", "error", "-i", str(audio),
                                    "-ac", "1", "-ar", "8000", "-f", "f32le", "pipe:1"])
     samples = np.frombuffer(raw, dtype="<f4")
     frames = round(len(samples) * FPS / 8000)
     cuts = [0]
-    for i in range(1, 12):
-        nominal = round(i * frames / 12)
+    for i in range(1, count):
+        nominal = round(i * frames / count)
         low = max(cuts[-1] + 180, nominal - 24)
-        high = min(frames - (12 - i) * 180, nominal + 24)
+        high = min(frames - (count - i) * 180, nominal + 24)
         def score(f):
             c = round(f * 8000 / FPS)
             w = samples[max(0, c-650):min(len(samples), c+650)]
@@ -109,12 +110,12 @@ def main():
         assert image.is_file()
         inputs.extend(["-i", str(image)])
         duration = cuts[i+1] - cuts[i]
-        # Small opposing push/pull and lateral drift; 12 cuts match audio valleys.
+        # Small opposing push/pull and lateral drift; cuts match audio valleys.
         z = "min(1.04+on*0.000035,1.085)" if i % 2 == 0 else "max(1.085-on*0.000035,1.04)"
         x = "iw/2-iw/zoom/2+on*0.015" if i % 2 == 0 else "iw/2-iw/zoom/2-on*0.015"
         filters.append(f"[{i}:v]zoompan=z='{z}':x='{x}':y='ih/2-ih/zoom/2':d={duration}:s={W}x{H}:fps={FPS},setsar=1,format=yuv420p[v{i}]")
         labels.append(f"[v{i}]")
-    filters.append("".join(labels)+"concat=n=12:v=1:a=0,format=yuv420p[v]")
+    filters.append("".join(labels)+f"concat=n={count}:v=1:a=0,format=yuv420p[v]")
     base = folder / "base-motion.mp4"
     if not base.is_file() or base.stat().st_size < 1_000_000:
         run([FFMPEG, "-hide_banner", "-loglevel", "error", "-y", *inputs,
@@ -122,13 +123,17 @@ def main():
              "-preset", "veryfast", "-crf", "21", "-pix_fmt", "yuv420p", str(base)])
 
     ritual, smoke, rain = make_overlays()
-    start, end = cuts[8]/FPS, cuts[9]/FPS
+    rain_shots = data.get('rainShots', [])
+    lightning_shots = data.get('lightningShots', [])
+    assert all(0 <= index < count for index in rain_shots + lightning_shots)
+    rain_enable = '+'.join(f'between(t,{cuts[index]/FPS:.3f},{cuts[index+1]/FPS:.3f})' for index in rain_shots) or '0'
     graph = "[1:v]format=rgba[rit];[0:v][rit]overlay=0:0:shortest=1[a];"
     graph += "[2:v]fps=24,scale=1280:720,format=rgba[sm];[a][sm]overlay=0:0:shortest=1[b];"
     graph += "[3:v]fps=24,scale=1280:720,format=rgba[rn];"
-    graph += f"[b][rn]overlay=0:0:shortest=1:enable='between(t,{start:.3f},{end:.3f})'[c]"
-    if data.get("lightningShots"):
-        graph += f";[c]drawbox=x=0:y=0:w=iw:h=ih:color=white@0.08:t=fill:enable='between(t,{start+7.5:.3f},{start+7.68:.3f})'[v]"
+    graph += f"[b][rn]overlay=0:0:shortest=1:enable='{rain_enable}'[c]"
+    if lightning_shots:
+        lightning_enable = '+'.join(f'between(t,{cuts[index]/FPS+7.5:.3f},{cuts[index]/FPS+7.68:.3f})' for index in lightning_shots)
+        graph += f";[c]drawbox=x=0:y=0:w=iw:h=ih:color=white@0.08:t=fill:enable='{lightning_enable}'[v]"
     else:
         graph += ";[c]null[v]"
     output = folder / data["output"]

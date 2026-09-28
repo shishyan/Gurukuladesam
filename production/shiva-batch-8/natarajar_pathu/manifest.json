@@ -1,0 +1,162 @@
+{
+  "sourceId": "89Q2g8AllcE",
+  "title": "திருவாசகம் - நடராஜர் பத்து | Natarajar Pathu Cinematic Shiva Film",
+  "output": "NATARAJAR_PATHU-CINEMATIC-ritual-v2.mp4",
+  "rainShots": [
+    10,
+    18
+  ],
+  "lightningShots": [
+    18
+  ],
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 2085
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 2085,
+      "outFrame": 4185
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 4185,
+      "outFrame": 6330
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 6330,
+      "outFrame": 8398
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 8398,
+      "outFrame": 10544
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 10544,
+      "outFrame": 12618
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 12618,
+      "outFrame": 14712
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 14712,
+      "outFrame": 16812
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 16812,
+      "outFrame": 18944
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 18944,
+      "outFrame": 21049
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 21049,
+      "outFrame": 23123
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 23123,
+      "outFrame": 25227
+    },
+    {
+      "image": "S13.png",
+      "role": "scene 13",
+      "inFrame": 25227,
+      "outFrame": 27373
+    },
+    {
+      "image": "S14.png",
+      "role": "scene 14",
+      "inFrame": 27373,
+      "outFrame": 29468
+    },
+    {
+      "image": "S15.png",
+      "role": "scene 15",
+      "inFrame": 29468,
+      "outFrame": 31554
+    },
+    {
+      "image": "S16.png",
+      "role": "scene 16",
+      "inFrame": 31554,
+      "outFrame": 33681
+    },
+    {
+      "image": "S17.png",
+      "role": "scene 17",
+      "inFrame": 33681,
+      "outFrame": 35778
+    },
+    {
+      "image": "S18.png",
+      "role": "scene 18",
+      "inFrame": 35778,
+      "outFrame": 37852
+    },
+    {
+      "image": "S19-sky-corrected.png",
+      "role": "scene 19",
+      "inFrame": 37852,
+      "outFrame": 39969
+    },
+    {
+      "image": "S20.png",
+      "role": "scene 20",
+      "inFrame": 39969,
+      "outFrame": 42059
+    },
+    {
+      "image": "S21.png",
+      "role": "scene 21",
+      "inFrame": 42059,
+      "outFrame": 44184
+    },
+    {
+      "image": "S22.png",
+      "role": "scene 22",
+      "inFrame": 44184,
+      "outFrame": 46278
+    },
+    {
+      "image": "S23.png",
+      "role": "scene 23",
+      "inFrame": 46278,
+      "outFrame": 48372
+    },
+    {
+      "image": "S24.png",
+      "role": "scene 24",
+      "inFrame": 48372,
+      "outFrame": 50500
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 50500,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

@@ -1,0 +1,6 @@
+
+PASS pidiyathan_uruvumai: 12 distinct scenes; exact decoded audio; full media decode; 32612925 bytes
+PASS vendumey_iththanaiyum: 12 distinct scenes; exact decoded audio; full media decode; 14351599 bytes
+PASS anbu_maalai_ii: 12 distinct scenes; exact decoded audio; full media decode; 16255738 bytes
+PASS thiruvothur_pathigam: 12 distinct scenes; exact decoded audio; full media decode; 30732021 bytes
+PASS natarajar_pathu: 24 distinct scenes; exact decoded audio; full media decode; 103741364 bytes

@@ -17,6 +17,10 @@
 - [ ] Review the composited result at full speed, including flame, smoke, rain, lightning, logo clearance, and transitions between dry and wet shots.
 - [ ] Inspect every generated artwork for anatomy, cultural setting, objects, unwanted text, and visual continuity before it enters the edit.
 - [ ] Use a different source image for every shot. Check the final shot manifest for repeated image files before rendering or uploading.
+- [ ] Check each proposed recording against existing channel films, local production manifests, and decoded source audio before generating artwork. Review title variants and distinct numbered recordings separately.
+- [ ] Render the actual number of scenes in the manifest. Longer recordings may use 24 distinct scenes; camera timing and concatenation must use that count throughout.
+- [ ] Apply rain and lightning from the manifest's selected shot ranges. Inspect a finished wet scene and its dry neighbors before marking a film ready; a fixed scene number can put rain inside a temple.
+- [ ] Remove permanent lightning bolts from still artwork used for storm scenes. Create occasional brief illumination in the video so lightning does not remain frozen throughout a shot.
 - [ ] Keep image-derived motion honest: camera movement and composited effects do not imply independent movement within a still artwork.
 - [ ] Finish with full-length audiovisual review, stream decode, black-frame check, and audio-source verification.
 - [ ] Confirm the current release authorization, title, and visibility before uploading.

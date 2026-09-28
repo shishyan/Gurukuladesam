@@ -1,6 +1,6 @@
 # Lord Shiva films — batch 7
 
-Five distinct source recordings; static covers checked at 30-second intervals. Twelve separate generated scenes reviewed for each film. Complete original audio, lower-left Guru Kula Desam emblem, paired dheepam, four agarbaththi per side and white-grey smoke. Drizzle is restricted to outdoor scene eleven; Thiruppadai Aatchi includes restrained lightning.
+Five distinct source recordings; static covers checked at 30-second intervals. Twelve separate generated scenes reviewed for each film. Complete original audio, lower-left Guru Kula Desam emblem, paired dheepam, four agarbaththi per side and white-grey smoke. Drizzle is restricted to outdoor scenes; Thiruppadai Aatchi includes restrained lightning.
 
 | Song | Source | Release |
 |---|---|---|
