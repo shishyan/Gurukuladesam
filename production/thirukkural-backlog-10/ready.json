@@ -4,8 +4,8 @@
       "sourceId": "A86cP9ae6Vs",
       "title": "திருக்குறள் - மெய்யுணர்தல் | Meyyunarithal | Full Song Film",
       "file": "meyyunarithal\\MEYYUNARITHAL-CINEMATIC-v1.mp4",
-      "status": "ready; pending daily upload quota",
-      "publishedUrl": null,
+      "status": "published and public playback verified",
+      "publishedUrl": "https://www.youtube.com/watch?v=9NIv50lV4-M",
       "qc": {
         "sourceId": "A86cP9ae6Vs",
         "durationSeconds": 207.41666666666666,
@@ -22,7 +22,9 @@
         "savedToDrive": true,
         "volumePercent": 100,
         "muted": false
-      }
+      },
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T15:02:33.853156+00:00"
     },
     {
       "sourceId": "WKCMHUFbf2Q",
@@ -52,8 +54,8 @@
       "sourceId": "WM8EPZ4KK2s",
       "title": "திருக்குறள் - வெகுளாமை | Vegulaamai | Full Song Film",
       "file": "vegulaamai\\VEGULAAMAI-CINEMATIC-v1.mp4",
-      "status": "ready; pending daily upload quota",
-      "publishedUrl": null,
+      "status": "published and public playback verified",
+      "publishedUrl": "https://www.youtube.com/watch?v=xcUlgFsrepU",
       "qc": {
         "sourceId": "WM8EPZ4KK2s",
         "durationSeconds": 324.75,
@@ -70,7 +72,9 @@
         "savedToDrive": true,
         "volumePercent": 100,
         "muted": false
-      }
+      },
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T15:03:12.732240+00:00"
     }
   ]
 }

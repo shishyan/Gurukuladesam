@@ -1,19 +1,14 @@
 # Pending song videos
 
-15 QC-passed full-song films are ready locally. Upload slots were available at the latest check.
+10 QC-passed full-song films are ready locally. Upload slots were available at the latest check.
 
-15 films have saved Google Vids projects; 0 still need a Vids import.
+10 films have saved Google Vids projects; 0 still need a Vids import.
 
 | Song | Source | Local MP4 |
 | --- | --- | --- |
 | திருக்குறள் - ஒற்றாடல் / Ottraadal / Full Song Film | `cn776n6oKXQ` | [Open film](thirukkural-backlog-04/ottraadal/OTTRAADAL-CINEMATIC-v1.mp4) |
 | திருக்குறள் - இறை மாட்சி / Irai Maatchi / Full Song Film | `K6mhIh64XE8` | [Open film](thirukkural-backlog-08/irai_maatchi/IRAI_MAATCHI-CINEMATIC-v1.mp4) |
-| திருக்குறள் - கல்லாமை / Kallaamai Learning / Full Song Film | `9YAr421Ft00` | [Open film](thirukkural-backlog-09/kallaamai_learning/KALLAAMAI_LEARNING-CINEMATIC-v1.mp4) |
-| திருக்குறள் - கொல்லாமை / Kollaamai / Full Song Film | `rBeSH7tNEzA` | [Open film](thirukkural-backlog-09/kollaamai/KOLLAAMAI-CINEMATIC-v1.mp4) |
-| திருக்குறள் - நிலையாமை / Nilaiyaamai / Full Song Film | `YL6ocN5OMzI` | [Open film](thirukkural-backlog-09/nilaiyaamai/NILAIYAAMAI-CINEMATIC-v1.mp4) |
-| திருக்குறள் - மெய்யுணர்தல் / Meyyunarithal / Full Song Film | `A86cP9ae6Vs` | [Open film](thirukkural-backlog-10/meyyunarithal/MEYYUNARITHAL-CINEMATIC-v1.mp4) |
 | திருக்குறள் - துறவு / Thuravu / Full Song Film | `WKCMHUFbf2Q` | [Open film](thirukkural-backlog-10/thuravu/THURAVU-CINEMATIC-v1.mp4) |
-| திருக்குறள் - வெகுளாமை / Vegulaamai / Full Song Film | `WM8EPZ4KK2s` | [Open film](thirukkural-backlog-10/vegulaamai/VEGULAAMAI-CINEMATIC-v1.mp4) |
 | திருக்குறள் - தெரிந்து செயல்வகை / Therinthu Seyalvagai / Full Song Film | `OqRZLEMvx8s` | [Open film](thirukkural-backlog-11/therinthu_seyalvagai/THERINTHU_SEYALVAGAI-CINEMATIC-v1.mp4) |
 | திருக்குறள் - தெரிந்து தெளிதல் / Therinthu Thelithal / Full Song Film | `hrg_nAlW7VQ` | [Open film](thirukkural-backlog-11/therinthu_thelithal/THERINTHU_THELITHAL-CINEMATIC-v1.mp4) |
 | திருக்குறள் - தூது / Thoothu / Full Song Film | `aBA50x-gDME` | [Open film](thirukkural-backlog-11/thoothu/THOOTHU-CINEMATIC-v1.mp4) |

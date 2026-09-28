@@ -4,8 +4,8 @@
       "sourceId": "9YAr421Ft00",
       "title": "திருக்குறள் - கல்லாமை | Kallaamai Learning | Full Song Film",
       "file": "kallaamai_learning\\KALLAAMAI_LEARNING-CINEMATIC-v1.mp4",
-      "status": "ready; pending daily upload quota",
-      "publishedUrl": null,
+      "status": "published and public playback verified",
+      "publishedUrl": "https://www.youtube.com/watch?v=Gnu-TzZfe7A",
       "qc": {
         "sourceId": "9YAr421Ft00",
         "durationSeconds": 395.8333333333333,
@@ -22,14 +22,16 @@
         "savedToDrive": true,
         "volumePercent": 100,
         "muted": false
-      }
+      },
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T14:59:25.165416+00:00"
     },
     {
       "sourceId": "rBeSH7tNEzA",
       "title": "திருக்குறள் - கொல்லாமை | Kollaamai | Full Song Film",
       "file": "kollaamai\\KOLLAAMAI-CINEMATIC-v1.mp4",
-      "status": "ready; pending daily upload quota",
-      "publishedUrl": null,
+      "status": "published and public playback verified",
+      "publishedUrl": "https://www.youtube.com/watch?v=L6DWSjPqoH0",
       "qc": {
         "sourceId": "rBeSH7tNEzA",
         "durationSeconds": 277.4166666666667,
@@ -46,14 +48,16 @@
         "savedToDrive": true,
         "volumePercent": 100,
         "muted": false
-      }
+      },
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T15:00:16.132588+00:00"
     },
     {
       "sourceId": "YL6ocN5OMzI",
       "title": "திருக்குறள் - நிலையாமை | Nilaiyaamai | Full Song Film",
       "file": "nilaiyaamai\\NILAIYAAMAI-CINEMATIC-v1.mp4",
-      "status": "ready; pending daily upload quota",
-      "publishedUrl": null,
+      "status": "published and public playback verified",
+      "publishedUrl": "https://www.youtube.com/watch?v=JreH0hqB2po",
       "qc": {
         "sourceId": "YL6ocN5OMzI",
         "durationSeconds": 251.08333333333334,
@@ -70,7 +74,9 @@
         "savedToDrive": true,
         "volumePercent": 100,
         "muted": false
-      }
+      },
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T15:00:42.791240+00:00"
     }
   ]
 }

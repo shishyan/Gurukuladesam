@@ -1,6 +1,6 @@
 {
   "channel": "@guru-kula-desam",
-  "pendingCount": 15,
+  "pendingCount": 10,
   "blocker": null,
   "releaseInstructions": "Recheck public channel for duplicates, import locally finished films into Google Vids, publish through the correct channel Studio, and verify public URLs. Scheduling requires the upload to succeed first.",
   "songs": [
@@ -41,78 +41,6 @@
       }
     },
     {
-      "sourceId": "9YAr421Ft00",
-      "title": "திருக்குறள் - கல்லாமை | Kallaamai Learning | Full Song Film",
-      "file": "thirukkural-backlog-09\\kallaamai_learning\\KALLAAMAI_LEARNING-CINEMATIC-v1.mp4",
-      "googleVids": "https://docs.google.com/videos/d/1kM3hknZuiPj6QPnWl-A4O_OGlpdA2zEqc8m-VxxKptw/edit",
-      "status": "ready; pending publication",
-      "qc": {
-        "sourceId": "9YAr421Ft00",
-        "durationSeconds": 395.8333333333333,
-        "scenes": 12,
-        "uniqueImages": 12,
-        "originalAacBitstreamMatched": true,
-        "fullDecodePassed": true,
-        "allScenesHaveMovement": true,
-        "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 21432812
-      }
-    },
-    {
-      "sourceId": "rBeSH7tNEzA",
-      "title": "திருக்குறள் - கொல்லாமை | Kollaamai | Full Song Film",
-      "file": "thirukkural-backlog-09\\kollaamai\\KOLLAAMAI-CINEMATIC-v1.mp4",
-      "googleVids": "https://docs.google.com/videos/d/1wMyrrFuGHl39jtzrfku0WM2Zy_0w2qIozae6DIKTQaI/edit",
-      "status": "ready; pending publication",
-      "qc": {
-        "sourceId": "rBeSH7tNEzA",
-        "durationSeconds": 277.4166666666667,
-        "scenes": 12,
-        "uniqueImages": 12,
-        "originalAacBitstreamMatched": true,
-        "fullDecodePassed": true,
-        "allScenesHaveMovement": true,
-        "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 20109760
-      }
-    },
-    {
-      "sourceId": "YL6ocN5OMzI",
-      "title": "திருக்குறள் - நிலையாமை | Nilaiyaamai | Full Song Film",
-      "file": "thirukkural-backlog-09\\nilaiyaamai\\NILAIYAAMAI-CINEMATIC-v1.mp4",
-      "googleVids": "https://docs.google.com/videos/d/1Hxzz23iMzy02XhS1p17GGn3V-_Sec9H2RtgnPI9t5ZM/edit",
-      "status": "ready; pending publication",
-      "qc": {
-        "sourceId": "YL6ocN5OMzI",
-        "durationSeconds": 251.08333333333334,
-        "scenes": 12,
-        "uniqueImages": 12,
-        "originalAacBitstreamMatched": true,
-        "fullDecodePassed": true,
-        "allScenesHaveMovement": true,
-        "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 17045965
-      }
-    },
-    {
-      "sourceId": "A86cP9ae6Vs",
-      "title": "திருக்குறள் - மெய்யுணர்தல் | Meyyunarithal | Full Song Film",
-      "file": "thirukkural-backlog-10\\meyyunarithal\\MEYYUNARITHAL-CINEMATIC-v1.mp4",
-      "googleVids": "https://docs.google.com/videos/d/1nC-lat7gpiIhNyBq74A6YrGIglIdi4_E-UxIhvQVI5M/edit",
-      "status": "ready; pending publication",
-      "qc": {
-        "sourceId": "A86cP9ae6Vs",
-        "durationSeconds": 207.41666666666666,
-        "scenes": 12,
-        "uniqueImages": 12,
-        "originalAacBitstreamMatched": true,
-        "fullDecodePassed": true,
-        "allScenesHaveMovement": true,
-        "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 14209740
-      }
-    },
-    {
       "sourceId": "WKCMHUFbf2Q",
       "title": "திருக்குறள் - துறவு | Thuravu | Full Song Film",
       "file": "thirukkural-backlog-10\\thuravu\\THURAVU-CINEMATIC-v1.mp4",
@@ -128,24 +56,6 @@
         "allScenesHaveMovement": true,
         "logoPosition": "bottom-left, 24px inset",
         "fileBytes": 18786859
-      }
-    },
-    {
-      "sourceId": "WM8EPZ4KK2s",
-      "title": "திருக்குறள் - வெகுளாமை | Vegulaamai | Full Song Film",
-      "file": "thirukkural-backlog-10\\vegulaamai\\VEGULAAMAI-CINEMATIC-v1.mp4",
-      "googleVids": "https://docs.google.com/videos/d/1ixYgldGZg5n_ZeyB8H9WeB70yojar2TS6wkPebBiqOg/edit",
-      "status": "ready; pending publication",
-      "qc": {
-        "sourceId": "WM8EPZ4KK2s",
-        "durationSeconds": 324.75,
-        "scenes": 12,
-        "uniqueImages": 12,
-        "originalAacBitstreamMatched": true,
-        "fullDecodePassed": true,
-        "allScenesHaveMovement": true,
-        "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 20857152
       }
     },
     {
