@@ -2,6 +2,7 @@
 
 ## Music-led visual direction
 
+- [ ] Prefer group gatherings in most human scenes: families, devotees, temple congregations, village communities, choirs, and shared celebrations suited to the song. Use wide and medium group compositions with natural interaction; reserve individual portraits for moments whose meaning specifically calls for them. Vary the people, setting, arrangement, and activity so every image remains distinct.
 - [ ] Listen to the full original recording before locking the visual sequence. Mark the orchestral entrance, vocal entrance, major swells, transitions, and closing cadence.
 - [ ] Match the opening image's scale to the opening music. For a powerful orchestral opening, begin with a genuinely wide establishing view that gives the setting and subject room to breathe. Hold it long enough for the musical statement to register before moving to medium or close views.
 - [ ] Choose framing, camera movement, and cut pace for each musical section. Wider views and measured moves can support expansive passages; closer views belong where the voice or meaning calls for intimacy.

@@ -1,0 +1,246 @@
+{
+  "distinctScenes": 60,
+  "repeatedImages": [],
+  "scenes": [
+    {
+      "file": "thirumanthiram_2026\\S01.png",
+      "sha256": "c4e5e54f392ae49f6fa5a32de239372d9f642b09b88b800cb438302b734880a1"
+    },
+    {
+      "file": "thirumanthiram_2026\\S02.png",
+      "sha256": "7b9ef18a88c7339657a3b0347de8315f11e697572f9bfdce418b11e116c1ccdc"
+    },
+    {
+      "file": "thirumanthiram_2026\\S03.png",
+      "sha256": "5f7a79a0dccc24cd64d98b16294e55eb5958b7ed4b744e4fefdfd6410522324a"
+    },
+    {
+      "file": "thirumanthiram_2026\\S04.png",
+      "sha256": "37a656514d11ad0e946669f3ca739be66147e09eb2d76554c7c5e2a850ac8a81"
+    },
+    {
+      "file": "thirumanthiram_2026\\S05.png",
+      "sha256": "536e9e414f345e8958e691e8de03e9a886b6c020e7ca13a1ac509758cdee9bc9"
+    },
+    {
+      "file": "thirumanthiram_2026\\S06.png",
+      "sha256": "c82fb4c33a5927c747eafc0057c183cf59bc45e0e38b8e1c31a921cf488eebc6"
+    },
+    {
+      "file": "thirumanthiram_2026\\S07.png",
+      "sha256": "b6384ba750eee82e7f68922fc91a11351f1f4a8f686fb7686b7a50a5395233b1"
+    },
+    {
+      "file": "thirumanthiram_2026\\S08.png",
+      "sha256": "2255215c38e5c4f6d30bc2af5141b68df091224eb3a36a946b2f0e20fb978aa9"
+    },
+    {
+      "file": "thirumanthiram_2026\\S09.png",
+      "sha256": "6b59e1a79121b2e2b60eaf54aa00dec58687545b942684254b2e91edba73415a"
+    },
+    {
+      "file": "thirumanthiram_2026\\S10.png",
+      "sha256": "048c3f1edee14462a306e0d8ef20e00f9a898516fbee8dd41cb7f50976453b77"
+    },
+    {
+      "file": "thirumanthiram_2026\\S11.png",
+      "sha256": "b9320212cd0762ed6c5dc96ac3887d2be451d977fd320e349d308a48ba0dc08d"
+    },
+    {
+      "file": "thirumanthiram_2026\\S12.png",
+      "sha256": "2a3f5f6930b7f8995b9cc54c4f11f7c7eda1a5cd86c6f41ce99b38665daeac23"
+    },
+    {
+      "file": "sivapuranam_ii\\S01.png",
+      "sha256": "53ca15335e8b14a0e71c7c6869610155e24c370de5c31d53d5859b91f3d361a5"
+    },
+    {
+      "file": "sivapuranam_ii\\S02.png",
+      "sha256": "0dd6c0f4c9ba6b352f2a8c62adf95d052595f063511023b2e72dcf5060505c1d"
+    },
+    {
+      "file": "sivapuranam_ii\\S03.png",
+      "sha256": "ebfa7a4eccbec7abbed9a22f3289b31345db00f0b0bbb9ae84c66f7507345c6a"
+    },
+    {
+      "file": "sivapuranam_ii\\S04.png",
+      "sha256": "291dec55886fb4096f6238b1e01db727e7f7ce611749962f0d6c705d5dc4ee80"
+    },
+    {
+      "file": "sivapuranam_ii\\S05.png",
+      "sha256": "cba4ba9c8dce0647c97a4406663ea307434116628253cddde9cdfc7a3dc2e313"
+    },
+    {
+      "file": "sivapuranam_ii\\S06.png",
+      "sha256": "dfcbfdad0190922e8709afa2dc4ff7841fdc352ccec592c9672f3dc2e9d98202"
+    },
+    {
+      "file": "sivapuranam_ii\\S07.png",
+      "sha256": "0b078905eb1ae24364d5b124ba02d79f7bc88681f84eb6eed5d5fc159a1f2cb0"
+    },
+    {
+      "file": "sivapuranam_ii\\S08.png",
+      "sha256": "17b7c08b79d53bb7b780c480ca10bbc31e2802f89fc6e349c5e5d9b029d847e4"
+    },
+    {
+      "file": "sivapuranam_ii\\S09.png",
+      "sha256": "22747a6c637c33941f0bdcf3028b872d74a0ecfb6d5a2e0227d00eaf14688f30"
+    },
+    {
+      "file": "sivapuranam_ii\\S10.png",
+      "sha256": "d62459b193a42d3a9928e817f2da5e41730614ac2e52bf441c3a3a9b865164c7"
+    },
+    {
+      "file": "sivapuranam_ii\\S11.png",
+      "sha256": "f534e26bd0f3a3f80b1076012811e576bf0c96bae2c6ae21a51f1e6d9a349659"
+    },
+    {
+      "file": "sivapuranam_ii\\S12.png",
+      "sha256": "606a2930acd2ee21b107240a9dc5f96e33af898312d3c1aa3ea642b2f441f14d"
+    },
+    {
+      "file": "maasil_veenaiyum_alt\\S01.png",
+      "sha256": "021114ceeb50713775b5152713783176a1195cebc098069888dec164ce6fc656"
+    },
+    {
+      "file": "maasil_veenaiyum_alt\\S02.png",
+      "sha256": "edea4ac063af9004bd2fb5c1e397761701aa647adab1fafeb24c5d8fd1ac06d0"
+    },
+    {
+      "file": "maasil_veenaiyum_alt\\S03.png",
+      "sha256": "e3d8333939199572866df33b0df9aa2dc870d79ef6a4c52118748c08f5c795fe"
+    },
+    {
+      "file": "maasil_veenaiyum_alt\\S04.png",
+      "sha256": "2bea0fe123da88d11e01fbec78b7ca0190661c19119af231ed5382c60c275546"
+    },
+    {
+      "file": "maasil_veenaiyum_alt\\S05.png",
+      "sha256": "a89e3ff1c13d048844c3714d6254faf9ee2d394b1228b25cc4f6fdcb84d2135c"
+    },
+    {
+      "file": "maasil_veenaiyum_alt\\S06.png",
+      "sha256": "88222471a38c3cd3be615703cd97ebc7115f5ca930a5515261ccc110172594c5"
+    },
+    {
+      "file": "maasil_veenaiyum_alt\\S07.png",
+      "sha256": "a22a8742ff46cf69bd797dfba0583de0da9b030b9d5d73abab6964e1597ca511"
+    },
+    {
+      "file": "maasil_veenaiyum_alt\\S08.png",
+      "sha256": "7118674222577f300cc954a3b5cac19547c1ee1365ecfe6a7a467411df2bc9df"
+    },
+    {
+      "file": "maasil_veenaiyum_alt\\S09.png",
+      "sha256": "e76b53f41833776358af130afc8b59fe28ab9a9f9b7574143a5ddebdabdd0781"
+    },
+    {
+      "file": "maasil_veenaiyum_alt\\S10.png",
+      "sha256": "0512a8d128054b4a82ee730cf0b876b678c47d975b45ff5fa922749e801398f1"
+    },
+    {
+      "file": "maasil_veenaiyum_alt\\S11.png",
+      "sha256": "a789e77441777f943d2eaa00cd3495e0635e0f0cc7ed9f9f67526f0adf8929d8"
+    },
+    {
+      "file": "maasil_veenaiyum_alt\\S12.png",
+      "sha256": "369c209abb280345ef5101071eab0ce261cddce9cc01bc774d298ef7aecd061e"
+    },
+    {
+      "file": "mandhiram_aavadhu_neeru_alt\\S01.png",
+      "sha256": "34db9fc609e9e46abb7187b2fb0919cdfe819aa2bd4e5eb0e2215826f7c64b39"
+    },
+    {
+      "file": "mandhiram_aavadhu_neeru_alt\\S02.png",
+      "sha256": "33b93b5606c9dc469fb9e42f15a6c4ce5d08aa875cb262d14cb179f7336b9456"
+    },
+    {
+      "file": "mandhiram_aavadhu_neeru_alt\\S03.png",
+      "sha256": "816ef4bacecad3b261b4cd96e23a302a3706cfb5547eddf327c7299dff08d254"
+    },
+    {
+      "file": "mandhiram_aavadhu_neeru_alt\\S04.png",
+      "sha256": "3da9a493b2894a7fbda8dedf2eb48c56cf242d75ce12250277d771370c318b70"
+    },
+    {
+      "file": "mandhiram_aavadhu_neeru_alt\\S05.png",
+      "sha256": "23bf2d09bd3840fd56357fc4a9223501926bf162a65a9594ff877b754d5707bf"
+    },
+    {
+      "file": "mandhiram_aavadhu_neeru_alt\\S06.png",
+      "sha256": "de4690602b291d7cddcd035428df7878721f594b86222879f644f3bb037173e1"
+    },
+    {
+      "file": "mandhiram_aavadhu_neeru_alt\\S07.png",
+      "sha256": "1bce84c4fd68b8dedd6aba082cb9d97c0924cf007ba46b3170c4856de81b038c"
+    },
+    {
+      "file": "mandhiram_aavadhu_neeru_alt\\S08.png",
+      "sha256": "3ebe5aeac629b0fa80d9129ca70c7e855ef77636fe4de971560164fb9548fb52"
+    },
+    {
+      "file": "mandhiram_aavadhu_neeru_alt\\S09.png",
+      "sha256": "aae40d12841d92cd0955218e92933d7c8db4e904237a5ba0b34b5daae49d7c0e"
+    },
+    {
+      "file": "mandhiram_aavadhu_neeru_alt\\S10.png",
+      "sha256": "d5486e84b87d1ceafd54cc1b93561262b4d539e81fb68ecef38cd6770860f4bb"
+    },
+    {
+      "file": "mandhiram_aavadhu_neeru_alt\\S11.png",
+      "sha256": "b73e5b19615514503492854f366bb37216c743d905cc2985a0f28930b8b32291"
+    },
+    {
+      "file": "mandhiram_aavadhu_neeru_alt\\S12.png",
+      "sha256": "905a28ff55c96681272e82fe358af82f825a360fd027bf04b2453f6f7885108b"
+    },
+    {
+      "file": "thiruvothur_i\\S01.png",
+      "sha256": "91900b960a691e3cc433bc0d9737fdbecb1ce8348eaa079b7ea63b15ceb6924a"
+    },
+    {
+      "file": "thiruvothur_i\\S02.png",
+      "sha256": "d55148323b9fee408b92d913b777159474c8e0fe3e9c6b85a2f3643a09f89634"
+    },
+    {
+      "file": "thiruvothur_i\\S03.png",
+      "sha256": "fd1a9314d483f0dac0b7a13cf806a71b4548a6907eb7a861239179659bb76446"
+    },
+    {
+      "file": "thiruvothur_i\\S04.png",
+      "sha256": "71b2efd4cabea9fd8553019b57dc9378994c460cbfd8bbbba21c8984b7662283"
+    },
+    {
+      "file": "thiruvothur_i\\S05.png",
+      "sha256": "ad49e3cc1cacfab41b03c3130ca51ef8341afc5547a31e5490ca092c009497a4"
+    },
+    {
+      "file": "thiruvothur_i\\S06.png",
+      "sha256": "ba7e76a6f909a914dd710a17cff2af697805890055bda54382df2c57a78965ef"
+    },
+    {
+      "file": "thiruvothur_i\\S07.png",
+      "sha256": "6ac9e383e2d643cae03a100a771d2acb69f913de3e09d0a2d3a5bb25f3050278"
+    },
+    {
+      "file": "thiruvothur_i\\S08.png",
+      "sha256": "181927ada60d4b0188613c1840a610525833c44caaf4f75e111f94a575700d0a"
+    },
+    {
+      "file": "thiruvothur_i\\S09.png",
+      "sha256": "3d37797bd591129cb0f8ab546e13762122fd873afd5d21812bb6bce0fd672fb7"
+    },
+    {
+      "file": "thiruvothur_i\\S10.png",
+      "sha256": "bc9f9107a84a461417c0b4462058ebfc62d4f3d91b76fe961b7f43fad814c791"
+    },
+    {
+      "file": "thiruvothur_i\\S11.png",
+      "sha256": "ac37c87b30a5abc49a34f2ea113e21808c771ffcbb411ba56c0f1ced2bf3e2e9"
+    },
+    {
+      "file": "thiruvothur_i\\S12.png",
+      "sha256": "94f215b22b61e2bf0534efcde1c165b2bffbde26429bb40ed597cb8e67f5b572"
+    }
+  ]
+}

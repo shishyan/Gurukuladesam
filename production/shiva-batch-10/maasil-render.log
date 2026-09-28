@@ -1,0 +1,46 @@
+python : frame=2752
+At line:2 char:1
++ python -u production/shiva-batch-10/render_one.py maasil_veenaiyum_al ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (frame=2752:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fps=45.86
+stream_0_0_q=25.0
+bitrate= 475.9kbits/s
+total_size=6815792
+out_time_us=114583333
+out_time_ms=114583333
+out_time=00:01:54.583333
+dup_frames=0
+drop_frames=0
+speed=1.91x
+progress=continue
+frame=5702
+fps=47.50
+stream_0_0_q=25.0
+bitrate= 459.2kbits/s
+total_size=13631536
+out_time_us=237500000
+out_time_ms=237500000
+out_time=00:03:57.500000
+dup_frames=0
+drop_frames=0
+speed=1.98x
+progress=continue
+frame=6277
+fps=47.86
+stream_0_0_q=-1.0
+bitrate= 469.7kbits/s
+total_size=15349441
+out_time_us=261458333
+out_time_ms=261458333
+out_time=00:04:21.458333
+dup_frames=0
+drop_frames=0
+speed=1.99x
+progress=end
+C:\GitHub\Gurukuladesam-audit\production\shiva-batch-10\maasil_veenaiyum_alt\MAASIL_VEENAIYUM_ALT-CINEMATIC-ritual-v2.mp4
+PASS maasil_veenaiyum_alt: 12 distinct scenes; exact decoded audio; full media decode; no long black passages; 15349441 bytes
+
+FILM_COMPLETE maasil_veenaiyum_alt

@@ -1,0 +1,11 @@
+{
+  "method": "Grayscale 64x64 frames sampled every 30 seconds; mean pixel differences checked before using generated imagery",
+  "sources": {
+    "gwTtvj-h77g": {"samples": 17, "maxMeanPixelDifference": 0.61},
+    "nSQKZ2htJ-o": {"samples": 9, "maxMeanPixelDifference": 0.43},
+    "P-gtNBy8sRE": {"samples": 9, "maxMeanPixelDifference": 0.05},
+    "qjxmrb4fmjA": {"samples": 15, "maxMeanPixelDifference": 0.66},
+    "Y0tOS_2Azxs": {"samples": 24, "maxMeanPixelDifference": 0.53}
+  },
+  "result": "All five original uploads behave as static covers; original audio retained"
+}

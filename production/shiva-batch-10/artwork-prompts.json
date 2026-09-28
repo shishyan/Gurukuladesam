@@ -1,0 +1,82 @@
+{
+  "generator": "built-in imagegen",
+  "style": "Create one cinematic contact sheet, EXACTLY 2 columns x 2 rows, four equal 16:9 frames with thin straight central gutters. Four distinct film stills in top-left, top-right, bottom-left, bottom-right order. Detailed realistic Tamil Shaivite devotional cinema, authentic South Indian granite temple architecture, natural film light, spatial depth, believable people and hands, no text, logos, labels or collage within a frame. Keep bottom corners free of foreground ritual props; lamps, incense and logo will be composited later. No permanent lightning bolts, no rain streaks baked into artwork. Dry interiors. ",
+  "sheets": [
+    {
+      "slug": "thirumanthiram_2026",
+      "sheet": 1,
+      "prompt": "Thirumanthiram first tantra 2026 version: contemplative embodied wisdom. Shots1-4: extremely wide dawn view of a Chola Shiva temple and fertile Tamil landscape; adult Tamil yogi in simple white veshti and muted ochre shawl entering granite gateway, back view; granite Nandi framed by dry pillared hall; yogi seated meditating in dry spacious mandapam, medium-wide side view."
+    },
+    {
+      "slug": "thirumanthiram_2026",
+      "sheet": 2,
+      "prompt": "Thirumanthiram first tantra 2026. Same adult Tamil yogi white veshti, muted ochre shawl. Shots5-8: profile yogi praying quietly in dry temple hall; old palm-leaf manuscript with marks blurred and not readable beside sacred flowers, dry wooden lectern; priest tending flower offerings before a traditional Shiva lingam shrine, dry; very wide dry pillared temple hall with distant sun shafts and solitary yogi."
+    },
+    {
+      "slug": "thirumanthiram_2026",
+      "sheet": 3,
+      "prompt": "Thirumanthiram first tantra 2026. Shots9-12: same adult Tamil yogi white veshti ochre shawl contemplating a temple garden in gentle daylight; view through dry pillared corridor to distant cloudy landscape, granite floor dry; fully OUTDOOR wide wet temple courtyard with deep grey cloud layers and distant gopuram, no shelter or people in foreground, no bolt; serene panoramic temple landscape with early morning light and broad river reflections."
+    },
+    {
+      "slug": "sivapuranam_ii",
+      "sheet": 1,
+      "prompt": "Sivapuranam Thiruvasagam numbered recording II. Shots1-4: majestic extremely wide sunrise Shiva temple landscape with river and forests; humble adult Tamil male devotee in plain white veshti and muted maroon angavastram approaching gateway from behind; side view devotee with hands gently joined toward traditional lingam shrine, dry; temple priest placing sacred leaves and white flowers in dry shrine doorway."
+    },
+    {
+      "slug": "sivapuranam_ii",
+      "sheet": 2,
+      "prompt": "Sivapuranam numbered recording II, themes of grace and surrender. Adult Tamil male devotee white veshti muted maroon angavastram. Shots5-8: granite Nandi in grand dry stone mandapam; devotee seated with joined hands, side profile, dry temple hall; warm traditional bronze Shiva shrine surrounded by jasmine, correct iconography; immense dry granite colonnade with distant procession and sunlight shafts."
+    },
+    {
+      "slug": "sivapuranam_ii",
+      "sheet": 3,
+      "prompt": "Sivapuranam numbered recording II. Shots9-12: devotee white veshti muted maroon shawl kneeling in dry temple hall, rear view; quiet stone temple corridor looking toward dark clouded outdoor landscape, indoors dry; unobstructed outdoor temple tank and wet courtyard under dark blue-grey storm sky, no visible bolts, no foreground roof or people; vast peaceful temple landscape after the storm under clearing golden dawn."
+    },
+    {
+      "slug": "maasil_veenaiyum_alt",
+      "sheet": 1,
+      "prompt": "Maasil Veenaiyum alternate recording: serenity, veena, moon, breeze, flowers and Shiva's shelter. Shots1-4: extremely wide South Indian temple and river beneath gentle late-afternoon light; adult Tamil woman in modest terracotta sari walking through dry temple gateway; beautiful traditional veena resting on dry polished wooden platform, no floating strings or hands; quiet lotus pond with distant gopuram under a pale rising moon."
+    },
+    {
+      "slug": "maasil_veenaiyum_alt",
+      "sheet": 2,
+      "prompt": "Maasil Veenaiyum alternate recording. Same adult Tamil woman terracotta sari. Shots5-8: wide temple garden with flowering trees moved subtly by implied gentle breeze, evening light; woman offering fresh jasmine at Shiva shrine in dry hall; low-angle granite Nandi with ancient dry temple pillars; woman seated contemplatively in dry mandapam, medium wide, peaceful natural anatomy."
+    },
+    {
+      "slug": "maasil_veenaiyum_alt",
+      "sheet": 3,
+      "prompt": "Maasil Veenaiyum alternate recording. Shots9-12: pale moon above temple tank with lotus foreground, cinematic atmospheric wide; woman terracotta sari praying in spacious dry temple hall, side view; fully outdoor temple courtyard with wet paving, flowering trees and soft overcast sky, no foreground roof or people, no falling rain baked in; final expansive temple tank reflecting warm gopuram lights at serene blue hour."
+    },
+    {
+      "slug": "mandhiram_aavadhu_neeru_alt",
+      "sheet": 1,
+      "prompt": "Mandhiram Aavadhu Neeru alternate recording, sacred ash hymn. Shots1-4: expansive dawn Shiva temple beside Tamil village fields; adult Tamil male devotee white veshti green angavastram entering granite gateway; close sacred ash in traditional bronze vessel on dry granite ledge with fresh flowers, no writing; traditional Shiva lingam bearing three horizontal sacred ash bands with natural flowers, dry shrine."
+    },
+    {
+      "slug": "mandhiram_aavadhu_neeru_alt",
+      "sheet": 2,
+      "prompt": "Mandhiram Aavadhu Neeru alternate recording. Same adult Tamil male white veshti muted green angavastram. Shots5-8: side profile devotee with three sacred ash bands on forehead praying in dry hall; priest carefully arranging flowers at traditional Shiva lingam shrine, dry; granite Nandi sculpture seen across spacious dry mandapam; modest group devotees in dry temple hall listening to a singer, respectful wide shot."
+    },
+    {
+      "slug": "mandhiram_aavadhu_neeru_alt",
+      "sheet": 3,
+      "prompt": "Mandhiram Aavadhu Neeru alternate recording. Shots9-12: close meaningful hands holding fresh sacred leaves and flower offerings, correct five-finger anatomy, dry setting; adult devotee white veshti green angavastram seated in dry colonnade, quiet contemplation; outdoor fully exposed wide temple courtyard with wet paving and layered grey sky, no overhead roof, foreground people or permanent bolt; serene broad temple and village landscape illuminated by golden sunrise."
+    },
+    {
+      "slug": "thiruvothur_i",
+      "sheet": 1,
+      "prompt": "Thiruvothur Pathigam 2026 numbered recording I. Tamil temple devotion linked to Thirugnanasambandar. Shots1-4: very wide sunrise temple landscape by Cheyyar river and palm groves; respectful young Tamil saint in simple white traditional garment entering granite gateway seen from behind; granite Nandi with dry temple pillars framed in depth; wide congregation listening in a dry pillared hall, saint standing humbly at distance."
+    },
+    {
+      "slug": "thiruvothur_i",
+      "sheet": 2,
+      "prompt": "Thiruvothur Pathigam recording I. Shots5-8: young Tamil saint white traditional garment praying from side near dry Shiva shrine doorway; traditional lingam with sacred leaves and fresh jasmine in dry shrine; priest lifting fresh flower garland toward shrine, natural hands; expansive view through temple gateway to flourishing palm grove beneath clear daylight."
+    },
+    {
+      "slug": "thiruvothur_i",
+      "sheet": 3,
+      "prompt": "Thiruvothur Pathigam recording I. Shots9-12: picturesque riverside palm grove with distant gopuram in soft daylight; worshippers standing by temple tank beneath gathering clouded sky, outdoor and still dry; entirely outdoor wide wet temple courtyard with grey storm cloud layers, no foreground roof or people, no visible lightning bolt; closing wide temple tank and gopuram under gentle clearing sunset."
+    }
+  ],
+  "selectionNote": "Initial sheets 1 and 2 are superseded by group-artwork-prompts.json. Only sheet 3 remains in the final selection."
+}

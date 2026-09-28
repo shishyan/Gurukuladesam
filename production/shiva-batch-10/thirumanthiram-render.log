@@ -1,0 +1,70 @@
+python : frame=2944
+At line:8 char:1
++ python -u production/shiva-batch-10/render_one.py thirumanthiram_2026 ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (frame=2944:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fps=49.05
+stream_0_0_q=25.0
+bitrate= 444.8kbits/s
+total_size=6815792
+out_time_us=122583333
+out_time_ms=122583333
+out_time=00:02:02.583333
+dup_frames=0
+drop_frames=0
+speed=2.04x
+progress=continue
+frame=5341
+fps=44.50
+stream_0_0_q=25.0
+bitrate= 424.2kbits/s
+total_size=11796528
+out_time_us=222458333
+out_time_ms=222458333
+out_time=00:03:42.458333
+dup_frames=0
+drop_frames=0
+speed=1.85x
+progress=continue
+frame=8318
+fps=46.20
+stream_0_0_q=25.0
+bitrate= 429.7kbits/s
+total_size=18612272
+out_time_us=346500000
+out_time_ms=346500000
+out_time=00:05:46.500000
+dup_frames=0
+drop_frames=0
+speed=1.92x
+progress=continue
+frame=10581
+fps=44.08
+stream_0_0_q=25.0
+bitrate= 437.7kbits/s
+total_size=24117296
+out_time_us=440791667
+out_time_ms=440791667
+out_time=00:07:20.791667
+dup_frames=0
+drop_frames=0
+speed=1.84x
+progress=continue
+frame=12370
+fps=43.28
+stream_0_0_q=-1.0
+bitrate= 438.2kbits/s
+total_size=28225397
+out_time_us=515333333
+out_time_ms=515333333
+out_time=00:08:35.333333
+dup_frames=0
+drop_frames=0
+speed= 1.8x
+progress=end
+C:\GitHub\Gurukuladesam-audit\production\shiva-batch-10\thirumanthiram_2026\THIRUMANTHIRAM_2026-CINEMATIC-ritual-v2.mp4
+PASS thirumanthiram_2026: 12 distinct scenes; exact decoded audio; full media decode; no long black passages; 28225773 bytes
+
+FILM_COMPLETE thirumanthiram_2026

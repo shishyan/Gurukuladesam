@@ -1,0 +1,58 @@
+"""Crop saved imagegen contact sheets into independent film scenes."""
+
+import argparse
+import json
+import shutil
+from pathlib import Path
+
+from PIL import Image
+
+
+HERE = Path(__file__).resolve().parent
+
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("slug")
+    args = parser.parse_args()
+    films = json.loads((HERE / "batch.json").read_text(encoding="utf-8"))["films"]
+    film = next(f for f in films if f["slug"] == args.slug)
+    if len(film["sheets"]) not in (3, 6):
+        raise ValueError("Three or six four-frame contact sheets required")
+    folder = HERE / film["slug"]
+    folder.mkdir(exist_ok=True)
+    shots = []
+    for group, image_path in enumerate(film["sheets"]):
+        local_sheet = Path(image_path)
+        if not local_sheet.is_absolute():
+            local_sheet = HERE / local_sheet
+        assert local_sheet.is_file(), str(local_sheet)
+        sheet = Image.open(local_sheet).convert("RGB")
+        width, height = sheet.size
+        for quad in range(4):
+            col, row = quad % 2, quad // 2
+            left = col * width // 2 + (5 if col else 0)
+            top = row * height // 2 + (5 if row else 0)
+            right = (col + 1) * width // 2 - (5 if col == 0 else 0)
+            bottom = (row + 1) * height // 2 - (5 if row == 0 else 0)
+            scene = sheet.crop((left, top, right, bottom))
+            scene = scene.resize((1280, 720), Image.Resampling.LANCZOS)
+            name = f"S{len(shots) + 1:02d}.png"
+            scene.save(folder / name)
+            scene_number = len(shots) + 1
+            image_name = film.get('sceneOverrides', {}).get(str(scene_number), name)
+            assert (folder / image_name).is_file()
+            shots.append({"image": image_name, "role": f"scene {scene_number}"})
+    manifest = {
+        "sourceId": film["sourceId"], "title": film["title"],
+        "output": film["slug"].upper() + "-CINEMATIC-ritual-v2.mp4",
+        "rainShots": film["rainShots"], "lightningShots": film.get("lightningShots", []), "shots": shots,
+    }
+    if film.get('rainRegion'):
+        manifest['rainRegion'] = film['rainRegion']
+    (folder / "manifest.json").write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print(f"Prepared {film['slug']}: {len(shots)} scenes")
+
+
+if __name__ == "__main__":
+    main()

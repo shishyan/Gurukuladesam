@@ -1,0 +1,82 @@
+python : frame=2248
+At line:2 char:1
++ python -u production/shiva-batch-10/render_one.py thiruvothur_i *> pr ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (frame=2248:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fps=37.45
+stream_0_0_q=25.0
+bitrate= 448.2kbits/s
+total_size=5242928
+out_time_us=93583333
+out_time_ms=93583333
+out_time=00:01:33.583333
+dup_frames=0
+drop_frames=0
+speed=1.56x
+progress=continue
+frame=4072
+fps=33.92
+stream_0_0_q=25.0
+bitrate= 445.2kbits/s
+total_size=9437232
+out_time_us=169583333
+out_time_ms=169583333
+out_time=00:02:49.583333
+dup_frames=0
+drop_frames=0
+speed=1.41x
+progress=continue
+frame=5904
+fps=32.79
+stream_0_0_q=25.0
+bitrate= 434.9kbits/s
+total_size=13369392
+out_time_us=245916667
+out_time_ms=245916667
+out_time=00:04:05.916667
+dup_frames=0
+drop_frames=0
+speed=1.37x
+progress=continue
+frame=7746
+fps=32.26
+stream_0_0_q=25.0
+bitrate= 442.0kbits/s
+total_size=17825840
+out_time_us=322666667
+out_time_ms=322666667
+out_time=00:05:22.666667
+dup_frames=0
+drop_frames=0
+speed=1.34x
+progress=continue
+frame=9541
+fps=31.79
+stream_0_0_q=25.0
+bitrate= 437.9kbits/s
+total_size=21758000
+out_time_us=397458333
+out_time_ms=397458333
+out_time=00:06:37.458333
+dup_frames=0
+drop_frames=0
+speed=1.32x
+progress=continue
+frame=11126
+fps=31.60
+stream_0_0_q=-1.0
+bitrate= 449.8kbits/s
+total_size=26059875
+out_time_us=463500000
+out_time_ms=463500000
+out_time=00:07:43.500000
+dup_frames=0
+drop_frames=0
+speed=1.32x
+progress=end
+C:\GitHub\Gurukuladesam-audit\production\shiva-batch-10\thiruvothur_i\THIRUVOTHUR_I-CINEMATIC-ritual-v2.mp4
+PASS thiruvothur_i: 12 distinct scenes; exact decoded audio; full media decode; no long black passages; 26060251 bytes
+
+FILM_COMPLETE thiruvothur_i

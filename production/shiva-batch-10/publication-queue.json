@@ -1,0 +1,421 @@
+{
+  "channel": "@guru-kula-desam",
+  "pendingCount": 24,
+  "blocker": "YouTube daily upload limit",
+  "instructions": "Check Studio for existing draft and source ID before uploading. Publish publicly and assign both playlists. Update release ledger with verified URL.",
+  "songs": [
+    {
+      "sourceId": "e9fTnxiiLnc",
+      "title": "திருவார்த்தை 2026 (திருவாசகம்) | Cinematic Lord Shiva Devotional Film",
+      "file": "shiva-batch-6/thiruvarthai/THIRUVARTHAI-CINEMATIC-ritual-v2.mp4",
+      "status": "ready; pending upload quota",
+      "playlists": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "qc": {
+        "uniqueScenes": 12,
+        "exactDecodedAudio": true,
+        "fullDecodePassed": true
+      }
+    },
+    {
+      "sourceId": "SDPLWITWGho",
+      "title": "திருவருட்பா - நற்றுணை விளக்கம் 2026 | Cinematic Lord Shiva Devotional Film",
+      "file": "shiva-batch-6/nattrunai_vilakkam/NATTRUNAI_VILAKKAM-CINEMATIC-ritual-v2.mp4",
+      "status": "ready; pending upload quota",
+      "playlists": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "qc": {
+        "uniqueScenes": 12,
+        "exactDecodedAudio": true,
+        "fullDecodePassed": true,
+        "weatherPlacementReviewed": true
+      }
+    },
+    {
+      "sourceId": "iKIsoxTz5-k",
+      "title": "Poovar Senni Mannan (Thiruvasagam) | Yaththirai Paththu | Cinematic Lord Shiva Devotional Film",
+      "file": "shiva-batch-6/poovar_senni/POOVAR_SENNI-CINEMATIC-ritual-v2.mp4",
+      "status": "ready; pending upload quota",
+      "playlists": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "qc": {
+        "uniqueScenes": 12,
+        "exactDecodedAudio": true,
+        "fullDecodePassed": true,
+        "weatherPlacementReviewed": true
+      }
+    },
+    {
+      "sourceId": "xqM-FFGFDC4",
+      "title": "தில்லை வாழ் அந்தணர்! | Cinematic Lord Shiva Devotional Film",
+      "file": "shiva-batch-6/thillai_vazh_anthanar/THILLAI_VAZH_ANTHANAR-CINEMATIC-ritual-v2.mp4",
+      "status": "ready; pending upload quota",
+      "playlists": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "qc": {
+        "uniqueScenes": 12,
+        "exactDecodedAudio": true,
+        "fullDecodePassed": true
+      }
+    },
+    {
+      "sourceId": "XB7cD-5ye-k",
+      "title": "திருப்படை ஆட்சி (திருவாசகம்) | Cinematic Devotional Film",
+      "file": "shiva-batch-7/thiruppadai_aatchi/THIRUPPADAI_AATCHI-CINEMATIC-ritual-v2.mp4",
+      "status": "ready; pending upload quota",
+      "playlists": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "qc": {
+        "uniqueScenes": 12,
+        "exactDecodedAudio": true,
+        "fullDecodePassed": true
+      }
+    },
+    {
+      "sourceId": "-bqKXZW8vFk",
+      "title": "திருவருட்பா - அருளியல் வினாவல் 2026 | Cinematic Devotional Film",
+      "file": "shiva-batch-7/aruliyal_vinaaval/ARULIYAL_VINAAVAL-CINEMATIC-ritual-v2.mp4",
+      "status": "ready; pending upload quota",
+      "playlists": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "qc": {
+        "uniqueScenes": 12,
+        "exactDecodedAudio": true,
+        "fullDecodePassed": true
+      }
+    },
+    {
+      "sourceId": "SLaW0c4zDuc",
+      "title": "திருவருட்பா - அன்பு மாலை - 2026 (I) | Cinematic Devotional Film",
+      "file": "shiva-batch-7/anbu_maalai_i/ANBU_MAALAI_I-CINEMATIC-ritual-v2.mp4",
+      "status": "ready; pending upload quota",
+      "playlists": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "qc": {
+        "uniqueScenes": 12,
+        "exactDecodedAudio": true,
+        "fullDecodePassed": true
+      }
+    },
+    {
+      "sourceId": "fdB9R7QeXo0",
+      "title": "திருவாசகம் | குழைத்த பத்து | 2026 | Cinematic Devotional Film",
+      "file": "shiva-batch-7/kuzhaitha_pathu/KUZHAITHA_PATHU-CINEMATIC-ritual-v2.mp4",
+      "status": "ready; pending upload quota",
+      "playlists": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "qc": {
+        "uniqueScenes": 12,
+        "exactDecodedAudio": true,
+        "fullDecodePassed": true
+      }
+    },
+    {
+      "sourceId": "2QOF2ycA4RQ",
+      "title": "Aadhi Yogeeswarar Naama Oli Saranam | Cinematic Devotional Film",
+      "file": "shiva-batch-7/aadhi_yogeeswarar/AADHI_YOGEESWARAR-CINEMATIC-ritual-v2.mp4",
+      "status": "ready; pending upload quota",
+      "playlists": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "qc": {
+        "uniqueScenes": 12,
+        "exactDecodedAudio": true,
+        "fullDecodePassed": true
+      }
+    },
+    {
+      "sourceId": "wC45ZWg05eo",
+      "title": "வேண்டுமே இத்தனையும் (திருவெம்பாவை) | Vendumey Iththanaiyum Cinematic Shiva Film",
+      "file": "shiva-batch-8/vendumey_iththanaiyum/VENDUMEY_ITHTHANAIYUM-CINEMATIC-ritual-v2.mp4",
+      "status": "ready; pending upload quota",
+      "playlists": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "qc": {
+        "uniqueScenes": 12,
+        "exactDecodedAudio": true,
+        "fullDecodePassed": true
+      }
+    },
+    {
+      "sourceId": "AuEZhvVmA90",
+      "title": "பிடியதன் உருவுமை | Pidiyathan Uruvumai Cinematic Shiva Film",
+      "file": "shiva-batch-8/pidiyathan_uruvumai/PIDIYATHAN_URUVUMAI-CINEMATIC-ritual-v2.mp4",
+      "status": "ready; pending upload quota",
+      "playlists": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "qc": {
+        "uniqueScenes": 12,
+        "exactDecodedAudio": true,
+        "fullDecodePassed": true
+      }
+    },
+    {
+      "sourceId": "4zG1CdYiVxs",
+      "title": "திருவருட்பா - அன்பு மாலை - 2026 (II) | Anbu Maalai II Cinematic Shiva Film",
+      "file": "shiva-batch-8/anbu_maalai_ii/ANBU_MAALAI_II-CINEMATIC-ritual-v2.mp4",
+      "status": "ready; pending upload quota",
+      "playlists": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "qc": {
+        "uniqueScenes": 12,
+        "exactDecodedAudio": true,
+        "fullDecodePassed": true
+      }
+    },
+    {
+      "sourceId": "qqpvlkv0mSY",
+      "title": "திருவோத்தூர் பதிகம் - பூத்தேர்ந்து... | Thiruvothur Pathigam Cinematic Shiva Film",
+      "file": "shiva-batch-8/thiruvothur_pathigam/THIRUVOTHUR_PATHIGAM-CINEMATIC-ritual-v2.mp4",
+      "status": "ready; pending upload quota",
+      "playlists": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "qc": {
+        "uniqueScenes": 12,
+        "exactDecodedAudio": true,
+        "fullDecodePassed": true
+      }
+    },
+    {
+      "sourceId": "89Q2g8AllcE",
+      "title": "திருவாசகம் - நடராஜர் பத்து | Natarajar Pathu Cinematic Shiva Film",
+      "file": "shiva-batch-8/natarajar_pathu/NATARAJAR_PATHU-CINEMATIC-ritual-v2.mp4",
+      "status": "ready; pending upload quota",
+      "playlists": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "qc": {
+        "uniqueScenes": 24,
+        "exactDecodedAudio": true,
+        "fullDecodePassed": true
+      }
+    },
+    {
+      "sourceId": "vZyHNMkm8xU",
+      "title": "தென் நாடுடைய சிவனே போற்றி! (Female) | Cinematic Shiva Film",
+      "file": "shiva-batch-9/thennadudaiya_female/THENNADUDAIYA_FEMALE-CINEMATIC-ritual-v2.mp4",
+      "description": "தென் நாடுடைய சிவனே போற்றி! (Female) | Cinematic Shiva Film\n\nThe complete original Guru Kula Desam recording, with fresh AI-generated devotional imagery, gentle camera movement, dheepam and incense. This distinct recording is labeled by its original version.\n\nOriginal song: https://youtu.be/vZyHNMkm8xU\nMusic: Guru Kula Desam\n\n#GuruKulaDesam #LordShiva #TamilDevotional",
+      "playlists": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "visibility": "Public",
+      "status": "Ready; pending upload quota",
+      "qc": {
+        "uniqueScenes": 12,
+        "exactDecodedAudio": true,
+        "fullDecodePassed": true,
+        "noLongBlackPassages": true,
+        "finishedWeatherReviewed": true
+      }
+    },
+    {
+      "sourceId": "oOGRP4cqGP8",
+      "title": "திருவோத்தூர் பதிகம் (V) | Thiruvothur V Cinematic Shiva Film",
+      "file": "shiva-batch-9/thiruvothur_v/THIRUVOTHUR_V-CINEMATIC-ritual-v2.mp4",
+      "description": "திருவோத்தூர் பதிகம் (V) | Thiruvothur V Cinematic Shiva Film\n\nThe complete original Guru Kula Desam recording, with fresh AI-generated devotional imagery, gentle camera movement, dheepam and incense. This distinct recording is labeled by its original version.\n\nOriginal song: https://youtu.be/oOGRP4cqGP8\nMusic: Guru Kula Desam\n\n#GuruKulaDesam #LordShiva #TamilDevotional",
+      "playlists": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "visibility": "Public",
+      "status": "Ready; pending upload quota",
+      "qc": {
+        "uniqueScenes": 12,
+        "exactDecodedAudio": true,
+        "fullDecodePassed": true,
+        "noLongBlackPassages": true,
+        "finishedWeatherReviewed": true
+      }
+    },
+    {
+      "sourceId": "tW9-r0H5rx8",
+      "title": "திருப்படை ஆட்சி (HipHop) | Thiruppadai Aatchi Cinematic Shiva Film",
+      "file": "shiva-batch-9/thiruppadai_hiphop/THIRUPPADAI_HIPHOP-CINEMATIC-ritual-v2.mp4",
+      "description": "திருப்படை ஆட்சி (HipHop) | Thiruppadai Aatchi Cinematic Shiva Film\n\nThe complete original Guru Kula Desam recording, with fresh AI-generated devotional imagery, gentle camera movement, dheepam and incense. This distinct recording is labeled by its original version.\n\nOriginal song: https://youtu.be/tW9-r0H5rx8\nMusic: Guru Kula Desam\n\n#GuruKulaDesam #LordShiva #TamilDevotional",
+      "playlists": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "visibility": "Public",
+      "status": "Ready; pending upload quota",
+      "qc": {
+        "uniqueScenes": 12,
+        "exactDecodedAudio": true,
+        "fullDecodePassed": true,
+        "noLongBlackPassages": true,
+        "finishedWeatherReviewed": true
+      }
+    },
+    {
+      "sourceId": "aq0j2OMVNoU",
+      "title": "நமச்சிவாய வாழ்க! (Children) | Namasivaya Vaazhga Cinematic Shiva Film",
+      "file": "shiva-batch-9/namasivaya_children/NAMASIVAYA_CHILDREN-CINEMATIC-ritual-v2.mp4",
+      "description": "நமச்சிவாய வாழ்க! (Children) | Namasivaya Vaazhga Cinematic Shiva Film\n\nThe complete original Guru Kula Desam recording, with fresh AI-generated devotional imagery, gentle camera movement, dheepam and incense. This distinct recording is labeled by its original version.\n\nOriginal song: https://youtu.be/aq0j2OMVNoU\nMusic: Guru Kula Desam\n\n#GuruKulaDesam #LordShiva #TamilDevotional",
+      "playlists": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "visibility": "Public",
+      "status": "Ready; pending upload quota",
+      "qc": {
+        "uniqueScenes": 12,
+        "exactDecodedAudio": true,
+        "fullDecodePassed": true,
+        "noLongBlackPassages": true,
+        "finishedWeatherReviewed": true
+      }
+    },
+    {
+      "sourceId": "jsFIjA8ZOkw",
+      "title": "குழைத்த பத்து (II) | Kuzhaitha Pathu II Cinematic Shiva Film",
+      "file": "shiva-batch-9/kuzhaitha_pathu_ii/KUZHAITHA_PATHU_II-CINEMATIC-ritual-v2.mp4",
+      "description": "குழைத்த பத்து (II) | Kuzhaitha Pathu II Cinematic Shiva Film\n\nThe complete original Guru Kula Desam recording, with fresh AI-generated devotional imagery, gentle camera movement, dheepam and incense. This distinct recording is labeled by its original version.\n\nOriginal song: https://youtu.be/jsFIjA8ZOkw\nMusic: Guru Kula Desam\n\n#GuruKulaDesam #LordShiva #TamilDevotional",
+      "playlists": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "visibility": "Public",
+      "status": "Ready; pending upload quota",
+      "qc": {
+        "uniqueScenes": 12,
+        "exactDecodedAudio": true,
+        "fullDecodePassed": true,
+        "noLongBlackPassages": true,
+        "finishedWeatherReviewed": true
+      }
+    },
+    {
+      "sourceId": "gwTtvj-h77g",
+      "title": "திருமந்திரம் (முதல் தந்திரம்) 2026 | Thirumanthiram Cinematic Shiva Film",
+      "file": "shiva-batch-10/thirumanthiram_2026/THIRUMANTHIRAM_2026-CINEMATIC-ritual-v2.mp4",
+      "description": "திருமந்திரம் (முதல் தந்திரம்) 2026 | Thirumanthiram Cinematic Shiva Film\n\nThe complete original Guru Kula Desam recording with fresh AI-generated devotional imagery, gentle camera movement, dheepam and incense. This distinct recording is labeled by its original version or as an alternate recording.\n\nOriginal song: https://youtu.be/gwTtvj-h77g\nMusic: Guru Kula Desam\n\n#GuruKulaDesam #LordShiva #TamilDevotional",
+      "playlists": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "visibility": "Public",
+      "status": "Ready; pending upload availability",
+      "qc": {
+        "uniqueScenes": 12,
+        "exactDecodedAudio": true,
+        "fullDecodePassed": true,
+        "noLongBlackPassages": true,
+        "finishedWeatherReviewed": true,
+        "minimumGroupScenes": 8
+      }
+    },
+    {
+      "sourceId": "Y0tOS_2Azxs",
+      "title": "சிவ புராணம் 2026 (II) | Sivapuranam II Cinematic Shiva Film",
+      "file": "shiva-batch-10/sivapuranam_ii/SIVAPURANAM_II-CINEMATIC-ritual-v2.mp4",
+      "description": "சிவ புராணம் 2026 (II) | Sivapuranam II Cinematic Shiva Film\n\nThe complete original Guru Kula Desam recording with fresh AI-generated devotional imagery, gentle camera movement, dheepam and incense. This distinct recording is labeled by its original version or as an alternate recording.\n\nOriginal song: https://youtu.be/Y0tOS_2Azxs\nMusic: Guru Kula Desam\n\n#GuruKulaDesam #LordShiva #TamilDevotional",
+      "playlists": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "visibility": "Public",
+      "status": "Ready; pending upload availability",
+      "qc": {
+        "uniqueScenes": 12,
+        "exactDecodedAudio": true,
+        "fullDecodePassed": true,
+        "noLongBlackPassages": true,
+        "finishedWeatherReviewed": true,
+        "minimumGroupScenes": 8
+      }
+    },
+    {
+      "sourceId": "nSQKZ2htJ-o",
+      "title": "மாசில் வீணையும் | Maasil Veenaiyum — Alternate Recording Shiva Film",
+      "file": "shiva-batch-10/maasil_veenaiyum_alt/MAASIL_VEENAIYUM_ALT-CINEMATIC-ritual-v2.mp4",
+      "description": "மாசில் வீணையும் | Maasil Veenaiyum — Alternate Recording Shiva Film\n\nThe complete original Guru Kula Desam recording with fresh AI-generated devotional imagery, gentle camera movement, dheepam and incense. This distinct recording is labeled by its original version or as an alternate recording.\n\nOriginal song: https://youtu.be/nSQKZ2htJ-o\nMusic: Guru Kula Desam\n\n#GuruKulaDesam #LordShiva #TamilDevotional",
+      "playlists": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "visibility": "Public",
+      "status": "Ready; pending upload availability",
+      "qc": {
+        "uniqueScenes": 12,
+        "exactDecodedAudio": true,
+        "fullDecodePassed": true,
+        "noLongBlackPassages": true,
+        "finishedWeatherReviewed": true,
+        "minimumGroupScenes": 8
+      }
+    },
+    {
+      "sourceId": "P-gtNBy8sRE",
+      "title": "மந்திரம் ஆவது நீறு | Mandhiram Aavadhu Neeru — Alternate Recording Film",
+      "file": "shiva-batch-10/mandhiram_aavadhu_neeru_alt/MANDHIRAM_AAVADHU_NEERU_ALT-CINEMATIC-ritual-v2.mp4",
+      "description": "மந்திரம் ஆவது நீறு | Mandhiram Aavadhu Neeru — Alternate Recording Film\n\nThe complete original Guru Kula Desam recording with fresh AI-generated devotional imagery, gentle camera movement, dheepam and incense. This distinct recording is labeled by its original version or as an alternate recording.\n\nOriginal song: https://youtu.be/P-gtNBy8sRE\nMusic: Guru Kula Desam\n\n#GuruKulaDesam #LordShiva #TamilDevotional",
+      "playlists": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "visibility": "Public",
+      "status": "Ready; pending upload availability",
+      "qc": {
+        "uniqueScenes": 12,
+        "exactDecodedAudio": true,
+        "fullDecodePassed": true,
+        "noLongBlackPassages": true,
+        "finishedWeatherReviewed": true,
+        "minimumGroupScenes": 8
+      }
+    },
+    {
+      "sourceId": "qjxmrb4fmjA",
+      "title": "திருவோத்தூர் பதிகம் 2026 (I) | Thiruvothur I Cinematic Shiva Film",
+      "file": "shiva-batch-10/thiruvothur_i/THIRUVOTHUR_I-CINEMATIC-ritual-v2.mp4",
+      "description": "திருவோத்தூர் பதிகம் 2026 (I) | Thiruvothur I Cinematic Shiva Film\n\nThe complete original Guru Kula Desam recording with fresh AI-generated devotional imagery, gentle camera movement, dheepam and incense. This distinct recording is labeled by its original version or as an alternate recording.\n\nOriginal song: https://youtu.be/qjxmrb4fmjA\nMusic: Guru Kula Desam\n\n#GuruKulaDesam #LordShiva #TamilDevotional",
+      "playlists": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "visibility": "Public",
+      "status": "Ready; pending upload availability",
+      "qc": {
+        "uniqueScenes": 12,
+        "exactDecodedAudio": true,
+        "fullDecodePassed": true,
+        "noLongBlackPassages": true,
+        "finishedWeatherReviewed": true,
+        "minimumGroupScenes": 8
+      }
+    }
+  ],
+  "latestUploadAttempt": {
+    "date": "2026-09-28",
+    "sourceId": "e9fTnxiiLnc",
+    "result": "Daily upload limit reached; no video link created"
+  },
+  "scope": "Pending Shiva films from batches 6 through 10; other production queues are separate"
+}

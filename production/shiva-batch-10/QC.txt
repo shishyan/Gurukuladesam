@@ -1,0 +1,5 @@
+PASS thirumanthiram_2026: 12 distinct scenes; exact decoded audio; full media decode; no long black passages; 28225773 bytes
+PASS sivapuranam_ii: 12 distinct scenes; exact decoded audio; full media decode; no long black passages; 37516992 bytes
+PASS maasil_veenaiyum_alt: 12 distinct scenes; exact decoded audio; full media decode; no long black passages; 15349441 bytes
+PASS mandhiram_aavadhu_neeru_alt: 12 distinct scenes; exact decoded audio; full media decode; no long black passages; 15765955 bytes
+PASS thiruvothur_i: 12 distinct scenes; exact decoded audio; full media decode; no long black passages; 26060251 bytes

@@ -1,0 +1,89 @@
+{
+  "sourceId": "Y0tOS_2Azxs",
+  "title": "சிவ புராணம் 2026 (II) | Sivapuranam II Cinematic Shiva Film",
+  "output": "SIVAPURANAM_II-CINEMATIC-ritual-v2.mp4",
+  "rainShots": [
+    10
+  ],
+  "lightningShots": [
+    10
+  ],
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 1392
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 1392,
+      "outFrame": 2841
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 2841,
+      "outFrame": 4218
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 4218,
+      "outFrame": 5643
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 5643,
+      "outFrame": 7071
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 7071,
+      "outFrame": 8469
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 8469,
+      "outFrame": 9909
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 9909,
+      "outFrame": 11321
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 11321,
+      "outFrame": 12694
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 12694,
+      "outFrame": 14134
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 14134,
+      "outFrame": 15551
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 15551,
+      "outFrame": 16952
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 16952,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

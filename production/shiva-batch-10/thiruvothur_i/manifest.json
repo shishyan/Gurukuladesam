@@ -1,0 +1,87 @@
+{
+  "sourceId": "qjxmrb4fmjA",
+  "title": "திருவோத்தூர் பதிகம் 2026 (I) | Thiruvothur I Cinematic Shiva Film",
+  "output": "THIRUVOTHUR_I-CINEMATIC-ritual-v2.mp4",
+  "rainShots": [
+    10
+  ],
+  "lightningShots": [],
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 925
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 925,
+      "outFrame": 1878
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 1878,
+      "outFrame": 2768
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 2768,
+      "outFrame": 3691
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 3691,
+      "outFrame": 4616
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 4616,
+      "outFrame": 5553
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 5553,
+      "outFrame": 6466
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 6466,
+      "outFrame": 7400
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 7400,
+      "outFrame": 8333
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 8333,
+      "outFrame": 9262
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 9262,
+      "outFrame": 10223
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 10223,
+      "outFrame": 11126
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 11126,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

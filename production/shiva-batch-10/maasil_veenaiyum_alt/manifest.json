@@ -1,0 +1,87 @@
+{
+  "sourceId": "nSQKZ2htJ-o",
+  "title": "மாசில் வீணையும் | Maasil Veenaiyum — Alternate Recording Shiva Film",
+  "output": "MAASIL_VEENAIYUM_ALT-CINEMATIC-ritual-v2.mp4",
+  "rainShots": [
+    10
+  ],
+  "lightningShots": [],
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 542
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 542,
+      "outFrame": 1052
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 1052,
+      "outFrame": 1592
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1592,
+      "outFrame": 2113
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 2113,
+      "outFrame": 2624
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 2624,
+      "outFrame": 3119
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 3119,
+      "outFrame": 3638
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 3638,
+      "outFrame": 4180
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 4180,
+      "outFrame": 4684
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 4684,
+      "outFrame": 5211
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 5211,
+      "outFrame": 5778
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 5778,
+      "outFrame": 6277
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 6277,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

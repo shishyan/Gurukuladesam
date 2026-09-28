@@ -1,0 +1,46 @@
+python : frame=2978
+At line:2 char:1
++ python -u production/shiva-batch-10/render_one.py mandhiram_aavadhu_n ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (frame=2978:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fps=49.61
+stream_0_0_q=25.0
+bitrate= 456.6kbits/s
+total_size=7077936
+out_time_us=124000000
+out_time_ms=124000000
+out_time=00:02:04.000000
+dup_frames=0
+drop_frames=0
+speed=2.07x
+progress=continue
+frame=5948
+fps=49.55
+stream_0_0_q=25.0
+bitrate= 448.6kbits/s
+total_size=13893680
+out_time_us=247750000
+out_time_ms=247750000
+out_time=00:04:07.750000
+dup_frames=0
+drop_frames=0
+speed=2.06x
+progress=continue
+frame=6550
+fps=49.86
+stream_0_0_q=-1.0
+bitrate= 462.3kbits/s
+total_size=15765616
+out_time_us=272833333
+out_time_ms=272833333
+out_time=00:04:32.833333
+dup_frames=0
+drop_frames=0
+speed=2.08x
+progress=end
+C:\GitHub\Gurukuladesam-audit\production\shiva-batch-10\mandhiram_aavadhu_neeru_alt\MANDHIRAM_AAVADHU_NEERU_ALT-CINEMATIC-ritual-v2.mp4
+PASS mandhiram_aavadhu_neeru_alt: 12 distinct scenes; exact decoded audio; full media decode; no long black passages; 15765955 bytes
+
+FILM_COMPLETE mandhiram_aavadhu_neeru_alt

@@ -1,0 +1,106 @@
+python : frame=1766
+At line:2 char:1
++ python -u production/shiva-batch-10/render_one.py sivapuranam_ii *> p ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (frame=1766:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fps=29.42
+stream_0_0_q=25.0
+bitrate= 428.0kbits/s
+total_size=3932208
+out_time_us=73500000
+out_time_ms=73500000
+out_time=00:01:13.500000
+dup_frames=0
+drop_frames=0
+speed=1.22x
+progress=continue
+frame=3624
+fps=30.19
+stream_0_0_q=25.0
+bitrate= 430.8kbits/s
+total_size=8126512
+out_time_us=150916667
+out_time_ms=150916667
+out_time=00:02:30.916667
+dup_frames=0
+drop_frames=0
+speed=1.26x
+progress=continue
+frame=5455
+fps=30.29
+stream_0_0_q=25.0
+bitrate= 415.4kbits/s
+total_size=11796528
+out_time_us=227208333
+out_time_ms=227208333
+out_time=00:03:47.208333
+dup_frames=0
+drop_frames=0
+speed=1.26x
+progress=continue
+frame=7254
+fps=30.22
+stream_0_0_q=25.0
+bitrate= 409.5kbits/s
+total_size=15466544
+out_time_us=302166667
+out_time_ms=302166667
+out_time=00:05:02.166667
+dup_frames=0
+drop_frames=0
+speed=1.26x
+progress=continue
+frame=9080
+fps=30.26
+stream_0_0_q=25.0
+bitrate= 410.3kbits/s
+total_size=19398704
+out_time_us=378250000
+out_time_ms=378250000
+out_time=00:06:18.250000
+dup_frames=0
+drop_frames=0
+speed=1.26x
+progress=continue
+frame=11711
+fps=32.52
+stream_0_0_q=25.0
+bitrate= 412.7kbits/s
+total_size=25165872
+out_time_us=487875000
+out_time_ms=487875000
+out_time=00:08:07.875000
+dup_frames=0
+drop_frames=0
+speed=1.35x
+progress=continue
+frame=14845
+fps=35.33
+stream_0_0_q=25.0
+bitrate= 413.7kbits/s
+total_size=31981616
+out_time_us=618458333
+out_time_ms=618458333
+out_time=00:10:18.458333
+dup_frames=0
+drop_frames=0
+speed=1.47x
+progress=continue
+frame=16952
+fps=36.82
+stream_0_0_q=-1.0
+bitrate= 425.0kbits/s
+total_size=37516820
+out_time_us=706250000
+out_time_ms=706250000
+out_time=00:11:46.250000
+dup_frames=0
+drop_frames=0
+speed=1.53x
+progress=end
+C:\GitHub\Gurukuladesam-audit\production\shiva-batch-10\sivapuranam_ii\SIVAPURANAM_II-CINEMATIC-ritual-v2.mp4
+PASS sivapuranam_ii: 12 distinct scenes; exact decoded audio; full media decode; no long black passages; 37516992 bytes
+
+FILM_COMPLETE sivapuranam_ii

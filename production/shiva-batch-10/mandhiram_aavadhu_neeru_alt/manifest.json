@@ -1,0 +1,87 @@
+{
+  "sourceId": "P-gtNBy8sRE",
+  "title": "மந்திரம் ஆவது நீறு | Mandhiram Aavadhu Neeru — Alternate Recording Film",
+  "output": "MANDHIRAM_AAVADHU_NEERU_ALT-CINEMATIC-ritual-v2.mp4",
+  "rainShots": [
+    10
+  ],
+  "lightningShots": [],
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 557
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 557,
+      "outFrame": 1104
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 1104,
+      "outFrame": 1617
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1617,
+      "outFrame": 2176
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 2176,
+      "outFrame": 2707
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 2707,
+      "outFrame": 3299
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 3299,
+      "outFrame": 3812
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 3812,
+      "outFrame": 4357
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 4357,
+      "outFrame": 4903
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 4903,
+      "outFrame": 5470
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 5470,
+      "outFrame": 6028
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 6028,
+      "outFrame": 6550
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 6550,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}
