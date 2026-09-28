@@ -515,8 +515,9 @@
       "recordings": [
         "6ofQ9hrD1RQ"
       ],
-      "status": "local production exists",
-      "manifest": "production\\batch-sept-28-10\\vaazkkai_thunai\\manifest.json"
+      "status": "public film verified",
+      "manifest": "production\\batch-sept-28-10\\vaazkkai_thunai\\manifest.json",
+      "publishedUrl": "https://www.youtube.com/watch?v=hCHBPd8BH8A"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "checkedAtUtc": "2026-09-28 07:47:53 UTC",
+  "checkedAtUtc": "2026-09-28 08:22:51 UTC",
   "playlist": "Thirukkural Master Collection",
   "playlistUrl": "https://www.youtube.com/playlist?list=PLW7qBZp_Q8Ro",
   "livePlaylistEntriesChecked": 112,
@@ -35,18 +35,18 @@
     }
   ],
   "chapterStatusCounts": {
-    "local production exists": 49,
+    "local production exists": 48,
     "existing public film": 5,
     "covered by Other Songs film audit": 3,
     "outside devotional scope": 1,
-    "public film verified": 1
+    "public film verified": 2
   },
   "chaptersWithoutKnownPublicOrLocalProduction": 0,
   "localBacklogBatchesRendered": 15,
   "rendersCompleted": 45,
   "uniqueNewBacklogFilmsInUploadQueue": 33,
-  "earlierReadyFilmsInUploadQueue": 1,
-  "readyToUploadCount": 38,
+  "earlierReadyFilmsInUploadQueue": 0,
+  "readyToUploadCount": 37,
   "parallelAlternateRendersSuppressed": 12,
   "otherAgentOwners": [
     {
@@ -175,14 +175,14 @@
   "publicationFinished": false,
   "vidsImportsFinished": true,
   "blocker": {
-    "checkedAtUtc": "2026-09-28 07:47:53 UTC",
+    "checkedAtUtc": "2026-09-28 08:22:51 UTC",
     "channel": "@guru-kula-desam",
     "channelId": "UCPqB1A_WzpLJec6q69BOO3Q",
-    "sourceId": "6ofQ9hrD1RQ",
+    "sourceId": "jBA9wlyNjAE",
     "result": "blocked after one accepted upload",
     "message": "Daily upload limit reached. You can upload more videos in 24 hours.",
-    "verification": "Fresh Edge Studio tabs on the correct channel. Agara Muthala accepted and published; next actual Vaazkkai Thunai MP4 upload blocked.",
-    "publishedUrl": "https://www.youtube.com/watch?v=02C8glMmetw"
+    "verification": "Fresh Edge Studio tabs on the correct channel. Vaazkkai Thunai accepted and published; next actual Amaichu MP4 upload blocked.",
+    "publishedUrl": "https://www.youtube.com/watch?v=hCHBPd8BH8A"
   },
   "scopeNote": "One film per uncovered devotional Thirukkural chapter. Alternate recordings of filmed chapters are deferred; the Hans Zimmer Space Sounds entry is outside the devotional scope. Other-agent productions retain ownership of the excluded source songs."
 }

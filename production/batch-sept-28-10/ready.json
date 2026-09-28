@@ -1,6 +1,6 @@
 {
-  "status": "one published; one ready pending daily upload limit",
-  "blocker": "Next actual upload (Vaazkkai Thunai) showed Daily upload limit reached. You can upload more videos in 24 hours.",
+  "status": "both films published and verified",
+  "blocker": null,
   "songs": [
     {
       "sourceId": "QXhT9uoA7_w",
@@ -18,7 +18,9 @@
       "title": "திருக்குறள் - வாழ்க்கை துணை | Vaazkkai Thunai | Full Song Film",
       "driveId": "1kFKPEMNq9KyABqSp2J_KDFIfCQH4RMHV",
       "googleVids": "https://docs.google.com/videos/d/114gBoxuuLhXBuEuQgOyrIHyK4b8uECd2XNx7GhttgsU/edit",
-      "publishedUrl": null
+      "publishedUrl": "https://www.youtube.com/watch?v=hCHBPd8BH8A",
+      "publishedAtUtc": "2026-09-28 08:22:51 UTC",
+      "publicationVerified": true
     }
   ]
 }

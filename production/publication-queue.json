@@ -1,16 +1,9 @@
 {
   "channel": "@guru-kula-desam",
-  "pendingCount": 38,
+  "pendingCount": 37,
   "blocker": "YouTube daily upload limit",
   "releaseInstructions": "Recheck public channel for duplicates, import locally finished films into Google Vids, publish through the correct channel Studio, and verify public URLs. Scheduling requires the upload to succeed first.",
   "songs": [
-    {
-      "sourceId": "6ofQ9hrD1RQ",
-      "title": "திருக்குறள் - வாழ்க்கை துணை | Vaazkkai Thunai | Full Song Film",
-      "file": "batch-sept-28-10\\vaazkkai_thunai\\VAAZKKAI_THUNAI-CINEMATIC-v1.mp4",
-      "googleVids": "https://docs.google.com/videos/d/114gBoxuuLhXBuEuQgOyrIHyK4b8uECd2XNx7GhttgsU/edit",
-      "status": "ready; pending upload quota"
-    },
     {
       "sourceId": "jBA9wlyNjAE",
       "title": "திருக்குறள் - அமைச்சு | Amaichu | Full Song Film",

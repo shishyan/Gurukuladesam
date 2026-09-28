@@ -1,12 +1,11 @@
 # Pending song videos
 
-38 QC-passed full-song films are ready locally. YouTube publication is blocked by the daily upload quota.
+37 QC-passed full-song films are ready locally. YouTube publication is blocked by the daily upload quota.
 
-38 films have saved Google Vids projects; 0 still need a Vids import.
+37 films have saved Google Vids projects; 0 still need a Vids import.
 
 | Song | Source | Local MP4 |
 | --- | --- | --- |
-| திருக்குறள் - வாழ்க்கை துணை / Vaazkkai Thunai / Full Song Film | `6ofQ9hrD1RQ` | [Open film](batch-sept-28-10/vaazkkai_thunai/VAAZKKAI_THUNAI-CINEMATIC-v1.mp4) |
 | திருக்குறள் - அமைச்சு / Amaichu / Full Song Film | `jBA9wlyNjAE` | [Open film](thirukkural-backlog-01/amaichu/AMAICHU-CINEMATIC-v1.mp4) |
 | திருக்குறள் - அரண் / Aran / Full Song Film | `IiZoud1sP2o` | [Open film](thirukkural-backlog-01/aran/ARAN-CINEMATIC-v1.mp4) |
 | திருக்குறள் - அவை அஞ்சாமை / Avai Anjaamai / Full Song Film | `FrZmyvY3sEc` | [Open film](thirukkural-backlog-01/avai_anjaamai/AVAI_ANJAAMAI-CINEMATIC-v1.mp4) |
