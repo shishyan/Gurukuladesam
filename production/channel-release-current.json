@@ -79,11 +79,95 @@
   "channel_is_verified": true,
   "modified_date": null,
   "view_count": null,
-  "playlist_count": 188,
+  "playlist_count": 191,
   "uploader": "Guru Kula Desam",
   "channel_url": "https://www.youtube.com/channel/UCPqB1A_WzpLJec6q69BOO3Q",
   "_type": "playlist",
   "entries": [
+    {
+      "title": "திருக்குறள் - இடுக்கண் அழியாமை | Idukkan Azhiyaamai | Full Song Film",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/daM5VkysZqg/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFcoQDAP&rs=AOn4CLDdsVkFnrpUord8-qjZjj9wWi3SXQ",
+          "height": 202,
+          "width": 360
+        },
+        {
+          "url": "https://i.ytimg.com/vi/daM5VkysZqg/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFcoQDAP&rs=AOn4CLCdhHj8QyAex7kWUuEvUvHRx9MOnA",
+          "height": 404,
+          "width": 720
+        }
+      ],
+      "duration": 293,
+      "view_count": 0,
+      "timestamp": null,
+      "live_status": null,
+      "availability": null,
+      "channel_url": null,
+      "uploader_url": null,
+      "creators": null,
+      "ie_key": "Youtube",
+      "id": "daM5VkysZqg",
+      "_type": "url",
+      "url": "https://www.youtube.com/watch?v=daM5VkysZqg",
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "title": "திருக்குறள் - இடனறிதல் | Idanarithal | Full Song Film",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/817Wxel4F5s/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhjIGUoRzAP&rs=AOn4CLBkhze1-4Fv5HtI0iKzvND15SJtCQ",
+          "height": 202,
+          "width": 360
+        },
+        {
+          "url": "https://i.ytimg.com/vi/817Wxel4F5s/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhjIGUoRzAP&rs=AOn4CLDjCKSob8HrajhIGvAdUMeqdcMlTw",
+          "height": 404,
+          "width": 720
+        }
+      ],
+      "duration": 271,
+      "view_count": 1,
+      "timestamp": null,
+      "live_status": null,
+      "availability": null,
+      "channel_url": null,
+      "uploader_url": null,
+      "creators": null,
+      "ie_key": "Youtube",
+      "id": "817Wxel4F5s",
+      "_type": "url",
+      "url": "https://www.youtube.com/watch?v=817Wxel4F5s",
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "title": "திருக்குறள் - அறிவுடைமை | Arivudaimai | Full Song Film",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/_Q2t-TcmDT4/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIEcoLjAP&rs=AOn4CLCJgtNYKzHHMJQQABKJxc717akY7g",
+          "height": 202,
+          "width": 360
+        },
+        {
+          "url": "https://i.ytimg.com/vi/_Q2t-TcmDT4/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIEcoLjAP&rs=AOn4CLAyZGwI76JvhqJ_atdkNCY3-DHSAw",
+          "height": 404,
+          "width": 720
+        }
+      ],
+      "duration": 302,
+      "view_count": 2,
+      "timestamp": null,
+      "live_status": null,
+      "availability": null,
+      "channel_url": null,
+      "uploader_url": null,
+      "creators": null,
+      "ie_key": "Youtube",
+      "id": "_Q2t-TcmDT4",
+      "_type": "url",
+      "url": "https://www.youtube.com/watch?v=_Q2t-TcmDT4",
+      "__x_forwarded_for_ip": null
+    },
     {
       "title": "திருக்குறள் - ஆள்வினையுடைமை | Aalvinaiyudaimai | Full Song Film",
       "thumbnails": [
@@ -127,7 +211,7 @@
         }
       ],
       "duration": 230,
-      "view_count": 2,
+      "view_count": 3,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -295,7 +379,7 @@
         }
       ],
       "duration": 239,
-      "view_count": 12,
+      "view_count": 13,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -351,7 +435,7 @@
         }
       ],
       "duration": 290,
-      "view_count": 2,
+      "view_count": 3,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -631,7 +715,7 @@
         }
       ],
       "duration": 291,
-      "view_count": 10,
+      "view_count": 12,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -1471,7 +1555,7 @@
         }
       ],
       "duration": 322,
-      "view_count": 26,
+      "view_count": 38,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -2423,7 +2507,7 @@
         }
       ],
       "duration": 876,
-      "view_count": 31,
+      "view_count": 47,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -2591,7 +2675,7 @@
         }
       ],
       "duration": 230,
-      "view_count": 4,
+      "view_count": 6,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -3123,7 +3207,7 @@
         }
       ],
       "duration": 294,
-      "view_count": 107,
+      "view_count": 111,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -3454,7 +3538,7 @@
         }
       ],
       "duration": 227,
-      "view_count": 177,
+      "view_count": 184,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -3538,7 +3622,7 @@
         }
       ],
       "duration": 241,
-      "view_count": 87,
+      "view_count": 84,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -3566,7 +3650,7 @@
         }
       ],
       "duration": 230,
-      "view_count": 38,
+      "view_count": 36,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -3594,7 +3678,7 @@
         }
       ],
       "duration": 228,
-      "view_count": 44,
+      "view_count": 45,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -3650,7 +3734,7 @@
         }
       ],
       "duration": 264,
-      "view_count": 15,
+      "view_count": 16,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -3678,7 +3762,7 @@
         }
       ],
       "duration": 224,
-      "view_count": 77,
+      "view_count": 86,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -3986,7 +4070,7 @@
         }
       ],
       "duration": 369,
-      "view_count": 22,
+      "view_count": 23,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -4042,7 +4126,7 @@
         }
       ],
       "duration": 455,
-      "view_count": 203,
+      "view_count": 202,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -4098,7 +4182,7 @@
         }
       ],
       "duration": 273,
-      "view_count": 107,
+      "view_count": 104,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -4126,7 +4210,7 @@
         }
       ],
       "duration": 382,
-      "view_count": 88,
+      "view_count": 90,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -5330,7 +5414,7 @@
         }
       ],
       "duration": 476,
-      "view_count": 50,
+      "view_count": 51,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -5351,7 +5435,7 @@
   "webpage_url_basename": "videos",
   "webpage_url_domain": "youtube.com",
   "release_year": null,
-  "epoch": 1790600153,
+  "epoch": 1790601288,
   "__files_to_move": {},
   "_version": {
     "version": "2026.08.19",

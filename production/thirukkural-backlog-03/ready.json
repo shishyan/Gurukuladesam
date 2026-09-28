@@ -4,8 +4,8 @@
       "sourceId": "L-FvFZeT_cQ",
       "title": "திருக்குறள் - இடனறிதல் | Idanarithal | Full Song Film",
       "file": "idanarithal\\IDANARITHAL-CINEMATIC-groups-v2.mp4",
-      "status": "ready; revised group scenes; pending publication",
-      "publishedUrl": null,
+      "status": "published and public playback verified",
+      "publishedUrl": "https://www.youtube.com/watch?v=817Wxel4F5s",
       "qc": {
         "sourceId": "L-FvFZeT_cQ",
         "durationSeconds": 270.25,
@@ -30,14 +30,16 @@
         "savedToDrive": true,
         "volumePercent": 100,
         "muted": false
-      }
+      },
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T13:13:14.006807+00:00"
     },
     {
       "sourceId": "B9N2j7r2KkI",
       "title": "திருக்குறள் - இடுக்கண் அழியாமை | Idukkan Azhiyaamai | Full Song Film",
       "file": "idukkan_azhiyaamai\\IDUKKAN_AZHIYAAMAI-CINEMATIC-groups-v2.mp4",
-      "status": "ready; revised group scenes; pending publication",
-      "publishedUrl": null,
+      "status": "published and public playback verified",
+      "publishedUrl": "https://www.youtube.com/watch?v=daM5VkysZqg",
       "qc": {
         "sourceId": "B9N2j7r2KkI",
         "durationSeconds": 292.9166666666667,
@@ -63,14 +65,16 @@
         "savedToDrive": true,
         "volumePercent": 100,
         "muted": false
-      }
+      },
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T13:15:22.691406+00:00"
     },
     {
       "sourceId": "nHj4Q196kU4",
       "title": "திருக்குறள் - ஊக்கமுடைமை | Ookkamudaimai | Full Song Film",
       "file": "ookkamudaimai\\OOKKAMUDAIMAI-CINEMATIC-groups-v2.mp4",
-      "status": "ready; revised group scenes; pending publication",
-      "publishedUrl": null,
+      "status": "published and public playback verified",
+      "publishedUrl": "https://www.youtube.com/watch?v=XN5ENUbmSOE",
       "qc": {
         "sourceId": "nHj4Q196kU4",
         "durationSeconds": 307.25,
@@ -97,7 +101,9 @@
         "savedToDrive": true,
         "volumePercent": 100,
         "muted": false
-      }
+      },
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T13:19:38.729858+00:00"
     }
   ]
 }
