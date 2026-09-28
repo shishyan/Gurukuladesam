@@ -4,8 +4,8 @@
       "sourceId": "C7PTFCAFIRI",
       "title": "திருக்குறள் - அவா அறுத்தல் | Avaa Aruththal | Full Song Film",
       "file": "avaa_aruththal\\AVAA_ARUTHTHAL-CINEMATIC-groups-v2.mp4",
-      "status": "ready; group revision QC passed; saved in Vids",
-      "publishedUrl": null,
+      "status": "published and public playback verified",
+      "publishedUrl": "https://www.youtube.com/watch?v=HezzLu_n6qE",
       "qc": {
         "sourceId": "C7PTFCAFIRI",
         "durationSeconds": 231.75,
@@ -24,7 +24,9 @@
         "savedToDrive": true,
         "volumePercent": 100,
         "muted": false
-      }
+      },
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T14:46:21.862761+00:00"
     },
     {
       "sourceId": "K6mhIh64XE8",
@@ -54,8 +56,8 @@
       "sourceId": "scUcWDtCge8",
       "title": "திருக்குறள் - ஊழ் வினை | Oozh Vinai | Full Song Film",
       "file": "oozh_vinai\\OOZH_VINAI-CINEMATIC-v1.mp4",
-      "status": "ready; pending daily upload quota",
-      "publishedUrl": null,
+      "status": "published and public playback verified",
+      "publishedUrl": "https://www.youtube.com/watch?v=dD_cXqU_XVQ",
       "qc": {
         "sourceId": "scUcWDtCge8",
         "durationSeconds": 234.08333333333334,
@@ -72,7 +74,9 @@
         "savedToDrive": true,
         "volumePercent": 100,
         "muted": false
-      }
+      },
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T14:45:01.211025+00:00"
     }
   ]
 }

@@ -1,15 +1,13 @@
 # Pending song videos
 
-17 QC-passed full-song films are ready locally. Upload slots were available at the latest check.
+15 QC-passed full-song films are ready locally. Upload slots were available at the latest check.
 
-17 films have saved Google Vids projects; 0 still need a Vids import.
+15 films have saved Google Vids projects; 0 still need a Vids import.
 
 | Song | Source | Local MP4 |
 | --- | --- | --- |
 | திருக்குறள் - ஒற்றாடல் / Ottraadal / Full Song Film | `cn776n6oKXQ` | [Open film](thirukkural-backlog-04/ottraadal/OTTRAADAL-CINEMATIC-v1.mp4) |
-| திருக்குறள் - அவா அறுத்தல் / Avaa Aruththal / Full Song Film | `C7PTFCAFIRI` | [Open film](thirukkural-backlog-08/avaa_aruththal/AVAA_ARUTHTHAL-CINEMATIC-v1.mp4) |
 | திருக்குறள் - இறை மாட்சி / Irai Maatchi / Full Song Film | `K6mhIh64XE8` | [Open film](thirukkural-backlog-08/irai_maatchi/IRAI_MAATCHI-CINEMATIC-v1.mp4) |
-| திருக்குறள் - ஊழ் வினை / Oozh Vinai / Full Song Film | `scUcWDtCge8` | [Open film](thirukkural-backlog-08/oozh_vinai/OOZH_VINAI-CINEMATIC-v1.mp4) |
 | திருக்குறள் - கல்லாமை / Kallaamai Learning / Full Song Film | `9YAr421Ft00` | [Open film](thirukkural-backlog-09/kallaamai_learning/KALLAAMAI_LEARNING-CINEMATIC-v1.mp4) |
 | திருக்குறள் - கொல்லாமை / Kollaamai / Full Song Film | `rBeSH7tNEzA` | [Open film](thirukkural-backlog-09/kollaamai/KOLLAAMAI-CINEMATIC-v1.mp4) |
 | திருக்குறள் - நிலையாமை / Nilaiyaamai / Full Song Film | `YL6ocN5OMzI` | [Open film](thirukkural-backlog-09/nilaiyaamai/NILAIYAAMAI-CINEMATIC-v1.mp4) |
