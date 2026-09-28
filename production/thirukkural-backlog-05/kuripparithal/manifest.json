@@ -1,0 +1,113 @@
+{
+  "sourceId": "6hfla_PRW40",
+  "title": "திருக்குறள் - குறிப்பறிதல் | Kuripparithal | Full Song Film",
+  "output": "KURIPPARITHAL-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "narrative scene 1",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-05\\kuripparithal\\new-1.png",
+      "inFrame": 0,
+      "outFrame": 267
+    },
+    {
+      "image": "S02.png",
+      "role": "narrative scene 2",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S02.png",
+      "inFrame": 267,
+      "outFrame": 541
+    },
+    {
+      "image": "S03.png",
+      "role": "narrative scene 3",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S03.png",
+      "inFrame": 541,
+      "outFrame": 825
+    },
+    {
+      "image": "S04.png",
+      "role": "narrative scene 4",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-05\\kuripparithal\\new-2.png",
+      "inFrame": 825,
+      "outFrame": 1097
+    },
+    {
+      "image": "S05.png",
+      "role": "narrative scene 5",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S04.png",
+      "inFrame": 1097,
+      "outFrame": 1377
+    },
+    {
+      "image": "S06.png",
+      "role": "narrative scene 6",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S06.png",
+      "inFrame": 1377,
+      "outFrame": 1639
+    },
+    {
+      "image": "S07.png",
+      "role": "narrative scene 7",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S07.png",
+      "inFrame": 1639,
+      "outFrame": 1908
+    },
+    {
+      "image": "S08.png",
+      "role": "narrative scene 8",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-05\\kuripparithal\\new-3.png",
+      "inFrame": 1908,
+      "outFrame": 2186
+    },
+    {
+      "image": "S09.png",
+      "role": "narrative scene 9",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\avaiyarithal\\S05.png",
+      "inFrame": 2186,
+      "outFrame": 2470
+    },
+    {
+      "image": "S10.png",
+      "role": "narrative scene 10",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\avaiyarithal\\S09.png",
+      "inFrame": 2470,
+      "outFrame": 2740
+    },
+    {
+      "image": "S11.png",
+      "role": "narrative scene 11",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S10.png",
+      "inFrame": 2740,
+      "outFrame": 3006
+    },
+    {
+      "image": "S12.png",
+      "role": "narrative scene 12",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-05\\kuripparithal\\new-4.png",
+      "inFrame": 3006,
+      "outFrame": 3290
+    }
+  ],
+  "imageDerived": true,
+  "theme": "understanding unspoken intentions through attentive observation",
+  "duplicateAudit": {
+    "publicVideosChecked": 180,
+    "matchingFilms": []
+  },
+  "publicationStatus": "pending YouTube daily upload quota",
+  "fps": 12,
+  "targetFrames": 3290,
+  "cutRule": "near even spacing at low audio energy"
+}

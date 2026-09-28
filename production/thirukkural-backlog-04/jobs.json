@@ -1,0 +1,55 @@
+{
+  "songs": [
+    {
+      "sourceId": "cn776n6oKXQ",
+      "chapter": "ஒற்றாடல்",
+      "english": "Ottraadal",
+      "theme": "wise information gathering and verification",
+      "slug": "ottraadal",
+      "supportingImages": [
+        "thirukkural-backlog-01/amaichu/S02.png",
+        "thirukkural-backlog-01/amaichu/S03.png",
+        "thirukkural-backlog-01/amaichu/S04.png",
+        "thirukkural-backlog-01/amaichu/S06.png",
+        "thirukkural-backlog-01/amaichu/S07.png",
+        "thirukkural-backlog-02/avaiyarithal/S05.png",
+        "thirukkural-backlog-02/avaiyarithal/S09.png",
+        "thirukkural-backlog-01/amaichu/S10.png"
+      ]
+    },
+    {
+      "sourceId": "SI8ItN6nqck",
+      "chapter": "கண்ணோட்டம்",
+      "english": "Kannottam",
+      "theme": "compassionate attention and kindness",
+      "slug": "kannottam",
+      "supportingImages": [
+        "thirukkural-backlog-01/amaichu/S02.png",
+        "thirukkural-backlog-01/amaichu/S06.png",
+        "thirukkural-backlog-02/arivudaimai/S07.png",
+        "thirukkural-backlog-01/amaichu/S08.png",
+        "thirukkural-backlog-02/avaiyarithal/S07.png",
+        "thirukkural-backlog-02/arivudaimai/S09.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S11.png",
+        "thirukkural-backlog-01/amaichu/S12.png"
+      ]
+    },
+    {
+      "sourceId": "h4Pc0KxvnRo",
+      "chapter": "கள்ளாமை",
+      "english": "Kallaamai",
+      "theme": "honesty and respecting the property of others",
+      "slug": "kallaamai",
+      "supportingImages": [
+        "thirukkural-backlog-01/amaichu/S02.png",
+        "thirukkural-backlog-01/amaichu/S06.png",
+        "thirukkural-backlog-02/arivudaimai/S07.png",
+        "thirukkural-backlog-01/amaichu/S08.png",
+        "thirukkural-backlog-02/avaiyarithal/S07.png",
+        "thirukkural-backlog-02/arivudaimai/S09.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S11.png",
+        "thirukkural-backlog-01/amaichu/S12.png"
+      ]
+    }
+  ]
+}

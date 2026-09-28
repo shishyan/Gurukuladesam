@@ -1,0 +1,58 @@
+{
+  "songs": [
+    {
+      "sourceId": "h4Pc0KxvnRo",
+      "title": "திருக்குறள் - கள்ளாமை | Kallaamai | Full Song Film",
+      "file": "kallaamai\\KALLAAMAI-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "h4Pc0KxvnRo",
+        "durationSeconds": 240.75,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 17276072
+      }
+    },
+    {
+      "sourceId": "SI8ItN6nqck",
+      "title": "திருக்குறள் - கண்ணோட்டம் | Kannottam | Full Song Film",
+      "file": "kannottam\\KANNOTTAM-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "SI8ItN6nqck",
+        "durationSeconds": 314.6666666666667,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 20322331
+      }
+    },
+    {
+      "sourceId": "cn776n6oKXQ",
+      "title": "திருக்குறள் - ஒற்றாடல் | Ottraadal | Full Song Film",
+      "file": "ottraadal\\OTTRAADAL-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "cn776n6oKXQ",
+        "durationSeconds": 320.4166666666667,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 19935961
+      }
+    }
+  ]
+}

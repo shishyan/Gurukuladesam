@@ -1,0 +1,55 @@
+{
+  "songs": [
+    {
+      "sourceId": "diUv8fkOqv0",
+      "chapter": "காலமறிதல்",
+      "english": "Kaalamarithal",
+      "theme": "choosing the right time to act",
+      "slug": "kaalamarithal",
+      "supportingImages": [
+        "thirukkural-backlog-02/aalvinaiyudaimai/S01.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S02.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S03.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S04.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S07.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S09.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S10.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S11.png"
+      ]
+    },
+    {
+      "sourceId": "2_TfLljo1qg",
+      "chapter": "குற்றங்கடிதல்",
+      "english": "Kuttrankadithal",
+      "theme": "recognizing and correcting one's faults",
+      "slug": "kuttrankadithal",
+      "supportingImages": [
+        "thirukkural-backlog-02/arivudaimai/S01.png",
+        "thirukkural-backlog-02/arivudaimai/S02.png",
+        "thirukkural-backlog-02/arivudaimai/S04.png",
+        "thirukkural-backlog-02/arivudaimai/S08.png",
+        "thirukkural-backlog-01/avai_anjaamai/S11.png",
+        "thirukkural-backlog-02/arivudaimai/S10.png",
+        "thirukkural-backlog-02/arivudaimai/S11.png",
+        "thirukkural-backlog-02/arivudaimai/S12.png"
+      ]
+    },
+    {
+      "sourceId": "6hfla_PRW40",
+      "chapter": "குறிப்பறிதல்",
+      "english": "Kuripparithal",
+      "theme": "understanding unspoken intentions through attentive observation",
+      "slug": "kuripparithal",
+      "supportingImages": [
+        "thirukkural-backlog-01/amaichu/S02.png",
+        "thirukkural-backlog-01/amaichu/S03.png",
+        "thirukkural-backlog-01/amaichu/S04.png",
+        "thirukkural-backlog-01/amaichu/S06.png",
+        "thirukkural-backlog-01/amaichu/S07.png",
+        "thirukkural-backlog-02/avaiyarithal/S05.png",
+        "thirukkural-backlog-02/avaiyarithal/S09.png",
+        "thirukkural-backlog-01/amaichu/S10.png"
+      ]
+    }
+  ]
+}

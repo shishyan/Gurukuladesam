@@ -1,0 +1,58 @@
+{
+  "songs": [
+    {
+      "sourceId": "diUv8fkOqv0",
+      "title": "திருக்குறள் - காலமறிதல் | Kaalamarithal | Full Song Film",
+      "file": "kaalamarithal\\KAALAMARITHAL-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "diUv8fkOqv0",
+        "durationSeconds": 261.3333333333333,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 21502483
+      }
+    },
+    {
+      "sourceId": "6hfla_PRW40",
+      "title": "திருக்குறள் - குறிப்பறிதல் | Kuripparithal | Full Song Film",
+      "file": "kuripparithal\\KURIPPARITHAL-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "6hfla_PRW40",
+        "durationSeconds": 274.1666666666667,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 18237549
+      }
+    },
+    {
+      "sourceId": "2_TfLljo1qg",
+      "title": "திருக்குறள் - குற்றங்கடிதல் | Kuttrankadithal | Full Song Film",
+      "file": "kuttrankadithal\\KUTTRANKADITHAL-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "2_TfLljo1qg",
+        "durationSeconds": 233.58333333333334,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 15287135
+      }
+    }
+  ]
+}
