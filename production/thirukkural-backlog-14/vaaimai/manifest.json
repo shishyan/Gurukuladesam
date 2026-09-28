@@ -1,0 +1,113 @@
+{
+  "sourceId": "BoOWFaOGczE",
+  "title": "திருக்குறள் - வாய்மை | Vaaimai | Full Song Film",
+  "output": "VAAIMAI-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "narrative scene 1",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-14\\vaaimai\\new-1.png",
+      "inFrame": 0,
+      "outFrame": 250
+    },
+    {
+      "image": "S02.png",
+      "role": "narrative scene 2",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S02.png",
+      "inFrame": 250,
+      "outFrame": 499
+    },
+    {
+      "image": "S03.png",
+      "role": "narrative scene 3",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S06.png",
+      "inFrame": 499,
+      "outFrame": 750
+    },
+    {
+      "image": "S04.png",
+      "role": "narrative scene 4",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-14\\vaaimai\\new-2.png",
+      "inFrame": 750,
+      "outFrame": 1015
+    },
+    {
+      "image": "S05.png",
+      "role": "narrative scene 5",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S07.png",
+      "inFrame": 1015,
+      "outFrame": 1258
+    },
+    {
+      "image": "S06.png",
+      "role": "narrative scene 6",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S08.png",
+      "inFrame": 1258,
+      "outFrame": 1533
+    },
+    {
+      "image": "S07.png",
+      "role": "narrative scene 7",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\avaiyarithal\\S07.png",
+      "inFrame": 1533,
+      "outFrame": 1774
+    },
+    {
+      "image": "S08.png",
+      "role": "narrative scene 8",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-14\\vaaimai\\new-3.png",
+      "inFrame": 1774,
+      "outFrame": 2029
+    },
+    {
+      "image": "S09.png",
+      "role": "narrative scene 9",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S09.png",
+      "inFrame": 2029,
+      "outFrame": 2276
+    },
+    {
+      "image": "S10.png",
+      "role": "narrative scene 10",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S11.png",
+      "inFrame": 2276,
+      "outFrame": 2547
+    },
+    {
+      "image": "S11.png",
+      "role": "narrative scene 11",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S12.png",
+      "inFrame": 2547,
+      "outFrame": 2801
+    },
+    {
+      "image": "S12.png",
+      "role": "narrative scene 12",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-14\\vaaimai\\new-4.png",
+      "inFrame": 2801,
+      "outFrame": 3047
+    }
+  ],
+  "imageDerived": true,
+  "theme": "truthfulness and trustworthy speech",
+  "duplicateAudit": {
+    "publicVideosChecked": 180,
+    "matchingFilms": []
+  },
+  "publicationStatus": "pending YouTube daily upload quota",
+  "fps": 12,
+  "targetFrames": 3047,
+  "cutRule": "near even spacing at low audio energy"
+}

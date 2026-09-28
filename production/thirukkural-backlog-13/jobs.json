@@ -1,0 +1,55 @@
+{
+  "songs": [
+    {
+      "sourceId": "O0hASl4BS2c",
+      "chapter": "பொச்சாவாமை",
+      "english": "Pocchaavaamai",
+      "theme": "attentiveness and avoiding forgetfulness in duty",
+      "slug": "pocchaavaamai",
+      "supportingImages": [
+        "thirukkural-backlog-02/aalvinaiyudaimai/S01.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S02.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S03.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S04.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S07.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S09.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S10.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S11.png"
+      ]
+    },
+    {
+      "sourceId": "GfGlO3RQuik",
+      "chapter": "மடியின்மை",
+      "english": "Madiyinmai",
+      "theme": "diligence and freedom from laziness",
+      "slug": "madiyinmai",
+      "supportingImages": [
+        "thirukkural-backlog-02/aalvinaiyudaimai/S01.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S02.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S03.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S04.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S07.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S09.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S10.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S11.png"
+      ]
+    },
+    {
+      "sourceId": "u9NeXaCHu-A",
+      "chapter": "மன்னரைச் சேர்ந்தொழுதல்",
+      "english": "Mannarai Sernthozhuthal",
+      "theme": "wise and respectful conduct near rulers",
+      "slug": "mannarai_sernthozhuthal",
+      "supportingImages": [
+        "thirukkural-backlog-01/amaichu/S02.png",
+        "thirukkural-backlog-01/amaichu/S03.png",
+        "thirukkural-backlog-01/amaichu/S04.png",
+        "thirukkural-backlog-01/amaichu/S06.png",
+        "thirukkural-backlog-01/amaichu/S07.png",
+        "thirukkural-backlog-02/avaiyarithal/S05.png",
+        "thirukkural-backlog-02/avaiyarithal/S09.png",
+        "thirukkural-backlog-01/amaichu/S10.png"
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "channel": "@guru-kula-desam",
-  "pendingCount": 38,
+  "pendingCount": 44,
   "blocker": "YouTube daily upload limit",
   "releaseInstructions": "Recheck public channel for duplicates, import locally finished films into Google Vids, publish through the correct channel Studio, and verify public URLs. Scheduling requires the upload to succeed first.",
   "songs": [
@@ -664,6 +664,114 @@
         "allScenesHaveMovement": true,
         "logoPosition": "bottom-left, 24px inset",
         "fileBytes": 25645582
+      }
+    },
+    {
+      "sourceId": "GfGlO3RQuik",
+      "title": "திருக்குறள் - மடியின்மை | Madiyinmai | Full Song Film",
+      "file": "thirukkural-backlog-13\\madiyinmai\\MADIYINMAI-CINEMATIC-v1.mp4",
+      "googleVids": null,
+      "status": "ready; pending upload quota",
+      "qc": {
+        "sourceId": "GfGlO3RQuik",
+        "durationSeconds": 249.0,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 20461621
+      }
+    },
+    {
+      "sourceId": "u9NeXaCHu-A",
+      "title": "திருக்குறள் - மன்னரைச் சேர்ந்தொழுதல் | Mannarai Sernthozhuthal | Full Song Film",
+      "file": "thirukkural-backlog-13\\mannarai_sernthozhuthal\\MANNARAI_SERNTHOZHUTHAL-CINEMATIC-v1.mp4",
+      "googleVids": null,
+      "status": "ready; pending upload quota",
+      "qc": {
+        "sourceId": "u9NeXaCHu-A",
+        "durationSeconds": 265.5,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 18922687
+      }
+    },
+    {
+      "sourceId": "O0hASl4BS2c",
+      "title": "திருக்குறள் - பொச்சாவாமை | Pocchaavaamai | Full Song Film",
+      "file": "thirukkural-backlog-13\\pocchaavaamai\\POCCHAAVAAMAI-CINEMATIC-v1.mp4",
+      "googleVids": null,
+      "status": "ready; pending upload quota",
+      "qc": {
+        "sourceId": "O0hASl4BS2c",
+        "durationSeconds": 319.3333333333333,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 23459912
+      }
+    },
+    {
+      "sourceId": "BoOWFaOGczE",
+      "title": "திருக்குறள் - வாய்மை | Vaaimai | Full Song Film",
+      "file": "thirukkural-backlog-14\\vaaimai\\VAAIMAI-CINEMATIC-v1.mp4",
+      "googleVids": null,
+      "status": "ready; pending upload quota",
+      "qc": {
+        "sourceId": "BoOWFaOGczE",
+        "durationSeconds": 253.91666666666666,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 17772468
+      }
+    },
+    {
+      "sourceId": "Js6Vepbegr8",
+      "title": "திருக்குறள் - வலியறிதல் | Valiyarithal | Full Song Film",
+      "file": "thirukkural-backlog-14\\valiyarithal\\VALIYARITHAL-CINEMATIC-v1.mp4",
+      "googleVids": null,
+      "status": "ready; pending upload quota",
+      "qc": {
+        "sourceId": "Js6Vepbegr8",
+        "durationSeconds": 308.3333333333333,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 23751740
+      }
+    },
+    {
+      "sourceId": "gBRvVKE_so8",
+      "title": "திருக்குறள் - வினைசெயல்வகை | Vinai Seyalvagai | Full Song Film",
+      "file": "thirukkural-backlog-14\\vinai_seyalvagai\\VINAI_SEYALVAGAI-CINEMATIC-v1.mp4",
+      "googleVids": null,
+      "status": "ready; pending upload quota",
+      "qc": {
+        "sourceId": "gBRvVKE_so8",
+        "durationSeconds": 280.0,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 23187923
       }
     }
   ]

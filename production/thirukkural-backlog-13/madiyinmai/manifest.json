@@ -1,0 +1,113 @@
+{
+  "sourceId": "GfGlO3RQuik",
+  "title": "திருக்குறள் - மடியின்மை | Madiyinmai | Full Song Film",
+  "output": "MADIYINMAI-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "narrative scene 1",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-13\\madiyinmai\\new-1.png",
+      "inFrame": 0,
+      "outFrame": 245
+    },
+    {
+      "image": "S02.png",
+      "role": "narrative scene 2",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S01.png",
+      "inFrame": 245,
+      "outFrame": 495
+    },
+    {
+      "image": "S03.png",
+      "role": "narrative scene 3",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S02.png",
+      "inFrame": 495,
+      "outFrame": 748
+    },
+    {
+      "image": "S04.png",
+      "role": "narrative scene 4",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-13\\madiyinmai\\new-2.png",
+      "inFrame": 748,
+      "outFrame": 1002
+    },
+    {
+      "image": "S05.png",
+      "role": "narrative scene 5",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S03.png",
+      "inFrame": 1002,
+      "outFrame": 1253
+    },
+    {
+      "image": "S06.png",
+      "role": "narrative scene 6",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S04.png",
+      "inFrame": 1253,
+      "outFrame": 1482
+    },
+    {
+      "image": "S07.png",
+      "role": "narrative scene 7",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S07.png",
+      "inFrame": 1482,
+      "outFrame": 1752
+    },
+    {
+      "image": "S08.png",
+      "role": "narrative scene 8",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-13\\madiyinmai\\new-3.png",
+      "inFrame": 1752,
+      "outFrame": 1984
+    },
+    {
+      "image": "S09.png",
+      "role": "narrative scene 9",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S09.png",
+      "inFrame": 1984,
+      "outFrame": 2242
+    },
+    {
+      "image": "S10.png",
+      "role": "narrative scene 10",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S10.png",
+      "inFrame": 2242,
+      "outFrame": 2490
+    },
+    {
+      "image": "S11.png",
+      "role": "narrative scene 11",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S11.png",
+      "inFrame": 2490,
+      "outFrame": 2746
+    },
+    {
+      "image": "S12.png",
+      "role": "narrative scene 12",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-13\\madiyinmai\\new-4.png",
+      "inFrame": 2746,
+      "outFrame": 2988
+    }
+  ],
+  "imageDerived": true,
+  "theme": "diligence and freedom from laziness",
+  "duplicateAudit": {
+    "publicVideosChecked": 180,
+    "matchingFilms": []
+  },
+  "publicationStatus": "pending YouTube daily upload quota",
+  "fps": 12,
+  "targetFrames": 2988,
+  "cutRule": "near even spacing at low audio energy"
+}

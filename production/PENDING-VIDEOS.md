@@ -1,6 +1,6 @@
 # Pending song videos
 
-38 QC-passed full-song films are ready locally. YouTube publication is blocked by the daily upload quota.
+44 QC-passed full-song films are ready locally. YouTube publication is blocked by the daily upload quota.
 
 The first two already have Google Vids projects. The remaining local films must be imported into Vids before publication.
 
@@ -44,6 +44,12 @@ The first two already have Google Vids projects. The remaining local films must 
 | திருக்குறள் - நாடு / Naadu / Full Song Film | `nf8EO1GdKlY` | [Open film](thirukkural-backlog-12/naadu/NAADU-CINEMATIC-v1.mp4) |
 | திருக்குறள் - பெரியாரைத் துணைக்கோடல் / Periyaarai Thunaikkodal / Full Song Film | `aTFvlXMPBSE` | [Open film](thirukkural-backlog-12/periyaarai_thunaikkodal/PERIYAARAI_THUNAIKKODAL-CINEMATIC-v1.mp4) |
 | திருக்குறள் - தெரிந்து வினையாடல் / Therinthu Vinaiyaadal / Full Song Film | `5uRYFxhT32k` | [Open film](thirukkural-backlog-12/therinthu_vinaiyaadal/THERINTHU_VINAIYAADAL-CINEMATIC-v1.mp4) |
+| திருக்குறள் - மடியின்மை / Madiyinmai / Full Song Film | `GfGlO3RQuik` | [Open film](thirukkural-backlog-13/madiyinmai/MADIYINMAI-CINEMATIC-v1.mp4) |
+| திருக்குறள் - மன்னரைச் சேர்ந்தொழுதல் / Mannarai Sernthozhuthal / Full Song Film | `u9NeXaCHu-A` | [Open film](thirukkural-backlog-13/mannarai_sernthozhuthal/MANNARAI_SERNTHOZHUTHAL-CINEMATIC-v1.mp4) |
+| திருக்குறள் - பொச்சாவாமை / Pocchaavaamai / Full Song Film | `O0hASl4BS2c` | [Open film](thirukkural-backlog-13/pocchaavaamai/POCCHAAVAAMAI-CINEMATIC-v1.mp4) |
+| திருக்குறள் - வாய்மை / Vaaimai / Full Song Film | `BoOWFaOGczE` | [Open film](thirukkural-backlog-14/vaaimai/VAAIMAI-CINEMATIC-v1.mp4) |
+| திருக்குறள் - வலியறிதல் / Valiyarithal / Full Song Film | `Js6Vepbegr8` | [Open film](thirukkural-backlog-14/valiyarithal/VALIYARITHAL-CINEMATIC-v1.mp4) |
+| திருக்குறள் - வினைசெயல்வகை / Vinai Seyalvagai / Full Song Film | `gBRvVKE_so8` | [Open film](thirukkural-backlog-14/vinai_seyalvagai/VINAI_SEYALVAGAI-CINEMATIC-v1.mp4) |
 
 Scheduling changes the publication time after an upload succeeds. It does not bypass the upload quota.
 

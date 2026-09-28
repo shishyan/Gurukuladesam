@@ -1,0 +1,58 @@
+{
+  "songs": [
+    {
+      "sourceId": "BoOWFaOGczE",
+      "title": "திருக்குறள் - வாய்மை | Vaaimai | Full Song Film",
+      "file": "vaaimai\\VAAIMAI-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "BoOWFaOGczE",
+        "durationSeconds": 253.91666666666666,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 17772468
+      }
+    },
+    {
+      "sourceId": "Js6Vepbegr8",
+      "title": "திருக்குறள் - வலியறிதல் | Valiyarithal | Full Song Film",
+      "file": "valiyarithal\\VALIYARITHAL-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "Js6Vepbegr8",
+        "durationSeconds": 308.3333333333333,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 23751740
+      }
+    },
+    {
+      "sourceId": "gBRvVKE_so8",
+      "title": "திருக்குறள் - வினைசெயல்வகை | Vinai Seyalvagai | Full Song Film",
+      "file": "vinai_seyalvagai\\VINAI_SEYALVAGAI-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "gBRvVKE_so8",
+        "durationSeconds": 280.0,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 23187923
+      }
+    }
+  ]
+}
