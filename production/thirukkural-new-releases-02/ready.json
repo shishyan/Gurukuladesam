@@ -71,7 +71,7 @@
         "logoPosition": "bottom-left, 24px inset",
         "fileBytes": 22331429
       },
-      "status": "Public selected and publication submitted; awaiting YouTube SD processing",
+      "status": "published; public playback and bottom-left logo verified; original audio matched locally",
       "googleVids": "https://docs.google.com/videos/d/1nZmDSacAi0tmMYvxRC82F6nklxzSvGhCgJvhRRcq8h0/edit",
       "vidsVerification": {
         "savedToDrive": true,
@@ -80,7 +80,11 @@
         "mute": false,
         "automaticDucking": "Off"
       },
-      "uploadedUrl": "https://www.youtube.com/watch?v=79u01V3wbZc"
+      "uploadedUrl": "https://www.youtube.com/watch?v=79u01V3wbZc",
+      "publishedUrl": "https://www.youtube.com/watch?v=79u01V3wbZc",
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T17:39:22.844162+00:00",
+      "publicPlaybackVerified": true
     }
   ]
 }

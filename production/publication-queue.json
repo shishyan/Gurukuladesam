@@ -1,28 +1,9 @@
 {
   "channel": "@guru-kula-desam",
-  "pendingCount": 1,
+  "pendingCount": 0,
   "blocker": null,
   "releaseInstructions": "Recheck public channel for duplicates, import locally finished films into Google Vids, publish through the correct channel Studio, and verify public URLs. If uploadedUrl exists, check that existing upload; do not upload a duplicate. Scheduling requires the upload to succeed first.",
-  "songs": [
-    {
-      "sourceId": "VIC7Oj5k2C0",
-      "title": "திருக்குறள் - படைச்செருக்கு | Padaicherukku | Full Song Film",
-      "file": "thirukkural-new-releases-02\\padaicherukku\\PADAICHERUKKU-CINEMATIC-v1.mp4",
-      "googleVids": "https://docs.google.com/videos/d/1nZmDSacAi0tmMYvxRC82F6nklxzSvGhCgJvhRRcq8h0/edit",
-      "uploadedUrl": "https://www.youtube.com/watch?v=79u01V3wbZc",
-      "status": "Public selected and publication submitted; awaiting YouTube SD processing",
-      "qc": {
-        "sourceId": "VIC7Oj5k2C0",
-        "durationSeconds": 228.25,
-        "uniqueImages": 12,
-        "originalAacBitstreamMatched": true,
-        "fullDecodePassed": true,
-        "allScenesHaveMovement": true,
-        "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 22331429
-      }
-    }
-  ],
+  "songs": [],
   "excludedAlternateRenders": [
     {
       "sourceId": "nf8EO1GdKlY",

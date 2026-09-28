@@ -1,8 +1,8 @@
 {
-  "checkedAtUtc": "2026-09-28T16:32:54.617212+00:00",
+  "checkedAtUtc": "2026-09-28T17:40:14.132756+00:00",
   "releaseAlbumsChecked": 154,
   "uniqueAudioTracks": 295,
-  "noExactRecordingProduction": 57,
+  "noExactRecordingProduction": 54,
   "limitations": "A production record may be an unfinished job. Composition coverage does not prove a video uses this exact audio. Missing items require duplicate review before production.",
   "tracks": [
     {
@@ -11,11 +11,14 @@
       "album": "திருக்குறள் - நட்பு 2026",
       "sourceUrl": "https://www.youtube.com/watch?v=cwTmzDGpLJw",
       "productionRecords": [
+        "release-progress.json",
+        "thirukkural-new-releases-01\\jobs.json",
+        "thirukkural-new-releases-01\\natpu\\manifest.json",
         "thirukkural-new-releases-01\\ready.json"
       ],
       "newSinceOldCatalog": true,
       "status": "Production/publication record exists",
-      "compositionCoverage": "Needs review",
+      "compositionCoverage": "Published original film: https://www.youtube.com/watch?v=jdvz-yoK5eI",
       "filmUrl": "https://www.youtube.com/watch?v=jdvz-yoK5eI"
     },
     {
@@ -26,7 +29,7 @@
       "productionRecords": [],
       "newSinceOldCatalog": true,
       "status": "No exact-recording production found",
-      "compositionCoverage": "Original recording film now built; remix excluded to avoid duplicate song"
+      "compositionCoverage": "Original composition film completed; remix excluded to avoid duplicate song"
     },
     {
       "id": "yrmF7nfwnsQ",
@@ -92,7 +95,7 @@
       ],
       "newSinceOldCatalog": false,
       "status": "Production/publication record exists",
-      "compositionCoverage": "Needs review"
+      "compositionCoverage": "Existing composition film: https://youtu.be/iTALOLp7MkQ"
     },
     {
       "id": "xXOHhRpIUn4",
@@ -245,7 +248,7 @@
       ],
       "newSinceOldCatalog": false,
       "status": "Production/publication record exists",
-      "compositionCoverage": "Needs review"
+      "compositionCoverage": "Existing composition film: https://youtu.be/HD3EgOlDLJ0"
     },
     {
       "id": "WhqZ0ttDYYc",
@@ -288,7 +291,7 @@
       ],
       "newSinceOldCatalog": false,
       "status": "Production/publication record exists",
-      "compositionCoverage": "Needs review"
+      "compositionCoverage": "Existing composition film: https://youtu.be/GlJrQMMTRhI"
     },
     {
       "id": "XB7cD-5ye-k",
@@ -422,7 +425,7 @@
       "productionRecords": [],
       "newSinceOldCatalog": false,
       "status": "No exact-recording production found",
-      "compositionCoverage": "Needs review"
+      "compositionCoverage": "Existing composition film: https://youtu.be/isCeNcUwBTw"
     },
     {
       "id": "eK--J196v_c",
@@ -465,7 +468,7 @@
       "productionRecords": [],
       "newSinceOldCatalog": false,
       "status": "No exact-recording production found",
-      "compositionCoverage": "Needs review"
+      "compositionCoverage": "Existing composition film: https://youtu.be/f1jxgAbXcdE"
     },
     {
       "id": "6ofQ9hrD1RQ",
@@ -734,7 +737,7 @@
       ],
       "newSinceOldCatalog": false,
       "status": "Production/publication record exists",
-      "compositionCoverage": "Needs review"
+      "compositionCoverage": "Existing composition film: https://youtu.be/QH-xL37NmGM"
     },
     {
       "id": "9Qhwgy74BXI",
@@ -901,7 +904,7 @@
       "productionRecords": [],
       "newSinceOldCatalog": false,
       "status": "No exact-recording production found",
-      "compositionCoverage": "Needs review"
+      "compositionCoverage": "Existing composition film: https://youtu.be/sHSkPTQRtH8"
     },
     {
       "id": "-unILRjNLHQ",
@@ -939,11 +942,14 @@
       "album": "திருக்குறள் - பழைமை 2026",
       "sourceUrl": "https://www.youtube.com/watch?v=EgSJqPCUMoo",
       "productionRecords": [
+        "release-progress.json",
+        "thirukkural-new-releases-01\\jobs.json",
+        "thirukkural-new-releases-01\\pazhaimai\\manifest.json",
         "thirukkural-new-releases-01\\ready.json"
       ],
       "newSinceOldCatalog": true,
       "status": "Production/publication record exists",
-      "compositionCoverage": "Needs review",
+      "compositionCoverage": "Published original film: https://www.youtube.com/watch?v=778r-nAUX9Q",
       "filmUrl": "https://www.youtube.com/watch?v=778r-nAUX9Q"
     },
     {
@@ -954,7 +960,7 @@
       "productionRecords": [],
       "newSinceOldCatalog": true,
       "status": "No exact-recording production found",
-      "compositionCoverage": "Original recording film now built; remix excluded to avoid duplicate song"
+      "compositionCoverage": "Original composition film completed; remix excluded to avoid duplicate song"
     },
     {
       "id": "MCjbrWdQbos",
@@ -962,11 +968,14 @@
       "album": "திருக்குறள் - தீ நட்பு 2026",
       "sourceUrl": "https://www.youtube.com/watch?v=MCjbrWdQbos",
       "productionRecords": [
-        "thirukkural-new-releases-01\\ready.json"
+        "release-progress.json",
+        "thirukkural-new-releases-01\\jobs.json",
+        "thirukkural-new-releases-01\\ready.json",
+        "thirukkural-new-releases-01\\thee_natpu\\manifest.json"
       ],
       "newSinceOldCatalog": true,
       "status": "Production/publication record exists",
-      "compositionCoverage": "Needs review",
+      "compositionCoverage": "Published original film: https://www.youtube.com/watch?v=4zff_qi_G1E",
       "filmUrl": "https://www.youtube.com/watch?v=4zff_qi_G1E"
     },
     {
@@ -977,7 +986,7 @@
       "productionRecords": [],
       "newSinceOldCatalog": true,
       "status": "No exact-recording production found",
-      "compositionCoverage": "Original recording film now built; remix excluded to avoid duplicate song"
+      "compositionCoverage": "Original composition film completed; remix excluded to avoid duplicate song"
     },
     {
       "id": "aTpCSZFFbow",
@@ -985,11 +994,14 @@
       "album": "திருக்குறள் - கூடா நட்பு 2026",
       "sourceUrl": "https://www.youtube.com/watch?v=aTpCSZFFbow",
       "productionRecords": [
+        "release-progress.json",
+        "thirukkural-new-releases-02\\jobs.json",
+        "thirukkural-new-releases-02\\kooda_natpu\\manifest.json",
         "thirukkural-new-releases-02\\ready.json"
       ],
       "newSinceOldCatalog": true,
       "status": "Production/publication record exists",
-      "compositionCoverage": "Needs review",
+      "compositionCoverage": "Published original film: https://www.youtube.com/watch?v=8uX2yl_EnMI",
       "filmUrl": "https://www.youtube.com/watch?v=8uX2yl_EnMI"
     },
     {
@@ -1000,20 +1012,17 @@
       "productionRecords": [],
       "newSinceOldCatalog": true,
       "status": "No exact-recording production found",
-      "compositionCoverage": "Original recording film now built; remix excluded to avoid duplicate song"
+      "compositionCoverage": "Original composition film completed; remix excluded to avoid duplicate song"
     },
     {
-      "id": "Wq6XpZ49Huw",
-      "title": "நட்பாராய்தல் (Original)",
+      "id": "sAgX9WX86Rw",
+      "title": "திருக்குறள் - நட்பாராய்தல் | Natpaaraaythal | Full Song Film",
       "album": "திருக்குறள் - நட்பாராய்தல் 2026",
-      "sourceUrl": "https://www.youtube.com/watch?v=Wq6XpZ49Huw",
-      "productionRecords": [
-        "thirukkural-new-releases-02\\ready.json"
-      ],
+      "sourceUrl": "https://www.youtube.com/watch?v=sAgX9WX86Rw",
+      "productionRecords": [],
       "newSinceOldCatalog": true,
-      "status": "Production/publication record exists",
-      "compositionCoverage": "Needs review",
-      "filmUrl": "https://www.youtube.com/watch?v=sAgX9WX86Rw"
+      "status": "Existing film entry (title evidence)",
+      "compositionCoverage": "Needs review"
     },
     {
       "id": "_ucAGC9MZ_4",
@@ -1023,7 +1032,7 @@
       "productionRecords": [],
       "newSinceOldCatalog": true,
       "status": "No exact-recording production found",
-      "compositionCoverage": "Original recording film now built; remix excluded to avoid duplicate song"
+      "compositionCoverage": "Original composition film completed; remix excluded to avoid duplicate song"
     },
     {
       "id": "VIC7Oj5k2C0",
@@ -1031,11 +1040,14 @@
       "album": "திருக்குறள் - படைச்செருக்கு 2026",
       "sourceUrl": "https://www.youtube.com/watch?v=VIC7Oj5k2C0",
       "productionRecords": [
+        "release-progress.json",
+        "thirukkural-new-releases-02\\jobs.json",
+        "thirukkural-new-releases-02\\padaicherukku\\manifest.json",
         "thirukkural-new-releases-02\\ready.json"
       ],
       "newSinceOldCatalog": true,
       "status": "Production/publication record exists",
-      "compositionCoverage": "Needs review",
+      "compositionCoverage": "Published original film: https://www.youtube.com/watch?v=79u01V3wbZc",
       "filmUrl": "https://www.youtube.com/watch?v=79u01V3wbZc"
     },
     {
@@ -1046,7 +1058,7 @@
       "productionRecords": [],
       "newSinceOldCatalog": true,
       "status": "No exact-recording production found",
-      "compositionCoverage": "Original recording film now built; remix excluded to avoid duplicate song"
+      "compositionCoverage": "Original composition film completed; remix excluded to avoid duplicate song"
     },
     {
       "id": "dEx_Zuc5omc",
@@ -1054,11 +1066,14 @@
       "album": "திருக்குறள் - பொருள்செயல்வகை 2026",
       "sourceUrl": "https://www.youtube.com/watch?v=dEx_Zuc5omc",
       "productionRecords": [
+        "release-progress.json",
+        "thirukkural-new-releases-03\\jobs.json",
+        "thirukkural-new-releases-03\\porul_seyalvagai\\manifest.json",
         "thirukkural-new-releases-03\\ready.json"
       ],
       "newSinceOldCatalog": true,
       "status": "Production/publication record exists",
-      "compositionCoverage": "Needs review",
+      "compositionCoverage": "Published original film: https://www.youtube.com/watch?v=cR_u-JuGJAU",
       "filmUrl": "https://www.youtube.com/watch?v=cR_u-JuGJAU"
     },
     {
@@ -1069,7 +1084,7 @@
       "productionRecords": [],
       "newSinceOldCatalog": true,
       "status": "No exact-recording production found",
-      "compositionCoverage": "Original recording film now built; remix excluded to avoid duplicate song"
+      "compositionCoverage": "Original composition film completed; remix excluded to avoid duplicate song"
     },
     {
       "id": "IiZoud1sP2o",
@@ -1147,7 +1162,10 @@
       "album": "திருக்குறள் - நாடு 2026",
       "sourceUrl": "https://www.youtube.com/watch?v=RAUafMVpT5k",
       "productionRecords": [
-        "unclaimed-group-batch-07\\jobs.json"
+        "unclaimed-group-batch-07\\jobs.json",
+        "unclaimed-group-batch-07\\naadu_remix\\manifest.json",
+        "unclaimed-group-batch-07\\published.json",
+        "unclaimed-group-batch-07\\ready.json"
       ],
       "newSinceOldCatalog": false,
       "status": "Production/publication record exists",
@@ -1208,14 +1226,14 @@
       "compositionCoverage": "Needs review"
     },
     {
-      "id": "RY7nPGorS94",
-      "title": "தூது (Remix)",
+      "id": "x3CyxNH5bpQ",
+      "title": "தூது (Remix) | Thoothu Remix Cinematic Thirukkural Film",
       "album": "திருக்குறள் - தூது 2026",
-      "sourceUrl": "https://www.youtube.com/watch?v=RY7nPGorS94",
+      "sourceUrl": "https://www.youtube.com/watch?v=x3CyxNH5bpQ",
       "productionRecords": [],
-      "newSinceOldCatalog": false,
-      "status": "No exact-recording production found",
-      "compositionCoverage": "alternate recording of covered Thirukkural chapter"
+      "newSinceOldCatalog": true,
+      "status": "Existing film entry (title evidence)",
+      "compositionCoverage": "Needs review"
     },
     {
       "id": "u9NeXaCHu-A",
@@ -1240,7 +1258,10 @@
       "album": "திருக்குறள் - மன்னரைச் சேர்ந்தொழுதல் 2026",
       "sourceUrl": "https://www.youtube.com/watch?v=zq1dxg5R-rY",
       "productionRecords": [
-        "unclaimed-group-batch-07\\jobs.json"
+        "unclaimed-group-batch-07\\jobs.json",
+        "unclaimed-group-batch-07\\mannarai_sernthozhuthal_female\\manifest.json",
+        "unclaimed-group-batch-07\\published.json",
+        "unclaimed-group-batch-07\\ready.json"
       ],
       "newSinceOldCatalog": false,
       "status": "Production/publication record exists",
@@ -1268,9 +1289,14 @@
       "title": "வினைசெயல்வகை (Female)",
       "album": "திருக்குறள் - வினைசெயல்வகை 2026",
       "sourceUrl": "https://www.youtube.com/watch?v=MvwT6dnGE0U",
-      "productionRecords": [],
+      "productionRecords": [
+        "unclaimed-group-batch-08\\jobs.json",
+        "unclaimed-group-batch-08\\published.json",
+        "unclaimed-group-batch-08\\ready.json",
+        "unclaimed-group-batch-08\\vinai_seyalvagai_female\\manifest.json"
+      ],
       "newSinceOldCatalog": false,
-      "status": "No exact-recording production found",
+      "status": "Production/publication record exists",
       "compositionCoverage": "alternate recording of covered Thirukkural chapter"
     },
     {
@@ -1304,7 +1330,10 @@
       "album": "திருக்குறள் - குறிப்பறிதல் 2026",
       "sourceUrl": "https://www.youtube.com/watch?v=GN181JJ1lXU",
       "productionRecords": [
-        "unclaimed-group-batch-07\\jobs.json"
+        "unclaimed-group-batch-07\\jobs.json",
+        "unclaimed-group-batch-07\\kuripparithal_remix\\manifest.json",
+        "unclaimed-group-batch-07\\published.json",
+        "unclaimed-group-batch-07\\ready.json"
       ],
       "newSinceOldCatalog": false,
       "status": "Production/publication record exists",
@@ -1331,9 +1360,14 @@
       "title": "இடுக்கண் அழியாமை (Remix)",
       "album": "திருக்குறள் - இடுக்கண் அழியாமை 2026",
       "sourceUrl": "https://www.youtube.com/watch?v=ulW6fg4lkYA",
-      "productionRecords": [],
+      "productionRecords": [
+        "unclaimed-group-batch-08\\idukkan_remix\\manifest.json",
+        "unclaimed-group-batch-08\\jobs.json",
+        "unclaimed-group-batch-08\\published.json",
+        "unclaimed-group-batch-08\\ready.json"
+      ],
       "newSinceOldCatalog": false,
-      "status": "No exact-recording production found",
+      "status": "Production/publication record exists",
       "compositionCoverage": "alternate recording of covered Thirukkural chapter"
     },
     {
@@ -1791,7 +1825,7 @@
       "productionRecords": [],
       "newSinceOldCatalog": true,
       "status": "Existing film entry (title evidence)",
-      "compositionCoverage": "Original recording film now built; remix excluded to avoid duplicate song"
+      "compositionCoverage": "Needs review"
     },
     {
       "id": "DIDV-3cHhag",
@@ -1811,7 +1845,7 @@
       "productionRecords": [],
       "newSinceOldCatalog": true,
       "status": "Existing film entry (title evidence)",
-      "compositionCoverage": "Original recording film now built; remix excluded to avoid duplicate song"
+      "compositionCoverage": "Needs review"
     },
     {
       "id": "OqRZLEMvx8s",
@@ -1863,7 +1897,7 @@
       "productionRecords": [],
       "newSinceOldCatalog": true,
       "status": "Existing film entry (title evidence)",
-      "compositionCoverage": "Original recording film now built; remix excluded to avoid duplicate song"
+      "compositionCoverage": "Needs review"
     },
     {
       "id": "aTFvlXMPBSE",
@@ -1925,7 +1959,7 @@
       "productionRecords": [],
       "newSinceOldCatalog": true,
       "status": "Existing film entry (title evidence)",
-      "compositionCoverage": "Original recording film now built; remix excluded to avoid duplicate song"
+      "compositionCoverage": "Needs review"
     },
     {
       "id": "2U45AXlx7DA",
@@ -1970,7 +2004,7 @@
       "productionRecords": [],
       "newSinceOldCatalog": true,
       "status": "Existing film entry (title evidence)",
-      "compositionCoverage": "Original recording film now built; remix excluded to avoid duplicate song"
+      "compositionCoverage": "Needs review"
     },
     {
       "id": "9kHN9Dzrv7o",
@@ -2128,7 +2162,7 @@
       "productionRecords": [],
       "newSinceOldCatalog": true,
       "status": "Existing film entry (title evidence)",
-      "compositionCoverage": "Original recording film now built; remix excluded to avoid duplicate song"
+      "compositionCoverage": "Needs review"
     },
     {
       "id": "h2q-ADrbBc4",
@@ -2768,7 +2802,7 @@
       ],
       "newSinceOldCatalog": false,
       "status": "Production/publication record exists",
-      "compositionCoverage": "Needs review"
+      "compositionCoverage": "Existing composition film: https://youtu.be/NjHDFS3cftg"
     },
     {
       "id": "lg5W3VaLQNQ",
@@ -2811,7 +2845,7 @@
       ],
       "newSinceOldCatalog": false,
       "status": "Production/publication record exists",
-      "compositionCoverage": "Needs review"
+      "compositionCoverage": "Existing composition film: https://youtu.be/BxQ4c9VPwAo"
     },
     {
       "id": "0TB3drCSvNc",
@@ -2944,7 +2978,7 @@
       ],
       "newSinceOldCatalog": false,
       "status": "Production/publication record exists",
-      "compositionCoverage": "Needs review"
+      "compositionCoverage": "Existing composition film: https://youtu.be/huastC0A3-8"
     },
     {
       "id": "BXLeRFa6NHA",
@@ -3075,7 +3109,7 @@
       ],
       "newSinceOldCatalog": false,
       "status": "Production/publication record exists",
-      "compositionCoverage": "Needs review"
+      "compositionCoverage": "Existing composition film: https://youtu.be/HXLltX2BPig"
     },
     {
       "id": "kkDJM6dKTxs",
@@ -3088,7 +3122,7 @@
       ],
       "newSinceOldCatalog": false,
       "status": "Production/publication record exists",
-      "compositionCoverage": "Needs review"
+      "compositionCoverage": "Existing composition film: https://youtu.be/hfv9Ys99fZU"
     },
     {
       "id": "QTxWZpg6F98",
@@ -3101,7 +3135,7 @@
       ],
       "newSinceOldCatalog": false,
       "status": "Production/publication record exists",
-      "compositionCoverage": "Needs review"
+      "compositionCoverage": "Existing composition film: https://youtu.be/dwYw5_W4g4A"
     },
     {
       "id": "r2ulXHQihY0",
@@ -3111,7 +3145,7 @@
       "productionRecords": [],
       "newSinceOldCatalog": false,
       "status": "No exact-recording production found",
-      "compositionCoverage": "Needs review"
+      "compositionCoverage": "Existing composition film: https://youtu.be/KFtS403RfbY, https://youtu.be/R8OyFbqJJEw"
     },
     {
       "id": "jZI2pTITtBY",
@@ -3146,7 +3180,7 @@
       ],
       "newSinceOldCatalog": false,
       "status": "Production/publication record exists",
-      "compositionCoverage": "Needs review"
+      "compositionCoverage": "Existing composition film: https://youtu.be/Q57FSOLDMU0"
     },
     {
       "id": "5GHCLSRXtn4",
@@ -3461,7 +3495,7 @@
       "productionRecords": [],
       "newSinceOldCatalog": false,
       "status": "No exact-recording production found",
-      "compositionCoverage": "Needs review"
+      "compositionCoverage": "Existing composition film: https://youtu.be/GlJrQMMTRhI"
     },
     {
       "id": "u41L3XgIgGc",
@@ -3499,11 +3533,5 @@
       "status": "Production/publication record exists",
       "compositionCoverage": "Needs review"
     }
-  ],
-  "statusCounts": {
-    "Production/publication record exists": 126,
-    "No exact-recording production found": 57,
-    "Existing film entry (title evidence)": 112
-  },
-  "newAudioReleasesWithoutProduction": 7
+  ]
 }

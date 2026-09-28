@@ -1,14 +1,11 @@
 # Pending song videos
 
-1 QC-passed full-song films are ready locally. Upload slots were available at the latest check.
+0 QC-passed full-song films are ready locally. Upload slots were available at the latest check.
 
-1 films have saved Google Vids projects; 0 still need a Vids import.
-
-1 films are already uploaded and awaiting YouTube processing. Check those existing uploads; do not reupload.
+0 films have saved Google Vids projects; 0 still need a Vids import.
 
 | Song | Source | Local MP4 |
 | --- | --- | --- |
-| திருக்குறள் - படைச்செருக்கு / Padaicherukku / Full Song Film | `VIC7Oj5k2C0` | [Open film](thirukkural-new-releases-02/padaicherukku/PADAICHERUKKU-CINEMATIC-v1.mp4) |
 
 Scheduling changes the publication time after an upload succeeds. It does not bypass the upload quota.
 

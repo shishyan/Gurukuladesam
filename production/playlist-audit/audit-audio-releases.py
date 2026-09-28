@@ -30,6 +30,29 @@ for f in root.rglob('*.json'):
     except (ValueError,OSError):pass
 old={x['id']:x for x in json.loads((dest/'catalog-2026-09-26.json').read_text(encoding='utf-8'))['songs']}
 variants={x['id']:x for x in json.loads((root/'CATALOG-VARIANTS-AUDIT.json').read_text(encoding='utf-8'))['songs']}
+linked=json.loads((dest/'other-songs-coverage-2026-09-28.json').read_text(encoding='utf-8'))
+def collect_links(x):
+    if isinstance(x,dict):
+        if x.get('sourceId') and x.get('films'):
+            variants[x['sourceId']]={'status':'Existing composition film: '+', '.join(x['films'])}
+        for v in x.values():
+            if isinstance(v,(dict,list)):collect_links(v)
+    elif isinstance(x,list):
+        for v in x:collect_links(v)
+collect_links(linked)
+for ready in root.glob('thirukkural-new-releases-*/ready.json'):
+    data=json.loads(ready.read_text(encoding='utf-8'))
+    def published(x):
+        if isinstance(x,dict):
+            if x.get('sourceId') and x.get('publishedUrl'):
+                variants[x['sourceId']]={'status':'Published original film: '+x['publishedUrl']}
+            for v in x.values():
+                if isinstance(v,(dict,list)):published(v)
+        elif isinstance(x,list):
+            for v in x:published(v)
+    published(data)
+for sid in ['rMugAY5ym9E','rYJ0GrrDNcM','43lvzK34Nr4','UIHmcAEAtvY','_ucAGC9MZ_4','h9-Ih0yHFYY','HNzKqpFcSi0']:
+    variants[sid]={'status':'Original composition film completed; remix excluded to avoid duplicate song'}
 rows=[]
 for sid,t in tracks.items():
     refs=sorted(set(records.get(sid,[])))
