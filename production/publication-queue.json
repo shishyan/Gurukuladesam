@@ -1,6 +1,6 @@
 {
   "channel": "@guru-kula-desam",
-  "pendingCount": 38,
+  "pendingCount": 39,
   "blocker": "YouTube daily upload limit",
   "releaseInstructions": "Recheck public channel for duplicates, import locally finished films into Google Vids, publish through the correct channel Studio, and verify public URLs. Scheduling requires the upload to succeed first.",
   "songs": [
@@ -634,7 +634,7 @@
       "sourceId": "I-ZLmvGIiz4",
       "title": "திருவருட்பா - ஆறாம் திருமுறை - சிவ பதி விளக்கம் | Full Song Film",
       "file": "thiruvarutpa-backlog-01\\siva_pathi_vilakkam\\SIVA_PATHI_VILAKKAM-CINEMATIC-v1.mp4",
-      "googleVids": null,
+      "googleVids": "https://docs.google.com/videos/d/1UB9vi7r5kCNKGvZNsQJRi1bY9v8ns9-H2Yqx2JTdBxo/edit",
       "status": "ready; pending upload quota",
       "qc": {
         "sourceId": "I-ZLmvGIiz4",
@@ -664,6 +664,24 @@
         "allScenesHaveMovement": true,
         "logoPosition": "bottom-left, 24px inset",
         "fileBytes": 31933273
+      }
+    },
+    {
+      "sourceId": "dbdp19C0j3M",
+      "title": "திருவருட்பா - திருவருள் வேட்கை | Full Song Film",
+      "file": "thiruvarutpa-backlog-02\\thiruvarul_vetkai\\THIRUVARUL_VETKAI-CINEMATIC-v1.mp4",
+      "googleVids": null,
+      "status": "ready; pending upload quota",
+      "qc": {
+        "sourceId": "dbdp19C0j3M",
+        "durationSeconds": 285.0,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 20317260
       }
     }
   ],

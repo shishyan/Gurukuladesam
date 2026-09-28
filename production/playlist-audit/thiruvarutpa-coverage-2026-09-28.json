@@ -1,0 +1,307 @@
+{
+  "scope": "Thiruvarutpa songs in Lord Shiva Songs; no separate public Thiruvarutpa playlist found among nine live playlists",
+  "songs": [
+    {
+      "sourceId": "bZmif21zNtw",
+      "title": "முதல் தேவாரம் 2026",
+      "status": "existing film or reserved production",
+      "evidence": [
+        "production\\shiva-batch-3\\sivanesa_venba\\manifest.json"
+      ]
+    },
+    {
+      "sourceId": "-bqKXZW8vFk",
+      "title": "திருவருட்பா - அருளியல் வினாவல் 2026",
+      "status": "existing film or reserved production",
+      "evidence": [
+        "production\\shiva-batch-7\\aruliyal_vinaaval\\manifest.json"
+      ]
+    },
+    {
+      "sourceId": "SLaW0c4zDuc",
+      "title": "திருவருட்பா - நான்காம் திருமுறை - அன்பு மாலை - 2026",
+      "status": "existing film or reserved production",
+      "evidence": [
+        "production\\shiva-batch-7\\anbu_maalai_i\\manifest.json"
+      ]
+    },
+    {
+      "sourceId": "4zG1CdYiVxs",
+      "title": "திருவருட்பா - நான்காம் திருமுறை - அன்பு மாலை - 2026",
+      "status": "existing film or reserved production",
+      "evidence": [
+        "production\\shiva-batch-8\\anbu_maalai_ii\\manifest.json"
+      ]
+    },
+    {
+      "sourceId": "I-ZLmvGIiz4",
+      "title": "திருவருட்பா - ஆறாம் திருமுறை - சிவ பதி விளக்கம்",
+      "status": "existing film or reserved production",
+      "evidence": [
+        "production\\shiva-offline-01\\jobs.json",
+        "production\\thiruvarutpa-backlog-01\\jobs.json",
+        "production\\thiruvarutpa-backlog-01\\ready.json",
+        "production\\thiruvarutpa-backlog-01\\siva_pathi_vilakkam\\manifest.json",
+        "production\\shiva-offline-01\\siva_pathi_vilakkam\\manifest.json"
+      ]
+    },
+    {
+      "sourceId": "4qnq1zW63hI",
+      "title": "திருவருட்பா - ஆறாம் திருமுறை - பதி விளக்கம்",
+      "status": "existing film or reserved production",
+      "evidence": [
+        "production\\batch-sept-28-04\\published.json",
+        "production\\batch-sept-28-04\\aaram_thirumurai\\manifest.json"
+      ]
+    },
+    {
+      "sourceId": "lAWfE9YSJME",
+      "title": "திருவருட்பா - ஆறாம் திருமுறை - பரசிவ வணக்கம்",
+      "status": "existing film or reserved production",
+      "evidence": [
+        "production\\shiva-offline-01\\jobs.json",
+        "production\\thiruvarutpa-backlog-01\\jobs.json",
+        "production\\thiruvarutpa-backlog-01\\ready.json",
+        "production\\thiruvarutpa-backlog-01\\parasiva_vanakkam\\manifest.json",
+        "production\\shiva-offline-01\\parasiva_vanakkam\\manifest.json"
+      ]
+    },
+    {
+      "sourceId": "kkDJM6dKTxs",
+      "title": "திருவருட்பா - இங்கித மாலை 2026",
+      "status": "existing film or reserved production",
+      "evidence": [
+        "production\\batch-sept-28-04\\published.json",
+        "production\\batch-sept-28-04\\ingitha_maalai\\manifest.json"
+      ]
+    },
+    {
+      "sourceId": "-9bZmHzYO2g",
+      "title": "திருவருட்பா - இரண்டாம் திருமுறை - அபராத விண்ணப்பம் 2026",
+      "status": "existing film or reserved production",
+      "evidence": [
+        "production\\batch-sept-28-05\\published.json",
+        "production\\batch-sept-28-05\\aparadha_ii\\manifest.json"
+      ]
+    },
+    {
+      "sourceId": "06ZOKy7SSvw",
+      "title": "திருவருட்பா - இரண்டாம் திருமுறை - திருச்சாதனத் தெய்வத் திறம்",
+      "status": "existing film or reserved production",
+      "evidence": [
+        "production\\shiva-offline-01\\jobs.json",
+        "production\\thiruvarutpa-backlog-01\\jobs.json",
+        "production\\thiruvarutpa-backlog-01\\ready.json",
+        "production\\thiruvarutpa-backlog-01\\thiruchathana_deiva_thiram\\manifest.json"
+      ]
+    },
+    {
+      "sourceId": "0TB3drCSvNc",
+      "title": "திருவருட்பா - திருவருள் வேட்கை",
+      "status": "existing film or reserved production",
+      "evidence": [
+        "production\\shiva-offline-02\\jobs.json"
+      ]
+    },
+    {
+      "sourceId": "4UGFfmEpphI",
+      "title": "திருவருட்பா - இரண்டாம் திருமுறை - அபராத விண்ணப்பம் 2026",
+      "status": "existing film or reserved production",
+      "evidence": [
+        "production\\batch-sept-28-05\\published.json",
+        "production\\batch-sept-28-05\\aparadha_i\\manifest.json"
+      ]
+    },
+    {
+      "sourceId": "7TlWCD9pa_0",
+      "title": "திருவருட்பா - இரண்டாம் திருமுறை - முத்தி உபாயம் 2026",
+      "status": "existing film or reserved production",
+      "evidence": [
+        "production\\batch-sept-28-05\\published.json",
+        "production\\batch-sept-28-05\\muthi_upayam\\manifest.json"
+      ]
+    },
+    {
+      "sourceId": "8KQc368hCmg",
+      "title": "திருவருட்பா - இரண்டாம் திருமுறை - நெஞ்சொடு நேர்தல்",
+      "status": "existing film or reserved production",
+      "evidence": [
+        "production\\batch-sept-28-06\\published.json",
+        "production\\batch-sept-28-06\\nenjodu_nerthal\\manifest.json"
+      ]
+    },
+    {
+      "sourceId": "cVbT38ujUTQ",
+      "title": "திருவருட்பா - இரண்டாம் திருமுறை - அருள்விடை வேட்கை",
+      "status": "existing film or reserved production",
+      "evidence": [
+        "production\\batch-sept-28-06\\published.json",
+        "production\\batch-sept-28-06\\arulvidai_vetkai\\manifest.json"
+      ]
+    },
+    {
+      "sourceId": "dbdp19C0j3M",
+      "title": "திருவருட்பா - திருவருள் வேட்கை",
+      "status": "existing film or reserved production",
+      "evidence": [
+        "production\\thiruvarutpa-backlog-02\\jobs.json",
+        "production\\thiruvarutpa-backlog-02\\ready.json",
+        "production\\thiruvarutpa-backlog-02\\thiruvarul_vetkai\\manifest.json"
+      ]
+    },
+    {
+      "sourceId": "DCJ2qoMSIBA",
+      "title": "திருவருட்பா - இரண்டாம் திருமுறை - தியாக வண்ணப் பதிகம்",
+      "status": "existing film or reserved production",
+      "evidence": [
+        "production\\shiva-offline-02\\jobs.json"
+      ]
+    },
+    {
+      "sourceId": "hDoLscfeg5Q",
+      "title": "திருவருட்பா - இரண்டாம் திருமுறை - திருவருள் வழக்க விளக்கம்",
+      "status": "existing film or reserved production",
+      "evidence": [
+        "production\\shiva-offline-02\\jobs.json"
+      ]
+    },
+    {
+      "sourceId": "juuVtFBK3X8",
+      "title": "திருவருட்பா - இரண்டாம் திருமுறை - ஆடலமுதப் பத்து",
+      "status": "existing film or reserved production",
+      "evidence": [
+        "production\\shiva-offline-03\\jobs.json"
+      ]
+    },
+    {
+      "sourceId": "kshlDPh2IqE",
+      "title": "திருவருட்பா - இரண்டாம் திருமுறை - அபராதத்து ஆற்றாமை",
+      "status": "existing film or reserved production",
+      "evidence": [
+        "production\\shiva-offline-03\\jobs.json"
+      ]
+    },
+    {
+      "sourceId": "kyiaup-gjMc",
+      "title": "திருவருட்பா - இரண்டாம் திருமுறை - எழுத்தறியும் பெருமான் மாலை!",
+      "status": "existing film or reserved production",
+      "evidence": [
+        "production\\shiva-offline-03\\jobs.json"
+      ]
+    },
+    {
+      "sourceId": "MlaG3Z3_Kck",
+      "title": "திருவருட்பா - இரண்டாம் திருமுறை - காட்சிப் பெருமிதம்",
+      "status": "existing film or reserved production",
+      "evidence": [
+        "production\\shiva-offline-04\\jobs.json"
+      ]
+    },
+    {
+      "sourceId": "PLBuPRdKMHE",
+      "title": "திருவருட்பா - இரண்டாம் திருமுறை - அபராத விண்ணப்பம் 2026",
+      "status": "existing film or reserved production",
+      "evidence": [
+        "production\\batch-sept-28-07\\published.json",
+        "production\\batch-sept-28-07\\aparadha_iii\\manifest.json"
+      ]
+    },
+    {
+      "sourceId": "VyUqD3ZO3BU",
+      "title": "திருவருட்பா - இரண்டாம் திருமுறை - அறிவரும் பெருமை",
+      "status": "existing film or reserved production",
+      "evidence": [
+        "production\\batch-sept-28-06\\published.json",
+        "production\\batch-sept-28-06\\arivarum_perumai\\manifest.json"
+      ]
+    },
+    {
+      "sourceId": "XelTS98bLec",
+      "title": "திருவருட்பா - இரண்டாம் திருமுறை - திருப்புகழ் விலாசம் 2026",
+      "status": "existing film or reserved production",
+      "evidence": [
+        "production\\batch-sept-28-07\\published.json",
+        "production\\batch-sept-28-07\\thiruppugazh_vilasam\\manifest.json"
+      ]
+    },
+    {
+      "sourceId": "YORF54ouPz0",
+      "title": "திருவருட்பா - இரண்டாம் திருமுறை - சிவபுண்ணியத் தேற்றம் 2026",
+      "status": "existing film or reserved production",
+      "evidence": [
+        "production\\shiva-offline-04\\jobs.json"
+      ]
+    },
+    {
+      "sourceId": "Z7qFXMBjnak",
+      "title": "திருவருட்பா - இரண்டாம் திருமுறை - திருவடிச் சரண்புகல்",
+      "status": "existing film or reserved production",
+      "evidence": [
+        "production\\shiva-offline-04\\jobs.json"
+      ]
+    },
+    {
+      "sourceId": "73GrCFM_v6Q",
+      "title": "திருவருட்பா - இரண்டாம் திருமுறை - திருமுல்லைவாயில்",
+      "status": "existing film or reserved production",
+      "evidence": [
+        "production\\shiva-offline-05\\jobs.json"
+      ]
+    },
+    {
+      "sourceId": "uMK4LISQFE4",
+      "title": "திருவருட்பா - இரண்டாம் திருமுறை - திருமுல்லைவாயில்",
+      "status": "alternate recording of reserved Thirumullaivayil chapter",
+      "evidence": [
+        "production/shiva-offline-05/jobs.json"
+      ]
+    },
+    {
+      "sourceId": "5gzJXgmt7AY",
+      "title": "திருவருட்பா - திருவருண் முறையீடு",
+      "status": "existing film or reserved production",
+      "evidence": [
+        "production\\batch-sept-28-04\\published.json",
+        "production\\batch-sept-28-04\\thiruvarun_muraiyidu\\manifest.json"
+      ]
+    },
+    {
+      "sourceId": "EOkuHFSfv8c",
+      "title": "திருவருட்பா - நமச்சிவாய ஸங்கீர்த்தனம் 2026",
+      "status": "existing film or reserved production",
+      "evidence": [
+        "production\\shiva-offline-05\\jobs.json"
+      ]
+    },
+    {
+      "sourceId": "SDPLWITWGho",
+      "title": "திருவருட்பா - நற்றுணை விளக்கம் 2026",
+      "status": "existing film or reserved production",
+      "evidence": [
+        "production\\shiva-batch-6\\nattrunai_vilakkam\\manifest.json"
+      ]
+    },
+    {
+      "sourceId": "jZI2pTITtBY",
+      "title": "திருவருட்பா - வடிவுடை மாணிக்கமாலை !",
+      "status": "existing film or reserved production",
+      "evidence": [
+        "production\\vinayagar-amman-batch-02\\vadivudai_manikkamalai\\manifest.json"
+      ]
+    },
+    {
+      "sourceId": "nGBmGzsD-kM",
+      "title": "create album cover for திருவருட்பா - இரண்டாம் திருமுறை - கொடைமடப் புகழ்ச்சி",
+      "status": "existing film or reserved production",
+      "evidence": [
+        "production\\shiva-offline-05\\jobs.json"
+      ]
+    }
+  ],
+  "unclaimed": [],
+  "newFilmsThisRun": 4,
+  "publicationFinished": false,
+  "vidsSavedThisRun": 1,
+  "remainingVidsImports": 3,
+  "browserBlocker": "Repeated CDP and chooser timeouts, including fresh-tab recovery"
+}

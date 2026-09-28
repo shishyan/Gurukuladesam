@@ -1,6 +1,6 @@
 # Pending song videos
 
-38 QC-passed full-song films are ready locally. YouTube publication is blocked by the daily upload quota.
+39 QC-passed full-song films are ready locally. YouTube publication is blocked by the daily upload quota.
 
 The first two already have Google Vids projects. The remaining local films must be imported into Vids before publication.
 
@@ -44,6 +44,7 @@ The first two already have Google Vids projects. The remaining local films must 
 | திருவருட்பா - ஆறாம் திருமுறை - பரசிவ வணக்கம் / Full Song Film | `lAWfE9YSJME` | [Open film](thiruvarutpa-backlog-01/parasiva_vanakkam/PARASIVA_VANAKKAM-CINEMATIC-v1.mp4) |
 | திருவருட்பா - ஆறாம் திருமுறை - சிவ பதி விளக்கம் / Full Song Film | `I-ZLmvGIiz4` | [Open film](thiruvarutpa-backlog-01/siva_pathi_vilakkam/SIVA_PATHI_VILAKKAM-CINEMATIC-v1.mp4) |
 | திருவருட்பா - இரண்டாம் திருமுறை - திருச்சாதனத் தெய்வத் திறம் / Full Song Film | `06ZOKy7SSvw` | [Open film](thiruvarutpa-backlog-01/thiruchathana_deiva_thiram/THIRUCHATHANA_DEIVA_THIRAM-CINEMATIC-v1.mp4) |
+| திருவருட்பா - திருவருள் வேட்கை / Full Song Film | `dbdp19C0j3M` | [Open film](thiruvarutpa-backlog-02/thiruvarul_vetkai/THIRUVARUL_VETKAI-CINEMATIC-v1.mp4) |
 
 Scheduling changes the publication time after an upload succeeds. It does not bypass the upload quota.
 

@@ -34,6 +34,14 @@
         "allScenesHaveMovement": true,
         "logoPosition": "bottom-left, 24px inset",
         "fileBytes": 20483391
+      },
+      "googleVids": "https://docs.google.com/videos/d/1UB9vi7r5kCNKGvZNsQJRi1bY9v8ns9-H2Yqx2JTdBxo/edit",
+      "vidsVerification": {
+        "savedToDrive": true,
+        "durationSeconds": 285,
+        "volumePercent": 100,
+        "muted": false,
+        "logoVisibleBottomLeft": true
       }
     },
     {

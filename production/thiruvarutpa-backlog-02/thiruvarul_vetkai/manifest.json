@@ -1,0 +1,96 @@
+{
+  "sourceId": "dbdp19C0j3M",
+  "title": "திருவருட்பா - திருவருள் வேட்கை | Full Song Film",
+  "output": "THIRUVARUL_VETKAI-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "new devotional scene",
+      "artOrigin": "new imagegen scene",
+      "inFrame": 0,
+      "outFrame": 276
+    },
+    {
+      "image": "S02.png",
+      "role": "new devotional scene",
+      "artOrigin": "new imagegen scene",
+      "inFrame": 276,
+      "outFrame": 561
+    },
+    {
+      "image": "S03.png",
+      "role": "new devotional scene",
+      "artOrigin": "new imagegen scene",
+      "inFrame": 561,
+      "outFrame": 848
+    },
+    {
+      "image": "S04.png",
+      "role": "new devotional scene",
+      "artOrigin": "new imagegen scene",
+      "inFrame": 848,
+      "outFrame": 1137
+    },
+    {
+      "image": "S05.png",
+      "role": "new devotional scene",
+      "artOrigin": "new imagegen scene",
+      "inFrame": 1137,
+      "outFrame": 1413
+    },
+    {
+      "image": "S06.png",
+      "role": "new devotional scene",
+      "artOrigin": "new imagegen scene",
+      "inFrame": 1413,
+      "outFrame": 1704
+    },
+    {
+      "image": "S07.png",
+      "role": "new devotional scene",
+      "artOrigin": "new imagegen scene",
+      "inFrame": 1704,
+      "outFrame": 1985
+    },
+    {
+      "image": "S08.png",
+      "role": "new devotional scene",
+      "artOrigin": "new imagegen scene",
+      "inFrame": 1985,
+      "outFrame": 2287
+    },
+    {
+      "image": "S09.png",
+      "role": "new devotional scene",
+      "artOrigin": "new imagegen scene",
+      "inFrame": 2287,
+      "outFrame": 2564
+    },
+    {
+      "image": "S10.png",
+      "role": "new devotional scene",
+      "artOrigin": "new imagegen scene",
+      "inFrame": 2564,
+      "outFrame": 2856
+    },
+    {
+      "image": "S11.png",
+      "role": "new devotional scene",
+      "artOrigin": "new imagegen scene",
+      "inFrame": 2856,
+      "outFrame": 3140
+    },
+    {
+      "image": "S12.png",
+      "role": "new devotional scene",
+      "artOrigin": "new imagegen scene",
+      "inFrame": 3140,
+      "outFrame": 3420
+    }
+  ],
+  "imageDerived": true,
+  "publicationStatus": "pending quota; Google Vids import required before release",
+  "fps": 12,
+  "targetFrames": 3420,
+  "cutRule": "near even spacing at low audio energy"
+}
