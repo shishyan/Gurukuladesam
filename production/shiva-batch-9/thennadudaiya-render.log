@@ -1,0 +1,31 @@
+python : frame=2509
+At line:2 char:1
++ python -u production/shiva-batch-9/render_fast.py production/shiva-ba ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (frame=2509:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fps=41.81
+stream_0_0_q=25.0
+bitrate= 421.6kbits/s
+total_size=5505072
+out_time_us=104458333
+out_time_ms=104458333
+out_time=00:01:44.458333
+dup_frames=0
+drop_frames=0
+speed=1.74x
+progress=continue
+frame=4907
+fps=42.50
+stream_0_0_q=-1.0
+bitrate= 438.4kbits/s
+total_size=11200826
+out_time_us=204375000
+out_time_ms=204375000
+out_time=00:03:24.375000
+dup_frames=0
+drop_frames=0
+speed=1.77x
+progress=end
+C:\GitHub\Gurukuladesam-audit\production\shiva-batch-9\thennadudaiya_female\THENNADUDAIYA_FEMALE-CINEMATIC-ritual-v2.mp4

@@ -1,0 +1,43 @@
+python : frame=3022
+At line:2 char:1
++ python -u production/shiva-batch-9/render_fast.py production/shiva-ba ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (frame=3022:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fps=50.36
+stream_0_0_q=25.0
+bitrate= 450.0kbits/s
+total_size=7077936
+out_time_us=125833333
+out_time_ms=125833333
+out_time=00:02:05.833333
+dup_frames=0
+drop_frames=0
+speed= 2.1x
+progress=continue
+frame=5654
+fps=47.11
+stream_0_0_q=25.0
+bitrate= 463.1kbits/s
+total_size=13631536
+out_time_us=235500000
+out_time_ms=235500000
+out_time=00:03:55.500000
+dup_frames=0
+drop_frames=0
+speed=1.96x
+progress=continue
+frame=6690
+fps=47.78
+stream_0_0_q=-1.0
+bitrate= 475.3kbits/s
+total_size=16556419
+out_time_us=278666667
+out_time_ms=278666667
+out_time=00:04:38.666667
+dup_frames=0
+drop_frames=0
+speed=1.99x
+progress=end
+C:\GitHub\Gurukuladesam-audit\production\shiva-batch-9\thiruppadai_hiphop\THIRUPPADAI_HIPHOP-CINEMATIC-ritual-v2.mp4

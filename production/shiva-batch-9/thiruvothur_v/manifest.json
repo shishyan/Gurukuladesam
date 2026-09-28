@@ -1,0 +1,87 @@
+{
+  "sourceId": "oOGRP4cqGP8",
+  "title": "திருவோத்தூர் பதிகம் (V) | Thiruvothur V Cinematic Shiva Film",
+  "output": "THIRUVOTHUR_V-CINEMATIC-ritual-v2.mp4",
+  "rainShots": [
+    10
+  ],
+  "lightningShots": [],
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 662
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 662,
+      "outFrame": 1393
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 1393,
+      "outFrame": 2064
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 2064,
+      "outFrame": 2760
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 2760,
+      "outFrame": 3406
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 3406,
+      "outFrame": 4124
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 4124,
+      "outFrame": 4782
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 4782,
+      "outFrame": 5497
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 5497,
+      "outFrame": 6179
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 6179,
+      "outFrame": 6822
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 6822,
+      "outFrame": 7528
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 7528,
+      "outFrame": 8215
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 8215,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

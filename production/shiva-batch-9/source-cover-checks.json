@@ -1,0 +1,11 @@
+{
+  "method": "Grayscale 64x64 frames sampled every 30 seconds; mean pixel differences checked before replacing the cover with generated imagery",
+  "selectedSources": {
+    "vZyHNMkm8xU": {"samples": 7, "maxMeanPixelDifference": 0.63},
+    "oOGRP4cqGP8": {"samples": 11, "maxMeanPixelDifference": 0.63},
+    "tW9-r0H5rx8": {"samples": 9, "maxMeanPixelDifference": 0.56},
+    "aq0j2OMVNoU": {"samples": 26, "maxMeanPixelDifference": 0.90},
+    "jsFIjA8ZOkw": {"samples": 19, "maxMeanPixelDifference": 0.29}
+  },
+  "result": "All five original uploads behave as static covers; original audio retained"
+}

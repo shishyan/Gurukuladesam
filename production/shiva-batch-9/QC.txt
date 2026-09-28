@@ -1,0 +1,5 @@
+PASS thennadudaiya_female: 12 distinct scenes; exact decoded audio; full media decode; no long black passages; 11200836 bytes
+PASS thiruvothur_v: 12 distinct scenes; exact decoded audio; full media decode; no long black passages; 18671374 bytes
+PASS thiruppadai_hiphop: 12 distinct scenes; exact decoded audio; full media decode; no long black passages; 16556419 bytes
+PASS namasivaya_children: 12 distinct scenes; exact decoded audio; full media decode; no long black passages; 40894568 bytes
+PASS kuzhaitha_pathu_ii: 12 distinct scenes; exact decoded audio; full media decode; no long black passages; 29310138 bytes

@@ -1,0 +1,365 @@
+{
+  "selectedSources": [
+    "aq0j2OMVNoU",
+    "jsFIjA8ZOkw",
+    "oOGRP4cqGP8",
+    "tW9-r0H5rx8",
+    "vZyHNMkm8xU"
+  ],
+  "tracksCompared": 70,
+  "duplicateDecodedAudio": [],
+  "nearDuplicateCandidates": [],
+  "method": "Decoded mono 8kHz PCM SHA256; three six-second correlation windows when durations differ by less than two seconds.",
+  "tracks": [
+    {
+      "sourceId": "8BPlAB-ZHHk",
+      "durationSeconds": 594.8125,
+      "sha256": "ed355ebb6f4743bb342d64b30b3f4c177d6a6b7159f044ffe89b50f59b89ff3b"
+    },
+    {
+      "sourceId": "A2CB3LpJ0Qk",
+      "durationSeconds": 571.639,
+      "sha256": "9a122cf8e2e880952b46205839c81984576206b56544c3e4c00fd699d970e21f"
+    },
+    {
+      "sourceId": "CjUD2TU3oAY",
+      "durationSeconds": 839.6205,
+      "sha256": "cc74ff6dea63609fb539483e55f887fb304b18a7ebd79571641f32e5b51df8c9"
+    },
+    {
+      "sourceId": "hoZZgL3xe9k",
+      "durationSeconds": 493.550375,
+      "sha256": "75b738a318963ae2096a5d19986090fb012992486355245126da2f1be5bd3132"
+    },
+    {
+      "sourceId": "nsWHXJGDYA8",
+      "durationSeconds": 533.953,
+      "sha256": "b8cebf2eae64b5efff6bead421101d5cc2f194e8f77e38891af8e1f46c729bcb"
+    },
+    {
+      "sourceId": "75W77Q-_Oe8",
+      "durationSeconds": 764.620125,
+      "sha256": "1cdbeb917c0fead6cdb8d708fe050f9a1a77dcb10fecd67d6475b7990b4d1150"
+    },
+    {
+      "sourceId": "bZmif21zNtw",
+      "durationSeconds": 424.378125,
+      "sha256": "8c039b1ecc29798bc6547b7172bea60307c64b3840efe6bfeb17afc5f1ca62c6"
+    },
+    {
+      "sourceId": "fcWB5HrGeMs",
+      "durationSeconds": 479.363,
+      "sha256": "290712e8d70929f180b7f5cd5a042e736260dce7957ffd5752135ccdbbe3b31d"
+    },
+    {
+      "sourceId": "qQqwD3gjenE",
+      "durationSeconds": 223.641625,
+      "sha256": "ab26225d1931148ac32679328645a35fd52b9f3ccae34c6a1e609cb886da5074"
+    },
+    {
+      "sourceId": "yrmF7nfwnsQ",
+      "durationSeconds": 956.858125,
+      "sha256": "8907f103774635588db786b478794675c2c77864ca78216817424850a88abdab"
+    },
+    {
+      "sourceId": "-yxeA6nvNZk",
+      "durationSeconds": 186.42,
+      "sha256": "52183937a508c30c60ad81bf6d331952de364161add27803244ee9f00f672a9e"
+    },
+    {
+      "sourceId": "CHWHsVF0V70",
+      "durationSeconds": 475.43875,
+      "sha256": "6afecbd7e4d350598f2a71034290b41e97f769364ca818b1a809bf945748f822"
+    },
+    {
+      "sourceId": "I70WNnsVXtY",
+      "durationSeconds": 381.815875,
+      "sha256": "1323cb6f0278c219aec9f4278b63e70115d193f4b1ef9dd935872c8f756b49ca"
+    },
+    {
+      "sourceId": "RmggfAhGNXU",
+      "durationSeconds": 555.29225,
+      "sha256": "8fc3fb624889d2a7a80768f28b4021be46240cbd9ecd497fa5da926908d844b0"
+    },
+    {
+      "sourceId": "rr1zamJEIdg",
+      "durationSeconds": 347.1485,
+      "sha256": "a24c931c6151ae12779e37ffb070161a683bf364a15e803971499dc5755a34c6"
+    },
+    {
+      "sourceId": "2vuuHMEhs20",
+      "durationSeconds": 777.158875,
+      "sha256": "c2805e425681e548f2e5c091b60fe535893950b7003b85f3ed74dbbac2493577"
+    },
+    {
+      "sourceId": "2_rwWlC09I0",
+      "durationSeconds": 586.615875,
+      "sha256": "dd7e82012cfd1935f907cfbf760d0c2e64e32347cc3174c1a524f4665155fd3e"
+    },
+    {
+      "sourceId": "5vieI9fE5Y8",
+      "durationSeconds": 580.857375,
+      "sha256": "e2e7c5ec1eb1430b5be81fb563c3fc963486d156b5e503f581df8491a177549b"
+    },
+    {
+      "sourceId": "CSqgMX4LhJI",
+      "durationSeconds": 633.404125,
+      "sha256": "d0584adbc429f18812920e8c9f2a321dfc00bd73c1d0b920fe0a0fe6e9963620"
+    },
+    {
+      "sourceId": "M4KRTTyoD_A",
+      "durationSeconds": 456.398375,
+      "sha256": "01f90be1a4c1cb81e9cd74c42c0925720e0a3444578da48b36f555c377ecc129"
+    },
+    {
+      "sourceId": "e9fTnxiiLnc",
+      "durationSeconds": 886.78025,
+      "sha256": "38170f198b84e5d05363a8889c7ed1ab57226f62d35defb9b05327aec06c53e5"
+    },
+    {
+      "sourceId": "iKIsoxTz5-k",
+      "durationSeconds": 905.30975,
+      "sha256": "020b9acd3def91bb8d5c78171ce6547604e06794816089b54385e80fa4fa7c76"
+    },
+    {
+      "sourceId": "SDPLWITWGho",
+      "durationSeconds": 1109.41325,
+      "sha256": "304fcc922cd9790c87c64aa8b6938a6085e6f72637661c152921e532e11d1db8"
+    },
+    {
+      "sourceId": "xqM-FFGFDC4",
+      "durationSeconds": 547.7225,
+      "sha256": "6e2c774f1582141ad9ce116719c694584b173c9b909344675f9633b48ae1846f"
+    },
+    {
+      "sourceId": "zTHsoP6OIAc",
+      "durationSeconds": 282.08625,
+      "sha256": "64f789681efb0fa0c2131140e4a02816ed179d0d419d659a36fe47c336233822"
+    },
+    {
+      "sourceId": "-bqKXZW8vFk",
+      "durationSeconds": 809.272,
+      "sha256": "aa30a828ea8b351e3d9f7bdfc14024660c522260800b4ad0907ffe0c4f5b0b5c"
+    },
+    {
+      "sourceId": "2QOF2ycA4RQ",
+      "durationSeconds": 316.567875,
+      "sha256": "7f06cfaae61285c17078aebb1144834259e088af1ee8c1b95e014aaf87317bd9"
+    },
+    {
+      "sourceId": "fdB9R7QeXo0",
+      "durationSeconds": 575.84175,
+      "sha256": "a49082296960de5079e74bf3cafb20fd1a02afa890f35090ea213ff5829a04f1"
+    },
+    {
+      "sourceId": "SLaW0c4zDuc",
+      "durationSeconds": 561.63125,
+      "sha256": "9544f542d5494e02cabbdd41e808a7381b5e214f70fea7e069d7394c835e9396"
+    },
+    {
+      "sourceId": "XB7cD-5ye-k",
+      "durationSeconds": 1074.04925,
+      "sha256": "2135771fe1c9d1a9b059d128f50f073a8b653d89f0b0213d4ec92b6b85a22822"
+    },
+    {
+      "sourceId": "2vQYuvePk9U",
+      "durationSeconds": 503.325875,
+      "sha256": "aa12ef681bb7a98180e9b9db213a04c580665c505ae0eb9da19de3bd1a8c5815"
+    },
+    {
+      "sourceId": "4zG1CdYiVxs",
+      "durationSeconds": 279.18375,
+      "sha256": "337080fa3608f48c23fef40aec1bcdca51397c838e6d41f65136247b4900bb89"
+    },
+    {
+      "sourceId": "89Q2g8AllcE",
+      "durationSeconds": 2104.17925,
+      "sha256": "1c260af3f9c9817631ec9904b8a097f10c0e83b9d4c7ae729273d962f0524c19"
+    },
+    {
+      "sourceId": "AuEZhvVmA90",
+      "durationSeconds": 589.193375,
+      "sha256": "f73100f59bc0da410c8d2c76d46f88a63ad99e6a54b357071a9a59c645275524"
+    },
+    {
+      "sourceId": "qqpvlkv0mSY",
+      "durationSeconds": 531.607875,
+      "sha256": "12596c5c89fb7891adcb71b93fd4692d76aa8e89f99753d319af0496ceba0b5a"
+    },
+    {
+      "sourceId": "wC45ZWg05eo",
+      "durationSeconds": 255.127875,
+      "sha256": "41c363a6ad8797ddf6f074bf324ddd98d74fe7d1a313697ca34db9e5858bf230"
+    },
+    {
+      "sourceId": "aq0j2OMVNoU",
+      "durationSeconds": 791.18375,
+      "sha256": "9d190a4b0be74daec03787c6c6af2975728fd93a2fe60f54963d0a6a5e9c12c8"
+    },
+    {
+      "sourceId": "jsFIjA8ZOkw",
+      "durationSeconds": 558.659125,
+      "sha256": "035667ad9754dda5f22513962539765373579437a1e4e5df1e9490f70a9df2fb"
+    },
+    {
+      "sourceId": "oOGRP4cqGP8",
+      "durationSeconds": 342.2955,
+      "sha256": "34daf9d16e73ffa03e2045f2b1373a403fd736103b153cdb11f1fd3e78b4b6ee"
+    },
+    {
+      "sourceId": "tW9-r0H5rx8",
+      "durationSeconds": 278.7425,
+      "sha256": "7a99802a48fdc40f483019ef33ff0aa14bd286954b1a49edd54d912c165eb022"
+    },
+    {
+      "sourceId": "vZyHNMkm8xU",
+      "durationSeconds": 204.461875,
+      "sha256": "85a503ca7e88c0ff289c86ef53a06cf17e5be0e6996df0514bc33e9e531a34ab"
+    },
+    {
+      "sourceId": "06ZOKy7SSvw",
+      "durationSeconds": 635.679625,
+      "sha256": "4d88e69960e54e634b0e55a37400e10cb40d8bb3dbaff4f340fa54b5adb63185"
+    },
+    {
+      "sourceId": "I-ZLmvGIiz4",
+      "durationSeconds": 284.98875,
+      "sha256": "c56c7523a17d0f4138c0887e0780d92a7a4f58fb6d069fbf7f2fe1bbcc332b38"
+    },
+    {
+      "sourceId": "lAWfE9YSJME",
+      "durationSeconds": 227.496125,
+      "sha256": "7a52b8173cec03846df2f1a5105ad2da168bb8e2303b105d0704a1f9dab88ff8"
+    },
+    {
+      "sourceId": "0TB3drCSvNc",
+      "durationSeconds": 252.968375,
+      "sha256": "7de12fcbc69bb6ad3c22a177461508707a4f5937e31e704ed0569a2bac82270b"
+    },
+    {
+      "sourceId": "DCJ2qoMSIBA",
+      "durationSeconds": 276.2115,
+      "sha256": "11580f9394d7947bc1cfd5d47ac22282a87f5377cffad1321958b43332185136"
+    },
+    {
+      "sourceId": "hDoLscfeg5Q",
+      "durationSeconds": 878.885375,
+      "sha256": "6f3cff3cefc2d82624033cf1e620800c1393d4253d8446a2133a5cf2901bfde7"
+    },
+    {
+      "sourceId": "o5PVED0ZcfU",
+      "durationSeconds": 193.5485,
+      "sha256": "2bf5fd5d1299bc48d8dcedde514baf1cdd2deab5f30fa4221101433ea835c536"
+    },
+    {
+      "sourceId": "juuVtFBK3X8",
+      "durationSeconds": 344.246,
+      "sha256": "8ec29b97e186648a1dae8414ad4c9dac131e482f22a842edc490463ef018fcfb"
+    },
+    {
+      "sourceId": "kshlDPh2IqE",
+      "durationSeconds": 288.309125,
+      "sha256": "07d1694a05871fb806f60eac45ba060c7216cb4556c62245ffaf072090144c8e"
+    },
+    {
+      "sourceId": "kyiaup-gjMc",
+      "durationSeconds": 1257.068875,
+      "sha256": "cd044c18e1ef0032bf0f4d66d121ccfea1755be411ec63b457d80e35275f9864"
+    },
+    {
+      "sourceId": "MlaG3Z3_Kck",
+      "durationSeconds": 456.769875,
+      "sha256": "70d446a60fbe18f8c7415989e67646f13cb1a2f550b9aa6bbee9abf7a72f8ee5"
+    },
+    {
+      "sourceId": "YORF54ouPz0",
+      "durationSeconds": 818.490375,
+      "sha256": "424c6f76b2682fb797bba41400588d70462a10e68b1a0e56b148875c9b7a0041"
+    },
+    {
+      "sourceId": "Z7qFXMBjnak",
+      "durationSeconds": 412.234,
+      "sha256": "65466f3b96e47e7ad99cb155351bf7feaba7de92e1c50aeb758b75796067dfd5"
+    },
+    {
+      "sourceId": "73GrCFM_v6Q",
+      "durationSeconds": 398.093125,
+      "sha256": "ae4ec47356ae135d4e968b3fa66948ca760f976ea810144ba2d06a5886dc99f0"
+    },
+    {
+      "sourceId": "EOkuHFSfv8c",
+      "durationSeconds": 666.957,
+      "sha256": "38e81273675f2d577cf0053930d691bde91e2a0ede511689179250df3d0c49d8"
+    },
+    {
+      "sourceId": "nGBmGzsD-kM",
+      "durationSeconds": 622.792625,
+      "sha256": "a4d6e164fd79b8df78d43f19ec789ea5b794a0cde337a4dac66e934d1a7e28e3"
+    },
+    {
+      "sourceId": "dbdp19C0j3M",
+      "durationSeconds": 284.98875,
+      "sha256": "e631e2dc1c18e223874d45fc37b624a78c910cb9f30b2e806e7807dc32575b5d"
+    },
+    {
+      "sourceId": "4vZEVROZIx8",
+      "durationSeconds": 454.8325,
+      "sha256": "f084758b31a57f9bc55b2241ed17014d718f9e17297952008c2ccb265ca20da2"
+    },
+    {
+      "sourceId": "7wJJCQrYo04",
+      "durationSeconds": 263.662625,
+      "sha256": "d71356a2c20558a70346116bea84847a3e9be43148bd76ee35ca2f0f72fe4237"
+    },
+    {
+      "sourceId": "aSQrSHA4YtU",
+      "durationSeconds": 381.527125,
+      "sha256": "4d6140bb12fb7d9b6a0bbffd7b402851444369f3f2efb9ac3e78ede273081f64"
+    },
+    {
+      "sourceId": "BbDNJdLDy-4",
+      "durationSeconds": 223.72425,
+      "sha256": "7ca4c3e424fce6503c5a69884d21bca8446345f7b4ff872e3be5ac99f8368439"
+    },
+    {
+      "sourceId": "cKyT1Cv7zEA",
+      "durationSeconds": 272.463,
+      "sha256": "19a03aaeb7511c2dae34152d7314ac0877b2fb5bfc1f25357481570379fe8752"
+    },
+    {
+      "sourceId": "ETELjf0OTi4",
+      "durationSeconds": 251.472125,
+      "sha256": "3a680d56a2bff45b8efe6443fcce5e932a0c65610fb0e67edac27aad79f1c70c"
+    },
+    {
+      "sourceId": "mb-lljpUJ5g",
+      "durationSeconds": 218.453375,
+      "sha256": "3c61d7ed18d909b79115b3276f6543b89a512fbba84196f28ad889be8625567d"
+    },
+    {
+      "sourceId": "pYh67ltckLQ",
+      "durationSeconds": 353.686375,
+      "sha256": "6a4791ecb98b131214b012b45dc02bddbef001dd01ec06b9873c25c6212cfd14"
+    },
+    {
+      "sourceId": "RDcw0Bol-cE",
+      "durationSeconds": 331.046875,
+      "sha256": "3fe7a27549898c83f161d706a377fabb76634e0e46c828d8ba0c9f5ad6ad5f6c"
+    },
+    {
+      "sourceId": "xAgvuRIIl6o",
+      "durationSeconds": 346.697125,
+      "sha256": "03db9c6404529516a36c94db6027e8133ebed47ceac56f5104c5fdac54b2547f"
+    },
+    {
+      "sourceId": "Y3xujLwXuBs",
+      "durationSeconds": 479.445625,
+      "sha256": "915d9d0ffa12a4932bf88bcd4d68f2497b17cdf023b52273983c299eb532ff67"
+    },
+    {
+      "sourceId": "_6amHDAc8EI",
+      "durationSeconds": 368.384625,
+      "sha256": "ea813de32866754b15395733a55e87a10b289b54b25236022a86bccfcb265414"
+    }
+  ]
+}

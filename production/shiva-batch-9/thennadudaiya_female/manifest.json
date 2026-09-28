@@ -1,0 +1,87 @@
+{
+  "sourceId": "vZyHNMkm8xU",
+  "title": "தென் நாடுடைய சிவனே போற்றி! (Female) | Cinematic Shiva Film",
+  "output": "THENNADUDAIYA_FEMALE-CINEMATIC-ritual-v2.mp4",
+  "rainShots": [
+    10
+  ],
+  "lightningShots": [],
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 415
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 415,
+      "outFrame": 829
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 829,
+      "outFrame": 1245
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1245,
+      "outFrame": 1630
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1630,
+      "outFrame": 2068
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 2068,
+      "outFrame": 2478
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 2478,
+      "outFrame": 2881
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 2881,
+      "outFrame": 3285
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 3285,
+      "outFrame": 3662
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 3662,
+      "outFrame": 4113
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 4113,
+      "outFrame": 4483
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 4483,
+      "outFrame": 4907
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 4907,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

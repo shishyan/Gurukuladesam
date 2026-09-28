@@ -1,0 +1,55 @@
+python : frame=2528
+At line:2 char:1
++ python -u production/shiva-batch-9/render_fast.py production/shiva-ba ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (frame=2528:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fps=42.12
+stream_0_0_q=25.0
+bitrate= 398.5kbits/s
+total_size=5242928
+out_time_us=105250000
+out_time_ms=105250000
+out_time=00:01:45.250000
+dup_frames=0
+drop_frames=0
+speed=1.75x
+progress=continue
+frame=5142
+fps=42.84
+stream_0_0_q=25.0
+bitrate= 401.5kbits/s
+total_size=10747952
+out_time_us=214166667
+out_time_ms=214166667
+out_time=00:03:34.166667
+dup_frames=0
+drop_frames=0
+speed=1.78x
+progress=continue
+frame=7476
+fps=41.52
+stream_0_0_q=25.0
+bitrate= 431.0kbits/s
+total_size=16777264
+out_time_us=311416667
+out_time_ms=311416667
+out_time=00:05:11.416667
+dup_frames=0
+drop_frames=0
+speed=1.73x
+progress=continue
+frame=8215
+fps=41.69
+stream_0_0_q=-1.0
+bitrate= 436.5kbits/s
+total_size=18670968
+out_time_us=342208333
+out_time_ms=342208333
+out_time=00:05:42.208333
+dup_frames=0
+drop_frames=0
+speed=1.74x
+progress=end
+C:\GitHub\Gurukuladesam-audit\production\shiva-batch-9\thiruvothur_v\THIRUVOTHUR_V-CINEMATIC-ritual-v2.mp4
