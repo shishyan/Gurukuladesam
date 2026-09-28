@@ -1,0 +1,97 @@
+{
+  "checkedAtUtc": "2026-09-28T15:53:53.578325+00:00",
+  "channel": "@guru-kula-desam",
+  "publicUploads": 223,
+  "playlistsChecked": 9,
+  "newEligibleUnclaimedCompositions": 0,
+  "unavailablePlaylistEntries": [
+    {
+      "id": "wyDIU74Rs7Y",
+      "title": "[Unavailable entry]",
+      "classification": "needs investigation",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection",
+        "Discography"
+      ],
+      "workspaceEvidence": [
+        "unclaimed-group-batch-02\\avai_anjaamai_female\\manifest.json",
+        "unclaimed-group-batch-02\\upload-progress.json"
+      ]
+    },
+    {
+      "id": "wPT_1jgn2Ys",
+      "title": "[Unavailable entry]",
+      "classification": "needs investigation",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection",
+        "Discography"
+      ],
+      "workspaceEvidence": [
+        "unclaimed-group-batch-03\\kooda_ozhukkam_symphony\\manifest.json"
+      ]
+    },
+    {
+      "id": "djYooU1LmGk",
+      "title": "[Unavailable entry]",
+      "classification": "needs investigation",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection",
+        "Discography"
+      ],
+      "workspaceEvidence": [
+        "unclaimed-group-batch-03\\vaaymai_remix\\manifest.json"
+      ]
+    },
+    {
+      "id": "6MaQYObW8OQ",
+      "title": "[Unavailable entry]",
+      "classification": "needs investigation",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection",
+        "Discography"
+      ],
+      "workspaceEvidence": [
+        "unclaimed-group-batch-04\\thuravu_female\\manifest.json"
+      ]
+    },
+    {
+      "id": "oEQ3sx6ujQc",
+      "title": "[Unavailable entry]",
+      "classification": "needs investigation",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection",
+        "Discography"
+      ],
+      "workspaceEvidence": [
+        "unclaimed-group-batch-04\\idanarithal_remix\\manifest.json"
+      ]
+    },
+    {
+      "id": "lD6far4EmHY",
+      "title": "[Unavailable entry]",
+      "classification": "needs investigation",
+      "playlists": [
+        "Lord Shiva Songs",
+        "Discography"
+      ],
+      "workspaceEvidence": [
+        "unclaimed-group-batch-01\\thiruvothur_pathigam_iii\\manifest.json",
+        "unclaimed-group-batch-01\\upload-progress.json"
+      ]
+    },
+    {
+      "id": "8YLA_CoDfP8",
+      "title": "[Unavailable entry]",
+      "classification": "needs investigation",
+      "playlists": [
+        "Lord Shiva Songs",
+        "Discography"
+      ],
+      "workspaceEvidence": [
+        "unclaimed-group-batch-01\\potri_thiru_agaval_2026\\manifest.json",
+        "unclaimed-group-batch-01\\upload-progress.json"
+      ]
+    }
+  ],
+  "conclusion": "All accessible entries covered or reserved; unavailable entries match other-job uploads. Root publication queue remains empty. No new batch selected under no-duplicate requirement."
+}

@@ -4,7 +4,7 @@
   "channel_id": "UCPqB1A_WzpLJec6q69BOO3Q",
   "title": "Guru Kula Desam - Videos",
   "availability": "public",
-  "channel_follower_count": 89,
+  "channel_follower_count": 90,
   "description": "",
   "tags": [],
   "thumbnails": [
@@ -79,11 +79,347 @@
   "channel_is_verified": true,
   "modified_date": null,
   "view_count": null,
-  "playlist_count": 211,
+  "playlist_count": 223,
   "uploader": "Guru Kula Desam",
   "channel_url": "https://www.youtube.com/channel/UCPqB1A_WzpLJec6q69BOO3Q",
   "_type": "playlist",
   "entries": [
+    {
+      "title": "கள்ளாமை (Symphony) | Kallaamai Symphony Cinematic Thirukkural Film",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/tzAYLpH3TkI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtvoUbm5ms4fbzkEh1g7HMh4SVyg",
+          "height": 202,
+          "width": 360
+        },
+        {
+          "url": "https://i.ytimg.com/vi/tzAYLpH3TkI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBN9Dojbw5D8dLR4m-rfCYppPDMAw",
+          "height": 404,
+          "width": 720
+        }
+      ],
+      "duration": 299,
+      "view_count": 0,
+      "timestamp": null,
+      "live_status": null,
+      "availability": null,
+      "channel_url": null,
+      "uploader_url": null,
+      "creators": null,
+      "ie_key": "Youtube",
+      "id": "tzAYLpH3TkI",
+      "_type": "url",
+      "url": "https://www.youtube.com/watch?v=tzAYLpH3TkI",
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "title": "அரண் (Symphony) | Aran Symphony Cinematic Thirukkural Film",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/irx33IVWrPY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4fmxObzarp6vacR950zDX9lIjkg",
+          "height": 202,
+          "width": 360
+        },
+        {
+          "url": "https://i.ytimg.com/vi/irx33IVWrPY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjJ7FdDsJK6hz79owP4uH_Oz0DTw",
+          "height": 404,
+          "width": 720
+        }
+      ],
+      "duration": 226,
+      "view_count": 0,
+      "timestamp": null,
+      "live_status": null,
+      "availability": null,
+      "channel_url": null,
+      "uploader_url": null,
+      "creators": null,
+      "ie_key": "Youtube",
+      "id": "irx33IVWrPY",
+      "_type": "url",
+      "url": "https://www.youtube.com/watch?v=irx33IVWrPY",
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "title": "திருக்குறள் - ஒற்றாடல் | Ottraadal | Full Song Film",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/TQtjI3EepPQ/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFEoODAP&rs=AOn4CLAmRwngZ90xTtuMwF2S6n3xyki0ug",
+          "height": 202,
+          "width": 360
+        },
+        {
+          "url": "https://i.ytimg.com/vi/TQtjI3EepPQ/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFEoODAP&rs=AOn4CLAmm-MOvPgEfeiNg47OAEmTcaNGVw",
+          "height": 404,
+          "width": 720
+        }
+      ],
+      "duration": 321,
+      "view_count": 1,
+      "timestamp": null,
+      "live_status": null,
+      "availability": null,
+      "channel_url": null,
+      "uploader_url": null,
+      "creators": null,
+      "ie_key": "Youtube",
+      "id": "TQtjI3EepPQ",
+      "_type": "url",
+      "url": "https://www.youtube.com/watch?v=TQtjI3EepPQ",
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "title": "திருவருட்பா - ஆறாம் திருமுறை - பரசிவ வணக்கம் | Full Song Film",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/fJIeiPyejxU/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhTIFkoZTAP&rs=AOn4CLAvcPhLoUtl4pDkT6CHNcDJrktJAA",
+          "height": 202,
+          "width": 360
+        },
+        {
+          "url": "https://i.ytimg.com/vi/fJIeiPyejxU/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhTIFkoZTAP&rs=AOn4CLDe1Rv1_ps5bpYjc8duk0Gx2R5c5Q",
+          "height": 404,
+          "width": 720
+        }
+      ],
+      "duration": 228,
+      "view_count": 1,
+      "timestamp": null,
+      "live_status": null,
+      "availability": null,
+      "channel_url": null,
+      "uploader_url": null,
+      "creators": null,
+      "ie_key": "Youtube",
+      "id": "fJIeiPyejxU",
+      "_type": "url",
+      "url": "https://www.youtube.com/watch?v=fJIeiPyejxU",
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "title": "திருவருட்பா - திருவருள் வேட்கை | Full Song Film",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/PO4U3nRv6o0/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIE0oMTAP&rs=AOn4CLCWDzdUW_1wNhwrJpJNdzN1nTEP5g",
+          "height": 202,
+          "width": 360
+        },
+        {
+          "url": "https://i.ytimg.com/vi/PO4U3nRv6o0/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIE0oMTAP&rs=AOn4CLCaLdqX6-BbngTj7zs55DsTxCOdTw",
+          "height": 404,
+          "width": 720
+        }
+      ],
+      "duration": 286,
+      "view_count": 1,
+      "timestamp": null,
+      "live_status": null,
+      "availability": null,
+      "channel_url": null,
+      "uploader_url": null,
+      "creators": null,
+      "ie_key": "Youtube",
+      "id": "PO4U3nRv6o0",
+      "_type": "url",
+      "url": "https://www.youtube.com/watch?v=PO4U3nRv6o0",
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "title": "திருவருட்பா - இரண்டாம் திருமுறை - திருச்சாதனத் தெய்வத் திறம் | Full Song Film",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/255aVCj3t0w/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFUoQzAP&rs=AOn4CLDexrJ23YYJfWDPyNdgEwLCkJzrKw",
+          "height": 202,
+          "width": 360
+        },
+        {
+          "url": "https://i.ytimg.com/vi/255aVCj3t0w/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFUoQzAP&rs=AOn4CLDZG8SMJp9eqLa3RPKrAOQ4CUlZ_w",
+          "height": 404,
+          "width": 720
+        }
+      ],
+      "duration": 636,
+      "view_count": 1,
+      "timestamp": null,
+      "live_status": null,
+      "availability": null,
+      "channel_url": null,
+      "uploader_url": null,
+      "creators": null,
+      "ie_key": "Youtube",
+      "id": "255aVCj3t0w",
+      "_type": "url",
+      "url": "https://www.youtube.com/watch?v=255aVCj3t0w",
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "title": "திருவருட்பா - ஆறாம் திருமுறை - சிவ பதி விளக்கம் | Full Song Film",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/KjQZFlnCluU/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IEUoITAP&rs=AOn4CLChlnVp6DlZWPDHAUdSflS3vMMP_A",
+          "height": 202,
+          "width": 360
+        },
+        {
+          "url": "https://i.ytimg.com/vi/KjQZFlnCluU/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IEUoITAP&rs=AOn4CLBbX4hrvCAyYWF1wYGxdhn2MjkcDA",
+          "height": 404,
+          "width": 720
+        }
+      ],
+      "duration": 286,
+      "view_count": 1,
+      "timestamp": null,
+      "live_status": null,
+      "availability": null,
+      "channel_url": null,
+      "uploader_url": null,
+      "creators": null,
+      "ie_key": "Youtube",
+      "id": "KjQZFlnCluU",
+      "_type": "url",
+      "url": "https://www.youtube.com/watch?v=KjQZFlnCluU",
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "title": "திருக்குறள் - இறை மாட்சி | Irai Maatchi | Full Song Film",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/mCwNR1Bytj4/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFYoPzAP&rs=AOn4CLD7qNEd2Xwl5t9kBLZYTiQqxZi2Zg",
+          "height": 202,
+          "width": 360
+        },
+        {
+          "url": "https://i.ytimg.com/vi/mCwNR1Bytj4/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFYoPzAP&rs=AOn4CLD921bTbYdNZhSzOv4pV_6T6_Nowg",
+          "height": 404,
+          "width": 720
+        }
+      ],
+      "duration": 228,
+      "view_count": 1,
+      "timestamp": null,
+      "live_status": null,
+      "availability": null,
+      "channel_url": null,
+      "uploader_url": null,
+      "creators": null,
+      "ie_key": "Youtube",
+      "id": "mCwNR1Bytj4",
+      "_type": "url",
+      "url": "https://www.youtube.com/watch?v=mCwNR1Bytj4",
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "title": "திருக்குறள் - துறவு | Thuravu | Full Song Film",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/8AEEcskF-Jo/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFMoNjAP&rs=AOn4CLBF6O9Tud68Z6bHUMpra694WLKUpg",
+          "height": 202,
+          "width": 360
+        },
+        {
+          "url": "https://i.ytimg.com/vi/8AEEcskF-Jo/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFMoNjAP&rs=AOn4CLAUGqsazm2ptEXCsYmUZ5JFHCRgvw",
+          "height": 404,
+          "width": 720
+        }
+      ],
+      "duration": 267,
+      "view_count": 1,
+      "timestamp": null,
+      "live_status": null,
+      "availability": null,
+      "channel_url": null,
+      "uploader_url": null,
+      "creators": null,
+      "ie_key": "Youtube",
+      "id": "8AEEcskF-Jo",
+      "_type": "url",
+      "url": "https://www.youtube.com/watch?v=8AEEcskF-Jo",
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "title": "திருக்குறள் - தூது | Thoothu | Full Song Film",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/nR7R0TWyZHk/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFUoPjAP&rs=AOn4CLCf5kAPklTRVG2d9IBejPwdhFZFfA",
+          "height": 202,
+          "width": 360
+        },
+        {
+          "url": "https://i.ytimg.com/vi/nR7R0TWyZHk/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFUoPjAP&rs=AOn4CLD0IG16JjD2OErQCKGOHh8FFIGLkA",
+          "height": 404,
+          "width": 720
+        }
+      ],
+      "duration": 243,
+      "view_count": 1,
+      "timestamp": null,
+      "live_status": null,
+      "availability": null,
+      "channel_url": null,
+      "uploader_url": null,
+      "creators": null,
+      "ie_key": "Youtube",
+      "id": "nR7R0TWyZHk",
+      "_type": "url",
+      "url": "https://www.youtube.com/watch?v=nR7R0TWyZHk",
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "title": "திருக்குறள் - தெரிந்து தெளிதல் | Therinthu Thelithal | Full Song Film",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/bH23l5vVgL8/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFIoNTAP&rs=AOn4CLBNRGG5-eLGr6K-fNptHYB7RLtZIw",
+          "height": 202,
+          "width": 360
+        },
+        {
+          "url": "https://i.ytimg.com/vi/bH23l5vVgL8/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFIoNTAP&rs=AOn4CLAq5fGfGaq6jnZnuGnlLbP5Kb3hKg",
+          "height": 404,
+          "width": 720
+        }
+      ],
+      "duration": 398,
+      "view_count": 1,
+      "timestamp": null,
+      "live_status": null,
+      "availability": null,
+      "channel_url": null,
+      "uploader_url": null,
+      "creators": null,
+      "ie_key": "Youtube",
+      "id": "bH23l5vVgL8",
+      "_type": "url",
+      "url": "https://www.youtube.com/watch?v=bH23l5vVgL8",
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "title": "திருக்குறள் - தெரிந்து செயல்வகை | Therinthu Seyalvagai | Full Song Film",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/BfgGC7DsHMI/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IEUoHDAP&rs=AOn4CLAk3rLbQKvh_OnL0FbsrSw9SIm9dg",
+          "height": 202,
+          "width": 360
+        },
+        {
+          "url": "https://i.ytimg.com/vi/BfgGC7DsHMI/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IEUoHDAP&rs=AOn4CLDcvQF1RcK5T3VNu1Zvkf-iT2CpCQ",
+          "height": 404,
+          "width": 720
+        }
+      ],
+      "duration": 348,
+      "view_count": 0,
+      "timestamp": null,
+      "live_status": null,
+      "availability": null,
+      "channel_url": null,
+      "uploader_url": null,
+      "creators": null,
+      "ie_key": "Youtube",
+      "id": "BfgGC7DsHMI",
+      "_type": "url",
+      "url": "https://www.youtube.com/watch?v=BfgGC7DsHMI",
+      "__x_forwarded_for_ip": null
+    },
     {
       "title": "திருவோத்தூர் பதிகம் II | Thiruvothur Pathigam II Cinematic Shiva Film",
       "thumbnails": [
@@ -463,7 +799,7 @@
         }
       ],
       "duration": 249,
-      "view_count": 1,
+      "view_count": 4,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -491,7 +827,7 @@
         }
       ],
       "duration": 234,
-      "view_count": 1,
+      "view_count": 2,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -519,7 +855,7 @@
         }
       ],
       "duration": 275,
-      "view_count": 0,
+      "view_count": 1,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -603,7 +939,7 @@
         }
       ],
       "duration": 241,
-      "view_count": 1,
+      "view_count": 2,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -1471,7 +1807,7 @@
         }
       ],
       "duration": 581,
-      "view_count": 12,
+      "view_count": 13,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -1863,7 +2199,7 @@
         }
       ],
       "duration": 304,
-      "view_count": 67,
+      "view_count": 82,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -1947,7 +2283,7 @@
         }
       ],
       "duration": 348,
-      "view_count": 8,
+      "view_count": 10,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -2003,7 +2339,7 @@
         }
       ],
       "duration": 202,
-      "view_count": 68,
+      "view_count": 81,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -2227,7 +2563,7 @@
         }
       ],
       "duration": 294,
-      "view_count": 45,
+      "view_count": 53,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -2255,7 +2591,7 @@
         }
       ],
       "duration": 167,
-      "view_count": 36,
+      "view_count": 43,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -2283,7 +2619,7 @@
         }
       ],
       "duration": 394,
-      "view_count": 56,
+      "view_count": 65,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -2535,7 +2871,7 @@
         }
       ],
       "duration": 480,
-      "view_count": 7,
+      "view_count": 12,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -2815,7 +3151,7 @@
         }
       ],
       "duration": 113,
-      "view_count": 3,
+      "view_count": 7,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -2871,7 +3207,7 @@
         }
       ],
       "duration": 840,
-      "view_count": 68,
+      "view_count": 71,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -3123,7 +3459,7 @@
         }
       ],
       "duration": 1862,
-      "view_count": 147,
+      "view_count": 164,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -3263,7 +3599,7 @@
         }
       ],
       "duration": 897,
-      "view_count": 9,
+      "view_count": 10,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -3403,7 +3739,7 @@
         }
       ],
       "duration": 237,
-      "view_count": 1,
+      "view_count": 3,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -3431,7 +3767,7 @@
         }
       ],
       "duration": 302,
-      "view_count": 25,
+      "view_count": 36,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -3599,7 +3935,7 @@
         }
       ],
       "duration": 255,
-      "view_count": 62,
+      "view_count": 75,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -3879,7 +4215,7 @@
         }
       ],
       "duration": 480,
-      "view_count": 41,
+      "view_count": 79,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -3958,7 +4294,7 @@
         }
       ],
       "duration": 347,
-      "view_count": 0,
+      "view_count": 1,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -3986,7 +4322,7 @@
         }
       ],
       "duration": 170,
-      "view_count": 15,
+      "view_count": 18,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -4098,7 +4434,7 @@
         }
       ],
       "duration": 227,
-      "view_count": 177,
+      "view_count": 218,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -4182,7 +4518,7 @@
         }
       ],
       "duration": 241,
-      "view_count": 87,
+      "view_count": 107,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -4574,7 +4910,7 @@
         }
       ],
       "duration": 354,
-      "view_count": 2,
+      "view_count": 4,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -4742,7 +5078,7 @@
         }
       ],
       "duration": 273,
-      "view_count": 107,
+      "view_count": 112,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -4882,7 +5218,7 @@
         }
       ],
       "duration": 313,
-      "view_count": 25,
+      "view_count": 33,
       "timestamp": null,
       "live_status": null,
       "availability": null,
@@ -5995,7 +6331,7 @@
   "webpage_url_basename": "videos",
   "webpage_url_domain": "youtube.com",
   "release_year": null,
-  "epoch": 1790608154,
+  "epoch": 1790610761,
   "__files_to_move": {},
   "_version": {
     "version": "2026.08.19",
