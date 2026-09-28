@@ -4,8 +4,8 @@
       "sourceId": "h4Pc0KxvnRo",
       "title": "திருக்குறள் - கள்ளாமை | Kallaamai | Full Song Film",
       "file": "kallaamai\\KALLAAMAI-CINEMATIC-v1.mp4",
-      "status": "ready; pending daily upload quota",
-      "publishedUrl": null,
+      "status": "published and public playback verified",
+      "publishedUrl": "https://www.youtube.com/watch?v=9EAskIS2xuc",
       "qc": {
         "sourceId": "h4Pc0KxvnRo",
         "durationSeconds": 240.75,
@@ -22,14 +22,16 @@
         "savedToDrive": true,
         "volumePercent": 100,
         "muted": false
-      }
+      },
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T13:35:05.361524+00:00"
     },
     {
       "sourceId": "SI8ItN6nqck",
       "title": "திருக்குறள் - கண்ணோட்டம் | Kannottam | Full Song Film",
       "file": "kannottam\\KANNOTTAM-CINEMATIC-v1.mp4",
-      "status": "ready; pending daily upload quota",
-      "publishedUrl": null,
+      "status": "published and public playback verified",
+      "publishedUrl": "https://www.youtube.com/watch?v=mv7AezrLzoU",
       "qc": {
         "sourceId": "SI8ItN6nqck",
         "durationSeconds": 314.6666666666667,
@@ -46,7 +48,9 @@
         "savedToDrive": true,
         "volumePercent": 100,
         "muted": false
-      }
+      },
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T13:35:05.709926+00:00"
     },
     {
       "sourceId": "cn776n6oKXQ",

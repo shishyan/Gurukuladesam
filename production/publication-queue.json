@@ -1,45 +1,9 @@
 {
   "channel": "@guru-kula-desam",
-  "pendingCount": 28,
+  "pendingCount": 26,
   "blocker": null,
   "releaseInstructions": "Recheck public channel for duplicates, import locally finished films into Google Vids, publish through the correct channel Studio, and verify public URLs. Scheduling requires the upload to succeed first.",
   "songs": [
-    {
-      "sourceId": "h4Pc0KxvnRo",
-      "title": "திருக்குறள் - கள்ளாமை | Kallaamai | Full Song Film",
-      "file": "thirukkural-backlog-04\\kallaamai\\KALLAAMAI-CINEMATIC-v1.mp4",
-      "googleVids": "https://docs.google.com/videos/d/1ThgmspM-lsIDppXhmZNUw7X-YpFJvk2djbzi-Vqxj1M/edit",
-      "status": "ready; pending publication",
-      "qc": {
-        "sourceId": "h4Pc0KxvnRo",
-        "durationSeconds": 240.75,
-        "scenes": 12,
-        "uniqueImages": 12,
-        "originalAacBitstreamMatched": true,
-        "fullDecodePassed": true,
-        "allScenesHaveMovement": true,
-        "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 17276072
-      }
-    },
-    {
-      "sourceId": "SI8ItN6nqck",
-      "title": "திருக்குறள் - கண்ணோட்டம் | Kannottam | Full Song Film",
-      "file": "thirukkural-backlog-04\\kannottam\\KANNOTTAM-CINEMATIC-v1.mp4",
-      "googleVids": "https://docs.google.com/videos/d/1m3LFBJGxsAse8LXSTqA944S_9zS45l_09kUbduk2St8/edit",
-      "status": "ready; pending publication",
-      "qc": {
-        "sourceId": "SI8ItN6nqck",
-        "durationSeconds": 314.6666666666667,
-        "scenes": 12,
-        "uniqueImages": 12,
-        "originalAacBitstreamMatched": true,
-        "fullDecodePassed": true,
-        "allScenesHaveMovement": true,
-        "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 20322331
-      }
-    },
     {
       "sourceId": "cn776n6oKXQ",
       "title": "திருக்குறள் - ஒற்றாடல் | Ottraadal | Full Song Film",

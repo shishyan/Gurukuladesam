@@ -43,7 +43,32 @@
     {
       "sourceId": "nHj4Q196kU4",
       "url": "https://www.youtube.com/watch?v=XN5ENUbmSOE",
-      "status": "published; public channel and player verified"
+      "status": "published and public playback verified"
+    },
+    {
+      "sourceId": "h4Pc0KxvnRo",
+      "url": "https://www.youtube.com/watch?v=9EAskIS2xuc",
+      "status": "published and public playback verified"
+    },
+    {
+      "sourceId": "SI8ItN6nqck",
+      "url": "https://www.youtube.com/watch?v=mv7AezrLzoU",
+      "status": "published and public playback verified"
+    },
+    {
+      "sourceId": "cn776n6oKXQ",
+      "url": "https://www.youtube.com/watch?v=TQtjI3EepPQ",
+      "status": "uploaded privately; checks running; not yet published"
+    },
+    {
+      "sourceId": "diUv8fkOqv0",
+      "url": "https://www.youtube.com/watch?v=DIDV-3cHhag",
+      "status": "uploaded privately; checks running; not yet published"
+    },
+    {
+      "sourceId": "6hfla_PRW40",
+      "url": "https://www.youtube.com/watch?v=dBIUA3fKBJ0",
+      "status": "uploaded privately; checks running; not yet published"
     }
   ]
 }

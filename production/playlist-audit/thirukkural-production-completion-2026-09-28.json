@@ -44,9 +44,9 @@
   "chaptersWithoutKnownPublicOrLocalProduction": 0,
   "localBacklogBatchesRendered": 15,
   "rendersCompleted": 45,
-  "uniqueNewBacklogFilmsInUploadQueue": 24,
+  "uniqueNewBacklogFilmsInUploadQueue": 22,
   "earlierReadyFilmsInUploadQueue": 0,
-  "readyToUploadCount": 28,
+  "readyToUploadCount": 26,
   "parallelAlternateRendersSuppressed": 12,
   "otherAgentOwners": [
     {

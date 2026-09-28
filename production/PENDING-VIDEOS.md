@@ -1,13 +1,11 @@
 # Pending song videos
 
-28 QC-passed full-song films are ready locally. Upload slots were available at the latest check.
+26 QC-passed full-song films are ready locally. Upload slots were available at the latest check.
 
-28 films have saved Google Vids projects; 0 still need a Vids import.
+26 films have saved Google Vids projects; 0 still need a Vids import.
 
 | Song | Source | Local MP4 |
 | --- | --- | --- |
-| திருக்குறள் - கள்ளாமை / Kallaamai / Full Song Film | `h4Pc0KxvnRo` | [Open film](thirukkural-backlog-04/kallaamai/KALLAAMAI-CINEMATIC-v1.mp4) |
-| திருக்குறள் - கண்ணோட்டம் / Kannottam / Full Song Film | `SI8ItN6nqck` | [Open film](thirukkural-backlog-04/kannottam/KANNOTTAM-CINEMATIC-v1.mp4) |
 | திருக்குறள் - ஒற்றாடல் / Ottraadal / Full Song Film | `cn776n6oKXQ` | [Open film](thirukkural-backlog-04/ottraadal/OTTRAADAL-CINEMATIC-v1.mp4) |
 | திருக்குறள் - காலமறிதல் / Kaalamarithal / Full Song Film | `diUv8fkOqv0` | [Open film](thirukkural-backlog-05/kaalamarithal/KAALAMARITHAL-CINEMATIC-v1.mp4) |
 | திருக்குறள் - குறிப்பறிதல் / Kuripparithal / Full Song Film | `6hfla_PRW40` | [Open film](thirukkural-backlog-05/kuripparithal/KURIPPARITHAL-CINEMATIC-v1.mp4) |
