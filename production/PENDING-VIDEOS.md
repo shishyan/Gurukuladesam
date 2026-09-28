@@ -4,6 +4,8 @@
 
 1 films have saved Google Vids projects; 0 still need a Vids import.
 
+1 films are already uploaded and awaiting YouTube processing. Check those existing uploads; do not reupload.
+
 | Song | Source | Local MP4 |
 | --- | --- | --- |
 | திருக்குறள் - படைச்செருக்கு / Padaicherukku / Full Song Film | `VIC7Oj5k2C0` | [Open film](thirukkural-new-releases-02/padaicherukku/PADAICHERUKKU-CINEMATIC-v1.mp4) |

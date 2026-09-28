@@ -43,17 +43,20 @@ for ready in sorted(ready_files):
                 continue
             entries.append({'sourceId':row['sourceId'],'title':row['title'],
                             'file':str(film.relative_to(P)), 'googleVids':row.get('googleVids'),
-                            'status':pending_status,'qc':row['qc']})
+                            'uploadedUrl':row.get('uploadedUrl'),
+                            'status':row['status'] if row.get('uploadedUrl') else pending_status,'qc':row['qc']})
     if changed:
         ready.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 assert len(entries) == len({r['sourceId'] for r in entries})
 out = {'channel':'@guru-kula-desam','pendingCount':len(entries),'blocker':'YouTube daily upload limit' if quota_blocked else None,
-       'releaseInstructions':'Recheck public channel for duplicates, import locally finished films into Google Vids, publish through the correct channel Studio, and verify public URLs. Scheduling requires the upload to succeed first.',
+       'releaseInstructions':'Recheck public channel for duplicates, import locally finished films into Google Vids, publish through the correct channel Studio, and verify public URLs. If uploadedUrl exists, check that existing upload; do not upload a duplicate. Scheduling requires the upload to succeed first.',
        'songs':entries,'excludedAlternateRenders':excluded}
 (P/'publication-queue.json').write_text(json.dumps(out,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 lines = ['# Pending song videos', '', f"{len(entries)} QC-passed full-song films are ready locally." + (' YouTube publication is blocked by the daily upload quota.' if quota_blocked else ' Upload slots were available at the latest check.'), '',
          f"{sum(bool(r.get('googleVids')) for r in entries)} films have saved Google Vids projects; {sum(not bool(r.get('googleVids')) for r in entries)} still need a Vids import.", '',
          '| Song | Source | Local MP4 |', '| --- | --- | --- |']
+if any(r.get('uploadedUrl') for r in entries):
+    lines[6:6]=[f"{sum(bool(r.get('uploadedUrl')) for r in entries)} films are already uploaded and awaiting YouTube processing. Check those existing uploads; do not reupload.",'']
 for row in entries:
     label = row['title'].replace('|','/').replace('\n',' ')
     lines.append(f"| {label} | `{row['sourceId']}` | [Open film]({row['file'].replace(chr(92),'/')}) |")
