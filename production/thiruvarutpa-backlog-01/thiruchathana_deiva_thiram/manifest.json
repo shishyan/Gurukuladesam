@@ -1,0 +1,108 @@
+{
+  "sourceId": "06ZOKy7SSvw",
+  "title": "திருவருட்பா - இரண்டாம் திருமுறை - திருச்சாதனத் தெய்வத் திறம் | Full Song Film",
+  "output": "THIRUCHATHANA_DEIVA_THIRAM-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "new devotional scene 1",
+      "artOrigin": "new imagegen scene",
+      "assetSource": "production\\thiruvarutpa-backlog-01\\sheets\\thiruchathana_deiva_thiram-1.png",
+      "inFrame": 0,
+      "outFrame": 644
+    },
+    {
+      "image": "S02.png",
+      "role": "new devotional scene 2",
+      "artOrigin": "new imagegen scene",
+      "assetSource": "production\\thiruvarutpa-backlog-01\\sheets\\thiruchathana_deiva_thiram-1.png",
+      "inFrame": 644,
+      "outFrame": 1275
+    },
+    {
+      "image": "S03.png",
+      "role": "new devotional scene 3",
+      "artOrigin": "new imagegen scene",
+      "assetSource": "production\\thiruvarutpa-backlog-01\\sheets\\thiruchathana_deiva_thiram-1.png",
+      "inFrame": 1275,
+      "outFrame": 1911
+    },
+    {
+      "image": "S04.png",
+      "role": "new devotional scene 4",
+      "artOrigin": "new imagegen scene",
+      "assetSource": "production\\thiruvarutpa-backlog-01\\sheets\\thiruchathana_deiva_thiram-1.png",
+      "inFrame": 1911,
+      "outFrame": 2542
+    },
+    {
+      "image": "S05.png",
+      "role": "new devotional scene 5",
+      "artOrigin": "new imagegen scene",
+      "assetSource": "production\\thiruvarutpa-backlog-01\\sheets\\thiruchathana_deiva_thiram-2.png",
+      "inFrame": 2542,
+      "outFrame": 3188
+    },
+    {
+      "image": "S06.png",
+      "role": "new devotional scene 6",
+      "artOrigin": "new imagegen scene",
+      "assetSource": "production\\thiruvarutpa-backlog-01\\sheets\\thiruchathana_deiva_thiram-2.png",
+      "inFrame": 3188,
+      "outFrame": 3810
+    },
+    {
+      "image": "S07.png",
+      "role": "new devotional scene 7",
+      "artOrigin": "new imagegen scene",
+      "assetSource": "production\\thiruvarutpa-backlog-01\\sheets\\thiruchathana_deiva_thiram-2.png",
+      "inFrame": 3810,
+      "outFrame": 4442
+    },
+    {
+      "image": "S08.png",
+      "role": "new devotional scene 8",
+      "artOrigin": "new imagegen scene",
+      "assetSource": "production\\thiruvarutpa-backlog-01\\sheets\\thiruchathana_deiva_thiram-2.png",
+      "inFrame": 4442,
+      "outFrame": 5097
+    },
+    {
+      "image": "S09.png",
+      "role": "new devotional scene 9",
+      "artOrigin": "new imagegen scene",
+      "assetSource": "production\\thiruvarutpa-backlog-01\\sheets\\thiruchathana_deiva_thiram-3.png",
+      "inFrame": 5097,
+      "outFrame": 5712
+    },
+    {
+      "image": "S10.png",
+      "role": "new devotional scene 10",
+      "artOrigin": "new imagegen scene",
+      "assetSource": "production\\thiruvarutpa-backlog-01\\sheets\\thiruchathana_deiva_thiram-3.png",
+      "inFrame": 5712,
+      "outFrame": 6346
+    },
+    {
+      "image": "S11.png",
+      "role": "new devotional scene 11",
+      "artOrigin": "new imagegen scene",
+      "assetSource": "production\\thiruvarutpa-backlog-01\\sheets\\thiruchathana_deiva_thiram-3.png",
+      "inFrame": 6346,
+      "outFrame": 6996
+    },
+    {
+      "image": "S12.png",
+      "role": "new devotional scene 12",
+      "artOrigin": "new imagegen scene",
+      "assetSource": "production\\thiruvarutpa-backlog-01\\sheets\\thiruchathana_deiva_thiram-3.png",
+      "inFrame": 6996,
+      "outFrame": 7628
+    }
+  ],
+  "imageDerived": true,
+  "publicationStatus": "pending quota; Google Vids import required before release",
+  "fps": 12,
+  "targetFrames": 7628,
+  "cutRule": "near even spacing at low audio energy"
+}

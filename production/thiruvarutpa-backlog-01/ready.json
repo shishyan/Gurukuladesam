@@ -1,0 +1,58 @@
+{
+  "songs": [
+    {
+      "sourceId": "lAWfE9YSJME",
+      "title": "திருவருட்பா - ஆறாம் திருமுறை - பரசிவ வணக்கம் | Full Song Film",
+      "file": "parasiva_vanakkam\\PARASIVA_VANAKKAM-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "lAWfE9YSJME",
+        "durationSeconds": 227.5,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 17451774
+      }
+    },
+    {
+      "sourceId": "I-ZLmvGIiz4",
+      "title": "திருவருட்பா - ஆறாம் திருமுறை - சிவ பதி விளக்கம் | Full Song Film",
+      "file": "siva_pathi_vilakkam\\SIVA_PATHI_VILAKKAM-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "I-ZLmvGIiz4",
+        "durationSeconds": 285.0,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 20483391
+      }
+    },
+    {
+      "sourceId": "06ZOKy7SSvw",
+      "title": "திருவருட்பா - இரண்டாம் திருமுறை - திருச்சாதனத் தெய்வத் திறம் | Full Song Film",
+      "file": "thiruchathana_deiva_thiram\\THIRUCHATHANA_DEIVA_THIRAM-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "06ZOKy7SSvw",
+        "durationSeconds": 635.6666666666666,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 31933273
+      }
+    }
+  ]
+}

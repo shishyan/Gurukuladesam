@@ -20,7 +20,8 @@ for row in batch10['songs']:
         entries.append({'sourceId':row['sourceId'],'title':row['title'],
                         'file':str((folder/manifest['output']).relative_to(P)),
                         'googleVids':row['googleVids'],'status':'ready; pending upload quota'})
-for ready in sorted(P.glob('thirukkural-backlog-*/ready.json')):
+ready_files = list(P.glob('thirukkural-backlog-*/ready.json')) + list(P.glob('thiruvarutpa-backlog-*/ready.json'))
+for ready in sorted(ready_files):
     data = json.loads(ready.read_text(encoding='utf-8'))
     changed = False
     for row in data['songs']:

@@ -1,0 +1,23 @@
+{
+  "songs": [
+    {
+      "sourceId": "I-ZLmvGIiz4",
+      "slug": "siva_pathi_vilakkam",
+      "english": "Siva Pathi Vilakkam",
+      "title": "திருவருட்பா - ஆறாம் திருமுறை - சிவ பதி விளக்கம்"
+    },
+    {
+      "sourceId": "lAWfE9YSJME",
+      "slug": "parasiva_vanakkam",
+      "english": "Parasiva Vanakkam",
+      "title": "திருவருட்பா - ஆறாம் திருமுறை - பரசிவ வணக்கம்"
+    },
+    {
+      "sourceId": "06ZOKy7SSvw",
+      "slug": "thiruchathana_deiva_thiram",
+      "english": "Thiruchathana Deiva Thiram",
+      "title": "திருவருட்பா - இரண்டாம் திருமுறை - திருச்சாதனத் தெய்வத் திறம்"
+    }
+  ],
+  "reservation": "root; exclude from other production batches"
+}

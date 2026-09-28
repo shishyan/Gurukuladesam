@@ -1,0 +1,20 @@
+{
+  "comparisonTracks": 51,
+  "songs": [
+    {
+      "sourceId": "I-ZLmvGIiz4",
+      "pcmSha256": "c56c7523a17d0f4138c0887e0780d92a7a4f58fb6d069fbf7f2fe1bbcc332b38",
+      "otherTrackDuplicates": []
+    },
+    {
+      "sourceId": "lAWfE9YSJME",
+      "pcmSha256": "7a52b8173cec03846df2f1a5105ad2da168bb8e2303b105d0704a1f9dab88ff8",
+      "otherTrackDuplicates": []
+    },
+    {
+      "sourceId": "06ZOKy7SSvw",
+      "pcmSha256": "4d88e69960e54e634b0e55a37400e10cb40d8bb3dbaff4f340fa54b5adb63185",
+      "otherTrackDuplicates": []
+    }
+  ]
+}

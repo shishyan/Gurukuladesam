@@ -1,0 +1,32 @@
+{
+  "status": "Existing finished films found: use thiruvarutpa-backlog-01; do not generate or publish duplicates.",
+  "songs": [
+    {
+      "sourceId": "I-ZLmvGIiz4",
+      "slug": "siva_pathi_vilakkam",
+      "chapter": "சிவ பதி விளக்கம்",
+      "english": "Siva Pathi Vilakkam",
+      "theme": "divine grace and understanding Shiva",
+      "preferredExistingProduction": "thiruvarutpa-backlog-01",
+      "generationSuppressed": true
+    },
+    {
+      "sourceId": "lAWfE9YSJME",
+      "slug": "parasiva_vanakkam",
+      "chapter": "பரசிவ வணக்கம்",
+      "english": "Parasiva Vanakkam",
+      "theme": "reverence for supreme Shiva",
+      "preferredExistingProduction": "thiruvarutpa-backlog-01",
+      "generationSuppressed": true
+    },
+    {
+      "sourceId": "06ZOKy7SSvw",
+      "slug": "thiruchathanath_deivath_thiram",
+      "chapter": "திருச்சாதனத் தெய்வத் திறம்",
+      "english": "Thiruchathanath Deivath Thiram",
+      "theme": "sacred symbols and devotion to Shiva",
+      "preferredExistingProduction": "thiruvarutpa-backlog-01",
+      "generationSuppressed": true
+    }
+  ]
+}

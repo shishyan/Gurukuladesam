@@ -1,6 +1,6 @@
 {
   "channel": "@guru-kula-desam",
-  "pendingCount": 41,
+  "pendingCount": 38,
   "blocker": "YouTube daily upload limit",
   "releaseInstructions": "Recheck public channel for duplicates, import locally finished films into Google Vids, publish through the correct channel Studio, and verify public URLs. Scheduling requires the upload to succeed first.",
   "songs": [
@@ -613,111 +613,57 @@
       }
     },
     {
-      "sourceId": "BoOWFaOGczE",
-      "title": "திருக்குறள் - வாய்மை | Vaaimai | Full Song Film",
-      "file": "thirukkural-backlog-14\\vaaimai\\VAAIMAI-CINEMATIC-v1.mp4",
+      "sourceId": "lAWfE9YSJME",
+      "title": "திருவருட்பா - ஆறாம் திருமுறை - பரசிவ வணக்கம் | Full Song Film",
+      "file": "thiruvarutpa-backlog-01\\parasiva_vanakkam\\PARASIVA_VANAKKAM-CINEMATIC-v1.mp4",
       "googleVids": null,
       "status": "ready; pending upload quota",
       "qc": {
-        "sourceId": "BoOWFaOGczE",
-        "durationSeconds": 253.91666666666666,
+        "sourceId": "lAWfE9YSJME",
+        "durationSeconds": 227.5,
         "scenes": 12,
         "uniqueImages": 12,
         "originalAacBitstreamMatched": true,
         "fullDecodePassed": true,
         "allScenesHaveMovement": true,
         "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 17772468
+        "fileBytes": 17451774
       }
     },
     {
-      "sourceId": "Js6Vepbegr8",
-      "title": "திருக்குறள் - வலியறிதல் | Valiyarithal | Full Song Film",
-      "file": "thirukkural-backlog-14\\valiyarithal\\VALIYARITHAL-CINEMATIC-v1.mp4",
+      "sourceId": "I-ZLmvGIiz4",
+      "title": "திருவருட்பா - ஆறாம் திருமுறை - சிவ பதி விளக்கம் | Full Song Film",
+      "file": "thiruvarutpa-backlog-01\\siva_pathi_vilakkam\\SIVA_PATHI_VILAKKAM-CINEMATIC-v1.mp4",
       "googleVids": null,
       "status": "ready; pending upload quota",
       "qc": {
-        "sourceId": "Js6Vepbegr8",
-        "durationSeconds": 308.3333333333333,
+        "sourceId": "I-ZLmvGIiz4",
+        "durationSeconds": 285.0,
         "scenes": 12,
         "uniqueImages": 12,
         "originalAacBitstreamMatched": true,
         "fullDecodePassed": true,
         "allScenesHaveMovement": true,
         "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 23751740
+        "fileBytes": 20483391
       }
     },
     {
-      "sourceId": "gBRvVKE_so8",
-      "title": "திருக்குறள் - வினைசெயல்வகை | Vinai Seyalvagai | Full Song Film",
-      "file": "thirukkural-backlog-14\\vinai_seyalvagai\\VINAI_SEYALVAGAI-CINEMATIC-v1.mp4",
+      "sourceId": "06ZOKy7SSvw",
+      "title": "திருவருட்பா - இரண்டாம் திருமுறை - திருச்சாதனத் தெய்வத் திறம் | Full Song Film",
+      "file": "thiruvarutpa-backlog-01\\thiruchathana_deiva_thiram\\THIRUCHATHANA_DEIVA_THIRAM-CINEMATIC-v1.mp4",
       "googleVids": null,
       "status": "ready; pending upload quota",
       "qc": {
-        "sourceId": "gBRvVKE_so8",
-        "durationSeconds": 280.0,
+        "sourceId": "06ZOKy7SSvw",
+        "durationSeconds": 635.6666666666666,
         "scenes": 12,
         "uniqueImages": 12,
         "originalAacBitstreamMatched": true,
         "fullDecodePassed": true,
         "allScenesHaveMovement": true,
         "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 23187923
-      }
-    },
-    {
-      "sourceId": "hjcH8zbEleE",
-      "title": "திருக்குறள் - வெருவந்த செய்யாமை | Veruvantha Seyyaamai | Full Song Film",
-      "file": "thirukkural-backlog-15\\veruvantha_seyyaamai\\VERUVANTHA_SEYYAAMAI-CINEMATIC-v1.mp4",
-      "googleVids": null,
-      "status": "ready; pending upload quota",
-      "qc": {
-        "sourceId": "hjcH8zbEleE",
-        "durationSeconds": 341.5,
-        "scenes": 12,
-        "uniqueImages": 12,
-        "originalAacBitstreamMatched": true,
-        "fullDecodePassed": true,
-        "allScenesHaveMovement": true,
-        "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 20906759
-      }
-    },
-    {
-      "sourceId": "--4jzoezBW8",
-      "title": "திருக்குறள் - வினைத்திட்பம் | Vinai Thitpam | Full Song Film",
-      "file": "thirukkural-backlog-15\\vinai_thitpam\\VINAI_THITPAM-CINEMATIC-v1.mp4",
-      "googleVids": null,
-      "status": "ready; pending upload quota",
-      "qc": {
-        "sourceId": "--4jzoezBW8",
-        "durationSeconds": 355.5,
-        "scenes": 12,
-        "uniqueImages": 12,
-        "originalAacBitstreamMatched": true,
-        "fullDecodePassed": true,
-        "allScenesHaveMovement": true,
-        "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 25378998
-      }
-    },
-    {
-      "sourceId": "cj6mlDwjJEo",
-      "title": "திருக்குறள் - வினைத்தூய்மை | Vinai Thooimai | Full Song Film",
-      "file": "thirukkural-backlog-15\\vinai_thooimai\\VINAI_THOOIMAI-CINEMATIC-v1.mp4",
-      "googleVids": null,
-      "status": "ready; pending upload quota",
-      "qc": {
-        "sourceId": "cj6mlDwjJEo",
-        "durationSeconds": 272.4166666666667,
-        "scenes": 12,
-        "uniqueImages": 12,
-        "originalAacBitstreamMatched": true,
-        "fullDecodePassed": true,
-        "allScenesHaveMovement": true,
-        "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 19629325
+        "fileBytes": 31933273
       }
     }
   ],
@@ -779,6 +725,66 @@
       "preferredOtherProduction": {
         "manifest": "thirukkural-batch-04\\pocchaavaamai\\manifest.json",
         "file": "thirukkural-batch-04\\pocchaavaamai\\POCCHAAVAAMAI-FILM.mp4"
+      },
+      "status": "alternate render excluded from upload; other agent owns this source song"
+    },
+    {
+      "sourceId": "BoOWFaOGczE",
+      "title": "திருக்குறள் - வாய்மை | Vaaimai | Full Song Film",
+      "alternateRender": "thirukkural-backlog-14\\vaaimai\\VAAIMAI-CINEMATIC-v1.mp4",
+      "preferredOtherProduction": {
+        "manifest": "thirukkural-batch-05\\vaaimai\\manifest.json",
+        "file": "thirukkural-batch-05\\vaaimai\\VAAIMAI-FILM.mp4"
+      },
+      "status": "alternate render excluded from upload; other agent owns this source song"
+    },
+    {
+      "sourceId": "Js6Vepbegr8",
+      "title": "திருக்குறள் - வலியறிதல் | Valiyarithal | Full Song Film",
+      "alternateRender": "thirukkural-backlog-14\\valiyarithal\\VALIYARITHAL-CINEMATIC-v1.mp4",
+      "preferredOtherProduction": {
+        "manifest": "thirukkural-batch-05\\valiyarithal\\manifest.json",
+        "file": "thirukkural-batch-05\\valiyarithal\\VALIYARITHAL-FILM.mp4"
+      },
+      "status": "alternate render excluded from upload; other agent owns this source song"
+    },
+    {
+      "sourceId": "gBRvVKE_so8",
+      "title": "திருக்குறள் - வினைசெயல்வகை | Vinai Seyalvagai | Full Song Film",
+      "alternateRender": "thirukkural-backlog-14\\vinai_seyalvagai\\VINAI_SEYALVAGAI-CINEMATIC-v1.mp4",
+      "preferredOtherProduction": {
+        "manifest": "thirukkural-batch-05\\vinai_seyalvagai\\manifest.json",
+        "file": "thirukkural-batch-05\\vinai_seyalvagai\\VINAI-SEYALVAGAI-FILM.mp4"
+      },
+      "status": "alternate render excluded from upload; other agent owns this source song"
+    },
+    {
+      "sourceId": "hjcH8zbEleE",
+      "title": "திருக்குறள் - வெருவந்த செய்யாமை | Veruvantha Seyyaamai | Full Song Film",
+      "alternateRender": "thirukkural-backlog-15\\veruvantha_seyyaamai\\VERUVANTHA_SEYYAAMAI-CINEMATIC-v1.mp4",
+      "preferredOtherProduction": {
+        "manifest": "thirukkural-batch-06\\veruvantha_seyyaamai\\manifest.json",
+        "file": "thirukkural-batch-06\\veruvantha_seyyaamai\\VERUVANTHA-SEYYAAMAI-FILM.mp4"
+      },
+      "status": "alternate render excluded from upload; other agent owns this source song"
+    },
+    {
+      "sourceId": "--4jzoezBW8",
+      "title": "திருக்குறள் - வினைத்திட்பம் | Vinai Thitpam | Full Song Film",
+      "alternateRender": "thirukkural-backlog-15\\vinai_thitpam\\VINAI_THITPAM-CINEMATIC-v1.mp4",
+      "preferredOtherProduction": {
+        "manifest": "thirukkural-batch-06\\vinai_thitpam\\manifest.json",
+        "file": "thirukkural-batch-06\\vinai_thitpam\\VINAI-THITPAM-FILM.mp4"
+      },
+      "status": "alternate render excluded from upload; other agent owns this source song"
+    },
+    {
+      "sourceId": "cj6mlDwjJEo",
+      "title": "திருக்குறள் - வினைத்தூய்மை | Vinai Thooimai | Full Song Film",
+      "alternateRender": "thirukkural-backlog-15\\vinai_thooimai\\VINAI_THOOIMAI-CINEMATIC-v1.mp4",
+      "preferredOtherProduction": {
+        "manifest": "thirukkural-batch-06\\vinai_thooimai\\manifest.json",
+        "file": "thirukkural-batch-06\\vinai_thooimai\\VINAI-THOOIMAI-FILM.mp4"
       },
       "status": "alternate render excluded from upload; other agent owns this source song"
     }
