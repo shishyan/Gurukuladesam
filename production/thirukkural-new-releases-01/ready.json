@@ -1,0 +1,88 @@
+{
+  "songs": [
+    {
+      "sourceId": "cwTmzDGpLJw",
+      "title": "திருக்குறள் - நட்பு | Natpu | Full Song Film",
+      "file": "natpu\\NATPU-CINEMATIC-v1.mp4",
+      "qc": {
+        "sourceId": "cwTmzDGpLJw",
+        "durationSeconds": 269.5833333333333,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 22794976
+      },
+      "status": "published; public playback and bottom-left logo verified; original audio matched locally",
+      "googleVids": "https://docs.google.com/videos/d/1RPBoAs0U5JiYmc8TMzbrjwnEXyfcBxbeAC2wwREciyI/edit",
+      "vidsVerification": {
+        "savedToDrive": true,
+        "fullDuration": "04:29.6",
+        "volume": 100,
+        "mute": false,
+        "automaticDucking": "Off"
+      },
+      "publishedUrl": "https://www.youtube.com/watch?v=jdvz-yoK5eI",
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T16:55:34.803748+00:00",
+      "publicPlaybackVerified": true
+    },
+    {
+      "sourceId": "EgSJqPCUMoo",
+      "title": "திருக்குறள் - பழைமை | Pazhaimai | Full Song Film",
+      "file": "pazhaimai\\PAZHAIMAI-CINEMATIC-v1.mp4",
+      "qc": {
+        "sourceId": "EgSJqPCUMoo",
+        "durationSeconds": 308.1666666666667,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 23843136
+      },
+      "status": "published; public playback and bottom-left logo verified; original audio matched locally",
+      "googleVids": "https://docs.google.com/videos/d/1tOGYskh9yob51GpePdd9GkbhEdHnZ-CT07FexJqF900/edit",
+      "vidsVerification": {
+        "savedToDrive": true,
+        "fullDuration": "05:08.2",
+        "volume": 100,
+        "mute": false,
+        "automaticDucking": "Off"
+      },
+      "publishedUrl": "https://www.youtube.com/watch?v=778r-nAUX9Q",
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T17:01:09.186688+00:00",
+      "publicPlaybackVerified": true
+    },
+    {
+      "sourceId": "MCjbrWdQbos",
+      "title": "திருக்குறள் - தீ நட்பு | Thee Natpu | Full Song Film",
+      "file": "thee_natpu\\THEE_NATPU-CINEMATIC-v1.mp4",
+      "qc": {
+        "sourceId": "MCjbrWdQbos",
+        "durationSeconds": 282.0,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 20178108
+      },
+      "status": "published; public playback and bottom-left logo verified; original audio matched locally",
+      "googleVids": "https://docs.google.com/videos/d/1YTKLjNRLawX9OmmTBt5EPnu6kWCSD1akJrL4K3tREOA/edit",
+      "vidsVerification": {
+        "savedToDrive": true,
+        "fullDuration": "04:42.0",
+        "volume": 100,
+        "mute": false,
+        "automaticDucking": "Off"
+      },
+      "publishedUrl": "https://www.youtube.com/watch?v=4zff_qi_G1E",
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T17:05:39.666956+00:00",
+      "publicPlaybackVerified": true
+    }
+  ]
+}

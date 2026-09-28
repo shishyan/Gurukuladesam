@@ -1,0 +1,109 @@
+{
+  "sourceId": "MCjbrWdQbos",
+  "title": "திருக்குறள் - தீ நட்பு | Thee Natpu | Full Song Film",
+  "output": "THEE_NATPU-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-new-releases-01\\thee_natpu\\new-1.png",
+      "artOrigin": "new song-specific artwork",
+      "inFrame": 0,
+      "outFrame": 284
+    },
+    {
+      "image": "S02.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-05\\kuttrankadithal\\S03.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 284,
+      "outFrame": 570
+    },
+    {
+      "image": "S03.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-05\\kuttrankadithal\\S07.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 570,
+      "outFrame": 840
+    },
+    {
+      "image": "S04.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-05\\kuttrankadithal\\S08.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 840,
+      "outFrame": 1135
+    },
+    {
+      "image": "S05.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-new-releases-01\\thee_natpu\\new-2.png",
+      "artOrigin": "new song-specific artwork",
+      "inFrame": 1135,
+      "outFrame": 1410
+    },
+    {
+      "image": "S06.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-05\\kuttrankadithal\\S09.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 1410,
+      "outFrame": 1680
+    },
+    {
+      "image": "S07.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-05\\kuttrankadithal\\S12.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 1680,
+      "outFrame": 1968
+    },
+    {
+      "image": "S08.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-02\\avaiyarithal\\S03.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 1968,
+      "outFrame": 2263
+    },
+    {
+      "image": "S09.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-new-releases-01\\thee_natpu\\new-3.png",
+      "artOrigin": "new song-specific artwork",
+      "inFrame": 2263,
+      "outFrame": 2550
+    },
+    {
+      "image": "S10.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-02\\avaiyarithal\\S05.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 2550,
+      "outFrame": 2831
+    },
+    {
+      "image": "S11.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-02\\avaiyarithal\\S08.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 2831,
+      "outFrame": 3114
+    },
+    {
+      "image": "S12.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-02\\avaiyarithal\\S09.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 3114,
+      "outFrame": 3384
+    }
+  ],
+  "visualDirection": "Group gatherings, reciprocal support and community story; no looping scenes",
+  "audioRule": "Full original AAC bitstream only, no clip audio",
+  "fps": 12,
+  "targetFrames": 3384,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy"
+}

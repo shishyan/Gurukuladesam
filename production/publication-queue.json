@@ -1,9 +1,78 @@
 {
   "channel": "@guru-kula-desam",
-  "pendingCount": 0,
+  "pendingCount": 4,
   "blocker": null,
   "releaseInstructions": "Recheck public channel for duplicates, import locally finished films into Google Vids, publish through the correct channel Studio, and verify public URLs. Scheduling requires the upload to succeed first.",
-  "songs": [],
+  "songs": [
+    {
+      "sourceId": "aTpCSZFFbow",
+      "title": "திருக்குறள் - கூடா நட்பு | Kooda Natpu | Full Song Film",
+      "file": "thirukkural-new-releases-02\\kooda_natpu\\KOODA_NATPU-CINEMATIC-v1.mp4",
+      "googleVids": null,
+      "status": "ready; pending publication",
+      "qc": {
+        "sourceId": "aTpCSZFFbow",
+        "durationSeconds": 260.3333333333333,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 19477041
+      }
+    },
+    {
+      "sourceId": "Wq6XpZ49Huw",
+      "title": "திருக்குறள் - நட்பாராய்தல் | Natpaaraaythal | Full Song Film",
+      "file": "thirukkural-new-releases-02\\natpaaraaythal\\NATPAARAAYTHAL-CINEMATIC-v1.mp4",
+      "googleVids": null,
+      "status": "ready; pending publication",
+      "qc": {
+        "sourceId": "Wq6XpZ49Huw",
+        "durationSeconds": 287.4166666666667,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 23636104
+      }
+    },
+    {
+      "sourceId": "VIC7Oj5k2C0",
+      "title": "திருக்குறள் - படைச்செருக்கு | Padaicherukku | Full Song Film",
+      "file": "thirukkural-new-releases-02\\padaicherukku\\PADAICHERUKKU-CINEMATIC-v1.mp4",
+      "googleVids": null,
+      "status": "ready; pending publication",
+      "qc": {
+        "sourceId": "VIC7Oj5k2C0",
+        "durationSeconds": 228.25,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 22331429
+      }
+    },
+    {
+      "sourceId": "dEx_Zuc5omc",
+      "title": "திருக்குறள் - பொருள்செயல்வகை | Porul Seyalvagai | Full Song Film",
+      "file": "thirukkural-new-releases-03\\porul_seyalvagai\\PORUL_SEYALVAGAI-CINEMATIC-v1.mp4",
+      "googleVids": null,
+      "status": "ready; pending publication",
+      "qc": {
+        "sourceId": "dEx_Zuc5omc",
+        "durationSeconds": 300.4166666666667,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 27282496
+      }
+    }
+  ],
   "excludedAlternateRenders": [
     {
       "sourceId": "nf8EO1GdKlY",

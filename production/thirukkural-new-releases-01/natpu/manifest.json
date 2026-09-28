@@ -1,0 +1,109 @@
+{
+  "sourceId": "cwTmzDGpLJw",
+  "title": "திருக்குறள் - நட்பு | Natpu | Full Song Film",
+  "output": "NATPU-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-new-releases-01\\natpu\\new-1.png",
+      "artOrigin": "new song-specific artwork",
+      "inFrame": 0,
+      "outFrame": 258
+    },
+    {
+      "image": "S02.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-07\\suttranthazhaal\\S01.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 258,
+      "outFrame": 546
+    },
+    {
+      "image": "S03.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-07\\suttranthazhaal\\S03.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 546,
+      "outFrame": 815
+    },
+    {
+      "image": "S04.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-07\\suttranthazhaal\\S05.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 815,
+      "outFrame": 1074
+    },
+    {
+      "image": "S05.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-new-releases-01\\natpu\\new-2.png",
+      "artOrigin": "new song-specific artwork",
+      "inFrame": 1074,
+      "outFrame": 1357
+    },
+    {
+      "image": "S06.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-07\\suttranthazhaal\\S06.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 1357,
+      "outFrame": 1614
+    },
+    {
+      "image": "S07.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-07\\suttranthazhaal\\S07.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 1614,
+      "outFrame": 1887
+    },
+    {
+      "image": "S08.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-07\\suttranthazhaal\\S08.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 1887,
+      "outFrame": 2153
+    },
+    {
+      "image": "S09.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-new-releases-01\\natpu\\new-3.png",
+      "artOrigin": "new song-specific artwork",
+      "inFrame": 2153,
+      "outFrame": 2437
+    },
+    {
+      "image": "S10.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-07\\suttranthazhaal\\S09.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 2437,
+      "outFrame": 2686
+    },
+    {
+      "image": "S11.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-07\\suttranthazhaal\\S10.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 2686,
+      "outFrame": 2970
+    },
+    {
+      "image": "S12.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-07\\suttranthazhaal\\S12.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 2970,
+      "outFrame": 3235
+    }
+  ],
+  "visualDirection": "Group gatherings, reciprocal support and community story; no looping scenes",
+  "audioRule": "Full original AAC bitstream only, no clip audio",
+  "fps": 12,
+  "targetFrames": 3235,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy"
+}

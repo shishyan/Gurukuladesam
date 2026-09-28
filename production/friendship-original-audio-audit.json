@@ -1,0 +1,33 @@
+{
+  "exactAudioUnique": true,
+  "recordings": [
+    {
+      "sourceId": "cwTmzDGpLJw",
+      "decodedPcmSha256": "4401e6c65d221fcad1b6d30d920e8b692322c2dc84c475e75939f1ae2d70ba3e"
+    },
+    {
+      "sourceId": "EgSJqPCUMoo",
+      "decodedPcmSha256": "0a5855a0a1531cf6c8b7cabdd12959b578e7bd08e75ce97849c1fac6c096453f"
+    },
+    {
+      "sourceId": "MCjbrWdQbos",
+      "decodedPcmSha256": "2aa85b49c188311587552a8346f41847c0de4198859fdff2f6adad9c18e717ed"
+    },
+    {
+      "sourceId": "aTpCSZFFbow",
+      "decodedPcmSha256": "27031d69fc2cc621f95297e87967cc6a0f4b5474d751be0267287a0883e901d0"
+    },
+    {
+      "sourceId": "VIC7Oj5k2C0",
+      "decodedPcmSha256": "a641e555b9c8c29e0493d05e89a26d47d7b34b52ed4201f5c3f855bb65d8ec53"
+    },
+    {
+      "sourceId": "Wq6XpZ49Huw",
+      "decodedPcmSha256": "13b216107fc431bc25fd44757cdd6c2587c88922c5933fc13858bf1224a40ce1"
+    },
+    {
+      "sourceId": "dEx_Zuc5omc",
+      "decodedPcmSha256": "53804c7674be89f680e0ea94e3a7711953a8f73593cb9d0b4ed88c02f751526f"
+    }
+  ]
+}

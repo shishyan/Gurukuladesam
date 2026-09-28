@@ -184,6 +184,21 @@
       "sourceId": "dbdp19C0j3M",
       "url": "https://www.youtube.com/watch?v=PO4U3nRv6o0",
       "status": "published and public playback verified; player unmuted; logo verified bottom-left; copyright check was still running at publication"
+    },
+    {
+      "sourceId": "cwTmzDGpLJw",
+      "url": "https://www.youtube.com/watch?v=jdvz-yoK5eI",
+      "status": "published; public playback and bottom-left logo verified; original audio matched locally"
+    },
+    {
+      "sourceId": "EgSJqPCUMoo",
+      "url": "https://www.youtube.com/watch?v=778r-nAUX9Q",
+      "status": "published; public playback and bottom-left logo verified; original audio matched locally"
+    },
+    {
+      "sourceId": "MCjbrWdQbos",
+      "url": "https://www.youtube.com/watch?v=4zff_qi_G1E",
+      "status": "published; public playback and bottom-left logo verified; original audio matched locally"
     }
   ],
   "publicPlaybackCheckedAtUtc": "2026-09-28T15:51:02.232227+00:00"
