@@ -1,0 +1,89 @@
+{
+  "sourceId": "XB7cD-5ye-k",
+  "title": "திருப்படை ஆட்சி (திருவாசகம்) | Cinematic Devotional Film",
+  "output": "THIRUPPADAI_AATCHI-CINEMATIC-ritual-v2.mp4",
+  "rainShots": [
+    10
+  ],
+  "lightningShots": [
+    10
+  ],
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 2131
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 2131,
+      "outFrame": 4283
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 4283,
+      "outFrame": 6420
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 6420,
+      "outFrame": 8610
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 8610,
+      "outFrame": 10721
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 10721,
+      "outFrame": 12910
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 12910,
+      "outFrame": 15059
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 15059,
+      "outFrame": 17203
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 17203,
+      "outFrame": 19343
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 19343,
+      "outFrame": 21458
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 21458,
+      "outFrame": 23627
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 23627,
+      "outFrame": 25777
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 25777,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

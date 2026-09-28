@@ -1,0 +1,5 @@
+PASS aadhi_yogeeswarar: 12 distinct scenes; exact decoded audio; full media decode; 17304989 bytes
+PASS kuzhaitha_pathu: 12 distinct scenes; exact decoded audio; full media decode; 30093800 bytes
+PASS anbu_maalai_i: 12 distinct scenes; exact decoded audio; full media decode; 29138024 bytes
+PASS aruliyal_vinaaval: 12 distinct scenes; exact decoded audio; full media decode; 41255453 bytes
+PASS thiruppadai_aatchi: 12 distinct scenes; exact decoded audio; full media decode; 53509271 bytes

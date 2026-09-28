@@ -1,0 +1,87 @@
+{
+  "sourceId": "-bqKXZW8vFk",
+  "title": "திருவருட்பா - அருளியல் வினாவல் 2026 | Cinematic Devotional Film",
+  "output": "ARULIYAL_VINAAVAL-CINEMATIC-ritual-v2.mp4",
+  "rainShots": [
+    10
+  ],
+  "lightningShots": [],
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 1634
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 1634,
+      "outFrame": 3224
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 3224,
+      "outFrame": 4880
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 4880,
+      "outFrame": 6456
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 6456,
+      "outFrame": 8076
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 8076,
+      "outFrame": 9698
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 9698,
+      "outFrame": 11306
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 11306,
+      "outFrame": 12951
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 12951,
+      "outFrame": 14545
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 14545,
+      "outFrame": 16174
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 16174,
+      "outFrame": 17803
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 17803,
+      "outFrame": 19423
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 19423,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

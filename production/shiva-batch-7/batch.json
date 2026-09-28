@@ -1,0 +1,76 @@
+{
+  "films": [
+    {
+      "slug": "thiruppadai_aatchi",
+      "sourceId": "XB7cD-5ye-k",
+      "title": "திருப்படை ஆட்சி (திருவாசகம்) | Cinematic Devotional Film",
+      "rainShots": [
+        10
+      ],
+      "sheets": [
+        "thiruppadai_aatchi/sheet1.png",
+        "thiruppadai_aatchi/sheet2.png",
+        "thiruppadai_aatchi/sheet3.png"
+      ],
+      "lightningShots": [
+        10
+      ]
+    },
+    {
+      "slug": "aruliyal_vinaaval",
+      "sourceId": "-bqKXZW8vFk",
+      "title": "திருவருட்பா - அருளியல் வினாவல் 2026 | Cinematic Devotional Film",
+      "rainShots": [
+        10
+      ],
+      "sheets": [
+        "aruliyal_vinaaval/sheet1.png",
+        "aruliyal_vinaaval/sheet2.png",
+        "aruliyal_vinaaval/sheet3.png"
+      ],
+      "lightningShots": []
+    },
+    {
+      "slug": "anbu_maalai_i",
+      "sourceId": "SLaW0c4zDuc",
+      "title": "திருவருட்பா - அன்பு மாலை - 2026 (I) | Cinematic Devotional Film",
+      "rainShots": [
+        10
+      ],
+      "sheets": [
+        "anbu_maalai_i/sheet1.png",
+        "anbu_maalai_i/sheet2.png",
+        "anbu_maalai_i/sheet3.png"
+      ],
+      "lightningShots": []
+    },
+    {
+      "slug": "kuzhaitha_pathu",
+      "sourceId": "fdB9R7QeXo0",
+      "title": "திருவாசகம் | குழைத்த பத்து | 2026 | Cinematic Devotional Film",
+      "rainShots": [
+        10
+      ],
+      "sheets": [
+        "kuzhaitha_pathu/sheet1.png",
+        "kuzhaitha_pathu/sheet2.png",
+        "kuzhaitha_pathu/sheet3.png"
+      ],
+      "lightningShots": []
+    },
+    {
+      "slug": "aadhi_yogeeswarar",
+      "sourceId": "2QOF2ycA4RQ",
+      "title": "Aadhi Yogeeswarar Naama Oli Saranam | Cinematic Devotional Film",
+      "rainShots": [
+        10
+      ],
+      "sheets": [
+        "aadhi_yogeeswarar/sheet1.png",
+        "aadhi_yogeeswarar/sheet2.png",
+        "aadhi_yogeeswarar/sheet3.png"
+      ],
+      "lightningShots": []
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "sourceId": "fdB9R7QeXo0",
+  "title": "திருவாசகம் | குழைத்த பத்து | 2026 | Cinematic Devotional Film",
+  "output": "KUZHAITHA_PATHU-CINEMATIC-ritual-v2.mp4",
+  "rainShots": [
+    10
+  ],
+  "lightningShots": [],
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 1157
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 1157,
+      "outFrame": 2302
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 2302,
+      "outFrame": 3476
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 3476,
+      "outFrame": 4597
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 4597,
+      "outFrame": 5766
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 5766,
+      "outFrame": 6886
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 6886,
+      "outFrame": 8062
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 8062,
+      "outFrame": 9189
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 9189,
+      "outFrame": 10353
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 10353,
+      "outFrame": 11493
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 11493,
+      "outFrame": 12676
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 12676,
+      "outFrame": 13820
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 13820,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

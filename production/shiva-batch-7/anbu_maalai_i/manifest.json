@@ -1,0 +1,87 @@
+{
+  "sourceId": "SLaW0c4zDuc",
+  "title": "திருவருட்பா - அன்பு மாலை - 2026 (I) | Cinematic Devotional Film",
+  "output": "ANBU_MAALAI_I-CINEMATIC-ritual-v2.mp4",
+  "rainShots": [
+    10
+  ],
+  "lightningShots": [],
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 1125
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 1125,
+      "outFrame": 2257
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 2257,
+      "outFrame": 3371
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 3371,
+      "outFrame": 4493
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 4493,
+      "outFrame": 5623
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 5623,
+      "outFrame": 6730
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 6730,
+      "outFrame": 7839
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 7839,
+      "outFrame": 9000
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 9000,
+      "outFrame": 10127
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 10127,
+      "outFrame": 11214
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 11214,
+      "outFrame": 12336
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 12336,
+      "outFrame": 13479
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 13479,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}
