@@ -1,0 +1,55 @@
+{
+  "songs": [
+    {
+      "sourceId": "9YAr421Ft00",
+      "chapter": "கல்லாமை",
+      "english": "Kallaamai Learning",
+      "theme": "the limitations of ignorance and the value of learning",
+      "slug": "kallaamai_learning",
+      "supportingImages": [
+        "thirukkural-backlog-02/arivudaimai/S01.png",
+        "thirukkural-backlog-02/arivudaimai/S02.png",
+        "thirukkural-backlog-02/arivudaimai/S04.png",
+        "thirukkural-backlog-02/arivudaimai/S08.png",
+        "thirukkural-backlog-01/avai_anjaamai/S11.png",
+        "thirukkural-backlog-02/arivudaimai/S10.png",
+        "thirukkural-backlog-02/arivudaimai/S11.png",
+        "thirukkural-backlog-02/arivudaimai/S12.png"
+      ]
+    },
+    {
+      "sourceId": "rBeSH7tNEzA",
+      "chapter": "கொல்லாமை",
+      "english": "Kollaamai",
+      "theme": "nonviolence and reverence for living beings",
+      "slug": "kollaamai",
+      "supportingImages": [
+        "thirukkural-backlog-01/amaichu/S02.png",
+        "thirukkural-backlog-01/amaichu/S06.png",
+        "thirukkural-backlog-02/arivudaimai/S07.png",
+        "thirukkural-backlog-01/amaichu/S08.png",
+        "thirukkural-backlog-02/avaiyarithal/S07.png",
+        "thirukkural-backlog-02/arivudaimai/S09.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S11.png",
+        "thirukkural-backlog-01/amaichu/S12.png"
+      ]
+    },
+    {
+      "sourceId": "YL6ocN5OMzI",
+      "chapter": "நிலையாமை",
+      "english": "Nilaiyaamai",
+      "theme": "impermanence and mindful living",
+      "slug": "nilaiyaamai",
+      "supportingImages": [
+        "thirukkural-backlog-02/arivudaimai/S01.png",
+        "thirukkural-backlog-02/arivudaimai/S02.png",
+        "thirukkural-backlog-02/arivudaimai/S04.png",
+        "thirukkural-backlog-02/arivudaimai/S08.png",
+        "thirukkural-backlog-01/avai_anjaamai/S11.png",
+        "thirukkural-backlog-02/arivudaimai/S10.png",
+        "thirukkural-backlog-02/arivudaimai/S11.png",
+        "thirukkural-backlog-02/arivudaimai/S12.png"
+      ]
+    }
+  ]
+}

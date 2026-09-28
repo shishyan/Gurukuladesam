@@ -1,0 +1,58 @@
+{
+  "songs": [
+    {
+      "sourceId": "9YAr421Ft00",
+      "title": "திருக்குறள் - கல்லாமை | Kallaamai Learning | Full Song Film",
+      "file": "kallaamai_learning\\KALLAAMAI_LEARNING-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "9YAr421Ft00",
+        "durationSeconds": 395.8333333333333,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 21432812
+      }
+    },
+    {
+      "sourceId": "rBeSH7tNEzA",
+      "title": "திருக்குறள் - கொல்லாமை | Kollaamai | Full Song Film",
+      "file": "kollaamai\\KOLLAAMAI-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "rBeSH7tNEzA",
+        "durationSeconds": 277.4166666666667,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 20109760
+      }
+    },
+    {
+      "sourceId": "YL6ocN5OMzI",
+      "title": "திருக்குறள் - நிலையாமை | Nilaiyaamai | Full Song Film",
+      "file": "nilaiyaamai\\NILAIYAAMAI-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "YL6ocN5OMzI",
+        "durationSeconds": 251.08333333333334,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 17045965
+      }
+    }
+  ]
+}

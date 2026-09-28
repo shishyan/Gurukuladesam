@@ -1,0 +1,113 @@
+{
+  "sourceId": "WKCMHUFbf2Q",
+  "title": "திருக்குறள் - துறவு | Thuravu | Full Song Film",
+  "output": "THURAVU-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "narrative scene 1",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-10\\thuravu\\new-1.png",
+      "inFrame": 0,
+      "outFrame": 264
+    },
+    {
+      "image": "S02.png",
+      "role": "narrative scene 2",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S01.png",
+      "inFrame": 264,
+      "outFrame": 531
+    },
+    {
+      "image": "S03.png",
+      "role": "narrative scene 3",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S02.png",
+      "inFrame": 531,
+      "outFrame": 811
+    },
+    {
+      "image": "S04.png",
+      "role": "narrative scene 4",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-10\\thuravu\\new-2.png",
+      "inFrame": 811,
+      "outFrame": 1058
+    },
+    {
+      "image": "S05.png",
+      "role": "narrative scene 5",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S04.png",
+      "inFrame": 1058,
+      "outFrame": 1336
+    },
+    {
+      "image": "S06.png",
+      "role": "narrative scene 6",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S08.png",
+      "inFrame": 1336,
+      "outFrame": 1588
+    },
+    {
+      "image": "S07.png",
+      "role": "narrative scene 7",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\avai_anjaamai\\S11.png",
+      "inFrame": 1588,
+      "outFrame": 1868
+    },
+    {
+      "image": "S08.png",
+      "role": "narrative scene 8",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-10\\thuravu\\new-3.png",
+      "inFrame": 1868,
+      "outFrame": 2131
+    },
+    {
+      "image": "S09.png",
+      "role": "narrative scene 9",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S10.png",
+      "inFrame": 2131,
+      "outFrame": 2398
+    },
+    {
+      "image": "S10.png",
+      "role": "narrative scene 10",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S11.png",
+      "inFrame": 2398,
+      "outFrame": 2679
+    },
+    {
+      "image": "S11.png",
+      "role": "narrative scene 11",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S12.png",
+      "inFrame": 2679,
+      "outFrame": 2939
+    },
+    {
+      "image": "S12.png",
+      "role": "narrative scene 12",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-10\\thuravu\\new-4.png",
+      "inFrame": 2939,
+      "outFrame": 3201
+    }
+  ],
+  "imageDerived": true,
+  "theme": "renunciation and simplicity",
+  "duplicateAudit": {
+    "publicVideosChecked": 180,
+    "matchingFilms": []
+  },
+  "publicationStatus": "pending YouTube daily upload quota",
+  "fps": 12,
+  "targetFrames": 3201,
+  "cutRule": "near even spacing at low audio energy"
+}

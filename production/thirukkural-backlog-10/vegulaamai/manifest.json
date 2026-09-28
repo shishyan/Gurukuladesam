@@ -1,0 +1,113 @@
+{
+  "sourceId": "WM8EPZ4KK2s",
+  "title": "திருக்குறள் - வெகுளாமை | Vegulaamai | Full Song Film",
+  "output": "VEGULAAMAI-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "narrative scene 1",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-10\\vegulaamai\\new-1.png",
+      "inFrame": 0,
+      "outFrame": 326
+    },
+    {
+      "image": "S02.png",
+      "role": "narrative scene 2",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S02.png",
+      "inFrame": 326,
+      "outFrame": 662
+    },
+    {
+      "image": "S03.png",
+      "role": "narrative scene 3",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S06.png",
+      "inFrame": 662,
+      "outFrame": 980
+    },
+    {
+      "image": "S04.png",
+      "role": "narrative scene 4",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-10\\vegulaamai\\new-2.png",
+      "inFrame": 980,
+      "outFrame": 1288
+    },
+    {
+      "image": "S05.png",
+      "role": "narrative scene 5",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S07.png",
+      "inFrame": 1288,
+      "outFrame": 1621
+    },
+    {
+      "image": "S06.png",
+      "role": "narrative scene 6",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S08.png",
+      "inFrame": 1621,
+      "outFrame": 1958
+    },
+    {
+      "image": "S07.png",
+      "role": "narrative scene 7",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\avaiyarithal\\S07.png",
+      "inFrame": 1958,
+      "outFrame": 2285
+    },
+    {
+      "image": "S08.png",
+      "role": "narrative scene 8",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-10\\vegulaamai\\new-3.png",
+      "inFrame": 2285,
+      "outFrame": 2606
+    },
+    {
+      "image": "S09.png",
+      "role": "narrative scene 9",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S09.png",
+      "inFrame": 2606,
+      "outFrame": 2924
+    },
+    {
+      "image": "S10.png",
+      "role": "narrative scene 10",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S11.png",
+      "inFrame": 2924,
+      "outFrame": 3248
+    },
+    {
+      "image": "S11.png",
+      "role": "narrative scene 11",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S12.png",
+      "inFrame": 3248,
+      "outFrame": 3560
+    },
+    {
+      "image": "S12.png",
+      "role": "narrative scene 12",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-10\\vegulaamai\\new-4.png",
+      "inFrame": 3560,
+      "outFrame": 3897
+    }
+  ],
+  "imageDerived": true,
+  "theme": "patience and freedom from anger",
+  "duplicateAudit": {
+    "publicVideosChecked": 180,
+    "matchingFilms": []
+  },
+  "publicationStatus": "pending YouTube daily upload quota",
+  "fps": 12,
+  "targetFrames": 3897,
+  "cutRule": "near even spacing at low audio energy"
+}

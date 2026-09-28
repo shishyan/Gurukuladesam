@@ -1,0 +1,55 @@
+{
+  "songs": [
+    {
+      "sourceId": "A86cP9ae6Vs",
+      "chapter": "மெய்யுணர்தல்",
+      "english": "Meyyunarithal",
+      "theme": "seeking truth through calm reflection",
+      "slug": "meyyunarithal",
+      "supportingImages": [
+        "thirukkural-backlog-02/arivudaimai/S01.png",
+        "thirukkural-backlog-02/arivudaimai/S02.png",
+        "thirukkural-backlog-02/arivudaimai/S04.png",
+        "thirukkural-backlog-02/arivudaimai/S08.png",
+        "thirukkural-backlog-01/avai_anjaamai/S11.png",
+        "thirukkural-backlog-02/arivudaimai/S10.png",
+        "thirukkural-backlog-02/arivudaimai/S11.png",
+        "thirukkural-backlog-02/arivudaimai/S12.png"
+      ]
+    },
+    {
+      "sourceId": "WM8EPZ4KK2s",
+      "chapter": "வெகுளாமை",
+      "english": "Vegulaamai",
+      "theme": "patience and freedom from anger",
+      "slug": "vegulaamai",
+      "supportingImages": [
+        "thirukkural-backlog-01/amaichu/S02.png",
+        "thirukkural-backlog-01/amaichu/S06.png",
+        "thirukkural-backlog-02/arivudaimai/S07.png",
+        "thirukkural-backlog-01/amaichu/S08.png",
+        "thirukkural-backlog-02/avaiyarithal/S07.png",
+        "thirukkural-backlog-02/arivudaimai/S09.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S11.png",
+        "thirukkural-backlog-01/amaichu/S12.png"
+      ]
+    },
+    {
+      "sourceId": "WKCMHUFbf2Q",
+      "chapter": "துறவு",
+      "english": "Thuravu",
+      "theme": "renunciation and simplicity",
+      "slug": "thuravu",
+      "supportingImages": [
+        "thirukkural-backlog-02/arivudaimai/S01.png",
+        "thirukkural-backlog-02/arivudaimai/S02.png",
+        "thirukkural-backlog-02/arivudaimai/S04.png",
+        "thirukkural-backlog-02/arivudaimai/S08.png",
+        "thirukkural-backlog-01/avai_anjaamai/S11.png",
+        "thirukkural-backlog-02/arivudaimai/S10.png",
+        "thirukkural-backlog-02/arivudaimai/S11.png",
+        "thirukkural-backlog-02/arivudaimai/S12.png"
+      ]
+    }
+  ]
+}

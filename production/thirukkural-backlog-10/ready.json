@@ -1,0 +1,58 @@
+{
+  "songs": [
+    {
+      "sourceId": "A86cP9ae6Vs",
+      "title": "திருக்குறள் - மெய்யுணர்தல் | Meyyunarithal | Full Song Film",
+      "file": "meyyunarithal\\MEYYUNARITHAL-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "A86cP9ae6Vs",
+        "durationSeconds": 207.41666666666666,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 14209740
+      }
+    },
+    {
+      "sourceId": "WKCMHUFbf2Q",
+      "title": "திருக்குறள் - துறவு | Thuravu | Full Song Film",
+      "file": "thuravu\\THURAVU-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "WKCMHUFbf2Q",
+        "durationSeconds": 266.75,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 18786859
+      }
+    },
+    {
+      "sourceId": "WM8EPZ4KK2s",
+      "title": "திருக்குறள் - வெகுளாமை | Vegulaamai | Full Song Film",
+      "file": "vegulaamai\\VEGULAAMAI-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "WM8EPZ4KK2s",
+        "durationSeconds": 324.75,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 20857152
+      }
+    }
+  ]
+}

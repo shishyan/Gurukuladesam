@@ -1,0 +1,113 @@
+{
+  "sourceId": "9YAr421Ft00",
+  "title": "திருக்குறள் - கல்லாமை | Kallaamai Learning | Full Song Film",
+  "output": "KALLAAMAI_LEARNING-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "narrative scene 1",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-09\\kallaamai_learning\\new-1.png",
+      "inFrame": 0,
+      "outFrame": 394
+    },
+    {
+      "image": "S02.png",
+      "role": "narrative scene 2",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S01.png",
+      "inFrame": 394,
+      "outFrame": 788
+    },
+    {
+      "image": "S03.png",
+      "role": "narrative scene 3",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S02.png",
+      "inFrame": 788,
+      "outFrame": 1194
+    },
+    {
+      "image": "S04.png",
+      "role": "narrative scene 4",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-09\\kallaamai_learning\\new-2.png",
+      "inFrame": 1194,
+      "outFrame": 1575
+    },
+    {
+      "image": "S05.png",
+      "role": "narrative scene 5",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S04.png",
+      "inFrame": 1575,
+      "outFrame": 1979
+    },
+    {
+      "image": "S06.png",
+      "role": "narrative scene 6",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S08.png",
+      "inFrame": 1979,
+      "outFrame": 2377
+    },
+    {
+      "image": "S07.png",
+      "role": "narrative scene 7",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\avai_anjaamai\\S11.png",
+      "inFrame": 2377,
+      "outFrame": 2766
+    },
+    {
+      "image": "S08.png",
+      "role": "narrative scene 8",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-09\\kallaamai_learning\\new-3.png",
+      "inFrame": 2766,
+      "outFrame": 3155
+    },
+    {
+      "image": "S09.png",
+      "role": "narrative scene 9",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S10.png",
+      "inFrame": 3155,
+      "outFrame": 3570
+    },
+    {
+      "image": "S10.png",
+      "role": "narrative scene 10",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S11.png",
+      "inFrame": 3570,
+      "outFrame": 3963
+    },
+    {
+      "image": "S11.png",
+      "role": "narrative scene 11",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S12.png",
+      "inFrame": 3963,
+      "outFrame": 4349
+    },
+    {
+      "image": "S12.png",
+      "role": "narrative scene 12",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-09\\kallaamai_learning\\new-4.png",
+      "inFrame": 4349,
+      "outFrame": 4750
+    }
+  ],
+  "imageDerived": true,
+  "theme": "the limitations of ignorance and the value of learning",
+  "duplicateAudit": {
+    "publicVideosChecked": 180,
+    "matchingFilms": []
+  },
+  "publicationStatus": "pending YouTube daily upload quota",
+  "fps": 12,
+  "targetFrames": 4750,
+  "cutRule": "near even spacing at low audio energy"
+}
