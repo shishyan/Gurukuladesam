@@ -1,16 +1,9 @@
 {
   "channel": "@guru-kula-desam",
-  "pendingCount": 39,
+  "pendingCount": 38,
   "blocker": "YouTube daily upload limit",
   "releaseInstructions": "Recheck public channel for duplicates, import locally finished films into Google Vids, publish through the correct channel Studio, and verify public URLs. Scheduling requires the upload to succeed first.",
   "songs": [
-    {
-      "sourceId": "QXhT9uoA7_w",
-      "title": "திருக்குறள் - அகர முதல | Agara Muthala | Full Song Film",
-      "file": "batch-sept-28-10\\agara_muthala\\AGARA_MUTHALA-CINEMATIC-v1.mp4",
-      "googleVids": "https://docs.google.com/videos/d/1sDu_aiI67g-yJt1g9DUxKYWiYLc4JEfjSuOcIG73Wsc/edit",
-      "status": "ready; pending upload quota"
-    },
     {
       "sourceId": "6ofQ9hrD1RQ",
       "title": "திருக்குறள் - வாழ்க்கை துணை | Vaazkkai Thunai | Full Song Film",

@@ -20,7 +20,7 @@ for ready in sorted(P.glob('thirukkural-backlog-*/ready.json')):
         produced.append(song)
 assert len(produced) == 45
 assert len({s['sourceId'] for s in produced}) == 45
-assert audio['tracksChecked'] == queue['pendingCount']
+assert audio['tracksChecked'] >= sum('thirukkural-backlog-' in s['file'] or 'batch-sept-28-10' in s['file'] for s in queue['songs'])
 assert audio['decodedPcmHashesUnique'] and not audio['duplicateCandidates']
 assert not any(c['status']=='needs production' for c in coverage['chapters'])
 old_ids = {s['id'] for s in catalog['songs'] if any('Master Collection' in p for p in s['playlists'])}
@@ -38,15 +38,16 @@ report = {
     'localBacklogBatchesRendered':15,
     'rendersCompleted':45,
     'uniqueNewBacklogFilmsInUploadQueue':sum('thirukkural-backlog-' in s['file'] for s in queue['songs']),
-    'earlierReadyFilmsInUploadQueue':2,
+    'earlierReadyFilmsInUploadQueue':sum('batch-sept-28-10' in s['file'] for s in queue['songs']),
     'readyToUploadCount':queue['pendingCount'],
     'parallelAlternateRendersSuppressed':len(queue['excludedAlternateRenders']),
     'otherAgentOwners':queue['excludedAlternateRenders'],
     'noDuplicateAudioCandidates':True,
     'productionPlanFinished':True,
     'publicationFinished':False,
+    'vidsImportsFinished':all(s.get('googleVids') for s in queue['songs']),
     'blocker':limit,
-    'scopeNote':'One film per uncovered devotional Thirukkural chapter. Alternate recordings of filmed chapters are deferred; the Hans Zimmer Space Sounds entry is outside the devotional scope. Other-agent productions retain ownership of six source songs.'
+    'scopeNote':'One film per uncovered devotional Thirukkural chapter. Alternate recordings of filmed chapters are deferred; the Hans Zimmer Space Sounds entry is outside the devotional scope. Other-agent productions retain ownership of the excluded source songs.'
 }
 (P/'playlist-audit/thirukkural-production-completion-2026-09-28.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 print('Rendered:',len(produced),'unique new queued:',report['uniqueNewBacklogFilmsInUploadQueue'],

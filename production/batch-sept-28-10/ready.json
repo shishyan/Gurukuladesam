@@ -1,6 +1,6 @@
 {
-  "status": "rendered and QC passed; YouTube publication blocked by daily upload limit",
-  "blocker": "YouTube Studio showed Daily upload limit reached and You can upload more videos in 24 hours, confirmed again after reloading Studio and trying the second file.",
+  "status": "one published; one ready pending daily upload limit",
+  "blocker": "Next actual upload (Vaazkkai Thunai) showed Daily upload limit reached. You can upload more videos in 24 hours.",
   "songs": [
     {
       "sourceId": "QXhT9uoA7_w",
@@ -8,7 +8,9 @@
       "title": "திருக்குறள் - அகர முதல | Agara Muthala | Full Song Film",
       "driveId": "1VEIhgjKYfDMR_fje5xs-D5ec_tMIJthj",
       "googleVids": "https://docs.google.com/videos/d/1sDu_aiI67g-yJt1g9DUxKYWiYLc4JEfjSuOcIG73Wsc/edit",
-      "publishedUrl": null
+      "publishedUrl": "https://www.youtube.com/watch?v=02C8glMmetw",
+      "publishedAtUtc": "2026-09-28 07:47:53 UTC",
+      "publicationVerified": true
     },
     {
       "sourceId": "6ofQ9hrD1RQ",

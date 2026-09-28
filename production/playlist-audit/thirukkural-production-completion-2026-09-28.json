@@ -1,5 +1,5 @@
 {
-  "checkedAtUtc": "2026-09-28 04:57:08 UTC",
+  "checkedAtUtc": "2026-09-28 07:47:53 UTC",
   "playlist": "Thirukkural Master Collection",
   "playlistUrl": "https://www.youtube.com/playlist?list=PLW7qBZp_Q8Ro",
   "livePlaylistEntriesChecked": 112,
@@ -35,18 +35,19 @@
     }
   ],
   "chapterStatusCounts": {
-    "local production exists": 50,
+    "local production exists": 49,
     "existing public film": 5,
     "covered by Other Songs film audit": 3,
-    "outside devotional scope": 1
+    "outside devotional scope": 1,
+    "public film verified": 1
   },
   "chaptersWithoutKnownPublicOrLocalProduction": 0,
   "localBacklogBatchesRendered": 15,
   "rendersCompleted": 45,
-  "uniqueNewBacklogFilmsInUploadQueue": 39,
-  "earlierReadyFilmsInUploadQueue": 2,
-  "readyToUploadCount": 41,
-  "parallelAlternateRendersSuppressed": 6,
+  "uniqueNewBacklogFilmsInUploadQueue": 33,
+  "earlierReadyFilmsInUploadQueue": 1,
+  "readyToUploadCount": 38,
+  "parallelAlternateRendersSuppressed": 12,
   "otherAgentOwners": [
     {
       "sourceId": "nf8EO1GdKlY",
@@ -107,20 +108,81 @@
         "file": "thirukkural-batch-04\\pocchaavaamai\\POCCHAAVAAMAI-FILM.mp4"
       },
       "status": "alternate render excluded from upload; other agent owns this source song"
+    },
+    {
+      "sourceId": "BoOWFaOGczE",
+      "title": "திருக்குறள் - வாய்மை | Vaaimai | Full Song Film",
+      "alternateRender": "thirukkural-backlog-14\\vaaimai\\VAAIMAI-CINEMATIC-v1.mp4",
+      "preferredOtherProduction": {
+        "manifest": "thirukkural-batch-05\\vaaimai\\manifest.json",
+        "file": "thirukkural-batch-05\\vaaimai\\VAAIMAI-FILM.mp4"
+      },
+      "status": "alternate render excluded from upload; other agent owns this source song"
+    },
+    {
+      "sourceId": "Js6Vepbegr8",
+      "title": "திருக்குறள் - வலியறிதல் | Valiyarithal | Full Song Film",
+      "alternateRender": "thirukkural-backlog-14\\valiyarithal\\VALIYARITHAL-CINEMATIC-v1.mp4",
+      "preferredOtherProduction": {
+        "manifest": "thirukkural-batch-05\\valiyarithal\\manifest.json",
+        "file": "thirukkural-batch-05\\valiyarithal\\VALIYARITHAL-FILM.mp4"
+      },
+      "status": "alternate render excluded from upload; other agent owns this source song"
+    },
+    {
+      "sourceId": "gBRvVKE_so8",
+      "title": "திருக்குறள் - வினைசெயல்வகை | Vinai Seyalvagai | Full Song Film",
+      "alternateRender": "thirukkural-backlog-14\\vinai_seyalvagai\\VINAI_SEYALVAGAI-CINEMATIC-v1.mp4",
+      "preferredOtherProduction": {
+        "manifest": "thirukkural-batch-05\\vinai_seyalvagai\\manifest.json",
+        "file": "thirukkural-batch-05\\vinai_seyalvagai\\VINAI-SEYALVAGAI-FILM.mp4"
+      },
+      "status": "alternate render excluded from upload; other agent owns this source song"
+    },
+    {
+      "sourceId": "hjcH8zbEleE",
+      "title": "திருக்குறள் - வெருவந்த செய்யாமை | Veruvantha Seyyaamai | Full Song Film",
+      "alternateRender": "thirukkural-backlog-15\\veruvantha_seyyaamai\\VERUVANTHA_SEYYAAMAI-CINEMATIC-v1.mp4",
+      "preferredOtherProduction": {
+        "manifest": "thirukkural-batch-06\\veruvantha_seyyaamai\\manifest.json",
+        "file": "thirukkural-batch-06\\veruvantha_seyyaamai\\VERUVANTHA-SEYYAAMAI-FILM.mp4"
+      },
+      "status": "alternate render excluded from upload; other agent owns this source song"
+    },
+    {
+      "sourceId": "--4jzoezBW8",
+      "title": "திருக்குறள் - வினைத்திட்பம் | Vinai Thitpam | Full Song Film",
+      "alternateRender": "thirukkural-backlog-15\\vinai_thitpam\\VINAI_THITPAM-CINEMATIC-v1.mp4",
+      "preferredOtherProduction": {
+        "manifest": "thirukkural-batch-06\\vinai_thitpam\\manifest.json",
+        "file": "thirukkural-batch-06\\vinai_thitpam\\VINAI-THITPAM-FILM.mp4"
+      },
+      "status": "alternate render excluded from upload; other agent owns this source song"
+    },
+    {
+      "sourceId": "cj6mlDwjJEo",
+      "title": "திருக்குறள் - வினைத்தூய்மை | Vinai Thooimai | Full Song Film",
+      "alternateRender": "thirukkural-backlog-15\\vinai_thooimai\\VINAI_THOOIMAI-CINEMATIC-v1.mp4",
+      "preferredOtherProduction": {
+        "manifest": "thirukkural-batch-06\\vinai_thooimai\\manifest.json",
+        "file": "thirukkural-batch-06\\vinai_thooimai\\VINAI-THOOIMAI-FILM.mp4"
+      },
+      "status": "alternate render excluded from upload; other agent owns this source song"
     }
   ],
   "noDuplicateAudioCandidates": true,
   "productionPlanFinished": true,
   "publicationFinished": false,
+  "vidsImportsFinished": true,
   "blocker": {
-    "checkedAtUtc": "2026-09-28 04:57:08 UTC",
+    "checkedAtUtc": "2026-09-28 07:47:53 UTC",
     "channel": "@guru-kula-desam",
     "channelId": "UCPqB1A_WzpLJec6q69BOO3Q",
-    "sourceId": "QXhT9uoA7_w",
-    "result": "blocked",
+    "sourceId": "6ofQ9hrD1RQ",
+    "result": "blocked after one accepted upload",
     "message": "Daily upload limit reached. You can upload more videos in 24 hours.",
-    "verification": "Fresh Edge Studio tab, correct channel displayed, actual MP4 upload attempt.",
-    "publishedUrl": null
+    "verification": "Fresh Edge Studio tabs on the correct channel. Agara Muthala accepted and published; next actual Vaazkkai Thunai MP4 upload blocked.",
+    "publishedUrl": "https://www.youtube.com/watch?v=02C8glMmetw"
   },
-  "scopeNote": "One film per uncovered devotional Thirukkural chapter. Alternate recordings of filmed chapters are deferred; the Hans Zimmer Space Sounds entry is outside the devotional scope. Other-agent productions retain ownership of six source songs."
+  "scopeNote": "One film per uncovered devotional Thirukkural chapter. Alternate recordings of filmed chapters are deferred; the Hans Zimmer Space Sounds entry is outside the devotional scope. Other-agent productions retain ownership of the excluded source songs."
 }
