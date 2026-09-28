@@ -1,14 +1,14 @@
 {
   "channel": "@guru-kula-desam",
-  "pendingCount": 34,
+  "pendingCount": 33,
   "blocker": null,
   "releaseInstructions": "Recheck public channel for duplicates, import locally finished films into Google Vids, publish through the correct channel Studio, and verify public URLs. Scheduling requires the upload to succeed first.",
   "songs": [
     {
       "sourceId": "um09tyT-2p0",
       "title": "திருக்குறள் - ஆள்வினையுடைமை | Aalvinaiyudaimai | Full Song Film",
-      "file": "thirukkural-backlog-02\\aalvinaiyudaimai\\AALVINAIYUDAIMAI-CINEMATIC-v1.mp4",
-      "googleVids": "https://docs.google.com/videos/d/1pQXnI9JEHH3qqmM4-LtcLjTeY82BNsLJUBXMwWUnhAU/edit",
+      "file": "thirukkural-backlog-02\\aalvinaiyudaimai\\AALVINAIYUDAIMAI-CINEMATIC-groups-v2.mp4",
+      "googleVids": "https://docs.google.com/videos/d/1GuePl2LLuB7F8xdHmQjbLHh5lmfcRN7YLf8XGD9cYIM/edit",
       "status": "ready; pending publication",
       "qc": {
         "sourceId": "um09tyT-2p0",
@@ -19,14 +19,23 @@
         "fullDecodePassed": true,
         "allScenesHaveMovement": true,
         "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 22940086
+        "fileBytes": 27201859,
+        "groupSceneRevision": {
+          "replacedScenes": [
+            1,
+            4,
+            12
+          ],
+          "reason": "user preference for more group gatherings",
+          "originalManifest": "manifest.json"
+        }
       }
     },
     {
       "sourceId": "FkQqysk6vmE",
       "title": "திருக்குறள் - அறிவுடைமை | Arivudaimai | Full Song Film",
-      "file": "thirukkural-backlog-02\\arivudaimai\\ARIVUDAIMAI-CINEMATIC-v1.mp4",
-      "googleVids": "https://docs.google.com/videos/d/1GPkqX9c--16LaQPkRlm_aM6gQ0k6MuOFkfWK35NVzRc/edit",
+      "file": "thirukkural-backlog-02\\arivudaimai\\ARIVUDAIMAI-CINEMATIC-groups-v2.mp4",
+      "googleVids": "https://docs.google.com/videos/d/1jEyWNW3Ha8EWfDvGNdZmfEYkMyAqHZ69rZPJpRmlrjI/edit",
       "status": "ready; pending publication",
       "qc": {
         "sourceId": "FkQqysk6vmE",
@@ -37,25 +46,16 @@
         "fullDecodePassed": true,
         "allScenesHaveMovement": true,
         "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 20668000
-      }
-    },
-    {
-      "sourceId": "9mOpq9daQVs",
-      "title": "திருக்குறள் - அவையறிதல் | Avaiyarithal | Full Song Film",
-      "file": "thirukkural-backlog-02\\avaiyarithal\\AVAIYARITHAL-CINEMATIC-v1.mp4",
-      "googleVids": "https://docs.google.com/videos/d/1ms3YYxiA81Up3JwDoPP4Fbs5TvZtoo1dSh7fAJAfabg/edit",
-      "status": "ready; pending publication",
-      "qc": {
-        "sourceId": "9mOpq9daQVs",
-        "durationSeconds": 229.58333333333334,
-        "scenes": 12,
-        "uniqueImages": 12,
-        "originalAacBitstreamMatched": true,
-        "fullDecodePassed": true,
-        "allScenesHaveMovement": true,
-        "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 14160483
+        "fileBytes": 24740529,
+        "groupSceneRevision": {
+          "replacedScenes": [
+            1,
+            6,
+            12
+          ],
+          "reason": "user preference for more group gatherings",
+          "originalManifest": "manifest.json"
+        }
       }
     },
     {

@@ -1,0 +1,20 @@
+{
+  "sourceId": "FkQqysk6vmE",
+  "durationSeconds": 301.75,
+  "scenes": 12,
+  "uniqueImages": 12,
+  "originalAacBitstreamMatched": true,
+  "fullDecodePassed": true,
+  "allScenesHaveMovement": true,
+  "logoPosition": "bottom-left, 24px inset",
+  "fileBytes": 24740529,
+  "groupSceneRevision": {
+    "replacedScenes": [
+      1,
+      6,
+      12
+    ],
+    "reason": "user preference for more group gatherings",
+    "originalManifest": "manifest.json"
+  }
+}

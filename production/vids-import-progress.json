@@ -23,17 +23,21 @@
     },
     {
       "sourceId": "um09tyT-2p0",
-      "googleVids": "https://docs.google.com/videos/d/1pQXnI9JEHH3qqmM4-LtcLjTeY82BNsLJUBXMwWUnhAU/edit",
+      "googleVids": "https://docs.google.com/videos/d/1GuePl2LLuB7F8xdHmQjbLHh5lmfcRN7YLf8XGD9cYIM/edit",
       "savedToDrive": true,
       "volumePercent": 100,
-      "muted": false
+      "muted": false,
+      "supersededGoogleVids": "https://docs.google.com/videos/d/1pQXnI9JEHH3qqmM4-LtcLjTeY82BNsLJUBXMwWUnhAU/edit",
+      "revision": "groups-v2"
     },
     {
       "sourceId": "FkQqysk6vmE",
-      "googleVids": "https://docs.google.com/videos/d/1GPkqX9c--16LaQPkRlm_aM6gQ0k6MuOFkfWK35NVzRc/edit",
+      "googleVids": "https://docs.google.com/videos/d/1jEyWNW3Ha8EWfDvGNdZmfEYkMyAqHZ69rZPJpRmlrjI/edit",
       "savedToDrive": true,
       "volumePercent": 100,
-      "muted": false
+      "muted": false,
+      "supersededGoogleVids": "https://docs.google.com/videos/d/1GPkqX9c--16LaQPkRlm_aM6gQ0k6MuOFkfWK35NVzRc/edit",
+      "revision": "groups-v2"
     },
     {
       "sourceId": "9mOpq9daQVs",

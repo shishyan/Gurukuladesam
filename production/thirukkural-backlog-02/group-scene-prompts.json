@@ -1,0 +1,29 @@
+{
+  "mode": "built-in image_gen",
+  "jobs": [
+    {
+      "key": "aal-group1",
+      "prompt": "Use case: historical-scene. Asset type: single 16:9 cinematic image for Tamil Thirukkural full song Aalvinaiyudaimai, diligence and collective effort. Ancient Tamil stone temple courtyard at dawn, 12 villagers men and women gathered with baskets, farming tools and rolled palm-leaf plans, cooperatively planning irrigation work, attentive expressions and warm shared purpose. Broad group composition, several equally prominent people interacting naturally, full bodies, landscape with detailed temple architecture and morning light. Cinematic realistic illustration, ochre stone, ivory dhotis and colorful sarees, historically appropriate. One seamless image, no collage, no text, no letters, no logo. Clear lower-left area for later channel emblem. No modern objects."
+    },
+    {
+      "key": "aal-group4",
+      "prompt": "Single seamless landscape 16:9 cinematic realistic historical Tamil illustration for a Thirukkural song film. Ancient Tamil village and stone temple architecture, historically appropriate ivory dhotis and jewel-colored sarees, natural anatomy and hands, warm detailed light, wide composition with several equally prominent people interacting. No text, no letters, no watermark, no logo, no collage, no modern objects. Diligence and shared skilled labor: six women and three men cooperatively weaving on several wooden looms in an open shaded craft courtyard beside a temple. Hands guide threads, others wind yarn and discuss patterns, colorful fabric, elderly artisan mentoring younger adults. Group gathering visibly foregrounded. Noon light outside, dry stone floor."
+    },
+    {
+      "key": "aal-group12",
+      "prompt": "Single seamless landscape 16:9 cinematic realistic historical Tamil illustration for a Thirukkural song film. Ancient Tamil village and stone temple architecture, historically appropriate ivory dhotis and jewel-colored sarees, natural anatomy and hands, warm detailed light, wide composition with several equally prominent people interacting. No text, no letters, no watermark, no logo, no collage, no modern objects. Diligence rewarded: a village gathering of fifteen farmers and craftspeople, men and women smiling with baskets of grain and woven cloth, sharing their harvest at sunset beside a completed irrigation canal and ancient Tamil temple. People celebrate modestly with gratitude and hands joined, not a lone central hero. Wide warm sunset composition."
+    },
+    {
+      "key": "arivu-group1",
+      "prompt": "Single seamless landscape 16:9 cinematic realistic historical Tamil illustration for a Thirukkural song film. Ancient Tamil village and stone temple architecture, historically appropriate ivory dhotis and jewel-colored sarees, natural anatomy and hands, warm detailed light, wide composition with several equally prominent people interacting. No text, no letters, no watermark, no logo, no collage, no modern objects. Wisdom and learning: twelve adults of different ages gathered in a circle beneath a great banyan tree beside a temple tank at sunrise, reading palm-leaf manuscripts together, sharing ideas and listening attentively. Several scholars and women contribute equally, friendly thoughtful expressions, an open manuscript between them. No lone dominant portrait."
+    },
+    {
+      "key": "arivu-group6",
+      "prompt": "Use case: historical-scene. Single seamless 16:9 cinematic realistic illustration for Tamil Thirukkural Arivudaimai wisdom song. Ancient Tamil village, historically appropriate ivory dhotis and colorful sarees. Wide group composition with several equally prominent people interacting naturally. No text, watermark, logo, collage, or modern objects. Ten elders, women and younger villagers gathered beside a flowing river, thoughtfully examining stepping stones and discussing a safe crossing together. One points to the water while others listen and exchange observations. Lush riverbank, distant stone temple, soft afternoon light."
+    },
+    {
+      "key": "arivu-group12",
+      "prompt": "Use case: historical-scene. Single seamless 16:9 cinematic realistic illustration for Tamil Thirukkural Arivudaimai wisdom song. Ancient Tamil village, historically appropriate ivory dhotis and colorful sarees. Wide group composition with several equally prominent people interacting naturally. No text, watermark, logo, collage, or modern objects. Fifteen adults gathered in an ancient temple courtyard at evening, sharing palm-leaf manuscripts and discussing ideas in small connected circles around oil lamps. Mutual learning and thoughtful expressions, no dominant lone hero. Warm lamps and blue twilight, detailed carved stone pillars."
+    }
+  ]
+}
