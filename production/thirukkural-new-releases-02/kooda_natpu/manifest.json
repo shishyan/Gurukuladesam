@@ -1,0 +1,109 @@
+{
+  "sourceId": "aTpCSZFFbow",
+  "title": "திருக்குறள் - கூடா நட்பு | Kooda Natpu | Full Song Film",
+  "output": "KOODA_NATPU-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-new-releases-02\\kooda_natpu\\new-1.png",
+      "artOrigin": "new song-specific artwork",
+      "inFrame": 0,
+      "outFrame": 259
+    },
+    {
+      "image": "S02.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-02\\avaiyarithal\\S02.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 259,
+      "outFrame": 530
+    },
+    {
+      "image": "S03.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-02\\avaiyarithal\\S03.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 530,
+      "outFrame": 781
+    },
+    {
+      "image": "S04.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-02\\avaiyarithal\\S05.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 781,
+      "outFrame": 1046
+    },
+    {
+      "image": "S05.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-new-releases-02\\kooda_natpu\\new-2.png",
+      "artOrigin": "new song-specific artwork",
+      "inFrame": 1046,
+      "outFrame": 1310
+    },
+    {
+      "image": "S06.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-02\\avaiyarithal\\S06.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 1310,
+      "outFrame": 1571
+    },
+    {
+      "image": "S07.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-02\\avaiyarithal\\S08.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 1571,
+      "outFrame": 1822
+    },
+    {
+      "image": "S08.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-02\\avaiyarithal\\S09.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 1822,
+      "outFrame": 2091
+    },
+    {
+      "image": "S09.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-new-releases-02\\kooda_natpu\\new-3.png",
+      "artOrigin": "new song-specific artwork",
+      "inFrame": 2091,
+      "outFrame": 2347
+    },
+    {
+      "image": "S10.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-02\\avaiyarithal\\S10.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 2347,
+      "outFrame": 2611
+    },
+    {
+      "image": "S11.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-02\\avaiyarithal\\S11.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 2611,
+      "outFrame": 2852
+    },
+    {
+      "image": "S12.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-02\\avaiyarithal\\S12.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 2852,
+      "outFrame": 3124
+    }
+  ],
+  "visualDirection": "Group gatherings, reciprocal support and community story; no looping scenes",
+  "audioRule": "Full original AAC bitstream only, no clip audio",
+  "fps": 12,
+  "targetFrames": 3124,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy"
+}

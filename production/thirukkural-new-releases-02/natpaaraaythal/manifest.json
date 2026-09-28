@@ -1,0 +1,109 @@
+{
+  "sourceId": "Wq6XpZ49Huw",
+  "title": "திருக்குறள் - நட்பாராய்தல் | Natpaaraaythal | Full Song Film",
+  "output": "NATPAARAAYTHAL-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-new-releases-02\\natpaaraaythal\\new-1.png",
+      "artOrigin": "new song-specific artwork",
+      "inFrame": 0,
+      "outFrame": 294
+    },
+    {
+      "image": "S02.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-11\\therinthu_thelithal\\S02.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 294,
+      "outFrame": 584
+    },
+    {
+      "image": "S03.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-11\\therinthu_thelithal\\S03.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 584,
+      "outFrame": 872
+    },
+    {
+      "image": "S04.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-11\\therinthu_thelithal\\S05.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 872,
+      "outFrame": 1144
+    },
+    {
+      "image": "S05.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-new-releases-02\\natpaaraaythal\\new-2.png",
+      "artOrigin": "new song-specific artwork",
+      "inFrame": 1144,
+      "outFrame": 1441
+    },
+    {
+      "image": "S06.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-11\\therinthu_thelithal\\S06.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 1441,
+      "outFrame": 1715
+    },
+    {
+      "image": "S07.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-11\\therinthu_thelithal\\S07.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 1715,
+      "outFrame": 2006
+    },
+    {
+      "image": "S08.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-11\\therinthu_thelithal\\S08.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 2006,
+      "outFrame": 2305
+    },
+    {
+      "image": "S09.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-new-releases-02\\natpaaraaythal\\new-3.png",
+      "artOrigin": "new song-specific artwork",
+      "inFrame": 2305,
+      "outFrame": 2581
+    },
+    {
+      "image": "S10.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-11\\therinthu_thelithal\\S09.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 2581,
+      "outFrame": 2877
+    },
+    {
+      "image": "S11.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-11\\therinthu_thelithal\\S10.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 2877,
+      "outFrame": 3170
+    },
+    {
+      "image": "S12.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-11\\therinthu_thelithal\\S12.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 3170,
+      "outFrame": 3449
+    }
+  ],
+  "visualDirection": "Group gatherings, reciprocal support and community story; no looping scenes",
+  "audioRule": "Full original AAC bitstream only, no clip audio",
+  "fps": 12,
+  "targetFrames": 3449,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy"
+}

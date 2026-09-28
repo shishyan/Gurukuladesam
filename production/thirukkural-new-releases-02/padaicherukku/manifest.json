@@ -1,0 +1,109 @@
+{
+  "sourceId": "VIC7Oj5k2C0",
+  "title": "திருக்குறள் - படைச்செருக்கு | Padaicherukku | Full Song Film",
+  "output": "PADAICHERUKKU-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-new-releases-02\\padaicherukku\\new-1.png",
+      "artOrigin": "new song-specific artwork",
+      "inFrame": 0,
+      "outFrame": 225
+    },
+    {
+      "image": "S02.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-14\\valiyarithal\\S01.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 225,
+      "outFrame": 465
+    },
+    {
+      "image": "S03.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-14\\valiyarithal\\S04.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 465,
+      "outFrame": 680
+    },
+    {
+      "image": "S04.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-14\\valiyarithal\\S05.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 680,
+      "outFrame": 913
+    },
+    {
+      "image": "S05.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-new-releases-02\\padaicherukku\\new-2.png",
+      "artOrigin": "new song-specific artwork",
+      "inFrame": 913,
+      "outFrame": 1132
+    },
+    {
+      "image": "S06.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-14\\valiyarithal\\S07.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 1132,
+      "outFrame": 1370
+    },
+    {
+      "image": "S07.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-14\\valiyarithal\\S08.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 1370,
+      "outFrame": 1608
+    },
+    {
+      "image": "S08.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-14\\valiyarithal\\S09.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 1608,
+      "outFrame": 1817
+    },
+    {
+      "image": "S09.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-new-releases-02\\padaicherukku\\new-3.png",
+      "artOrigin": "new song-specific artwork",
+      "inFrame": 1817,
+      "outFrame": 2059
+    },
+    {
+      "image": "S10.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-14\\valiyarithal\\S10.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 2059,
+      "outFrame": 2281
+    },
+    {
+      "image": "S11.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-14\\valiyarithal\\S11.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 2281,
+      "outFrame": 2502
+    },
+    {
+      "image": "S12.png",
+      "role": "community narrative scene",
+      "assetSource": "thirukkural-backlog-14\\valiyarithal\\S12.png",
+      "artOrigin": "relevant group scene library",
+      "inFrame": 2502,
+      "outFrame": 2739
+    }
+  ],
+  "visualDirection": "Group gatherings, reciprocal support and community story; no looping scenes",
+  "audioRule": "Full original AAC bitstream only, no clip audio",
+  "fps": 12,
+  "targetFrames": 2739,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy"
+}

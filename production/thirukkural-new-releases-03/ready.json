@@ -1,0 +1,32 @@
+{
+  "songs": [
+    {
+      "sourceId": "dEx_Zuc5omc",
+      "title": "திருக்குறள் - பொருள்செயல்வகை | Porul Seyalvagai | Full Song Film",
+      "file": "porul_seyalvagai\\PORUL_SEYALVAGAI-CINEMATIC-v1.mp4",
+      "qc": {
+        "sourceId": "dEx_Zuc5omc",
+        "durationSeconds": 300.4166666666667,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 27282496
+      },
+      "status": "published; public playback and bottom-left logo verified; original audio matched locally",
+      "googleVids": "https://docs.google.com/videos/d/1UsUEAqCKddgP7K83cwbjLEexVEnc9UIwkmZR82_rDnM/edit",
+      "vidsVerification": {
+        "savedToDrive": true,
+        "fullDuration": "05:00.4",
+        "volume": 100,
+        "mute": false,
+        "automaticDucking": "Off"
+      },
+      "publishedUrl": "https://www.youtube.com/watch?v=cR_u-JuGJAU",
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T17:22:00.764289+00:00",
+      "publicPlaybackVerified": true
+    }
+  ]
+}

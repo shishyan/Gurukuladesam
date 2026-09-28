@@ -1,15 +1,12 @@
 # Pending song videos
 
-4 QC-passed full-song films are ready locally. Upload slots were available at the latest check.
+1 QC-passed full-song films are ready locally. Upload slots were available at the latest check.
 
-0 films have saved Google Vids projects; 4 still need a Vids import.
+1 films have saved Google Vids projects; 0 still need a Vids import.
 
 | Song | Source | Local MP4 |
 | --- | --- | --- |
-| திருக்குறள் - கூடா நட்பு / Kooda Natpu / Full Song Film | `aTpCSZFFbow` | [Open film](thirukkural-new-releases-02/kooda_natpu/KOODA_NATPU-CINEMATIC-v1.mp4) |
-| திருக்குறள் - நட்பாராய்தல் / Natpaaraaythal / Full Song Film | `Wq6XpZ49Huw` | [Open film](thirukkural-new-releases-02/natpaaraaythal/NATPAARAAYTHAL-CINEMATIC-v1.mp4) |
 | திருக்குறள் - படைச்செருக்கு / Padaicherukku / Full Song Film | `VIC7Oj5k2C0` | [Open film](thirukkural-new-releases-02/padaicherukku/PADAICHERUKKU-CINEMATIC-v1.mp4) |
-| திருக்குறள் - பொருள்செயல்வகை / Porul Seyalvagai / Full Song Film | `dEx_Zuc5omc` | [Open film](thirukkural-new-releases-03/porul_seyalvagai/PORUL_SEYALVAGAI-CINEMATIC-v1.mp4) |
 
 Scheduling changes the publication time after an upload succeeds. It does not bypass the upload quota.
 
