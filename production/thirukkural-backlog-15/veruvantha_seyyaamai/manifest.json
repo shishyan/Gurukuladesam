@@ -1,0 +1,113 @@
+{
+  "sourceId": "hjcH8zbEleE",
+  "title": "திருக்குறள் - வெருவந்த செய்யாமை | Veruvantha Seyyaamai | Full Song Film",
+  "output": "VERUVANTHA_SEYYAAMAI-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "narrative scene 1",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-15\\veruvantha_seyyaamai\\new-1.png",
+      "inFrame": 0,
+      "outFrame": 354
+    },
+    {
+      "image": "S02.png",
+      "role": "narrative scene 2",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S02.png",
+      "inFrame": 354,
+      "outFrame": 683
+    },
+    {
+      "image": "S03.png",
+      "role": "narrative scene 3",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S03.png",
+      "inFrame": 683,
+      "outFrame": 1020
+    },
+    {
+      "image": "S04.png",
+      "role": "narrative scene 4",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-15\\veruvantha_seyyaamai\\new-2.png",
+      "inFrame": 1020,
+      "outFrame": 1367
+    },
+    {
+      "image": "S05.png",
+      "role": "narrative scene 5",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S04.png",
+      "inFrame": 1367,
+      "outFrame": 1719
+    },
+    {
+      "image": "S06.png",
+      "role": "narrative scene 6",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S06.png",
+      "inFrame": 1719,
+      "outFrame": 2060
+    },
+    {
+      "image": "S07.png",
+      "role": "narrative scene 7",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S07.png",
+      "inFrame": 2060,
+      "outFrame": 2381
+    },
+    {
+      "image": "S08.png",
+      "role": "narrative scene 8",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-15\\veruvantha_seyyaamai\\new-3.png",
+      "inFrame": 2381,
+      "outFrame": 2725
+    },
+    {
+      "image": "S09.png",
+      "role": "narrative scene 9",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\avaiyarithal\\S05.png",
+      "inFrame": 2725,
+      "outFrame": 3066
+    },
+    {
+      "image": "S10.png",
+      "role": "narrative scene 10",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\avaiyarithal\\S09.png",
+      "inFrame": 3066,
+      "outFrame": 3421
+    },
+    {
+      "image": "S11.png",
+      "role": "narrative scene 11",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S10.png",
+      "inFrame": 3421,
+      "outFrame": 3746
+    },
+    {
+      "image": "S12.png",
+      "role": "narrative scene 12",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-15\\veruvantha_seyyaamai\\new-4.png",
+      "inFrame": 3746,
+      "outFrame": 4098
+    }
+  ],
+  "imageDerived": true,
+  "theme": "governance that inspires trust rather than fear",
+  "duplicateAudit": {
+    "publicVideosChecked": 180,
+    "matchingFilms": []
+  },
+  "publicationStatus": "pending YouTube daily upload quota",
+  "fps": 12,
+  "targetFrames": 4098,
+  "cutRule": "near even spacing at low audio energy"
+}

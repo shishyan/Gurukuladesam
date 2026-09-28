@@ -1,0 +1,58 @@
+{
+  "songs": [
+    {
+      "sourceId": "hjcH8zbEleE",
+      "title": "திருக்குறள் - வெருவந்த செய்யாமை | Veruvantha Seyyaamai | Full Song Film",
+      "file": "veruvantha_seyyaamai\\VERUVANTHA_SEYYAAMAI-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "hjcH8zbEleE",
+        "durationSeconds": 341.5,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 20906759
+      }
+    },
+    {
+      "sourceId": "--4jzoezBW8",
+      "title": "திருக்குறள் - வினைத்திட்பம் | Vinai Thitpam | Full Song Film",
+      "file": "vinai_thitpam\\VINAI_THITPAM-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "--4jzoezBW8",
+        "durationSeconds": 355.5,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 25378998
+      }
+    },
+    {
+      "sourceId": "cj6mlDwjJEo",
+      "title": "திருக்குறள் - வினைத்தூய்மை | Vinai Thooimai | Full Song Film",
+      "file": "vinai_thooimai\\VINAI_THOOIMAI-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "cj6mlDwjJEo",
+        "durationSeconds": 272.4166666666667,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 19629325
+      }
+    }
+  ]
+}

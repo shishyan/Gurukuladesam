@@ -1,6 +1,6 @@
 # Pending song videos
 
-44 QC-passed full-song films are ready locally. YouTube publication is blocked by the daily upload quota.
+41 QC-passed full-song films are ready locally. YouTube publication is blocked by the daily upload quota.
 
 The first two already have Google Vids projects. The remaining local films must be imported into Vids before publication.
 
@@ -41,16 +41,24 @@ The first two already have Google Vids projects. The remaining local films must 
 | திருக்குறள் - தெரிந்து செயல்வகை / Therinthu Seyalvagai / Full Song Film | `OqRZLEMvx8s` | [Open film](thirukkural-backlog-11/therinthu_seyalvagai/THERINTHU_SEYALVAGAI-CINEMATIC-v1.mp4) |
 | திருக்குறள் - தெரிந்து தெளிதல் / Therinthu Thelithal / Full Song Film | `hrg_nAlW7VQ` | [Open film](thirukkural-backlog-11/therinthu_thelithal/THERINTHU_THELITHAL-CINEMATIC-v1.mp4) |
 | திருக்குறள் - தூது / Thoothu / Full Song Film | `aBA50x-gDME` | [Open film](thirukkural-backlog-11/thoothu/THOOTHU-CINEMATIC-v1.mp4) |
-| திருக்குறள் - நாடு / Naadu / Full Song Film | `nf8EO1GdKlY` | [Open film](thirukkural-backlog-12/naadu/NAADU-CINEMATIC-v1.mp4) |
-| திருக்குறள் - பெரியாரைத் துணைக்கோடல் / Periyaarai Thunaikkodal / Full Song Film | `aTFvlXMPBSE` | [Open film](thirukkural-backlog-12/periyaarai_thunaikkodal/PERIYAARAI_THUNAIKKODAL-CINEMATIC-v1.mp4) |
-| திருக்குறள் - தெரிந்து வினையாடல் / Therinthu Vinaiyaadal / Full Song Film | `5uRYFxhT32k` | [Open film](thirukkural-backlog-12/therinthu_vinaiyaadal/THERINTHU_VINAIYAADAL-CINEMATIC-v1.mp4) |
-| திருக்குறள் - மடியின்மை / Madiyinmai / Full Song Film | `GfGlO3RQuik` | [Open film](thirukkural-backlog-13/madiyinmai/MADIYINMAI-CINEMATIC-v1.mp4) |
-| திருக்குறள் - மன்னரைச் சேர்ந்தொழுதல் / Mannarai Sernthozhuthal / Full Song Film | `u9NeXaCHu-A` | [Open film](thirukkural-backlog-13/mannarai_sernthozhuthal/MANNARAI_SERNTHOZHUTHAL-CINEMATIC-v1.mp4) |
-| திருக்குறள் - பொச்சாவாமை / Pocchaavaamai / Full Song Film | `O0hASl4BS2c` | [Open film](thirukkural-backlog-13/pocchaavaamai/POCCHAAVAAMAI-CINEMATIC-v1.mp4) |
 | திருக்குறள் - வாய்மை / Vaaimai / Full Song Film | `BoOWFaOGczE` | [Open film](thirukkural-backlog-14/vaaimai/VAAIMAI-CINEMATIC-v1.mp4) |
 | திருக்குறள் - வலியறிதல் / Valiyarithal / Full Song Film | `Js6Vepbegr8` | [Open film](thirukkural-backlog-14/valiyarithal/VALIYARITHAL-CINEMATIC-v1.mp4) |
 | திருக்குறள் - வினைசெயல்வகை / Vinai Seyalvagai / Full Song Film | `gBRvVKE_so8` | [Open film](thirukkural-backlog-14/vinai_seyalvagai/VINAI_SEYALVAGAI-CINEMATIC-v1.mp4) |
+| திருக்குறள் - வெருவந்த செய்யாமை / Veruvantha Seyyaamai / Full Song Film | `hjcH8zbEleE` | [Open film](thirukkural-backlog-15/veruvantha_seyyaamai/VERUVANTHA_SEYYAAMAI-CINEMATIC-v1.mp4) |
+| திருக்குறள் - வினைத்திட்பம் / Vinai Thitpam / Full Song Film | `--4jzoezBW8` | [Open film](thirukkural-backlog-15/vinai_thitpam/VINAI_THITPAM-CINEMATIC-v1.mp4) |
+| திருக்குறள் - வினைத்தூய்மை / Vinai Thooimai / Full Song Film | `cj6mlDwjJEo` | [Open film](thirukkural-backlog-15/vinai_thooimai/VINAI_THOOIMAI-CINEMATIC-v1.mp4) |
 
 Scheduling changes the publication time after an upload succeeds. It does not bypass the upload quota.
 
 Before publication, refresh the public channel and check for another film of the same song. Record and verify each published URL.
+
+## Other-agent productions: do not upload the alternate renders
+
+| Source | Preferred other production | Excluded alternate |
+| --- | --- | --- |
+| `nf8EO1GdKlY` | [thirukkural-batch-03/naadu/NAADU-FILM.mp4](thirukkural-batch-03/naadu/NAADU-FILM.mp4) | thirukkural-backlog-12/naadu/NAADU-CINEMATIC-v1.mp4 |
+| `aTFvlXMPBSE` | [thirukkural-batch-03/periyaarai_thunaikkodal/PERIYAARAI-THUNAIKKODAL-FILM.mp4](thirukkural-batch-03/periyaarai_thunaikkodal/PERIYAARAI-THUNAIKKODAL-FILM.mp4) | thirukkural-backlog-12/periyaarai_thunaikkodal/PERIYAARAI_THUNAIKKODAL-CINEMATIC-v1.mp4 |
+| `5uRYFxhT32k` | [thirukkural-batch-03/therinthu_vinaiyaadal/THERINTHU-VINAIYAADAL-FILM.mp4](thirukkural-batch-03/therinthu_vinaiyaadal/THERINTHU-VINAIYAADAL-FILM.mp4) | thirukkural-backlog-12/therinthu_vinaiyaadal/THERINTHU_VINAIYAADAL-CINEMATIC-v1.mp4 |
+| `GfGlO3RQuik` | [thirukkural-batch-04/madiyinmai/MADIYINMAI-FILM.mp4](thirukkural-batch-04/madiyinmai/MADIYINMAI-FILM.mp4) | thirukkural-backlog-13/madiyinmai/MADIYINMAI-CINEMATIC-v1.mp4 |
+| `u9NeXaCHu-A` | [thirukkural-batch-04/mannarai_sernthozhuthal/MANNARAI-SERNTHOZHUTHAL-FILM.mp4](thirukkural-batch-04/mannarai_sernthozhuthal/MANNARAI-SERNTHOZHUTHAL-FILM.mp4) | thirukkural-backlog-13/mannarai_sernthozhuthal/MANNARAI_SERNTHOZHUTHAL-CINEMATIC-v1.mp4 |
+| `O0hASl4BS2c` | [thirukkural-batch-04/pocchaavaamai/POCCHAAVAAMAI-FILM.mp4](thirukkural-batch-04/pocchaavaamai/POCCHAAVAAMAI-FILM.mp4) | thirukkural-backlog-13/pocchaavaamai/POCCHAAVAAMAI-CINEMATIC-v1.mp4 |

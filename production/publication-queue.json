@@ -1,6 +1,6 @@
 {
   "channel": "@guru-kula-desam",
-  "pendingCount": 44,
+  "pendingCount": 41,
   "blocker": "YouTube daily upload limit",
   "releaseInstructions": "Recheck public channel for duplicates, import locally finished films into Google Vids, publish through the correct channel Studio, and verify public URLs. Scheduling requires the upload to succeed first.",
   "songs": [
@@ -613,114 +613,6 @@
       }
     },
     {
-      "sourceId": "nf8EO1GdKlY",
-      "title": "திருக்குறள் - நாடு | Naadu | Full Song Film",
-      "file": "thirukkural-backlog-12\\naadu\\NAADU-CINEMATIC-v1.mp4",
-      "googleVids": null,
-      "status": "ready; pending upload quota",
-      "qc": {
-        "sourceId": "nf8EO1GdKlY",
-        "durationSeconds": 218.5,
-        "scenes": 12,
-        "uniqueImages": 12,
-        "originalAacBitstreamMatched": true,
-        "fullDecodePassed": true,
-        "allScenesHaveMovement": true,
-        "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 19390973
-      }
-    },
-    {
-      "sourceId": "aTFvlXMPBSE",
-      "title": "திருக்குறள் - பெரியாரைத் துணைக்கோடல் | Periyaarai Thunaikkodal | Full Song Film",
-      "file": "thirukkural-backlog-12\\periyaarai_thunaikkodal\\PERIYAARAI_THUNAIKKODAL-CINEMATIC-v1.mp4",
-      "googleVids": null,
-      "status": "ready; pending upload quota",
-      "qc": {
-        "sourceId": "aTFvlXMPBSE",
-        "durationSeconds": 273.25,
-        "scenes": 12,
-        "uniqueImages": 12,
-        "originalAacBitstreamMatched": true,
-        "fullDecodePassed": true,
-        "allScenesHaveMovement": true,
-        "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 19422273
-      }
-    },
-    {
-      "sourceId": "5uRYFxhT32k",
-      "title": "திருக்குறள் - தெரிந்து வினையாடல் | Therinthu Vinaiyaadal | Full Song Film",
-      "file": "thirukkural-backlog-12\\therinthu_vinaiyaadal\\THERINTHU_VINAIYAADAL-CINEMATIC-v1.mp4",
-      "googleVids": null,
-      "status": "ready; pending upload quota",
-      "qc": {
-        "sourceId": "5uRYFxhT32k",
-        "durationSeconds": 382.1666666666667,
-        "scenes": 12,
-        "uniqueImages": 12,
-        "originalAacBitstreamMatched": true,
-        "fullDecodePassed": true,
-        "allScenesHaveMovement": true,
-        "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 25645582
-      }
-    },
-    {
-      "sourceId": "GfGlO3RQuik",
-      "title": "திருக்குறள் - மடியின்மை | Madiyinmai | Full Song Film",
-      "file": "thirukkural-backlog-13\\madiyinmai\\MADIYINMAI-CINEMATIC-v1.mp4",
-      "googleVids": null,
-      "status": "ready; pending upload quota",
-      "qc": {
-        "sourceId": "GfGlO3RQuik",
-        "durationSeconds": 249.0,
-        "scenes": 12,
-        "uniqueImages": 12,
-        "originalAacBitstreamMatched": true,
-        "fullDecodePassed": true,
-        "allScenesHaveMovement": true,
-        "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 20461621
-      }
-    },
-    {
-      "sourceId": "u9NeXaCHu-A",
-      "title": "திருக்குறள் - மன்னரைச் சேர்ந்தொழுதல் | Mannarai Sernthozhuthal | Full Song Film",
-      "file": "thirukkural-backlog-13\\mannarai_sernthozhuthal\\MANNARAI_SERNTHOZHUTHAL-CINEMATIC-v1.mp4",
-      "googleVids": null,
-      "status": "ready; pending upload quota",
-      "qc": {
-        "sourceId": "u9NeXaCHu-A",
-        "durationSeconds": 265.5,
-        "scenes": 12,
-        "uniqueImages": 12,
-        "originalAacBitstreamMatched": true,
-        "fullDecodePassed": true,
-        "allScenesHaveMovement": true,
-        "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 18922687
-      }
-    },
-    {
-      "sourceId": "O0hASl4BS2c",
-      "title": "திருக்குறள் - பொச்சாவாமை | Pocchaavaamai | Full Song Film",
-      "file": "thirukkural-backlog-13\\pocchaavaamai\\POCCHAAVAAMAI-CINEMATIC-v1.mp4",
-      "googleVids": null,
-      "status": "ready; pending upload quota",
-      "qc": {
-        "sourceId": "O0hASl4BS2c",
-        "durationSeconds": 319.3333333333333,
-        "scenes": 12,
-        "uniqueImages": 12,
-        "originalAacBitstreamMatched": true,
-        "fullDecodePassed": true,
-        "allScenesHaveMovement": true,
-        "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 23459912
-      }
-    },
-    {
       "sourceId": "BoOWFaOGczE",
       "title": "திருக்குறள் - வாய்மை | Vaaimai | Full Song Film",
       "file": "thirukkural-backlog-14\\vaaimai\\VAAIMAI-CINEMATIC-v1.mp4",
@@ -773,6 +665,122 @@
         "logoPosition": "bottom-left, 24px inset",
         "fileBytes": 23187923
       }
+    },
+    {
+      "sourceId": "hjcH8zbEleE",
+      "title": "திருக்குறள் - வெருவந்த செய்யாமை | Veruvantha Seyyaamai | Full Song Film",
+      "file": "thirukkural-backlog-15\\veruvantha_seyyaamai\\VERUVANTHA_SEYYAAMAI-CINEMATIC-v1.mp4",
+      "googleVids": null,
+      "status": "ready; pending upload quota",
+      "qc": {
+        "sourceId": "hjcH8zbEleE",
+        "durationSeconds": 341.5,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 20906759
+      }
+    },
+    {
+      "sourceId": "--4jzoezBW8",
+      "title": "திருக்குறள் - வினைத்திட்பம் | Vinai Thitpam | Full Song Film",
+      "file": "thirukkural-backlog-15\\vinai_thitpam\\VINAI_THITPAM-CINEMATIC-v1.mp4",
+      "googleVids": null,
+      "status": "ready; pending upload quota",
+      "qc": {
+        "sourceId": "--4jzoezBW8",
+        "durationSeconds": 355.5,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 25378998
+      }
+    },
+    {
+      "sourceId": "cj6mlDwjJEo",
+      "title": "திருக்குறள் - வினைத்தூய்மை | Vinai Thooimai | Full Song Film",
+      "file": "thirukkural-backlog-15\\vinai_thooimai\\VINAI_THOOIMAI-CINEMATIC-v1.mp4",
+      "googleVids": null,
+      "status": "ready; pending upload quota",
+      "qc": {
+        "sourceId": "cj6mlDwjJEo",
+        "durationSeconds": 272.4166666666667,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 19629325
+      }
+    }
+  ],
+  "excludedAlternateRenders": [
+    {
+      "sourceId": "nf8EO1GdKlY",
+      "title": "திருக்குறள் - நாடு | Naadu | Full Song Film",
+      "alternateRender": "thirukkural-backlog-12\\naadu\\NAADU-CINEMATIC-v1.mp4",
+      "preferredOtherProduction": {
+        "manifest": "thirukkural-batch-03\\naadu\\manifest.json",
+        "file": "thirukkural-batch-03\\naadu\\NAADU-FILM.mp4"
+      },
+      "status": "alternate render excluded from upload; other agent owns this source song"
+    },
+    {
+      "sourceId": "aTFvlXMPBSE",
+      "title": "திருக்குறள் - பெரியாரைத் துணைக்கோடல் | Periyaarai Thunaikkodal | Full Song Film",
+      "alternateRender": "thirukkural-backlog-12\\periyaarai_thunaikkodal\\PERIYAARAI_THUNAIKKODAL-CINEMATIC-v1.mp4",
+      "preferredOtherProduction": {
+        "manifest": "thirukkural-batch-03\\periyaarai_thunaikkodal\\manifest.json",
+        "file": "thirukkural-batch-03\\periyaarai_thunaikkodal\\PERIYAARAI-THUNAIKKODAL-FILM.mp4"
+      },
+      "status": "alternate render excluded from upload; other agent owns this source song"
+    },
+    {
+      "sourceId": "5uRYFxhT32k",
+      "title": "திருக்குறள் - தெரிந்து வினையாடல் | Therinthu Vinaiyaadal | Full Song Film",
+      "alternateRender": "thirukkural-backlog-12\\therinthu_vinaiyaadal\\THERINTHU_VINAIYAADAL-CINEMATIC-v1.mp4",
+      "preferredOtherProduction": {
+        "manifest": "thirukkural-batch-03\\therinthu_vinaiyaadal\\manifest.json",
+        "file": "thirukkural-batch-03\\therinthu_vinaiyaadal\\THERINTHU-VINAIYAADAL-FILM.mp4"
+      },
+      "status": "alternate render excluded from upload; other agent owns this source song"
+    },
+    {
+      "sourceId": "GfGlO3RQuik",
+      "title": "திருக்குறள் - மடியின்மை | Madiyinmai | Full Song Film",
+      "alternateRender": "thirukkural-backlog-13\\madiyinmai\\MADIYINMAI-CINEMATIC-v1.mp4",
+      "preferredOtherProduction": {
+        "manifest": "thirukkural-batch-04\\madiyinmai\\manifest.json",
+        "file": "thirukkural-batch-04\\madiyinmai\\MADIYINMAI-FILM.mp4"
+      },
+      "status": "alternate render excluded from upload; other agent owns this source song"
+    },
+    {
+      "sourceId": "u9NeXaCHu-A",
+      "title": "திருக்குறள் - மன்னரைச் சேர்ந்தொழுதல் | Mannarai Sernthozhuthal | Full Song Film",
+      "alternateRender": "thirukkural-backlog-13\\mannarai_sernthozhuthal\\MANNARAI_SERNTHOZHUTHAL-CINEMATIC-v1.mp4",
+      "preferredOtherProduction": {
+        "manifest": "thirukkural-batch-04\\mannarai_sernthozhuthal\\manifest.json",
+        "file": "thirukkural-batch-04\\mannarai_sernthozhuthal\\MANNARAI-SERNTHOZHUTHAL-FILM.mp4"
+      },
+      "status": "alternate render excluded from upload; other agent owns this source song"
+    },
+    {
+      "sourceId": "O0hASl4BS2c",
+      "title": "திருக்குறள் - பொச்சாவாமை | Pocchaavaamai | Full Song Film",
+      "alternateRender": "thirukkural-backlog-13\\pocchaavaamai\\POCCHAAVAAMAI-CINEMATIC-v1.mp4",
+      "preferredOtherProduction": {
+        "manifest": "thirukkural-batch-04\\pocchaavaamai\\manifest.json",
+        "file": "thirukkural-batch-04\\pocchaavaamai\\POCCHAAVAAMAI-FILM.mp4"
+      },
+      "status": "alternate render excluded from upload; other agent owns this source song"
     }
   ]
 }

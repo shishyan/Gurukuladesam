@@ -37,9 +37,8 @@
         "9mOpq9daQVs",
         "HxxLl5p1t0A"
       ],
-      "status": "needs production",
-      "sourceId": "9mOpq9daQVs",
-      "sourceTitle": "அவையறிதல் (Original)"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-02\\avaiyarithal\\manifest.json"
     },
     {
       "chapter": "அறிவுடைமை",
@@ -48,9 +47,8 @@
         "bUepGv6PJQA",
         "0bz1myKXoJQ"
       ],
-      "status": "needs production",
-      "sourceId": "FkQqysk6vmE",
-      "sourceTitle": "அறிவுடைமை (Original)"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-02\\arivudaimai\\manifest.json"
     },
     {
       "chapter": "அன்புடைமை",
@@ -67,9 +65,8 @@
         "um09tyT-2p0",
         "37qaN4sG53k"
       ],
-      "status": "needs production",
-      "sourceId": "um09tyT-2p0",
-      "sourceTitle": "ஆள்வினையுடைமை (Original)"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-02\\aalvinaiyudaimai\\manifest.json"
     },
     {
       "chapter": "இடனறிதல்",
@@ -77,9 +74,8 @@
         "L-FvFZeT_cQ",
         "0DoegY9d0ZM"
       ],
-      "status": "needs production",
-      "sourceId": "L-FvFZeT_cQ",
-      "sourceTitle": "இடனறிதல் (Original)"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-03\\idanarithal\\manifest.json"
     },
     {
       "chapter": "இடுக்கண் அழியாமை",
@@ -87,17 +83,15 @@
         "B9N2j7r2KkI",
         "ulW6fg4lkYA"
       ],
-      "status": "needs production",
-      "sourceId": "B9N2j7r2KkI",
-      "sourceTitle": "இடுக்கண் அழியாமை (Original)"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-03\\idukkan_azhiyaamai\\manifest.json"
     },
     {
       "chapter": "இன்னா செய்தாரை",
       "recordings": [
         "Y3xujLwXuBs"
       ],
-      "status": "existing public film",
-      "id": "7npbkuQwjEE"
+      "status": "covered by Other Songs film audit"
     },
     {
       "chapter": "ஊக்கமுடைமை",
@@ -105,9 +99,8 @@
         "nHj4Q196kU4",
         "FXMVQIidbJU"
       ],
-      "status": "needs production",
-      "sourceId": "nHj4Q196kU4",
-      "sourceTitle": "ஊக்கமுடைமை (Original)"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-03\\ookkamudaimai\\manifest.json"
     },
     {
       "chapter": "ஒற்றாடல்",
@@ -115,9 +108,8 @@
         "cn776n6oKXQ",
         "tj_5hsasdyU"
       ],
-      "status": "needs production",
-      "sourceId": "cn776n6oKXQ",
-      "sourceTitle": "ஒற்றாடல் (Original)"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-04\\ottraadal\\manifest.json"
     },
     {
       "chapter": "கண்ணோட்டம்",
@@ -126,9 +118,8 @@
         "Vj6wcfC3rPk",
         "E7yfNOiwJmM"
       ],
-      "status": "needs production",
-      "sourceId": "SI8ItN6nqck",
-      "sourceTitle": "கண்ணோட்டம் (Original)"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-04\\kannottam\\manifest.json"
     },
     {
       "chapter": "கள்ளாமை",
@@ -136,9 +127,8 @@
         "h4Pc0KxvnRo",
         "jXOalu0JJoA"
       ],
-      "status": "needs production",
-      "sourceId": "h4Pc0KxvnRo",
-      "sourceTitle": "கள்ளாமை (Original)"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-04\\kallaamai\\manifest.json"
     },
     {
       "chapter": "காலமறிதல்",
@@ -146,9 +136,8 @@
         "diUv8fkOqv0",
         "cUt716Zafy0"
       ],
-      "status": "needs production",
-      "sourceId": "diUv8fkOqv0",
-      "sourceTitle": "காலமறிதல் (Original)"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-05\\kaalamarithal\\manifest.json"
     },
     {
       "chapter": "குற்றங்கடிதல்",
@@ -156,9 +145,8 @@
         "2_TfLljo1qg",
         "OzejLLvDq5s"
       ],
-      "status": "needs production",
-      "sourceId": "2_TfLljo1qg",
-      "sourceTitle": "குற்றங்கடிதல் (Original)"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-05\\kuttrankadithal\\manifest.json"
     },
     {
       "chapter": "குறிப்பறிதல்",
@@ -167,9 +155,8 @@
         "GN181JJ1lXU",
         "K35B1jST2xw"
       ],
-      "status": "needs production",
-      "sourceId": "6hfla_PRW40",
-      "sourceTitle": "குறிப்பறிதல் (Original)"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-05\\kuripparithal\\manifest.json"
     },
     {
       "chapter": "கூடா ஒழுக்கம்",
@@ -186,9 +173,8 @@
         "3CICxCn-4A0",
         "r75xdfETSbE"
       ],
-      "status": "needs production",
-      "sourceId": "3CICxCn-4A0",
-      "sourceTitle": "கேள்விச் செல்வம் (Original)"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-06\\kelvi_selvam\\manifest.json"
     },
     {
       "chapter": "கொடுங்கோன்மை",
@@ -196,9 +182,8 @@
         "tqF2NBWp6_8",
         "01g0sJdaL2I"
       ],
-      "status": "needs production",
-      "sourceId": "tqF2NBWp6_8",
-      "sourceTitle": "கொடுங்கோன்மை (Original)"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-06\\kodungonmai\\manifest.json"
     },
     {
       "chapter": "சிற்றினம் சேராமை",
@@ -206,9 +191,8 @@
         "5-z9v-1INWg",
         "UyCe3KLqY_8"
       ],
-      "status": "needs production",
-      "sourceId": "5-z9v-1INWg",
-      "sourceTitle": "சிற்றினம் சேராமை (Original)"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-06\\sitrinam_seraamai\\manifest.json"
     },
     {
       "chapter": "சுற்றந்தழால்",
@@ -216,9 +200,8 @@
         "pTxTsQzF8Xs",
         "9-SvikTz2FU"
       ],
-      "status": "needs production",
-      "sourceId": "pTxTsQzF8Xs",
-      "sourceTitle": "சுற்றந்தழால் (Original)"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-07\\suttranthazhaal\\manifest.json"
     },
     {
       "chapter": "செங்கோன்மை",
@@ -226,9 +209,8 @@
         "sScywbUNArA",
         "5coBrJy6a5M"
       ],
-      "status": "needs production",
-      "sourceId": "sScywbUNArA",
-      "sourceTitle": "செங்கோன்மை (Original)"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-07\\sengonmai\\manifest.json"
     },
     {
       "chapter": "சொல்வன்மை",
@@ -236,9 +218,8 @@
         "NIvQ6yD1wnY",
         "q2oGlYiV-qg"
       ],
-      "status": "needs production",
-      "sourceId": "NIvQ6yD1wnY",
-      "sourceTitle": "சொல்வன்மை (Original)"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-07\\solvanmai\\manifest.json"
     },
     {
       "chapter": "கல்வி",
@@ -261,27 +242,24 @@
       "recordings": [
         "C7PTFCAFIRI"
       ],
-      "status": "needs production",
-      "sourceId": "C7PTFCAFIRI",
-      "sourceTitle": "திருக்குறள் - அவா அறுத்தல்"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-08\\avaa_aruththal\\manifest.json"
     },
     {
       "chapter": "இறை மாட்சி",
       "recordings": [
         "K6mhIh64XE8"
       ],
-      "status": "needs production",
-      "sourceId": "K6mhIh64XE8",
-      "sourceTitle": "திருக்குறள் - இறை மாட்சி"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-08\\irai_maatchi\\manifest.json"
     },
     {
       "chapter": "ஊழ் வினை",
       "recordings": [
         "scUcWDtCge8"
       ],
-      "status": "needs production",
-      "sourceId": "scUcWDtCge8",
-      "sourceTitle": "திருக்குறள் - ஊழ் வினை"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-08\\oozh_vinai\\manifest.json"
     },
     {
       "chapter": "கடவுள் வாழ்த்து",
@@ -296,18 +274,16 @@
       "recordings": [
         "9YAr421Ft00"
       ],
-      "status": "needs production",
-      "sourceId": "9YAr421Ft00",
-      "sourceTitle": "திருக்குறள் - கல்லாமை"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-09\\kallaamai_learning\\manifest.json"
     },
     {
       "chapter": "கொல்லாமை",
       "recordings": [
         "rBeSH7tNEzA"
       ],
-      "status": "needs production",
-      "sourceId": "rBeSH7tNEzA",
-      "sourceTitle": "திருக்குறள் - கொல்லாமை"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-09\\kollaamai\\manifest.json"
     },
     {
       "chapter": "தவம்",
@@ -322,9 +298,8 @@
       "recordings": [
         "YL6ocN5OMzI"
       ],
-      "status": "needs production",
-      "sourceId": "YL6ocN5OMzI",
-      "sourceTitle": "திருக்குறள் - நிலையாமை 2026"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-09\\nilaiyaamai\\manifest.json"
     },
     {
       "chapter": "புலால் உண்ணாமை",
@@ -339,26 +314,23 @@
       "recordings": [
         "A86cP9ae6Vs"
       ],
-      "status": "needs production",
-      "sourceId": "A86cP9ae6Vs",
-      "sourceTitle": "திருக்குறள் - மெய்யுணர்தல்"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-10\\meyyunarithal\\manifest.json"
     },
     {
       "chapter": "வெகுளாமை",
       "recordings": [
         "WM8EPZ4KK2s"
       ],
-      "status": "needs production",
-      "sourceId": "WM8EPZ4KK2s",
-      "sourceTitle": "திருக்குறள் - வெகுளாமை 2026"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-10\\vegulaamai\\manifest.json"
     },
     {
       "chapter": "பொறை உடைமை",
       "recordings": [
         "aSQrSHA4YtU"
       ],
-      "status": "local production exists",
-      "manifest": "production\\ten-song-batch\\porai\\manifest.json"
+      "status": "covered by Other Songs film audit"
     },
     {
       "chapter": "இல்வாழ்க்கை",
@@ -376,9 +348,8 @@
         "LjiR9PIRl8o",
         "rq7PXPBI7SA"
       ],
-      "status": "needs production",
-      "sourceId": "WKCMHUFbf2Q",
-      "sourceTitle": "துறவு (Original)"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-10\\thuravu\\manifest.json"
     },
     {
       "chapter": "தூது",
@@ -386,9 +357,8 @@
         "aBA50x-gDME",
         "RY7nPGorS94"
       ],
-      "status": "needs production",
-      "sourceId": "aBA50x-gDME",
-      "sourceTitle": "தூது (Original)"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-11\\thoothu\\manifest.json"
     },
     {
       "chapter": "தெரிந்து செயல்வகை",
@@ -396,9 +366,8 @@
         "mpgnALSm7wk",
         "OqRZLEMvx8s"
       ],
-      "status": "needs production",
-      "sourceId": "OqRZLEMvx8s",
-      "sourceTitle": "தெரிந்து செயல்வகை (Original)"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-11\\therinthu_seyalvagai\\manifest.json"
     },
     {
       "chapter": "தெரிந்து தெளிதல்",
@@ -406,9 +375,8 @@
         "hrg_nAlW7VQ",
         "tLt9J-X9WOE"
       ],
-      "status": "needs production",
-      "sourceId": "hrg_nAlW7VQ",
-      "sourceTitle": "தெரிந்து தெளிதல் (Original)"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-11\\therinthu_thelithal\\manifest.json"
     },
     {
       "chapter": "தெரிந்து வினையாடல்",
@@ -416,9 +384,8 @@
         "5uRYFxhT32k",
         "F-aVgFOdKFo"
       ],
-      "status": "needs production",
-      "sourceId": "5uRYFxhT32k",
-      "sourceTitle": "தெரிந்து வினையாடல் (Original)"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-batch-03\\therinthu_vinaiyaadal\\manifest.json"
     },
     {
       "chapter": "நாடு",
@@ -426,9 +393,8 @@
         "nf8EO1GdKlY",
         "RAUafMVpT5k"
       ],
-      "status": "needs production",
-      "sourceId": "nf8EO1GdKlY",
-      "sourceTitle": "நாடு (Original)"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-batch-03\\naadu\\manifest.json"
     },
     {
       "chapter": "பெரியாரைத் துணைக்கோடல்",
@@ -436,9 +402,8 @@
         "aTFvlXMPBSE",
         "2Pun6K7h984"
       ],
-      "status": "needs production",
-      "sourceId": "aTFvlXMPBSE",
-      "sourceTitle": "பெரியாரைத் துணைக்கோடல் (Original)"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-batch-03\\periyaarai_thunaikkodal\\manifest.json"
     },
     {
       "chapter": "பொச்சாவாமை",
@@ -446,9 +411,8 @@
         "O0hASl4BS2c",
         "DhHGetUJlAI"
       ],
-      "status": "needs production",
-      "sourceId": "O0hASl4BS2c",
-      "sourceTitle": "பொச்சாவாமை (Original)"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-batch-04\\pocchaavaamai\\manifest.json"
     },
     {
       "chapter": "மடியின்மை",
@@ -456,9 +420,8 @@
         "GfGlO3RQuik",
         "Fh3HfGUObmg"
       ],
-      "status": "needs production",
-      "sourceId": "GfGlO3RQuik",
-      "sourceTitle": "மடியின்மை (Original)"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-batch-04\\madiyinmai\\manifest.json"
     },
     {
       "chapter": "மன்னரைச் சேர்ந்தொழுதல்",
@@ -466,9 +429,8 @@
         "zq1dxg5R-rY",
         "u9NeXaCHu-A"
       ],
-      "status": "needs production",
-      "sourceId": "u9NeXaCHu-A",
-      "sourceTitle": "மன்னரைச் சேர்ந்தொழுதல் (Original)"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-batch-04\\mannarai_sernthozhuthal\\manifest.json"
     },
     {
       "chapter": "வலியறிதல்",
@@ -476,9 +438,8 @@
         "Js6Vepbegr8",
         "FS5fUOxZySE"
       ],
-      "status": "needs production",
-      "sourceId": "Js6Vepbegr8",
-      "sourceTitle": "வலியறிதல் (Original)"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-14\\valiyarithal\\manifest.json"
     },
     {
       "chapter": "வாய்மை",
@@ -486,9 +447,8 @@
         "BoOWFaOGczE",
         "R-5gWfRNMts"
       ],
-      "status": "needs production",
-      "sourceId": "BoOWFaOGczE",
-      "sourceTitle": "வாய்மை (Original)"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-14\\vaaimai\\manifest.json"
     },
     {
       "chapter": "வினைசெயல்வகை",
@@ -496,9 +456,8 @@
         "MvwT6dnGE0U",
         "gBRvVKE_so8"
       ],
-      "status": "needs production",
-      "sourceId": "gBRvVKE_so8",
-      "sourceTitle": "வினைசெயல்வகை (Original)"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-14\\vinai_seyalvagai\\manifest.json"
     },
     {
       "chapter": "வினைத்திட்பம்",
@@ -506,9 +465,8 @@
         "--4jzoezBW8",
         "J-mAIpyxy4A"
       ],
-      "status": "needs production",
-      "sourceId": "--4jzoezBW8",
-      "sourceTitle": "வினைத்திட்பம் (Original)"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-15\\vinai_thitpam\\manifest.json"
     },
     {
       "chapter": "வினைத்தூய்மை",
@@ -517,9 +475,8 @@
         "XRizXIUU57g",
         "8wZGK0nGTEo"
       ],
-      "status": "needs production",
-      "sourceId": "cj6mlDwjJEo",
-      "sourceTitle": "வினைத்தூய்மை (Original)"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-15\\vinai_thooimai\\manifest.json"
     },
     {
       "chapter": "வெருவந்த செய்யாமை",
@@ -527,9 +484,8 @@
         "hjcH8zbEleE",
         "PmziMZrMHfE"
       ],
-      "status": "needs production",
-      "sourceId": "hjcH8zbEleE",
-      "sourceTitle": "வெருவந்த செய்யாமை (Original)"
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-15\\veruvantha_seyyaamai\\manifest.json"
     },
     {
       "chapter": "Hans Zimmer - Interstellar",
@@ -551,9 +507,7 @@
       "recordings": [
         "tX4JtRSOuxE"
       ],
-      "status": "needs production",
-      "sourceId": "tX4JtRSOuxE",
-      "sourceTitle": "Thirukkural Vaan Sirappu (வான் சிறப்பு)"
+      "status": "covered by Other Songs film audit"
     },
     {
       "chapter": "Thirukkural Vaazkkai Thunai",

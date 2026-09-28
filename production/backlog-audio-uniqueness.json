@@ -1,0 +1,369 @@
+{
+  "tracksChecked": 41,
+  "decodedPcmHashesUnique": true,
+  "method": "Full decoded mono 8kHz PCM SHA256; three six-second correlation windows for tracks with durations within two seconds.",
+  "duplicateCandidates": [],
+  "sameDurationComparisons": [
+    {
+      "sources": [
+        "QXhT9uoA7_w",
+        "FrZmyvY3sEc"
+      ],
+      "correlations": [
+        -0.0027117771411667053,
+        0.014004082015379038,
+        -0.013123905177416843
+      ]
+    },
+    {
+      "sources": [
+        "6ofQ9hrD1RQ",
+        "FkQqysk6vmE"
+      ],
+      "correlations": [
+        -0.011895100965121056,
+        0.005666104357046602,
+        -0.0018749952353448224
+      ]
+    },
+    {
+      "sources": [
+        "jBA9wlyNjAE",
+        "nHj4Q196kU4"
+      ],
+      "correlations": [
+        -0.009400906525530182,
+        0.019363629818976172,
+        0.005129044715645031
+      ]
+    },
+    {
+      "sources": [
+        "jBA9wlyNjAE",
+        "Js6Vepbegr8"
+      ],
+      "correlations": [
+        0.01516589258070162,
+        -0.015791610167797357,
+        -0.0010775345009655661
+      ]
+    },
+    {
+      "sources": [
+        "IiZoud1sP2o",
+        "6hfla_PRW40"
+      ],
+      "correlations": [
+        0.005269121512571826,
+        0.006387687725682107,
+        0.019350645861293928
+      ]
+    },
+    {
+      "sources": [
+        "IiZoud1sP2o",
+        "tqF2NBWp6_8"
+      ],
+      "correlations": [
+        0.004413603576350272,
+        0.03286913546160435,
+        -0.012847361107196004
+      ]
+    },
+    {
+      "sources": [
+        "IiZoud1sP2o",
+        "cj6mlDwjJEo"
+      ],
+      "correlations": [
+        -0.0058410738183659276,
+        -0.007046214868256934,
+        -0.006067369694353061
+      ]
+    },
+    {
+      "sources": [
+        "9mOpq9daQVs",
+        "K6mhIh64XE8"
+      ],
+      "correlations": [
+        0.0038049616672439046,
+        -0.00025124946573000414,
+        0.0019583188644983346
+      ]
+    },
+    {
+      "sources": [
+        "nHj4Q196kU4",
+        "Js6Vepbegr8"
+      ],
+      "correlations": [
+        0.0076101136869746126,
+        -0.011095915668284623,
+        0.013222109008791366
+      ]
+    },
+    {
+      "sources": [
+        "h4Pc0KxvnRo",
+        "aBA50x-gDME"
+      ],
+      "correlations": [
+        0.005401008611764978,
+        0.012563860110257005,
+        0.002047205014270757
+      ]
+    },
+    {
+      "sources": [
+        "6hfla_PRW40",
+        "tqF2NBWp6_8"
+      ],
+      "correlations": [
+        0.022010875685087177,
+        -0.01620592490271768,
+        -8.963314145578562e-05
+      ]
+    },
+    {
+      "sources": [
+        "6hfla_PRW40",
+        "cj6mlDwjJEo"
+      ],
+      "correlations": [
+        0.01107842907533205,
+        -0.009912845085925801,
+        -0.0025196523880241387
+      ]
+    },
+    {
+      "sources": [
+        "2_TfLljo1qg",
+        "C7PTFCAFIRI"
+      ],
+      "correlations": [
+        2.6607401454160355e-05,
+        -0.007216153360191111,
+        -0.004267158311259775
+      ]
+    },
+    {
+      "sources": [
+        "2_TfLljo1qg",
+        "scUcWDtCge8"
+      ],
+      "correlations": [
+        0.007901552952140407,
+        0.019780552940533318,
+        0.007373522237844984
+      ]
+    }
+  ],
+  "tracks": [
+    {
+      "sourceId": "QXhT9uoA7_w",
+      "durationSeconds": 238.54875,
+      "decodedPcmSha256": "9ebc05596d91c16e2d55a9075810742d0fe1389277aa1899168b6cff7ae0a9e3"
+    },
+    {
+      "sourceId": "6ofQ9hrD1RQ",
+      "durationSeconds": 302.589375,
+      "decodedPcmSha256": "7b0003f8bfc2fa3e93e7bb95a739d0099c97a4c5a2779b53809adbeb68556923"
+    },
+    {
+      "sourceId": "jBA9wlyNjAE",
+      "durationSeconds": 307.512,
+      "decodedPcmSha256": "081e48fa9a58afa00876ab330f649f8f73e9fe3ff3e2e5f61f29b06ed8ef41bb"
+    },
+    {
+      "sourceId": "IiZoud1sP2o",
+      "durationSeconds": 273.262625,
+      "decodedPcmSha256": "13ec6ea54cbd46afd24fd128ce9849b90d6c44beac8a55ba2089cdd502cc56d1"
+    },
+    {
+      "sourceId": "FrZmyvY3sEc",
+      "durationSeconds": 238.363,
+      "decodedPcmSha256": "52667e751f38569ce9787cd516467ab1c2a5263a27b1889b6ee7e263db1547cf"
+    },
+    {
+      "sourceId": "um09tyT-2p0",
+      "durationSeconds": 288.79675,
+      "decodedPcmSha256": "6d2fef3d927574b961df21e20233d91f69ebb8f2fd261d692372646d1cc74e74"
+    },
+    {
+      "sourceId": "FkQqysk6vmE",
+      "durationSeconds": 301.776625,
+      "decodedPcmSha256": "73282982171b9cdc8369f2a989d9de55685aa98268064e2781c63d8352c22822"
+    },
+    {
+      "sourceId": "9mOpq9daQVs",
+      "durationSeconds": 229.609125,
+      "decodedPcmSha256": "719a0643959d66c26f274efe01e8df7873ceced6c0069483e7cffbd576bd6dad"
+    },
+    {
+      "sourceId": "L-FvFZeT_cQ",
+      "durationSeconds": 270.2905,
+      "decodedPcmSha256": "2e9d87533a0b6d704098e903ecccc745824c84e526d7c2e5c4236dbca0d6f8b9"
+    },
+    {
+      "sourceId": "B9N2j7r2KkI",
+      "durationSeconds": 292.929875,
+      "decodedPcmSha256": "b869de97489e0eddc36a2aa9f8ed1c809b9e6ef871ba3b19739c95b72192b1f9"
+    },
+    {
+      "sourceId": "nHj4Q196kU4",
+      "durationSeconds": 307.21025,
+      "decodedPcmSha256": "436a45986d133fde97eb43ec9d827359ea14b7f0cd7753c8ef28a07fe373ec16"
+    },
+    {
+      "sourceId": "h4Pc0KxvnRo",
+      "durationSeconds": 240.7315,
+      "decodedPcmSha256": "2c6236ef4c17c0230a71e8aaa43acb6053527015d99945dda68d15c217b1993f"
+    },
+    {
+      "sourceId": "SI8ItN6nqck",
+      "durationSeconds": 314.687,
+      "decodedPcmSha256": "6c3efbde853241a04e761e269e7ebe1e2e36ddf096bd140498364e4de929454f"
+    },
+    {
+      "sourceId": "cn776n6oKXQ",
+      "durationSeconds": 320.399125,
+      "decodedPcmSha256": "17874819dbb3e6216005b89643b2632748932c5de5de4b87d7a6c251cd9bc98c"
+    },
+    {
+      "sourceId": "diUv8fkOqv0",
+      "durationSeconds": 261.35075,
+      "decodedPcmSha256": "4fa1cd647fbce27d1c426672a666eab725ecff5ba769c77d13f7108e7e488137"
+    },
+    {
+      "sourceId": "6hfla_PRW40",
+      "durationSeconds": 274.145,
+      "decodedPcmSha256": "70279727c2af76c245dc65d9afa722b644c109b072ec943c5d0f817856bbfcc5"
+    },
+    {
+      "sourceId": "2_TfLljo1qg",
+      "durationSeconds": 233.57975,
+      "decodedPcmSha256": "a1e10439991e39636ddc9a8a2e10db7771ad282d61cb13e330daa9ec56a51e2f"
+    },
+    {
+      "sourceId": "3CICxCn-4A0",
+      "durationSeconds": 248.78875,
+      "decodedPcmSha256": "2c0cc16d3f02c0461691189abc588da9f88d7fc03e9437d050548fa3f132fa02"
+    },
+    {
+      "sourceId": "tqF2NBWp6_8",
+      "durationSeconds": 275.166625,
+      "decodedPcmSha256": "3777d2469b6e546798c7805f8aa9c9119e077a558e7cad3a3fe704663afabd8c"
+    },
+    {
+      "sourceId": "5-z9v-1INWg",
+      "durationSeconds": 353.441125,
+      "decodedPcmSha256": "16587ec711deec364232ae410a9c3c8ee2e3ffd1415e1629931667ab16250820"
+    },
+    {
+      "sourceId": "sScywbUNArA",
+      "durationSeconds": 296.92375,
+      "decodedPcmSha256": "6967ebfc86989ce290769cb1425cadaa0926ce30d21613f7fdaa3c5fb993166e"
+    },
+    {
+      "sourceId": "NIvQ6yD1wnY",
+      "durationSeconds": 338.766125,
+      "decodedPcmSha256": "70ddd8b1389336aa37ec5624ca99647790280929422289d6ecdcdcf61b26d357"
+    },
+    {
+      "sourceId": "pTxTsQzF8Xs",
+      "durationSeconds": 413.07,
+      "decodedPcmSha256": "4dfc86546f1a18380ebea30dee43b531f4230bb271c3227898ea72424b8ba7de"
+    },
+    {
+      "sourceId": "C7PTFCAFIRI",
+      "durationSeconds": 231.745375,
+      "decodedPcmSha256": "6324bdae4919840bc70c1c02414fd2cca2ca7acc4fe64ffdb3b86d0e907b400b"
+    },
+    {
+      "sourceId": "K6mhIh64XE8",
+      "durationSeconds": 227.635375,
+      "decodedPcmSha256": "910d6857840758199a4567a55baee4223a8f7934b34d477c99a458940b2ec423"
+    },
+    {
+      "sourceId": "scUcWDtCge8",
+      "durationSeconds": 234.044125,
+      "decodedPcmSha256": "6535150c76026351643bd6969f0321a83c62bc98225c73850ab3d2db8e1ae8c4"
+    },
+    {
+      "sourceId": "9YAr421Ft00",
+      "durationSeconds": 395.794375,
+      "decodedPcmSha256": "a601bb19eb1ad3a434e621268d031875ef60f212e2df07be6fdee0b79f68b5d2"
+    },
+    {
+      "sourceId": "rBeSH7tNEzA",
+      "durationSeconds": 277.44225,
+      "decodedPcmSha256": "50e7c834ed5d9e6d767eb27b6db3cc57cd2be2894902bef37baed62d5b13a5df"
+    },
+    {
+      "sourceId": "YL6ocN5OMzI",
+      "durationSeconds": 251.087625,
+      "decodedPcmSha256": "8b2c4f804ec17ada5b9599d4c280404337811cac8662e42a7dedc71f7cfeeec4"
+    },
+    {
+      "sourceId": "A86cP9ae6Vs",
+      "durationSeconds": 207.410875,
+      "decodedPcmSha256": "099a67b22b211ecfd26280b13f08cb2cbd781b5cbe4cc97dbe2179b24127af86"
+    },
+    {
+      "sourceId": "WKCMHUFbf2Q",
+      "durationSeconds": 266.761,
+      "decodedPcmSha256": "37c7dbb12542d4a4914ab0d19e5027d769d3654075ab78ef3c164d6387b5809f"
+    },
+    {
+      "sourceId": "WM8EPZ4KK2s",
+      "durationSeconds": 324.78775,
+      "decodedPcmSha256": "e8194494d8a875cfeb85006e548064f2368ac0fd3c6d67d15c4afd5fc89b9be8"
+    },
+    {
+      "sourceId": "OqRZLEMvx8s",
+      "durationSeconds": 347.58975,
+      "decodedPcmSha256": "a499465fe97d7d00d7d3f4d36b4de573bc95873f221cd4240eb21e8a5fbab917"
+    },
+    {
+      "sourceId": "hrg_nAlW7VQ",
+      "durationSeconds": 397.884125,
+      "decodedPcmSha256": "017b218f0f1d0ea0c0755d6b5ece8246e9ed86a7202a0abdb2c8e3af2333e84c"
+    },
+    {
+      "sourceId": "aBA50x-gDME",
+      "durationSeconds": 242.728375,
+      "decodedPcmSha256": "e4e3e750daa265421d4c7792ff0c99bb58256e12fdd6a91dc87a4c01af9c711f"
+    },
+    {
+      "sourceId": "BoOWFaOGczE",
+      "durationSeconds": 253.920375,
+      "decodedPcmSha256": "7a00291fd28c8b5f2b525d61869b680cec2cd921340f0db0d2ed6bf75981e6b5"
+    },
+    {
+      "sourceId": "Js6Vepbegr8",
+      "durationSeconds": 308.348,
+      "decodedPcmSha256": "6ae02c4c0a992664d284aab02e411d43973238741fe1c0f9ac347b5c8cd7cf83"
+    },
+    {
+      "sourceId": "gBRvVKE_so8",
+      "durationSeconds": 279.996375,
+      "decodedPcmSha256": "88e109d5d09aee6eb845aa7f83fda597c0bd3a78f0a693328a16beeaad40eac7"
+    },
+    {
+      "sourceId": "hjcH8zbEleE",
+      "durationSeconds": 341.506125,
+      "decodedPcmSha256": "8bc5bcef1e65e8145a05c812ff92fabdd9fb9ec561aa817931e3caa542285f12"
+    },
+    {
+      "sourceId": "--4jzoezBW8",
+      "durationSeconds": 355.46125,
+      "decodedPcmSha256": "d7338d35697841548bf67a258ae8bf432c2eb45b7ff910ae9a2c87605e954932"
+    },
+    {
+      "sourceId": "cj6mlDwjJEo",
+      "durationSeconds": 272.4035,
+      "decodedPcmSha256": "8eca8947ebc42add05ff9768b515681b477bad008b15d72f7da12af90d560a28"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "sourceId": "cj6mlDwjJEo",
+  "title": "திருக்குறள் - வினைத்தூய்மை | Vinai Thooimai | Full Song Film",
+  "output": "VINAI_THOOIMAI-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "narrative scene 1",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-15\\vinai_thooimai\\new-1.png",
+      "inFrame": 0,
+      "outFrame": 274
+    },
+    {
+      "image": "S02.png",
+      "role": "narrative scene 2",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S02.png",
+      "inFrame": 274,
+      "outFrame": 555
+    },
+    {
+      "image": "S03.png",
+      "role": "narrative scene 3",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S06.png",
+      "inFrame": 555,
+      "outFrame": 828
+    },
+    {
+      "image": "S04.png",
+      "role": "narrative scene 4",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-15\\vinai_thooimai\\new-2.png",
+      "inFrame": 828,
+      "outFrame": 1081
+    },
+    {
+      "image": "S05.png",
+      "role": "narrative scene 5",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S07.png",
+      "inFrame": 1081,
+      "outFrame": 1354
+    },
+    {
+      "image": "S06.png",
+      "role": "narrative scene 6",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S08.png",
+      "inFrame": 1354,
+      "outFrame": 1644
+    },
+    {
+      "image": "S07.png",
+      "role": "narrative scene 7",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\avaiyarithal\\S07.png",
+      "inFrame": 1644,
+      "outFrame": 1902
+    },
+    {
+      "image": "S08.png",
+      "role": "narrative scene 8",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-15\\vinai_thooimai\\new-3.png",
+      "inFrame": 1902,
+      "outFrame": 2190
+    },
+    {
+      "image": "S09.png",
+      "role": "narrative scene 9",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S09.png",
+      "inFrame": 2190,
+      "outFrame": 2442
+    },
+    {
+      "image": "S10.png",
+      "role": "narrative scene 10",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S11.png",
+      "inFrame": 2442,
+      "outFrame": 2712
+    },
+    {
+      "image": "S11.png",
+      "role": "narrative scene 11",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S12.png",
+      "inFrame": 2712,
+      "outFrame": 2996
+    },
+    {
+      "image": "S12.png",
+      "role": "narrative scene 12",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-15\\vinai_thooimai\\new-4.png",
+      "inFrame": 2996,
+      "outFrame": 3269
+    }
+  ],
+  "imageDerived": true,
+  "theme": "ethical purity in action",
+  "duplicateAudit": {
+    "publicVideosChecked": 180,
+    "matchingFilms": []
+  },
+  "publicationStatus": "pending YouTube daily upload quota",
+  "fps": 12,
+  "targetFrames": 3269,
+  "cutRule": "near even spacing at low audio energy"
+}

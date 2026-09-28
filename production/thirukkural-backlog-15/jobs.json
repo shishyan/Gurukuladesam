@@ -1,0 +1,55 @@
+{
+  "songs": [
+    {
+      "sourceId": "--4jzoezBW8",
+      "chapter": "வினைத்திட்பம்",
+      "english": "Vinai Thitpam",
+      "theme": "steadfast determination in action",
+      "slug": "vinai_thitpam",
+      "supportingImages": [
+        "thirukkural-backlog-02/aalvinaiyudaimai/S01.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S02.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S03.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S04.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S07.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S09.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S10.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S11.png"
+      ]
+    },
+    {
+      "sourceId": "cj6mlDwjJEo",
+      "chapter": "வினைத்தூய்மை",
+      "english": "Vinai Thooimai",
+      "theme": "ethical purity in action",
+      "slug": "vinai_thooimai",
+      "supportingImages": [
+        "thirukkural-backlog-01/amaichu/S02.png",
+        "thirukkural-backlog-01/amaichu/S06.png",
+        "thirukkural-backlog-02/arivudaimai/S07.png",
+        "thirukkural-backlog-01/amaichu/S08.png",
+        "thirukkural-backlog-02/avaiyarithal/S07.png",
+        "thirukkural-backlog-02/arivudaimai/S09.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S11.png",
+        "thirukkural-backlog-01/amaichu/S12.png"
+      ]
+    },
+    {
+      "sourceId": "hjcH8zbEleE",
+      "chapter": "வெருவந்த செய்யாமை",
+      "english": "Veruvantha Seyyaamai",
+      "theme": "governance that inspires trust rather than fear",
+      "slug": "veruvantha_seyyaamai",
+      "supportingImages": [
+        "thirukkural-backlog-01/amaichu/S02.png",
+        "thirukkural-backlog-01/amaichu/S03.png",
+        "thirukkural-backlog-01/amaichu/S04.png",
+        "thirukkural-backlog-01/amaichu/S06.png",
+        "thirukkural-backlog-01/amaichu/S07.png",
+        "thirukkural-backlog-02/avaiyarithal/S05.png",
+        "thirukkural-backlog-02/avaiyarithal/S09.png",
+        "thirukkural-backlog-01/amaichu/S10.png"
+      ]
+    }
+  ]
+}

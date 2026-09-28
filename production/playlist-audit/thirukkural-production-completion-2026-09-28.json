@@ -1,0 +1,126 @@
+{
+  "checkedAtUtc": "2026-09-28 04:57:08 UTC",
+  "playlist": "Thirukkural Master Collection",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PLW7qBZp_Q8Ro",
+  "livePlaylistEntriesChecked": 112,
+  "catalogSourceEntries": 105,
+  "newLiveEntriesAllExistingFilms": [
+    {
+      "id": "f1jxgAbXcdE",
+      "title": "வான் சிறப்பு | Vaan Sirappu Cinematic Thirukkural Film"
+    },
+    {
+      "id": "KZxknhbVIk0",
+      "title": "கல்வி | Kalvi Cinematic Thirukkural Film"
+    },
+    {
+      "id": "R82hz_s2YGQ",
+      "title": "பொறையுடைமை | Porai Udaimai Cinematic Thirukkural Film"
+    },
+    {
+      "id": "7npbkuQwjEE",
+      "title": "இன்னா செய்தாரை | Inna Seidharai Cinematic Thirukkural Film"
+    },
+    {
+      "id": "SWAjAbur-TQ",
+      "title": "திருக்குறள் - கடவுள் வாழ்த்து | Kadavul Vazhthu Cinematic Thirukkural Film"
+    },
+    {
+      "id": "C05GEfkJZaY",
+      "title": "திருக்குறள் - இல்வாழ்க்கை | Ilvazhkkai Cinematic Thirukkural Film"
+    },
+    {
+      "id": "0fD-z3s_g2A",
+      "title": "திருக்குறள் - அருளுடைமை | Aruludaimai Cinematic Thirukkural Film"
+    }
+  ],
+  "chapterStatusCounts": {
+    "local production exists": 50,
+    "existing public film": 5,
+    "covered by Other Songs film audit": 3,
+    "outside devotional scope": 1
+  },
+  "chaptersWithoutKnownPublicOrLocalProduction": 0,
+  "localBacklogBatchesRendered": 15,
+  "rendersCompleted": 45,
+  "uniqueNewBacklogFilmsInUploadQueue": 39,
+  "earlierReadyFilmsInUploadQueue": 2,
+  "readyToUploadCount": 41,
+  "parallelAlternateRendersSuppressed": 6,
+  "otherAgentOwners": [
+    {
+      "sourceId": "nf8EO1GdKlY",
+      "title": "திருக்குறள் - நாடு | Naadu | Full Song Film",
+      "alternateRender": "thirukkural-backlog-12\\naadu\\NAADU-CINEMATIC-v1.mp4",
+      "preferredOtherProduction": {
+        "manifest": "thirukkural-batch-03\\naadu\\manifest.json",
+        "file": "thirukkural-batch-03\\naadu\\NAADU-FILM.mp4"
+      },
+      "status": "alternate render excluded from upload; other agent owns this source song"
+    },
+    {
+      "sourceId": "aTFvlXMPBSE",
+      "title": "திருக்குறள் - பெரியாரைத் துணைக்கோடல் | Periyaarai Thunaikkodal | Full Song Film",
+      "alternateRender": "thirukkural-backlog-12\\periyaarai_thunaikkodal\\PERIYAARAI_THUNAIKKODAL-CINEMATIC-v1.mp4",
+      "preferredOtherProduction": {
+        "manifest": "thirukkural-batch-03\\periyaarai_thunaikkodal\\manifest.json",
+        "file": "thirukkural-batch-03\\periyaarai_thunaikkodal\\PERIYAARAI-THUNAIKKODAL-FILM.mp4"
+      },
+      "status": "alternate render excluded from upload; other agent owns this source song"
+    },
+    {
+      "sourceId": "5uRYFxhT32k",
+      "title": "திருக்குறள் - தெரிந்து வினையாடல் | Therinthu Vinaiyaadal | Full Song Film",
+      "alternateRender": "thirukkural-backlog-12\\therinthu_vinaiyaadal\\THERINTHU_VINAIYAADAL-CINEMATIC-v1.mp4",
+      "preferredOtherProduction": {
+        "manifest": "thirukkural-batch-03\\therinthu_vinaiyaadal\\manifest.json",
+        "file": "thirukkural-batch-03\\therinthu_vinaiyaadal\\THERINTHU-VINAIYAADAL-FILM.mp4"
+      },
+      "status": "alternate render excluded from upload; other agent owns this source song"
+    },
+    {
+      "sourceId": "GfGlO3RQuik",
+      "title": "திருக்குறள் - மடியின்மை | Madiyinmai | Full Song Film",
+      "alternateRender": "thirukkural-backlog-13\\madiyinmai\\MADIYINMAI-CINEMATIC-v1.mp4",
+      "preferredOtherProduction": {
+        "manifest": "thirukkural-batch-04\\madiyinmai\\manifest.json",
+        "file": "thirukkural-batch-04\\madiyinmai\\MADIYINMAI-FILM.mp4"
+      },
+      "status": "alternate render excluded from upload; other agent owns this source song"
+    },
+    {
+      "sourceId": "u9NeXaCHu-A",
+      "title": "திருக்குறள் - மன்னரைச் சேர்ந்தொழுதல் | Mannarai Sernthozhuthal | Full Song Film",
+      "alternateRender": "thirukkural-backlog-13\\mannarai_sernthozhuthal\\MANNARAI_SERNTHOZHUTHAL-CINEMATIC-v1.mp4",
+      "preferredOtherProduction": {
+        "manifest": "thirukkural-batch-04\\mannarai_sernthozhuthal\\manifest.json",
+        "file": "thirukkural-batch-04\\mannarai_sernthozhuthal\\MANNARAI-SERNTHOZHUTHAL-FILM.mp4"
+      },
+      "status": "alternate render excluded from upload; other agent owns this source song"
+    },
+    {
+      "sourceId": "O0hASl4BS2c",
+      "title": "திருக்குறள் - பொச்சாவாமை | Pocchaavaamai | Full Song Film",
+      "alternateRender": "thirukkural-backlog-13\\pocchaavaamai\\POCCHAAVAAMAI-CINEMATIC-v1.mp4",
+      "preferredOtherProduction": {
+        "manifest": "thirukkural-batch-04\\pocchaavaamai\\manifest.json",
+        "file": "thirukkural-batch-04\\pocchaavaamai\\POCCHAAVAAMAI-FILM.mp4"
+      },
+      "status": "alternate render excluded from upload; other agent owns this source song"
+    }
+  ],
+  "noDuplicateAudioCandidates": true,
+  "productionPlanFinished": true,
+  "publicationFinished": false,
+  "blocker": {
+    "checkedAtUtc": "2026-09-28 04:57:08 UTC",
+    "channel": "@guru-kula-desam",
+    "channelId": "UCPqB1A_WzpLJec6q69BOO3Q",
+    "sourceId": "QXhT9uoA7_w",
+    "result": "blocked",
+    "message": "Daily upload limit reached. You can upload more videos in 24 hours.",
+    "verification": "Fresh Edge Studio tab, correct channel displayed, actual MP4 upload attempt.",
+    "publishedUrl": null
+  },
+  "scopeNote": "One film per uncovered devotional Thirukkural chapter. Alternate recordings of filmed chapters are deferred; the Hans Zimmer Space Sounds entry is outside the devotional scope. Other-agent productions retain ownership of six source songs."
+}

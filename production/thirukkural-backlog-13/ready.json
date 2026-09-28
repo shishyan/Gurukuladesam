@@ -4,7 +4,7 @@
       "sourceId": "GfGlO3RQuik",
       "title": "திருக்குறள் - மடியின்மை | Madiyinmai | Full Song Film",
       "file": "madiyinmai\\MADIYINMAI-CINEMATIC-v1.mp4",
-      "status": "ready; pending daily upload quota",
+      "status": "excluded from upload: other-agent production exists",
       "publishedUrl": null,
       "qc": {
         "sourceId": "GfGlO3RQuik",
@@ -16,13 +16,18 @@
         "allScenesHaveMovement": true,
         "logoPosition": "bottom-left, 24px inset",
         "fileBytes": 20461621
+      },
+      "uploadSuppressed": true,
+      "preferredOtherProduction": {
+        "manifest": "thirukkural-batch-04\\madiyinmai\\manifest.json",
+        "file": "thirukkural-batch-04\\madiyinmai\\MADIYINMAI-FILM.mp4"
       }
     },
     {
       "sourceId": "u9NeXaCHu-A",
       "title": "திருக்குறள் - மன்னரைச் சேர்ந்தொழுதல் | Mannarai Sernthozhuthal | Full Song Film",
       "file": "mannarai_sernthozhuthal\\MANNARAI_SERNTHOZHUTHAL-CINEMATIC-v1.mp4",
-      "status": "ready; pending daily upload quota",
+      "status": "excluded from upload: other-agent production exists",
       "publishedUrl": null,
       "qc": {
         "sourceId": "u9NeXaCHu-A",
@@ -34,13 +39,18 @@
         "allScenesHaveMovement": true,
         "logoPosition": "bottom-left, 24px inset",
         "fileBytes": 18922687
+      },
+      "uploadSuppressed": true,
+      "preferredOtherProduction": {
+        "manifest": "thirukkural-batch-04\\mannarai_sernthozhuthal\\manifest.json",
+        "file": "thirukkural-batch-04\\mannarai_sernthozhuthal\\MANNARAI-SERNTHOZHUTHAL-FILM.mp4"
       }
     },
     {
       "sourceId": "O0hASl4BS2c",
       "title": "திருக்குறள் - பொச்சாவாமை | Pocchaavaamai | Full Song Film",
       "file": "pocchaavaamai\\POCCHAAVAAMAI-CINEMATIC-v1.mp4",
-      "status": "ready; pending daily upload quota",
+      "status": "excluded from upload: other-agent production exists",
       "publishedUrl": null,
       "qc": {
         "sourceId": "O0hASl4BS2c",
@@ -52,6 +62,11 @@
         "allScenesHaveMovement": true,
         "logoPosition": "bottom-left, 24px inset",
         "fileBytes": 23459912
+      },
+      "uploadSuppressed": true,
+      "preferredOtherProduction": {
+        "manifest": "thirukkural-batch-04\\pocchaavaamai\\manifest.json",
+        "file": "thirukkural-batch-04\\pocchaavaamai\\POCCHAAVAAMAI-FILM.mp4"
       }
     }
   ]
