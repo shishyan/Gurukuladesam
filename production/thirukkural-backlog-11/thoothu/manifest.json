@@ -1,0 +1,113 @@
+{
+  "sourceId": "aBA50x-gDME",
+  "title": "திருக்குறள் - தூது | Thoothu | Full Song Film",
+  "output": "THOOTHU-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "narrative scene 1",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-11\\thoothu\\new-1.png",
+      "inFrame": 0,
+      "outFrame": 238
+    },
+    {
+      "image": "S02.png",
+      "role": "narrative scene 2",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S02.png",
+      "inFrame": 238,
+      "outFrame": 493
+    },
+    {
+      "image": "S03.png",
+      "role": "narrative scene 3",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S03.png",
+      "inFrame": 493,
+      "outFrame": 722
+    },
+    {
+      "image": "S04.png",
+      "role": "narrative scene 4",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-11\\thoothu\\new-2.png",
+      "inFrame": 722,
+      "outFrame": 983
+    },
+    {
+      "image": "S05.png",
+      "role": "narrative scene 5",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S04.png",
+      "inFrame": 983,
+      "outFrame": 1213
+    },
+    {
+      "image": "S06.png",
+      "role": "narrative scene 6",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S06.png",
+      "inFrame": 1213,
+      "outFrame": 1463
+    },
+    {
+      "image": "S07.png",
+      "role": "narrative scene 7",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S07.png",
+      "inFrame": 1463,
+      "outFrame": 1692
+    },
+    {
+      "image": "S08.png",
+      "role": "narrative scene 8",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-11\\thoothu\\new-3.png",
+      "inFrame": 1692,
+      "outFrame": 1933
+    },
+    {
+      "image": "S09.png",
+      "role": "narrative scene 9",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\avaiyarithal\\S05.png",
+      "inFrame": 1933,
+      "outFrame": 2186
+    },
+    {
+      "image": "S10.png",
+      "role": "narrative scene 10",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\avaiyarithal\\S09.png",
+      "inFrame": 2186,
+      "outFrame": 2425
+    },
+    {
+      "image": "S11.png",
+      "role": "narrative scene 11",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S10.png",
+      "inFrame": 2425,
+      "outFrame": 2666
+    },
+    {
+      "image": "S12.png",
+      "role": "narrative scene 12",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-11\\thoothu\\new-4.png",
+      "inFrame": 2666,
+      "outFrame": 2913
+    }
+  ],
+  "imageDerived": true,
+  "theme": "a thoughtful envoy carrying a peaceful message",
+  "duplicateAudit": {
+    "publicVideosChecked": 180,
+    "matchingFilms": []
+  },
+  "publicationStatus": "pending YouTube daily upload quota",
+  "fps": 12,
+  "targetFrames": 2913,
+  "cutRule": "near even spacing at low audio energy"
+}

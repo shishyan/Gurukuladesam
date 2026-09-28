@@ -1,0 +1,113 @@
+{
+  "sourceId": "nf8EO1GdKlY",
+  "title": "திருக்குறள் - நாடு | Naadu | Full Song Film",
+  "output": "NAADU-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "narrative scene 1",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-12\\naadu\\new-1.png",
+      "inFrame": 0,
+      "outFrame": 223
+    },
+    {
+      "image": "S02.png",
+      "role": "narrative scene 2",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S01.png",
+      "inFrame": 223,
+      "outFrame": 448
+    },
+    {
+      "image": "S03.png",
+      "role": "narrative scene 3",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S02.png",
+      "inFrame": 448,
+      "outFrame": 665
+    },
+    {
+      "image": "S04.png",
+      "role": "narrative scene 4",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-12\\naadu\\new-2.png",
+      "inFrame": 665,
+      "outFrame": 871
+    },
+    {
+      "image": "S05.png",
+      "role": "narrative scene 5",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S03.png",
+      "inFrame": 871,
+      "outFrame": 1104
+    },
+    {
+      "image": "S06.png",
+      "role": "narrative scene 6",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S04.png",
+      "inFrame": 1104,
+      "outFrame": 1300
+    },
+    {
+      "image": "S07.png",
+      "role": "narrative scene 7",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S07.png",
+      "inFrame": 1300,
+      "outFrame": 1537
+    },
+    {
+      "image": "S08.png",
+      "role": "narrative scene 8",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-12\\naadu\\new-3.png",
+      "inFrame": 1537,
+      "outFrame": 1753
+    },
+    {
+      "image": "S09.png",
+      "role": "narrative scene 9",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S09.png",
+      "inFrame": 1753,
+      "outFrame": 1969
+    },
+    {
+      "image": "S10.png",
+      "role": "narrative scene 10",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S10.png",
+      "inFrame": 1969,
+      "outFrame": 2179
+    },
+    {
+      "image": "S11.png",
+      "role": "narrative scene 11",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S11.png",
+      "inFrame": 2179,
+      "outFrame": 2408
+    },
+    {
+      "image": "S12.png",
+      "role": "narrative scene 12",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-12\\naadu\\new-4.png",
+      "inFrame": 2408,
+      "outFrame": 2622
+    }
+  ],
+  "imageDerived": true,
+  "theme": "a flourishing land sustained by people and resources",
+  "duplicateAudit": {
+    "publicVideosChecked": 180,
+    "matchingFilms": []
+  },
+  "publicationStatus": "pending YouTube daily upload quota",
+  "fps": 12,
+  "targetFrames": 2622,
+  "cutRule": "near even spacing at low audio energy"
+}

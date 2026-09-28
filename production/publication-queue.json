@@ -1,6 +1,6 @@
 {
   "channel": "@guru-kula-desam",
-  "pendingCount": 32,
+  "pendingCount": 38,
   "blocker": "YouTube daily upload limit",
   "releaseInstructions": "Recheck public channel for duplicates, import locally finished films into Google Vids, publish through the correct channel Studio, and verify public URLs. Scheduling requires the upload to succeed first.",
   "songs": [
@@ -556,6 +556,114 @@
         "allScenesHaveMovement": true,
         "logoPosition": "bottom-left, 24px inset",
         "fileBytes": 20857152
+      }
+    },
+    {
+      "sourceId": "OqRZLEMvx8s",
+      "title": "திருக்குறள் - தெரிந்து செயல்வகை | Therinthu Seyalvagai | Full Song Film",
+      "file": "thirukkural-backlog-11\\therinthu_seyalvagai\\THERINTHU_SEYALVAGAI-CINEMATIC-v1.mp4",
+      "googleVids": null,
+      "status": "ready; pending upload quota",
+      "qc": {
+        "sourceId": "OqRZLEMvx8s",
+        "durationSeconds": 347.5833333333333,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 24815804
+      }
+    },
+    {
+      "sourceId": "hrg_nAlW7VQ",
+      "title": "திருக்குறள் - தெரிந்து தெளிதல் | Therinthu Thelithal | Full Song Film",
+      "file": "thirukkural-backlog-11\\therinthu_thelithal\\THERINTHU_THELITHAL-CINEMATIC-v1.mp4",
+      "googleVids": null,
+      "status": "ready; pending upload quota",
+      "qc": {
+        "sourceId": "hrg_nAlW7VQ",
+        "durationSeconds": 397.9166666666667,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 22459248
+      }
+    },
+    {
+      "sourceId": "aBA50x-gDME",
+      "title": "திருக்குறள் - தூது | Thoothu | Full Song Film",
+      "file": "thirukkural-backlog-11\\thoothu\\THOOTHU-CINEMATIC-v1.mp4",
+      "googleVids": null,
+      "status": "ready; pending upload quota",
+      "qc": {
+        "sourceId": "aBA50x-gDME",
+        "durationSeconds": 242.75,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 16317774
+      }
+    },
+    {
+      "sourceId": "nf8EO1GdKlY",
+      "title": "திருக்குறள் - நாடு | Naadu | Full Song Film",
+      "file": "thirukkural-backlog-12\\naadu\\NAADU-CINEMATIC-v1.mp4",
+      "googleVids": null,
+      "status": "ready; pending upload quota",
+      "qc": {
+        "sourceId": "nf8EO1GdKlY",
+        "durationSeconds": 218.5,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 19390973
+      }
+    },
+    {
+      "sourceId": "aTFvlXMPBSE",
+      "title": "திருக்குறள் - பெரியாரைத் துணைக்கோடல் | Periyaarai Thunaikkodal | Full Song Film",
+      "file": "thirukkural-backlog-12\\periyaarai_thunaikkodal\\PERIYAARAI_THUNAIKKODAL-CINEMATIC-v1.mp4",
+      "googleVids": null,
+      "status": "ready; pending upload quota",
+      "qc": {
+        "sourceId": "aTFvlXMPBSE",
+        "durationSeconds": 273.25,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 19422273
+      }
+    },
+    {
+      "sourceId": "5uRYFxhT32k",
+      "title": "திருக்குறள் - தெரிந்து வினையாடல் | Therinthu Vinaiyaadal | Full Song Film",
+      "file": "thirukkural-backlog-12\\therinthu_vinaiyaadal\\THERINTHU_VINAIYAADAL-CINEMATIC-v1.mp4",
+      "googleVids": null,
+      "status": "ready; pending upload quota",
+      "qc": {
+        "sourceId": "5uRYFxhT32k",
+        "durationSeconds": 382.1666666666667,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 25645582
       }
     }
   ]

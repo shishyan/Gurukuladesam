@@ -1,0 +1,55 @@
+{
+  "songs": [
+    {
+      "sourceId": "5uRYFxhT32k",
+      "chapter": "தெரிந்து வினையாடல்",
+      "english": "Therinthu Vinaiyaadal",
+      "theme": "entrusting work to capable people",
+      "slug": "therinthu_vinaiyaadal",
+      "supportingImages": [
+        "thirukkural-backlog-02/aalvinaiyudaimai/S01.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S02.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S03.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S04.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S07.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S09.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S10.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S11.png"
+      ]
+    },
+    {
+      "sourceId": "nf8EO1GdKlY",
+      "chapter": "நாடு",
+      "english": "Naadu",
+      "theme": "a flourishing land sustained by people and resources",
+      "slug": "naadu",
+      "supportingImages": [
+        "thirukkural-backlog-02/aalvinaiyudaimai/S01.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S02.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S03.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S04.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S07.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S09.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S10.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S11.png"
+      ]
+    },
+    {
+      "sourceId": "aTFvlXMPBSE",
+      "chapter": "பெரியாரைத் துணைக்கோடல்",
+      "english": "Periyaarai Thunaikkodal",
+      "theme": "seeking the support of wise elders",
+      "slug": "periyaarai_thunaikkodal",
+      "supportingImages": [
+        "thirukkural-backlog-02/arivudaimai/S01.png",
+        "thirukkural-backlog-02/arivudaimai/S02.png",
+        "thirukkural-backlog-02/arivudaimai/S04.png",
+        "thirukkural-backlog-02/arivudaimai/S08.png",
+        "thirukkural-backlog-01/avai_anjaamai/S11.png",
+        "thirukkural-backlog-02/arivudaimai/S10.png",
+        "thirukkural-backlog-02/arivudaimai/S11.png",
+        "thirukkural-backlog-02/arivudaimai/S12.png"
+      ]
+    }
+  ]
+}

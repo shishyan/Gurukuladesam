@@ -1,0 +1,113 @@
+{
+  "sourceId": "hrg_nAlW7VQ",
+  "title": "திருக்குறள் - தெரிந்து தெளிதல் | Therinthu Thelithal | Full Song Film",
+  "output": "THERINTHU_THELITHAL-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "narrative scene 1",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-11\\therinthu_thelithal\\new-1.png",
+      "inFrame": 0,
+      "outFrame": 410
+    },
+    {
+      "image": "S02.png",
+      "role": "narrative scene 2",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S01.png",
+      "inFrame": 410,
+      "outFrame": 808
+    },
+    {
+      "image": "S03.png",
+      "role": "narrative scene 3",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S02.png",
+      "inFrame": 808,
+      "outFrame": 1184
+    },
+    {
+      "image": "S04.png",
+      "role": "narrative scene 4",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-11\\therinthu_thelithal\\new-2.png",
+      "inFrame": 1184,
+      "outFrame": 1591
+    },
+    {
+      "image": "S05.png",
+      "role": "narrative scene 5",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S04.png",
+      "inFrame": 1591,
+      "outFrame": 1978
+    },
+    {
+      "image": "S06.png",
+      "role": "narrative scene 6",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S08.png",
+      "inFrame": 1978,
+      "outFrame": 2396
+    },
+    {
+      "image": "S07.png",
+      "role": "narrative scene 7",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\avai_anjaamai\\S11.png",
+      "inFrame": 2396,
+      "outFrame": 2785
+    },
+    {
+      "image": "S08.png",
+      "role": "narrative scene 8",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-11\\therinthu_thelithal\\new-3.png",
+      "inFrame": 2785,
+      "outFrame": 3181
+    },
+    {
+      "image": "S09.png",
+      "role": "narrative scene 9",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S10.png",
+      "inFrame": 3181,
+      "outFrame": 3592
+    },
+    {
+      "image": "S10.png",
+      "role": "narrative scene 10",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S11.png",
+      "inFrame": 3592,
+      "outFrame": 3969
+    },
+    {
+      "image": "S11.png",
+      "role": "narrative scene 11",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S12.png",
+      "inFrame": 3969,
+      "outFrame": 4383
+    },
+    {
+      "image": "S12.png",
+      "role": "narrative scene 12",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-11\\therinthu_thelithal\\new-4.png",
+      "inFrame": 4383,
+      "outFrame": 4775
+    }
+  ],
+  "imageDerived": true,
+  "theme": "careful assessment and sound judgment",
+  "duplicateAudit": {
+    "publicVideosChecked": 180,
+    "matchingFilms": []
+  },
+  "publicationStatus": "pending YouTube daily upload quota",
+  "fps": 12,
+  "targetFrames": 4775,
+  "cutRule": "near even spacing at low audio energy"
+}

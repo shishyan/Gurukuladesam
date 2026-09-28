@@ -1,0 +1,113 @@
+{
+  "sourceId": "OqRZLEMvx8s",
+  "title": "திருக்குறள் - தெரிந்து செயல்வகை | Therinthu Seyalvagai | Full Song Film",
+  "output": "THERINTHU_SEYALVAGAI-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "narrative scene 1",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-11\\therinthu_seyalvagai\\new-1.png",
+      "inFrame": 0,
+      "outFrame": 340
+    },
+    {
+      "image": "S02.png",
+      "role": "narrative scene 2",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S01.png",
+      "inFrame": 340,
+      "outFrame": 691
+    },
+    {
+      "image": "S03.png",
+      "role": "narrative scene 3",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S02.png",
+      "inFrame": 691,
+      "outFrame": 1032
+    },
+    {
+      "image": "S04.png",
+      "role": "narrative scene 4",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-11\\therinthu_seyalvagai\\new-2.png",
+      "inFrame": 1032,
+      "outFrame": 1382
+    },
+    {
+      "image": "S05.png",
+      "role": "narrative scene 5",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S03.png",
+      "inFrame": 1382,
+      "outFrame": 1749
+    },
+    {
+      "image": "S06.png",
+      "role": "narrative scene 6",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S04.png",
+      "inFrame": 1749,
+      "outFrame": 2085
+    },
+    {
+      "image": "S07.png",
+      "role": "narrative scene 7",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S07.png",
+      "inFrame": 2085,
+      "outFrame": 2445
+    },
+    {
+      "image": "S08.png",
+      "role": "narrative scene 8",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-11\\therinthu_seyalvagai\\new-3.png",
+      "inFrame": 2445,
+      "outFrame": 2787
+    },
+    {
+      "image": "S09.png",
+      "role": "narrative scene 9",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S09.png",
+      "inFrame": 2787,
+      "outFrame": 3126
+    },
+    {
+      "image": "S10.png",
+      "role": "narrative scene 10",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S10.png",
+      "inFrame": 3126,
+      "outFrame": 3467
+    },
+    {
+      "image": "S11.png",
+      "role": "narrative scene 11",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S11.png",
+      "inFrame": 3467,
+      "outFrame": 3830
+    },
+    {
+      "image": "S12.png",
+      "role": "narrative scene 12",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-11\\therinthu_seyalvagai\\new-4.png",
+      "inFrame": 3830,
+      "outFrame": 4171
+    }
+  ],
+  "imageDerived": true,
+  "theme": "considering consequences before acting",
+  "duplicateAudit": {
+    "publicVideosChecked": 180,
+    "matchingFilms": []
+  },
+  "publicationStatus": "pending YouTube daily upload quota",
+  "fps": 12,
+  "targetFrames": 4171,
+  "cutRule": "near even spacing at low audio energy"
+}

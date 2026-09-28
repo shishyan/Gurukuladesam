@@ -1,0 +1,113 @@
+{
+  "sourceId": "5uRYFxhT32k",
+  "title": "திருக்குறள் - தெரிந்து வினையாடல் | Therinthu Vinaiyaadal | Full Song Film",
+  "output": "THERINTHU_VINAIYAADAL-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "narrative scene 1",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-12\\therinthu_vinaiyaadal\\new-1.png",
+      "inFrame": 0,
+      "outFrame": 379
+    },
+    {
+      "image": "S02.png",
+      "role": "narrative scene 2",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S01.png",
+      "inFrame": 379,
+      "outFrame": 776
+    },
+    {
+      "image": "S03.png",
+      "role": "narrative scene 3",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S02.png",
+      "inFrame": 776,
+      "outFrame": 1148
+    },
+    {
+      "image": "S04.png",
+      "role": "narrative scene 4",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-12\\therinthu_vinaiyaadal\\new-2.png",
+      "inFrame": 1148,
+      "outFrame": 1519
+    },
+    {
+      "image": "S05.png",
+      "role": "narrative scene 5",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S03.png",
+      "inFrame": 1519,
+      "outFrame": 1903
+    },
+    {
+      "image": "S06.png",
+      "role": "narrative scene 6",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S04.png",
+      "inFrame": 1903,
+      "outFrame": 2283
+    },
+    {
+      "image": "S07.png",
+      "role": "narrative scene 7",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S07.png",
+      "inFrame": 2283,
+      "outFrame": 2670
+    },
+    {
+      "image": "S08.png",
+      "role": "narrative scene 8",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-12\\therinthu_vinaiyaadal\\new-3.png",
+      "inFrame": 2670,
+      "outFrame": 3068
+    },
+    {
+      "image": "S09.png",
+      "role": "narrative scene 9",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S09.png",
+      "inFrame": 3068,
+      "outFrame": 3439
+    },
+    {
+      "image": "S10.png",
+      "role": "narrative scene 10",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S10.png",
+      "inFrame": 3439,
+      "outFrame": 3827
+    },
+    {
+      "image": "S11.png",
+      "role": "narrative scene 11",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S11.png",
+      "inFrame": 3827,
+      "outFrame": 4201
+    },
+    {
+      "image": "S12.png",
+      "role": "narrative scene 12",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-12\\therinthu_vinaiyaadal\\new-4.png",
+      "inFrame": 4201,
+      "outFrame": 4586
+    }
+  ],
+  "imageDerived": true,
+  "theme": "entrusting work to capable people",
+  "duplicateAudit": {
+    "publicVideosChecked": 180,
+    "matchingFilms": []
+  },
+  "publicationStatus": "pending YouTube daily upload quota",
+  "fps": 12,
+  "targetFrames": 4586,
+  "cutRule": "near even spacing at low audio energy"
+}

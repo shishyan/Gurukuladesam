@@ -1,0 +1,113 @@
+{
+  "sourceId": "aTFvlXMPBSE",
+  "title": "திருக்குறள் - பெரியாரைத் துணைக்கோடல் | Periyaarai Thunaikkodal | Full Song Film",
+  "output": "PERIYAARAI_THUNAIKKODAL-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "narrative scene 1",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-12\\periyaarai_thunaikkodal\\new-1.png",
+      "inFrame": 0,
+      "outFrame": 283
+    },
+    {
+      "image": "S02.png",
+      "role": "narrative scene 2",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S01.png",
+      "inFrame": 283,
+      "outFrame": 547
+    },
+    {
+      "image": "S03.png",
+      "role": "narrative scene 3",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S02.png",
+      "inFrame": 547,
+      "outFrame": 820
+    },
+    {
+      "image": "S04.png",
+      "role": "narrative scene 4",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-12\\periyaarai_thunaikkodal\\new-2.png",
+      "inFrame": 820,
+      "outFrame": 1103
+    },
+    {
+      "image": "S05.png",
+      "role": "narrative scene 5",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S04.png",
+      "inFrame": 1103,
+      "outFrame": 1363
+    },
+    {
+      "image": "S06.png",
+      "role": "narrative scene 6",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S08.png",
+      "inFrame": 1363,
+      "outFrame": 1651
+    },
+    {
+      "image": "S07.png",
+      "role": "narrative scene 7",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\avai_anjaamai\\S11.png",
+      "inFrame": 1651,
+      "outFrame": 1906
+    },
+    {
+      "image": "S08.png",
+      "role": "narrative scene 8",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-12\\periyaarai_thunaikkodal\\new-3.png",
+      "inFrame": 1906,
+      "outFrame": 2186
+    },
+    {
+      "image": "S09.png",
+      "role": "narrative scene 9",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S10.png",
+      "inFrame": 2186,
+      "outFrame": 2471
+    },
+    {
+      "image": "S10.png",
+      "role": "narrative scene 10",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S11.png",
+      "inFrame": 2471,
+      "outFrame": 2742
+    },
+    {
+      "image": "S11.png",
+      "role": "narrative scene 11",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S12.png",
+      "inFrame": 2742,
+      "outFrame": 3006
+    },
+    {
+      "image": "S12.png",
+      "role": "narrative scene 12",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-12\\periyaarai_thunaikkodal\\new-4.png",
+      "inFrame": 3006,
+      "outFrame": 3279
+    }
+  ],
+  "imageDerived": true,
+  "theme": "seeking the support of wise elders",
+  "duplicateAudit": {
+    "publicVideosChecked": 180,
+    "matchingFilms": []
+  },
+  "publicationStatus": "pending YouTube daily upload quota",
+  "fps": 12,
+  "targetFrames": 3279,
+  "cutRule": "near even spacing at low audio energy"
+}

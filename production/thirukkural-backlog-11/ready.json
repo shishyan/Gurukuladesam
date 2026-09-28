@@ -1,0 +1,58 @@
+{
+  "songs": [
+    {
+      "sourceId": "OqRZLEMvx8s",
+      "title": "திருக்குறள் - தெரிந்து செயல்வகை | Therinthu Seyalvagai | Full Song Film",
+      "file": "therinthu_seyalvagai\\THERINTHU_SEYALVAGAI-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "OqRZLEMvx8s",
+        "durationSeconds": 347.5833333333333,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 24815804
+      }
+    },
+    {
+      "sourceId": "hrg_nAlW7VQ",
+      "title": "திருக்குறள் - தெரிந்து தெளிதல் | Therinthu Thelithal | Full Song Film",
+      "file": "therinthu_thelithal\\THERINTHU_THELITHAL-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "hrg_nAlW7VQ",
+        "durationSeconds": 397.9166666666667,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 22459248
+      }
+    },
+    {
+      "sourceId": "aBA50x-gDME",
+      "title": "திருக்குறள் - தூது | Thoothu | Full Song Film",
+      "file": "thoothu\\THOOTHU-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "aBA50x-gDME",
+        "durationSeconds": 242.75,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 16317774
+      }
+    }
+  ]
+}

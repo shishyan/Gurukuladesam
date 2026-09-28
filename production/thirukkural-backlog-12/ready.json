@@ -1,0 +1,58 @@
+{
+  "songs": [
+    {
+      "sourceId": "nf8EO1GdKlY",
+      "title": "திருக்குறள் - நாடு | Naadu | Full Song Film",
+      "file": "naadu\\NAADU-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "nf8EO1GdKlY",
+        "durationSeconds": 218.5,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 19390973
+      }
+    },
+    {
+      "sourceId": "aTFvlXMPBSE",
+      "title": "திருக்குறள் - பெரியாரைத் துணைக்கோடல் | Periyaarai Thunaikkodal | Full Song Film",
+      "file": "periyaarai_thunaikkodal\\PERIYAARAI_THUNAIKKODAL-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "aTFvlXMPBSE",
+        "durationSeconds": 273.25,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 19422273
+      }
+    },
+    {
+      "sourceId": "5uRYFxhT32k",
+      "title": "திருக்குறள் - தெரிந்து வினையாடல் | Therinthu Vinaiyaadal | Full Song Film",
+      "file": "therinthu_vinaiyaadal\\THERINTHU_VINAIYAADAL-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "5uRYFxhT32k",
+        "durationSeconds": 382.1666666666667,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 25645582
+      }
+    }
+  ]
+}
