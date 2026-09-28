@@ -3,8 +3,8 @@
     {
       "sourceId": "lAWfE9YSJME",
       "title": "திருவருட்பா - ஆறாம் திருமுறை - பரசிவ வணக்கம் | Full Song Film",
-      "file": "parasiva_vanakkam\\PARASIVA_VANAKKAM-CINEMATIC-v1.mp4",
-      "status": "ready; pending daily upload quota",
+      "file": "parasiva_vanakkam\\PARASIVA_VANAKKAM-CINEMATIC-groups-v2.mp4",
+      "status": "ready; revised group scenes; Vids verified",
       "publishedUrl": null,
       "qc": {
         "sourceId": "lAWfE9YSJME",
@@ -15,21 +15,26 @@
         "fullDecodePassed": true,
         "allScenesHaveMovement": true,
         "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 17451774
+        "fileBytes": 17807922,
+        "groupSceneRevision": {
+          "scene": 4,
+          "reason": "Add a community gathering in place of a lone portrait",
+          "source": "C:\\GitHub\\Gurukuladesam-audit\\production\\thiruvarutpa-backlog-01\\siva_pathi_vilakkam\\S10.png"
+        }
       },
-      "googleVids": "https://docs.google.com/videos/d/1BCbIqc5peoT0cUU9IlaGeclid8UWeIT-WrKTOdDOlyo/edit",
+      "supersededGoogleVids": "https://docs.google.com/videos/d/1BCbIqc5peoT0cUU9IlaGeclid8UWeIT-WrKTOdDOlyo/edit",
+      "googleVids": "https://docs.google.com/videos/d/1LwPBryrvTgBF6B0UgYndZGv1qBt3TPBfGNN79o3IktQ/edit",
       "vidsVerification": {
         "savedToDrive": true,
         "volumePercent": 100,
-        "muted": false,
-        "fullDurationVisible": true
+        "muted": false
       }
     },
     {
       "sourceId": "I-ZLmvGIiz4",
       "title": "திருவருட்பா - ஆறாம் திருமுறை - சிவ பதி விளக்கம் | Full Song Film",
-      "file": "siva_pathi_vilakkam\\SIVA_PATHI_VILAKKAM-CINEMATIC-v1.mp4",
-      "status": "ready; pending daily upload quota",
+      "file": "siva_pathi_vilakkam\\SIVA_PATHI_VILAKKAM-CINEMATIC-groups-v2.mp4",
+      "status": "ready; revised group scenes; Vids verified",
       "publishedUrl": null,
       "qc": {
         "sourceId": "I-ZLmvGIiz4",
@@ -40,22 +45,26 @@
         "fullDecodePassed": true,
         "allScenesHaveMovement": true,
         "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 20483391
+        "fileBytes": 20732995,
+        "groupSceneRevision": {
+          "scene": 1,
+          "reason": "Add a community gathering in place of a lone portrait",
+          "source": "C:\\GitHub\\Gurukuladesam-audit\\production\\thiruvarutpa-backlog-01\\parasiva_vanakkam\\S11.png"
+        }
       },
-      "googleVids": "https://docs.google.com/videos/d/1UB9vi7r5kCNKGvZNsQJRi1bY9v8ns9-H2Yqx2JTdBxo/edit",
+      "supersededGoogleVids": "https://docs.google.com/videos/d/1UB9vi7r5kCNKGvZNsQJRi1bY9v8ns9-H2Yqx2JTdBxo/edit",
+      "googleVids": "https://docs.google.com/videos/d/14WUyrv919LzKk3OqS_9uliH-TFzxisWuE4s0qJiMj50/edit",
       "vidsVerification": {
         "savedToDrive": true,
-        "durationSeconds": 285,
         "volumePercent": 100,
-        "muted": false,
-        "logoVisibleBottomLeft": true
+        "muted": false
       }
     },
     {
       "sourceId": "06ZOKy7SSvw",
       "title": "திருவருட்பா - இரண்டாம் திருமுறை - திருச்சாதனத் தெய்வத் திறம் | Full Song Film",
-      "file": "thiruchathana_deiva_thiram\\THIRUCHATHANA_DEIVA_THIRAM-CINEMATIC-v1.mp4",
-      "status": "ready; pending daily upload quota",
+      "file": "thiruchathana_deiva_thiram\\THIRUCHATHANA_DEIVA_THIRAM-CINEMATIC-groups-v2.mp4",
+      "status": "ready; revised group scenes; Vids verified",
       "publishedUrl": null,
       "qc": {
         "sourceId": "06ZOKy7SSvw",
@@ -66,14 +75,19 @@
         "fullDecodePassed": true,
         "allScenesHaveMovement": true,
         "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 31933273
+        "fileBytes": 32502237,
+        "groupSceneRevision": {
+          "scene": 1,
+          "reason": "Add a community gathering in place of a lone portrait",
+          "source": "C:\\GitHub\\Gurukuladesam-audit\\production\\thiruvarutpa-backlog-01\\siva_pathi_vilakkam\\S07.png"
+        }
       },
-      "googleVids": "https://docs.google.com/videos/d/1vOCbp-fz25BbawzLzGXj15I_AK76LnS8-HmtUauacoI/edit",
+      "supersededGoogleVids": "https://docs.google.com/videos/d/1vOCbp-fz25BbawzLzGXj15I_AK76LnS8-HmtUauacoI/edit",
+      "googleVids": "https://docs.google.com/videos/d/1de7IVsOaGetkDG2ItKWetu_8bv1vGokMzugyN31Nvzc/edit",
       "vidsVerification": {
         "savedToDrive": true,
         "volumePercent": 100,
-        "muted": false,
-        "fullDurationVisible": true
+        "muted": false
       }
     }
   ]

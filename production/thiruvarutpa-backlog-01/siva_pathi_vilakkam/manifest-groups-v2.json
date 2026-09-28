@@ -1,0 +1,113 @@
+{
+  "sourceId": "I-ZLmvGIiz4",
+  "title": "திருவருட்பா - ஆறாம் திருமுறை - சிவ பதி விளக்கம் | Full Song Film",
+  "output": "SIVA_PATHI_VILAKKAM-CINEMATIC-groups-v2.mp4",
+  "shots": [
+    {
+      "image": "GROUP-SCENE-v2.png",
+      "role": "community learning gathering",
+      "artOrigin": "existing project imagegen artwork",
+      "assetSource": "C:\\GitHub\\Gurukuladesam-audit\\production\\thiruvarutpa-backlog-01\\parasiva_vanakkam\\S11.png",
+      "inFrame": 0,
+      "outFrame": 289
+    },
+    {
+      "image": "S02.png",
+      "role": "new devotional scene 2",
+      "artOrigin": "new imagegen scene",
+      "assetSource": "production\\thiruvarutpa-backlog-01\\sheets\\siva_pathi_vilakkam-1.png",
+      "inFrame": 289,
+      "outFrame": 581
+    },
+    {
+      "image": "S03.png",
+      "role": "new devotional scene 3",
+      "artOrigin": "new imagegen scene",
+      "assetSource": "production\\thiruvarutpa-backlog-01\\sheets\\siva_pathi_vilakkam-1.png",
+      "inFrame": 581,
+      "outFrame": 857
+    },
+    {
+      "image": "S04.png",
+      "role": "new devotional scene 4",
+      "artOrigin": "new imagegen scene",
+      "assetSource": "production\\thiruvarutpa-backlog-01\\sheets\\siva_pathi_vilakkam-1.png",
+      "inFrame": 857,
+      "outFrame": 1129
+    },
+    {
+      "image": "S05.png",
+      "role": "new devotional scene 5",
+      "artOrigin": "new imagegen scene",
+      "assetSource": "production\\thiruvarutpa-backlog-01\\sheets\\siva_pathi_vilakkam-2.png",
+      "inFrame": 1129,
+      "outFrame": 1415
+    },
+    {
+      "image": "S06.png",
+      "role": "new devotional scene 6",
+      "artOrigin": "new imagegen scene",
+      "assetSource": "production\\thiruvarutpa-backlog-01\\sheets\\siva_pathi_vilakkam-2.png",
+      "inFrame": 1415,
+      "outFrame": 1721
+    },
+    {
+      "image": "S07.png",
+      "role": "new devotional scene 7",
+      "artOrigin": "new imagegen scene",
+      "assetSource": "production\\thiruvarutpa-backlog-01\\sheets\\siva_pathi_vilakkam-2.png",
+      "inFrame": 1721,
+      "outFrame": 1983
+    },
+    {
+      "image": "S08.png",
+      "role": "new devotional scene 8",
+      "artOrigin": "new imagegen scene",
+      "assetSource": "production\\thiruvarutpa-backlog-01\\sheets\\siva_pathi_vilakkam-2.png",
+      "inFrame": 1983,
+      "outFrame": 2292
+    },
+    {
+      "image": "S09.png",
+      "role": "new devotional scene 9",
+      "artOrigin": "new imagegen scene",
+      "assetSource": "production\\thiruvarutpa-backlog-01\\sheets\\siva_pathi_vilakkam-3.png",
+      "inFrame": 2292,
+      "outFrame": 2563
+    },
+    {
+      "image": "S10.png",
+      "role": "new devotional scene 10",
+      "artOrigin": "new imagegen scene",
+      "assetSource": "production\\thiruvarutpa-backlog-01\\sheets\\siva_pathi_vilakkam-3.png",
+      "inFrame": 2563,
+      "outFrame": 2842
+    },
+    {
+      "image": "S11.png",
+      "role": "new devotional scene 11",
+      "artOrigin": "new imagegen scene",
+      "assetSource": "production\\thiruvarutpa-backlog-01\\sheets\\siva_pathi_vilakkam-3.png",
+      "inFrame": 2842,
+      "outFrame": 3133
+    },
+    {
+      "image": "S12.png",
+      "role": "new devotional scene 12",
+      "artOrigin": "new imagegen scene",
+      "assetSource": "production\\thiruvarutpa-backlog-01\\sheets\\siva_pathi_vilakkam-3.png",
+      "inFrame": 3133,
+      "outFrame": 3420
+    }
+  ],
+  "imageDerived": true,
+  "publicationStatus": "pending quota; Google Vids import required before release",
+  "fps": 12,
+  "targetFrames": 3420,
+  "cutRule": "near even spacing at low audio energy",
+  "groupSceneRevision": {
+    "scene": 1,
+    "reason": "Add a community gathering in place of a lone portrait",
+    "source": "C:\\GitHub\\Gurukuladesam-audit\\production\\thiruvarutpa-backlog-01\\parasiva_vanakkam\\S11.png"
+  }
+}

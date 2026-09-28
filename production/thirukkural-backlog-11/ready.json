@@ -4,8 +4,8 @@
       "sourceId": "OqRZLEMvx8s",
       "title": "திருக்குறள் - தெரிந்து செயல்வகை | Therinthu Seyalvagai | Full Song Film",
       "file": "therinthu_seyalvagai\\THERINTHU_SEYALVAGAI-CINEMATIC-v1.mp4",
-      "status": "ready; pending daily upload quota",
-      "publishedUrl": null,
+      "status": "published and public playback verified",
+      "publishedUrl": "https://www.youtube.com/watch?v=BfgGC7DsHMI",
       "qc": {
         "sourceId": "OqRZLEMvx8s",
         "durationSeconds": 347.5833333333333,
@@ -22,14 +22,16 @@
         "savedToDrive": true,
         "volumePercent": 100,
         "muted": false
-      }
+      },
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T15:14:00.621295+00:00"
     },
     {
       "sourceId": "hrg_nAlW7VQ",
       "title": "திருக்குறள் - தெரிந்து தெளிதல் | Therinthu Thelithal | Full Song Film",
       "file": "therinthu_thelithal\\THERINTHU_THELITHAL-CINEMATIC-v1.mp4",
-      "status": "ready; pending daily upload quota",
-      "publishedUrl": null,
+      "status": "published and public playback verified",
+      "publishedUrl": "https://www.youtube.com/watch?v=bH23l5vVgL8",
       "qc": {
         "sourceId": "hrg_nAlW7VQ",
         "durationSeconds": 397.9166666666667,
@@ -46,7 +48,9 @@
         "savedToDrive": true,
         "volumePercent": 100,
         "muted": false
-      }
+      },
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T15:15:42.496873+00:00"
     },
     {
       "sourceId": "aBA50x-gDME",

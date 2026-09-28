@@ -1,0 +1,16 @@
+{
+  "sourceId": "I-ZLmvGIiz4",
+  "durationSeconds": 285.0,
+  "scenes": 12,
+  "uniqueImages": 12,
+  "originalAacBitstreamMatched": true,
+  "fullDecodePassed": true,
+  "allScenesHaveMovement": true,
+  "logoPosition": "bottom-left, 24px inset",
+  "fileBytes": 20732995,
+  "groupSceneRevision": {
+    "scene": 1,
+    "reason": "Add a community gathering in place of a lone portrait",
+    "source": "C:\\GitHub\\Gurukuladesam-audit\\production\\thiruvarutpa-backlog-01\\parasiva_vanakkam\\S11.png"
+  }
+}

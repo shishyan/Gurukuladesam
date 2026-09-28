@@ -1,0 +1,16 @@
+{
+  "sourceId": "06ZOKy7SSvw",
+  "durationSeconds": 635.6666666666666,
+  "scenes": 12,
+  "uniqueImages": 12,
+  "originalAacBitstreamMatched": true,
+  "fullDecodePassed": true,
+  "allScenesHaveMovement": true,
+  "logoPosition": "bottom-left, 24px inset",
+  "fileBytes": 32502237,
+  "groupSceneRevision": {
+    "scene": 1,
+    "reason": "Add a community gathering in place of a lone portrait",
+    "source": "C:\\GitHub\\Gurukuladesam-audit\\production\\thiruvarutpa-backlog-01\\siva_pathi_vilakkam\\S07.png"
+  }
+}
