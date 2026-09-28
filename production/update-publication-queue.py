@@ -49,7 +49,7 @@ out = {'channel':'@guru-kula-desam','pendingCount':len(entries),'blocker':'YouTu
        'songs':entries,'excludedAlternateRenders':excluded}
 (P/'publication-queue.json').write_text(json.dumps(out,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 lines = ['# Pending song videos', '', f"{len(entries)} QC-passed full-song films are ready locally. YouTube publication is blocked by the daily upload quota.", '',
-         'The first two already have Google Vids projects. The remaining local films must be imported into Vids before publication.', '',
+         f"{sum(bool(r.get('googleVids')) for r in entries)} films have saved Google Vids projects; {sum(not bool(r.get('googleVids')) for r in entries)} still need a Vids import.", '',
          '| Song | Source | Local MP4 |', '| --- | --- | --- |']
 for row in entries:
     label = row['title'].replace('|','/').replace('\n',' ')

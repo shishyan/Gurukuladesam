@@ -16,6 +16,13 @@
         "allScenesHaveMovement": true,
         "logoPosition": "bottom-left, 24px inset",
         "fileBytes": 17451774
+      },
+      "googleVids": "https://docs.google.com/videos/d/1BCbIqc5peoT0cUU9IlaGeclid8UWeIT-WrKTOdDOlyo/edit",
+      "vidsVerification": {
+        "savedToDrive": true,
+        "volumePercent": 100,
+        "muted": false,
+        "fullDurationVisible": true
       }
     },
     {
@@ -60,6 +67,13 @@
         "allScenesHaveMovement": true,
         "logoPosition": "bottom-left, 24px inset",
         "fileBytes": 31933273
+      },
+      "googleVids": "https://docs.google.com/videos/d/1vOCbp-fz25BbawzLzGXj15I_AK76LnS8-HmtUauacoI/edit",
+      "vidsVerification": {
+        "savedToDrive": true,
+        "volumePercent": 100,
+        "muted": false,
+        "fullDurationVisible": true
       }
     }
   ]

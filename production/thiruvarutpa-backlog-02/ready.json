@@ -16,6 +16,13 @@
         "allScenesHaveMovement": true,
         "logoPosition": "bottom-left, 24px inset",
         "fileBytes": 20317260
+      },
+      "googleVids": "https://docs.google.com/videos/d/1xLBASvMYKCDP4t1l6x3JO6Pb8NuweQPOZ5ffta7ms2s/edit",
+      "vidsVerification": {
+        "savedToDrive": true,
+        "volumePercent": 100,
+        "muted": false,
+        "fullDurationVisible": true
       }
     }
   ]

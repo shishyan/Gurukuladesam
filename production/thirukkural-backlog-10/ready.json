@@ -16,6 +16,12 @@
         "allScenesHaveMovement": true,
         "logoPosition": "bottom-left, 24px inset",
         "fileBytes": 14209740
+      },
+      "googleVids": "https://docs.google.com/videos/d/1nC-lat7gpiIhNyBq74A6YrGIglIdi4_E-UxIhvQVI5M/edit",
+      "vidsVerification": {
+        "savedToDrive": true,
+        "volumePercent": 100,
+        "muted": false
       }
     },
     {
@@ -34,6 +40,12 @@
         "allScenesHaveMovement": true,
         "logoPosition": "bottom-left, 24px inset",
         "fileBytes": 18786859
+      },
+      "googleVids": "https://docs.google.com/videos/d/1KraTJVeYEJgRykRDqmRS_9T3UUnaL9c3shBwttS5AuY/edit",
+      "vidsVerification": {
+        "savedToDrive": true,
+        "volumePercent": 100,
+        "muted": false
       }
     },
     {
@@ -52,6 +64,12 @@
         "allScenesHaveMovement": true,
         "logoPosition": "bottom-left, 24px inset",
         "fileBytes": 20857152
+      },
+      "googleVids": "https://docs.google.com/videos/d/1ixYgldGZg5n_ZeyB8H9WeB70yojar2TS6wkPebBiqOg/edit",
+      "vidsVerification": {
+        "savedToDrive": true,
+        "volumePercent": 100,
+        "muted": false
       }
     }
   ]

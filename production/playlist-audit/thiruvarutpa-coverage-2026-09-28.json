@@ -301,7 +301,7 @@
   "unclaimed": [],
   "newFilmsThisRun": 4,
   "publicationFinished": false,
-  "vidsSavedThisRun": 1,
-  "remainingVidsImports": 3,
-  "browserBlocker": "Repeated CDP and chooser timeouts, including fresh-tab recovery"
+  "vidsSavedThisRun": 4,
+  "remainingVidsImports": 0,
+  "browserBlocker": null
 }

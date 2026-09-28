@@ -2,7 +2,7 @@
 
 39 QC-passed full-song films are ready locally. YouTube publication is blocked by the daily upload quota.
 
-The first two already have Google Vids projects. The remaining local films must be imported into Vids before publication.
+39 films have saved Google Vids projects; 0 still need a Vids import.
 
 | Song | Source | Local MP4 |
 | --- | --- | --- |
