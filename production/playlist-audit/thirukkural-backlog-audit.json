@@ -1,0 +1,567 @@
+{
+  "playlist": "Thirukkural Master Collection",
+  "publicVideosChecked": 180,
+  "rule": "One uncovered chapter recording per film; do not create another film for a chapter already filmed.",
+  "chapters": [
+    {
+      "chapter": "அமைச்சு",
+      "recordings": [
+        "jBA9wlyNjAE",
+        "FGFVertqRUU"
+      ],
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-01\\amaichu\\manifest.json"
+    },
+    {
+      "chapter": "அரண்",
+      "recordings": [
+        "IiZoud1sP2o",
+        "YBmfJyQNSCY"
+      ],
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-01\\aran\\manifest.json"
+    },
+    {
+      "chapter": "அவை அஞ்சாமை",
+      "recordings": [
+        "kdZSlrXEfvs",
+        "FrZmyvY3sEc",
+        "t9Ke0-KMTyM"
+      ],
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-backlog-01\\avai_anjaamai\\manifest.json"
+    },
+    {
+      "chapter": "அவையறிதல்",
+      "recordings": [
+        "9mOpq9daQVs",
+        "HxxLl5p1t0A"
+      ],
+      "status": "needs production",
+      "sourceId": "9mOpq9daQVs",
+      "sourceTitle": "அவையறிதல் (Original)"
+    },
+    {
+      "chapter": "அறிவுடைமை",
+      "recordings": [
+        "FkQqysk6vmE",
+        "bUepGv6PJQA",
+        "0bz1myKXoJQ"
+      ],
+      "status": "needs production",
+      "sourceId": "FkQqysk6vmE",
+      "sourceTitle": "அறிவுடைமை (Original)"
+    },
+    {
+      "chapter": "அன்புடைமை",
+      "recordings": [
+        "jO2i4bcZ2ts",
+        "lneosghJWgs"
+      ],
+      "status": "existing public film",
+      "id": "jO2i4bcZ2ts"
+    },
+    {
+      "chapter": "ஆள்வினையுடைமை",
+      "recordings": [
+        "um09tyT-2p0",
+        "37qaN4sG53k"
+      ],
+      "status": "needs production",
+      "sourceId": "um09tyT-2p0",
+      "sourceTitle": "ஆள்வினையுடைமை (Original)"
+    },
+    {
+      "chapter": "இடனறிதல்",
+      "recordings": [
+        "L-FvFZeT_cQ",
+        "0DoegY9d0ZM"
+      ],
+      "status": "needs production",
+      "sourceId": "L-FvFZeT_cQ",
+      "sourceTitle": "இடனறிதல் (Original)"
+    },
+    {
+      "chapter": "இடுக்கண் அழியாமை",
+      "recordings": [
+        "B9N2j7r2KkI",
+        "ulW6fg4lkYA"
+      ],
+      "status": "needs production",
+      "sourceId": "B9N2j7r2KkI",
+      "sourceTitle": "இடுக்கண் அழியாமை (Original)"
+    },
+    {
+      "chapter": "இன்னா செய்தாரை",
+      "recordings": [
+        "Y3xujLwXuBs"
+      ],
+      "status": "existing public film",
+      "id": "7npbkuQwjEE"
+    },
+    {
+      "chapter": "ஊக்கமுடைமை",
+      "recordings": [
+        "nHj4Q196kU4",
+        "FXMVQIidbJU"
+      ],
+      "status": "needs production",
+      "sourceId": "nHj4Q196kU4",
+      "sourceTitle": "ஊக்கமுடைமை (Original)"
+    },
+    {
+      "chapter": "ஒற்றாடல்",
+      "recordings": [
+        "cn776n6oKXQ",
+        "tj_5hsasdyU"
+      ],
+      "status": "needs production",
+      "sourceId": "cn776n6oKXQ",
+      "sourceTitle": "ஒற்றாடல் (Original)"
+    },
+    {
+      "chapter": "கண்ணோட்டம்",
+      "recordings": [
+        "SI8ItN6nqck",
+        "Vj6wcfC3rPk",
+        "E7yfNOiwJmM"
+      ],
+      "status": "needs production",
+      "sourceId": "SI8ItN6nqck",
+      "sourceTitle": "கண்ணோட்டம் (Original)"
+    },
+    {
+      "chapter": "கள்ளாமை",
+      "recordings": [
+        "h4Pc0KxvnRo",
+        "jXOalu0JJoA"
+      ],
+      "status": "needs production",
+      "sourceId": "h4Pc0KxvnRo",
+      "sourceTitle": "கள்ளாமை (Original)"
+    },
+    {
+      "chapter": "காலமறிதல்",
+      "recordings": [
+        "diUv8fkOqv0",
+        "cUt716Zafy0"
+      ],
+      "status": "needs production",
+      "sourceId": "diUv8fkOqv0",
+      "sourceTitle": "காலமறிதல் (Original)"
+    },
+    {
+      "chapter": "குற்றங்கடிதல்",
+      "recordings": [
+        "2_TfLljo1qg",
+        "OzejLLvDq5s"
+      ],
+      "status": "needs production",
+      "sourceId": "2_TfLljo1qg",
+      "sourceTitle": "குற்றங்கடிதல் (Original)"
+    },
+    {
+      "chapter": "குறிப்பறிதல்",
+      "recordings": [
+        "6hfla_PRW40",
+        "GN181JJ1lXU",
+        "K35B1jST2xw"
+      ],
+      "status": "needs production",
+      "sourceId": "6hfla_PRW40",
+      "sourceTitle": "குறிப்பறிதல் (Original)"
+    },
+    {
+      "chapter": "கூடா ஒழுக்கம்",
+      "recordings": [
+        "mvOSVEFhvDc",
+        "NxZf0eRutEY"
+      ],
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-batch-02\\kooda_ozhukkam\\manifest.json"
+    },
+    {
+      "chapter": "கேள்விச் செல்வம்",
+      "recordings": [
+        "3CICxCn-4A0",
+        "r75xdfETSbE"
+      ],
+      "status": "needs production",
+      "sourceId": "3CICxCn-4A0",
+      "sourceTitle": "கேள்விச் செல்வம் (Original)"
+    },
+    {
+      "chapter": "கொடுங்கோன்மை",
+      "recordings": [
+        "tqF2NBWp6_8",
+        "01g0sJdaL2I"
+      ],
+      "status": "needs production",
+      "sourceId": "tqF2NBWp6_8",
+      "sourceTitle": "கொடுங்கோன்மை (Original)"
+    },
+    {
+      "chapter": "சிற்றினம் சேராமை",
+      "recordings": [
+        "5-z9v-1INWg",
+        "UyCe3KLqY_8"
+      ],
+      "status": "needs production",
+      "sourceId": "5-z9v-1INWg",
+      "sourceTitle": "சிற்றினம் சேராமை (Original)"
+    },
+    {
+      "chapter": "சுற்றந்தழால்",
+      "recordings": [
+        "pTxTsQzF8Xs",
+        "9-SvikTz2FU"
+      ],
+      "status": "needs production",
+      "sourceId": "pTxTsQzF8Xs",
+      "sourceTitle": "சுற்றந்தழால் (Original)"
+    },
+    {
+      "chapter": "செங்கோன்மை",
+      "recordings": [
+        "sScywbUNArA",
+        "5coBrJy6a5M"
+      ],
+      "status": "needs production",
+      "sourceId": "sScywbUNArA",
+      "sourceTitle": "செங்கோன்மை (Original)"
+    },
+    {
+      "chapter": "சொல்வன்மை",
+      "recordings": [
+        "NIvQ6yD1wnY",
+        "q2oGlYiV-qg"
+      ],
+      "status": "needs production",
+      "sourceId": "NIvQ6yD1wnY",
+      "sourceTitle": "சொல்வன்மை (Original)"
+    },
+    {
+      "chapter": "கல்வி",
+      "recordings": [
+        "_Ceq0AzIQ9c"
+      ],
+      "status": "existing public film",
+      "id": "KZxknhbVIk0"
+    },
+    {
+      "chapter": "அருளுடைமை",
+      "recordings": [
+        "EChaj0wXk_0"
+      ],
+      "status": "existing public film",
+      "id": "0fD-z3s_g2A"
+    },
+    {
+      "chapter": "அவா அறுத்தல்",
+      "recordings": [
+        "C7PTFCAFIRI"
+      ],
+      "status": "needs production",
+      "sourceId": "C7PTFCAFIRI",
+      "sourceTitle": "திருக்குறள் - அவா அறுத்தல்"
+    },
+    {
+      "chapter": "இறை மாட்சி",
+      "recordings": [
+        "K6mhIh64XE8"
+      ],
+      "status": "needs production",
+      "sourceId": "K6mhIh64XE8",
+      "sourceTitle": "திருக்குறள் - இறை மாட்சி"
+    },
+    {
+      "chapter": "ஊழ் வினை",
+      "recordings": [
+        "scUcWDtCge8"
+      ],
+      "status": "needs production",
+      "sourceId": "scUcWDtCge8",
+      "sourceTitle": "திருக்குறள் - ஊழ் வினை"
+    },
+    {
+      "chapter": "கடவுள் வாழ்த்து",
+      "recordings": [
+        "kA_mQ4bRB2E"
+      ],
+      "status": "existing public film",
+      "id": "SWAjAbur-TQ"
+    },
+    {
+      "chapter": "கல்லாமை",
+      "recordings": [
+        "9YAr421Ft00"
+      ],
+      "status": "needs production",
+      "sourceId": "9YAr421Ft00",
+      "sourceTitle": "திருக்குறள் - கல்லாமை"
+    },
+    {
+      "chapter": "கொல்லாமை",
+      "recordings": [
+        "rBeSH7tNEzA"
+      ],
+      "status": "needs production",
+      "sourceId": "rBeSH7tNEzA",
+      "sourceTitle": "திருக்குறள் - கொல்லாமை"
+    },
+    {
+      "chapter": "தவம்",
+      "recordings": [
+        "IEk-wwY3rC8"
+      ],
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-batch-02\\thavam\\manifest.json"
+    },
+    {
+      "chapter": "நிலையாமை",
+      "recordings": [
+        "YL6ocN5OMzI"
+      ],
+      "status": "needs production",
+      "sourceId": "YL6ocN5OMzI",
+      "sourceTitle": "திருக்குறள் - நிலையாமை 2026"
+    },
+    {
+      "chapter": "புலால் உண்ணாமை",
+      "recordings": [
+        "h2q-ADrbBc4"
+      ],
+      "status": "local production exists",
+      "manifest": "production\\thirukkural-batch-02\\pulal_unnamai\\manifest.json"
+    },
+    {
+      "chapter": "மெய்யுணர்தல்",
+      "recordings": [
+        "A86cP9ae6Vs"
+      ],
+      "status": "needs production",
+      "sourceId": "A86cP9ae6Vs",
+      "sourceTitle": "திருக்குறள் - மெய்யுணர்தல்"
+    },
+    {
+      "chapter": "வெகுளாமை",
+      "recordings": [
+        "WM8EPZ4KK2s"
+      ],
+      "status": "needs production",
+      "sourceId": "WM8EPZ4KK2s",
+      "sourceTitle": "திருக்குறள் - வெகுளாமை 2026"
+    },
+    {
+      "chapter": "பொறை உடைமை",
+      "recordings": [
+        "aSQrSHA4YtU"
+      ],
+      "status": "local production exists",
+      "manifest": "production\\ten-song-batch\\porai\\manifest.json"
+    },
+    {
+      "chapter": "இல்வாழ்க்கை",
+      "recordings": [
+        "v_dsHTOvKP8"
+      ],
+      "status": "existing public film",
+      "id": "C05GEfkJZaY"
+    },
+    {
+      "chapter": "துறவு",
+      "recordings": [
+        "QAv04nxeH4c",
+        "WKCMHUFbf2Q",
+        "LjiR9PIRl8o",
+        "rq7PXPBI7SA"
+      ],
+      "status": "needs production",
+      "sourceId": "WKCMHUFbf2Q",
+      "sourceTitle": "துறவு (Original)"
+    },
+    {
+      "chapter": "தூது",
+      "recordings": [
+        "aBA50x-gDME",
+        "RY7nPGorS94"
+      ],
+      "status": "needs production",
+      "sourceId": "aBA50x-gDME",
+      "sourceTitle": "தூது (Original)"
+    },
+    {
+      "chapter": "தெரிந்து செயல்வகை",
+      "recordings": [
+        "mpgnALSm7wk",
+        "OqRZLEMvx8s"
+      ],
+      "status": "needs production",
+      "sourceId": "OqRZLEMvx8s",
+      "sourceTitle": "தெரிந்து செயல்வகை (Original)"
+    },
+    {
+      "chapter": "தெரிந்து தெளிதல்",
+      "recordings": [
+        "hrg_nAlW7VQ",
+        "tLt9J-X9WOE"
+      ],
+      "status": "needs production",
+      "sourceId": "hrg_nAlW7VQ",
+      "sourceTitle": "தெரிந்து தெளிதல் (Original)"
+    },
+    {
+      "chapter": "தெரிந்து வினையாடல்",
+      "recordings": [
+        "5uRYFxhT32k",
+        "F-aVgFOdKFo"
+      ],
+      "status": "needs production",
+      "sourceId": "5uRYFxhT32k",
+      "sourceTitle": "தெரிந்து வினையாடல் (Original)"
+    },
+    {
+      "chapter": "நாடு",
+      "recordings": [
+        "nf8EO1GdKlY",
+        "RAUafMVpT5k"
+      ],
+      "status": "needs production",
+      "sourceId": "nf8EO1GdKlY",
+      "sourceTitle": "நாடு (Original)"
+    },
+    {
+      "chapter": "பெரியாரைத் துணைக்கோடல்",
+      "recordings": [
+        "aTFvlXMPBSE",
+        "2Pun6K7h984"
+      ],
+      "status": "needs production",
+      "sourceId": "aTFvlXMPBSE",
+      "sourceTitle": "பெரியாரைத் துணைக்கோடல் (Original)"
+    },
+    {
+      "chapter": "பொச்சாவாமை",
+      "recordings": [
+        "O0hASl4BS2c",
+        "DhHGetUJlAI"
+      ],
+      "status": "needs production",
+      "sourceId": "O0hASl4BS2c",
+      "sourceTitle": "பொச்சாவாமை (Original)"
+    },
+    {
+      "chapter": "மடியின்மை",
+      "recordings": [
+        "GfGlO3RQuik",
+        "Fh3HfGUObmg"
+      ],
+      "status": "needs production",
+      "sourceId": "GfGlO3RQuik",
+      "sourceTitle": "மடியின்மை (Original)"
+    },
+    {
+      "chapter": "மன்னரைச் சேர்ந்தொழுதல்",
+      "recordings": [
+        "zq1dxg5R-rY",
+        "u9NeXaCHu-A"
+      ],
+      "status": "needs production",
+      "sourceId": "u9NeXaCHu-A",
+      "sourceTitle": "மன்னரைச் சேர்ந்தொழுதல் (Original)"
+    },
+    {
+      "chapter": "வலியறிதல்",
+      "recordings": [
+        "Js6Vepbegr8",
+        "FS5fUOxZySE"
+      ],
+      "status": "needs production",
+      "sourceId": "Js6Vepbegr8",
+      "sourceTitle": "வலியறிதல் (Original)"
+    },
+    {
+      "chapter": "வாய்மை",
+      "recordings": [
+        "BoOWFaOGczE",
+        "R-5gWfRNMts"
+      ],
+      "status": "needs production",
+      "sourceId": "BoOWFaOGczE",
+      "sourceTitle": "வாய்மை (Original)"
+    },
+    {
+      "chapter": "வினைசெயல்வகை",
+      "recordings": [
+        "MvwT6dnGE0U",
+        "gBRvVKE_so8"
+      ],
+      "status": "needs production",
+      "sourceId": "gBRvVKE_so8",
+      "sourceTitle": "வினைசெயல்வகை (Original)"
+    },
+    {
+      "chapter": "வினைத்திட்பம்",
+      "recordings": [
+        "--4jzoezBW8",
+        "J-mAIpyxy4A"
+      ],
+      "status": "needs production",
+      "sourceId": "--4jzoezBW8",
+      "sourceTitle": "வினைத்திட்பம் (Original)"
+    },
+    {
+      "chapter": "வினைத்தூய்மை",
+      "recordings": [
+        "cj6mlDwjJEo",
+        "XRizXIUU57g",
+        "8wZGK0nGTEo"
+      ],
+      "status": "needs production",
+      "sourceId": "cj6mlDwjJEo",
+      "sourceTitle": "வினைத்தூய்மை (Original)"
+    },
+    {
+      "chapter": "வெருவந்த செய்யாமை",
+      "recordings": [
+        "hjcH8zbEleE",
+        "PmziMZrMHfE"
+      ],
+      "status": "needs production",
+      "sourceId": "hjcH8zbEleE",
+      "sourceTitle": "வெருவந்த செய்யாமை (Original)"
+    },
+    {
+      "chapter": "Hans Zimmer - Interstellar",
+      "recordings": [
+        "5gO0xpY_Y3E"
+      ],
+      "status": "outside devotional scope"
+    },
+    {
+      "chapter": "Thirukkural Agara Muthala",
+      "recordings": [
+        "QXhT9uoA7_w"
+      ],
+      "status": "local production exists",
+      "manifest": "production\\batch-sept-28-10\\agara_muthala\\manifest.json"
+    },
+    {
+      "chapter": "Thirukkural Vaan Sirappu",
+      "recordings": [
+        "tX4JtRSOuxE"
+      ],
+      "status": "needs production",
+      "sourceId": "tX4JtRSOuxE",
+      "sourceTitle": "Thirukkural Vaan Sirappu (வான் சிறப்பு)"
+    },
+    {
+      "chapter": "Thirukkural Vaazkkai Thunai",
+      "recordings": [
+        "6ofQ9hrD1RQ"
+      ],
+      "status": "local production exists",
+      "manifest": "production\\batch-sept-28-10\\vaazkkai_thunai\\manifest.json"
+    }
+  ]
+}

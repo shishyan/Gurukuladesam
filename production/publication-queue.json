@@ -1,0 +1,184 @@
+{
+  "channel": "@guru-kula-desam",
+  "pendingCount": 11,
+  "blocker": "YouTube daily upload limit",
+  "releaseInstructions": "Recheck public channel for duplicates, import locally finished films into Google Vids, publish through the correct channel Studio, and verify public URLs. Scheduling requires the upload to succeed first.",
+  "songs": [
+    {
+      "sourceId": "QXhT9uoA7_w",
+      "title": "திருக்குறள் - அகர முதல | Agara Muthala | Full Song Film",
+      "file": "batch-sept-28-10\\agara_muthala\\AGARA_MUTHALA-CINEMATIC-v1.mp4",
+      "googleVids": "https://docs.google.com/videos/d/1sDu_aiI67g-yJt1g9DUxKYWiYLc4JEfjSuOcIG73Wsc/edit",
+      "status": "ready; pending upload quota"
+    },
+    {
+      "sourceId": "6ofQ9hrD1RQ",
+      "title": "திருக்குறள் - வாழ்க்கை துணை | Vaazkkai Thunai | Full Song Film",
+      "file": "batch-sept-28-10\\vaazkkai_thunai\\VAAZKKAI_THUNAI-CINEMATIC-v1.mp4",
+      "googleVids": "https://docs.google.com/videos/d/114gBoxuuLhXBuEuQgOyrIHyK4b8uECd2XNx7GhttgsU/edit",
+      "status": "ready; pending upload quota"
+    },
+    {
+      "sourceId": "jBA9wlyNjAE",
+      "title": "திருக்குறள் - அமைச்சு | Amaichu | Full Song Film",
+      "file": "thirukkural-backlog-01\\amaichu\\AMAICHU-CINEMATIC-v1.mp4",
+      "googleVids": null,
+      "status": "ready; pending upload quota",
+      "qc": {
+        "sourceId": "jBA9wlyNjAE",
+        "durationSeconds": 307.5,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 20326908
+      }
+    },
+    {
+      "sourceId": "IiZoud1sP2o",
+      "title": "திருக்குறள் - அரண் | Aran | Full Song Film",
+      "file": "thirukkural-backlog-01\\aran\\ARAN-CINEMATIC-v1.mp4",
+      "googleVids": null,
+      "status": "ready; pending upload quota",
+      "qc": {
+        "sourceId": "IiZoud1sP2o",
+        "durationSeconds": 273.25,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 23370911
+      }
+    },
+    {
+      "sourceId": "FrZmyvY3sEc",
+      "title": "திருக்குறள் - அவை அஞ்சாமை | Avai Anjaamai | Full Song Film",
+      "file": "thirukkural-backlog-01\\avai_anjaamai\\AVAI_ANJAAMAI-CINEMATIC-v1.mp4",
+      "googleVids": null,
+      "status": "ready; pending upload quota",
+      "qc": {
+        "sourceId": "FrZmyvY3sEc",
+        "durationSeconds": 238.33333333333334,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 14887652
+      }
+    },
+    {
+      "sourceId": "um09tyT-2p0",
+      "title": "திருக்குறள் - ஆள்வினையுடைமை | Aalvinaiyudaimai | Full Song Film",
+      "file": "thirukkural-backlog-02\\aalvinaiyudaimai\\AALVINAIYUDAIMAI-CINEMATIC-v1.mp4",
+      "googleVids": null,
+      "status": "ready; pending upload quota",
+      "qc": {
+        "sourceId": "um09tyT-2p0",
+        "durationSeconds": 288.8333333333333,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 22940086
+      }
+    },
+    {
+      "sourceId": "FkQqysk6vmE",
+      "title": "திருக்குறள் - அறிவுடைமை | Arivudaimai | Full Song Film",
+      "file": "thirukkural-backlog-02\\arivudaimai\\ARIVUDAIMAI-CINEMATIC-v1.mp4",
+      "googleVids": null,
+      "status": "ready; pending upload quota",
+      "qc": {
+        "sourceId": "FkQqysk6vmE",
+        "durationSeconds": 301.75,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 20668000
+      }
+    },
+    {
+      "sourceId": "9mOpq9daQVs",
+      "title": "திருக்குறள் - அவையறிதல் | Avaiyarithal | Full Song Film",
+      "file": "thirukkural-backlog-02\\avaiyarithal\\AVAIYARITHAL-CINEMATIC-v1.mp4",
+      "googleVids": null,
+      "status": "ready; pending upload quota",
+      "qc": {
+        "sourceId": "9mOpq9daQVs",
+        "durationSeconds": 229.58333333333334,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 14160483
+      }
+    },
+    {
+      "sourceId": "L-FvFZeT_cQ",
+      "title": "திருக்குறள் - இடனறிதல் | Idanarithal | Full Song Film",
+      "file": "thirukkural-backlog-03\\idanarithal\\IDANARITHAL-CINEMATIC-v1.mp4",
+      "googleVids": null,
+      "status": "ready; pending upload quota",
+      "qc": {
+        "sourceId": "L-FvFZeT_cQ",
+        "durationSeconds": 270.25,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 23595666
+      }
+    },
+    {
+      "sourceId": "B9N2j7r2KkI",
+      "title": "திருக்குறள் - இடுக்கண் அழியாமை | Idukkan Azhiyaamai | Full Song Film",
+      "file": "thirukkural-backlog-03\\idukkan_azhiyaamai\\IDUKKAN_AZHIYAAMAI-CINEMATIC-v1.mp4",
+      "googleVids": null,
+      "status": "ready; pending upload quota",
+      "qc": {
+        "sourceId": "B9N2j7r2KkI",
+        "durationSeconds": 292.9166666666667,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 24333684
+      }
+    },
+    {
+      "sourceId": "nHj4Q196kU4",
+      "title": "திருக்குறள் - ஊக்கமுடைமை | Ookkamudaimai | Full Song Film",
+      "file": "thirukkural-backlog-03\\ookkamudaimai\\OOKKAMUDAIMAI-CINEMATIC-v1.mp4",
+      "googleVids": null,
+      "status": "ready; pending upload quota",
+      "qc": {
+        "sourceId": "nHj4Q196kU4",
+        "durationSeconds": 307.25,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 20478152
+      }
+    }
+  ]
+}

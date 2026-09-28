@@ -1,0 +1,58 @@
+{
+  "songs": [
+    {
+      "sourceId": "L-FvFZeT_cQ",
+      "title": "திருக்குறள் - இடனறிதல் | Idanarithal | Full Song Film",
+      "file": "idanarithal\\IDANARITHAL-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "L-FvFZeT_cQ",
+        "durationSeconds": 270.25,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 23595666
+      }
+    },
+    {
+      "sourceId": "B9N2j7r2KkI",
+      "title": "திருக்குறள் - இடுக்கண் அழியாமை | Idukkan Azhiyaamai | Full Song Film",
+      "file": "idukkan_azhiyaamai\\IDUKKAN_AZHIYAAMAI-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "B9N2j7r2KkI",
+        "durationSeconds": 292.9166666666667,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 24333684
+      }
+    },
+    {
+      "sourceId": "nHj4Q196kU4",
+      "title": "திருக்குறள் - ஊக்கமுடைமை | Ookkamudaimai | Full Song Film",
+      "file": "ookkamudaimai\\OOKKAMUDAIMAI-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "nHj4Q196kU4",
+        "durationSeconds": 307.25,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 20478152
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "songs": [
+    {
+      "slug": "idanarithal", "sourceId": "L-FvFZeT_cQ", "chapter": "இடனறிதல்", "english": "Idanarithal", "theme": "choosing the right place for action",
+      "supportingImages": ["thirukkural-backlog-01/aran/S01.png", "thirukkural-backlog-01/amaichu/S03.png", "thirukkural-backlog-02/arivudaimai/S03.png", "thirukkural-backlog-01/aran/S04.png", "thirukkural-backlog-01/amaichu/S05.png", "thirukkural-backlog-01/amaichu/S10.png", "thirukkural-backlog-01/aran/S11.png", "thirukkural-backlog-01/aran/S12.png"]
+    },
+    {
+      "slug": "idukkan_azhiyaamai", "sourceId": "B9N2j7r2KkI", "chapter": "இடுக்கண் அழியாமை", "english": "Idukkan Azhiyaamai", "theme": "steadfastness through difficulty",
+      "supportingImages": ["thirukkural-backlog-02/aalvinaiyudaimai/S02.png", "thirukkural-backlog-02/aalvinaiyudaimai/S05.png", "thirukkural-backlog-02/aalvinaiyudaimai/S06.png", "thirukkural-backlog-01/amaichu/S11.png", "thirukkural-backlog-02/aalvinaiyudaimai/S07.png", "thirukkural-backlog-02/aalvinaiyudaimai/S09.png", "thirukkural-backlog-02/aalvinaiyudaimai/S11.png", "thirukkural-backlog-02/aalvinaiyudaimai/S12.png"]
+    },
+    {
+      "slug": "ookkamudaimai", "sourceId": "nHj4Q196kU4", "chapter": "ஊக்கமுடைமை", "english": "Ookkamudaimai", "theme": "determination and energy",
+      "supportingImages": ["thirukkural-backlog-02/aalvinaiyudaimai/S01.png", "thirukkural-backlog-01/avai_anjaamai/S01.png", "thirukkural-backlog-02/aalvinaiyudaimai/S03.png", "thirukkural-backlog-02/aalvinaiyudaimai/S04.png", "thirukkural-backlog-02/aalvinaiyudaimai/S08.png", "thirukkural-backlog-01/avai_anjaamai/S11.png", "thirukkural-backlog-02/aalvinaiyudaimai/S10.png", "thirukkural-backlog-02/aalvinaiyudaimai/S12.png"]
+    }
+  ]
+}
