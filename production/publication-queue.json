@@ -1,6 +1,6 @@
 {
   "channel": "@guru-kula-desam",
-  "pendingCount": 22,
+  "pendingCount": 20,
   "blocker": null,
   "releaseInstructions": "Recheck public channel for duplicates, import locally finished films into Google Vids, publish through the correct channel Studio, and verify public URLs. Scheduling requires the upload to succeed first.",
   "songs": [
@@ -20,42 +20,6 @@
         "allScenesHaveMovement": true,
         "logoPosition": "bottom-left, 24px inset",
         "fileBytes": 19935961
-      }
-    },
-    {
-      "sourceId": "tqF2NBWp6_8",
-      "title": "திருக்குறள் - கொடுங்கோன்மை | Kodungonmai | Full Song Film",
-      "file": "thirukkural-backlog-06\\kodungonmai\\KODUNGONMAI-CINEMATIC-v1.mp4",
-      "googleVids": "https://docs.google.com/videos/d/1LNdSU34j05ww58NlNMXbk3lwiSsQniM0Af_LIrWQChI/edit",
-      "status": "ready; pending publication",
-      "qc": {
-        "sourceId": "tqF2NBWp6_8",
-        "durationSeconds": 275.1666666666667,
-        "scenes": 12,
-        "uniqueImages": 12,
-        "originalAacBitstreamMatched": true,
-        "fullDecodePassed": true,
-        "allScenesHaveMovement": true,
-        "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 19781669
-      }
-    },
-    {
-      "sourceId": "5-z9v-1INWg",
-      "title": "திருக்குறள் - சிற்றினம் சேராமை | Sitrinam Seraamai | Full Song Film",
-      "file": "thirukkural-backlog-06\\sitrinam_seraamai\\SITRINAM_SERAAMAI-CINEMATIC-v1.mp4",
-      "googleVids": "https://docs.google.com/videos/d/12rRP542g46os0Bqe0L8GfVVJCh-R_dKEHBkNE6r4604/edit",
-      "status": "ready; pending publication",
-      "qc": {
-        "sourceId": "5-z9v-1INWg",
-        "durationSeconds": 353.4166666666667,
-        "scenes": 12,
-        "uniqueImages": 12,
-        "originalAacBitstreamMatched": true,
-        "fullDecodePassed": true,
-        "allScenesHaveMovement": true,
-        "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 20513543
       }
     },
     {

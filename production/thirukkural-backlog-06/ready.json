@@ -30,8 +30,8 @@
       "sourceId": "tqF2NBWp6_8",
       "title": "திருக்குறள் - கொடுங்கோன்மை | Kodungonmai | Full Song Film",
       "file": "kodungonmai\\KODUNGONMAI-CINEMATIC-v1.mp4",
-      "status": "ready; pending daily upload quota",
-      "publishedUrl": null,
+      "status": "published and public playback verified",
+      "publishedUrl": "https://www.youtube.com/watch?v=wzdoeFDq0iQ",
       "qc": {
         "sourceId": "tqF2NBWp6_8",
         "durationSeconds": 275.1666666666667,
@@ -48,14 +48,16 @@
         "savedToDrive": true,
         "volumePercent": 100,
         "muted": false
-      }
+      },
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T14:05:56.641639+00:00"
     },
     {
       "sourceId": "5-z9v-1INWg",
       "title": "திருக்குறள் - சிற்றினம் சேராமை | Sitrinam Seraamai | Full Song Film",
       "file": "sitrinam_seraamai\\SITRINAM_SERAAMAI-CINEMATIC-v1.mp4",
-      "status": "ready; pending daily upload quota",
-      "publishedUrl": null,
+      "status": "published and public playback verified",
+      "publishedUrl": "https://www.youtube.com/watch?v=2U45AXlx7DA",
       "qc": {
         "sourceId": "5-z9v-1INWg",
         "durationSeconds": 353.4166666666667,
@@ -72,7 +74,9 @@
         "savedToDrive": true,
         "volumePercent": 100,
         "muted": false
-      }
+      },
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T14:09:57.580498+00:00"
     }
   ]
 }

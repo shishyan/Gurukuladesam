@@ -1,14 +1,12 @@
 # Pending song videos
 
-22 QC-passed full-song films are ready locally. Upload slots were available at the latest check.
+20 QC-passed full-song films are ready locally. Upload slots were available at the latest check.
 
-22 films have saved Google Vids projects; 0 still need a Vids import.
+20 films have saved Google Vids projects; 0 still need a Vids import.
 
 | Song | Source | Local MP4 |
 | --- | --- | --- |
 | திருக்குறள் - ஒற்றாடல் / Ottraadal / Full Song Film | `cn776n6oKXQ` | [Open film](thirukkural-backlog-04/ottraadal/OTTRAADAL-CINEMATIC-v1.mp4) |
-| திருக்குறள் - கொடுங்கோன்மை / Kodungonmai / Full Song Film | `tqF2NBWp6_8` | [Open film](thirukkural-backlog-06/kodungonmai/KODUNGONMAI-CINEMATIC-v1.mp4) |
-| திருக்குறள் - சிற்றினம் சேராமை / Sitrinam Seraamai / Full Song Film | `5-z9v-1INWg` | [Open film](thirukkural-backlog-06/sitrinam_seraamai/SITRINAM_SERAAMAI-CINEMATIC-v1.mp4) |
 | திருக்குறள் - செங்கோன்மை / Sengonmai / Full Song Film | `sScywbUNArA` | [Open film](thirukkural-backlog-07/sengonmai/SENGONMAI-CINEMATIC-v1.mp4) |
 | திருக்குறள் - சொல்வன்மை / Solvanmai / Full Song Film | `NIvQ6yD1wnY` | [Open film](thirukkural-backlog-07/solvanmai/SOLVANMAI-CINEMATIC-v1.mp4) |
 | திருக்குறள் - சுற்றந்தழால் / Suttranthazhaal / Full Song Film | `pTxTsQzF8Xs` | [Open film](thirukkural-backlog-07/suttranthazhaal/SUTTRANTHAZHAAL-CINEMATIC-v1.mp4) |
