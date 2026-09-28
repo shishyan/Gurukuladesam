@@ -4,8 +4,8 @@
       "sourceId": "dbdp19C0j3M",
       "title": "திருவருட்பா - திருவருள் வேட்கை | Full Song Film",
       "file": "thiruvarul_vetkai\\THIRUVARUL_VETKAI-CINEMATIC-v1.mp4",
-      "status": "ready; pending daily upload quota",
-      "publishedUrl": null,
+      "status": "published and public playback verified",
+      "publishedUrl": "https://www.youtube.com/watch?v=PO4U3nRv6o0",
       "qc": {
         "sourceId": "dbdp19C0j3M",
         "durationSeconds": 285.0,
@@ -23,7 +23,9 @@
         "volumePercent": 100,
         "muted": false,
         "fullDurationVisible": true
-      }
+      },
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T15:43:09.349764+00:00"
     }
   ]
 }

@@ -32,8 +32,8 @@
       "sourceId": "K6mhIh64XE8",
       "title": "திருக்குறள் - இறை மாட்சி | Irai Maatchi | Full Song Film",
       "file": "irai_maatchi\\IRAI_MAATCHI-CINEMATIC-v1.mp4",
-      "status": "ready; pending daily upload quota",
-      "publishedUrl": null,
+      "status": "published and public playback verified",
+      "publishedUrl": "https://www.youtube.com/watch?v=mCwNR1Bytj4",
       "qc": {
         "sourceId": "K6mhIh64XE8",
         "durationSeconds": 227.66666666666666,
@@ -50,7 +50,9 @@
         "savedToDrive": true,
         "volumePercent": 100,
         "muted": false
-      }
+      },
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T15:39:48.808397+00:00"
     },
     {
       "sourceId": "scUcWDtCge8",

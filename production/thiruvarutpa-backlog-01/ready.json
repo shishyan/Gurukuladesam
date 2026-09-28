@@ -4,8 +4,8 @@
       "sourceId": "lAWfE9YSJME",
       "title": "திருவருட்பா - ஆறாம் திருமுறை - பரசிவ வணக்கம் | Full Song Film",
       "file": "parasiva_vanakkam\\PARASIVA_VANAKKAM-CINEMATIC-groups-v2.mp4",
-      "status": "ready; revised group scenes; Vids verified",
-      "publishedUrl": null,
+      "status": "published and public playback verified",
+      "publishedUrl": "https://www.youtube.com/watch?v=fJIeiPyejxU",
       "qc": {
         "sourceId": "lAWfE9YSJME",
         "durationSeconds": 227.5,
@@ -28,14 +28,16 @@
         "savedToDrive": true,
         "volumePercent": 100,
         "muted": false
-      }
+      },
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T15:44:36.009385+00:00"
     },
     {
       "sourceId": "I-ZLmvGIiz4",
       "title": "திருவருட்பா - ஆறாம் திருமுறை - சிவ பதி விளக்கம் | Full Song Film",
       "file": "siva_pathi_vilakkam\\SIVA_PATHI_VILAKKAM-CINEMATIC-groups-v2.mp4",
-      "status": "ready; revised group scenes; Vids verified",
-      "publishedUrl": null,
+      "status": "published and public playback verified",
+      "publishedUrl": "https://www.youtube.com/watch?v=KjQZFlnCluU",
       "qc": {
         "sourceId": "I-ZLmvGIiz4",
         "durationSeconds": 285.0,
@@ -58,14 +60,16 @@
         "savedToDrive": true,
         "volumePercent": 100,
         "muted": false
-      }
+      },
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T15:40:57.349520+00:00"
     },
     {
       "sourceId": "06ZOKy7SSvw",
       "title": "திருவருட்பா - இரண்டாம் திருமுறை - திருச்சாதனத் தெய்வத் திறம் | Full Song Film",
       "file": "thiruchathana_deiva_thiram\\THIRUCHATHANA_DEIVA_THIRAM-CINEMATIC-groups-v2.mp4",
-      "status": "ready; revised group scenes; Vids verified",
-      "publishedUrl": null,
+      "status": "published and public playback verified",
+      "publishedUrl": "https://www.youtube.com/watch?v=255aVCj3t0w",
       "qc": {
         "sourceId": "06ZOKy7SSvw",
         "durationSeconds": 635.6666666666666,
@@ -88,7 +92,9 @@
         "savedToDrive": true,
         "volumePercent": 100,
         "muted": false
-      }
+      },
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T15:42:05.936790+00:00"
     }
   ]
 }

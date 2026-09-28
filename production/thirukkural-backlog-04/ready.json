@@ -56,8 +56,8 @@
       "sourceId": "cn776n6oKXQ",
       "title": "திருக்குறள் - ஒற்றாடல் | Ottraadal | Full Song Film",
       "file": "ottraadal\\OTTRAADAL-CINEMATIC-v1.mp4",
-      "status": "ready; pending daily upload quota",
-      "publishedUrl": null,
+      "status": "published and public playback verified",
+      "publishedUrl": "https://www.youtube.com/watch?v=TQtjI3EepPQ",
       "qc": {
         "sourceId": "cn776n6oKXQ",
         "durationSeconds": 320.4166666666667,
@@ -74,7 +74,9 @@
         "savedToDrive": true,
         "volumePercent": 100,
         "muted": false
-      }
+      },
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T15:45:06.434505+00:00"
     }
   ]
 }

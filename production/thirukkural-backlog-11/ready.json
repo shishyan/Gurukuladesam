@@ -56,8 +56,8 @@
       "sourceId": "aBA50x-gDME",
       "title": "திருக்குறள் - தூது | Thoothu | Full Song Film",
       "file": "thoothu\\THOOTHU-CINEMATIC-v1.mp4",
-      "status": "ready; pending daily upload quota",
-      "publishedUrl": null,
+      "status": "published and public playback verified",
+      "publishedUrl": "https://www.youtube.com/watch?v=nR7R0TWyZHk",
       "qc": {
         "sourceId": "aBA50x-gDME",
         "durationSeconds": 242.75,
@@ -74,7 +74,9 @@
         "savedToDrive": true,
         "volumePercent": 100,
         "muted": false
-      }
+      },
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T15:37:29.031247+00:00"
     }
   ]
 }

@@ -58,7 +58,7 @@
     {
       "sourceId": "cn776n6oKXQ",
       "url": "https://www.youtube.com/watch?v=TQtjI3EepPQ",
-      "status": "uploaded privately; Community Guidelines passed; copyright still running longer than expected"
+      "status": "published and public playback verified; player unmuted; logo verified bottom-left; copyright check was still running at publication"
     },
     {
       "sourceId": "diUv8fkOqv0",
@@ -108,7 +108,7 @@
     {
       "sourceId": "K6mhIh64XE8",
       "url": "https://www.youtube.com/watch?v=mCwNR1Bytj4",
-      "status": "uploaded privately; Community Guidelines passed; copyright taking longer than expected"
+      "status": "published and public playback verified; player unmuted; logo verified bottom-left; copyright check was still running at publication"
     },
     {
       "sourceId": "scUcWDtCge8",
@@ -118,52 +118,73 @@
     {
       "sourceId": "C7PTFCAFIRI",
       "url": "https://www.youtube.com/watch?v=HezzLu_n6qE",
-      "status": "published; public visibility verified"
+      "status": "published and public playback verified; logo verified bottom-left"
     },
     {
       "sourceId": "9YAr421Ft00",
       "url": "https://www.youtube.com/watch?v=Gnu-TzZfe7A",
-      "status": "published; public visibility verified"
+      "status": "published and public playback verified; logo verified bottom-left"
     },
     {
       "sourceId": "rBeSH7tNEzA",
       "url": "https://www.youtube.com/watch?v=L6DWSjPqoH0",
-      "status": "published; public visibility verified"
+      "status": "published and public playback verified; logo verified bottom-left"
     },
     {
       "sourceId": "YL6ocN5OMzI",
       "url": "https://www.youtube.com/watch?v=JreH0hqB2po",
-      "status": "published; public visibility verified"
+      "status": "published and public playback verified; logo verified bottom-left"
     },
     {
       "sourceId": "A86cP9ae6Vs",
       "url": "https://www.youtube.com/watch?v=9NIv50lV4-M",
-      "status": "published; public visibility verified"
+      "status": "published and public playback verified; logo verified bottom-left"
     },
     {
       "sourceId": "WKCMHUFbf2Q",
       "url": "https://www.youtube.com/watch?v=8AEEcskF-Jo",
-      "status": "uploaded privately; Community Guidelines passed; copyright taking longer than expected"
+      "status": "published and public playback verified; player unmuted; logo verified bottom-left; copyright check was still running at publication"
     },
     {
       "sourceId": "WM8EPZ4KK2s",
       "url": "https://www.youtube.com/watch?v=xcUlgFsrepU",
-      "status": "published; public visibility verified"
+      "status": "published and public playback verified; logo verified bottom-left"
     },
     {
       "sourceId": "OqRZLEMvx8s",
       "url": "https://www.youtube.com/watch?v=BfgGC7DsHMI",
-      "status": "published; public visibility verified"
+      "status": "published and public playback verified; logo verified bottom-left"
     },
     {
       "sourceId": "hrg_nAlW7VQ",
       "url": "https://www.youtube.com/watch?v=bH23l5vVgL8",
-      "status": "published; public visibility verified"
+      "status": "published and public playback verified; logo verified bottom-left"
     },
     {
       "sourceId": "aBA50x-gDME",
       "url": "https://www.youtube.com/watch?v=nR7R0TWyZHk",
-      "status": "uploaded privately; Community Guidelines passed; copyright taking longer than expected"
+      "status": "published and public playback verified; player unmuted; logo verified bottom-left; copyright check was still running at publication"
+    },
+    {
+      "sourceId": "lAWfE9YSJME",
+      "url": "https://www.youtube.com/watch?v=fJIeiPyejxU",
+      "status": "published and public playback verified; player unmuted; logo verified bottom-left; copyright check was still running at publication"
+    },
+    {
+      "sourceId": "I-ZLmvGIiz4",
+      "url": "https://www.youtube.com/watch?v=KjQZFlnCluU",
+      "status": "published and public playback verified; player unmuted; logo verified bottom-left; copyright check was still running at publication"
+    },
+    {
+      "sourceId": "06ZOKy7SSvw",
+      "url": "https://www.youtube.com/watch?v=255aVCj3t0w",
+      "status": "published and public playback verified; player unmuted; logo verified bottom-left; copyright check was still running at publication"
+    },
+    {
+      "sourceId": "dbdp19C0j3M",
+      "url": "https://www.youtube.com/watch?v=PO4U3nRv6o0",
+      "status": "published and public playback verified; player unmuted; logo verified bottom-left; copyright check was still running at publication"
     }
-  ]
+  ],
+  "publicPlaybackCheckedAtUtc": "2026-09-28T15:51:02.232227+00:00"
 }

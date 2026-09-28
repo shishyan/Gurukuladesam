@@ -1,21 +1,11 @@
 # Pending song videos
 
-10 QC-passed full-song films are ready locally. Upload slots were available at the latest check.
+0 QC-passed full-song films are ready locally. Upload slots were available at the latest check.
 
-10 films have saved Google Vids projects; 0 still need a Vids import.
+0 films have saved Google Vids projects; 0 still need a Vids import.
 
 | Song | Source | Local MP4 |
 | --- | --- | --- |
-| திருக்குறள் - ஒற்றாடல் / Ottraadal / Full Song Film | `cn776n6oKXQ` | [Open film](thirukkural-backlog-04/ottraadal/OTTRAADAL-CINEMATIC-v1.mp4) |
-| திருக்குறள் - இறை மாட்சி / Irai Maatchi / Full Song Film | `K6mhIh64XE8` | [Open film](thirukkural-backlog-08/irai_maatchi/IRAI_MAATCHI-CINEMATIC-v1.mp4) |
-| திருக்குறள் - துறவு / Thuravu / Full Song Film | `WKCMHUFbf2Q` | [Open film](thirukkural-backlog-10/thuravu/THURAVU-CINEMATIC-v1.mp4) |
-| திருக்குறள் - தெரிந்து செயல்வகை / Therinthu Seyalvagai / Full Song Film | `OqRZLEMvx8s` | [Open film](thirukkural-backlog-11/therinthu_seyalvagai/THERINTHU_SEYALVAGAI-CINEMATIC-v1.mp4) |
-| திருக்குறள் - தெரிந்து தெளிதல் / Therinthu Thelithal / Full Song Film | `hrg_nAlW7VQ` | [Open film](thirukkural-backlog-11/therinthu_thelithal/THERINTHU_THELITHAL-CINEMATIC-v1.mp4) |
-| திருக்குறள் - தூது / Thoothu / Full Song Film | `aBA50x-gDME` | [Open film](thirukkural-backlog-11/thoothu/THOOTHU-CINEMATIC-v1.mp4) |
-| திருவருட்பா - ஆறாம் திருமுறை - பரசிவ வணக்கம் / Full Song Film | `lAWfE9YSJME` | [Open film](thiruvarutpa-backlog-01/parasiva_vanakkam/PARASIVA_VANAKKAM-CINEMATIC-v1.mp4) |
-| திருவருட்பா - ஆறாம் திருமுறை - சிவ பதி விளக்கம் / Full Song Film | `I-ZLmvGIiz4` | [Open film](thiruvarutpa-backlog-01/siva_pathi_vilakkam/SIVA_PATHI_VILAKKAM-CINEMATIC-v1.mp4) |
-| திருவருட்பா - இரண்டாம் திருமுறை - திருச்சாதனத் தெய்வத் திறம் / Full Song Film | `06ZOKy7SSvw` | [Open film](thiruvarutpa-backlog-01/thiruchathana_deiva_thiram/THIRUCHATHANA_DEIVA_THIRAM-CINEMATIC-v1.mp4) |
-| திருவருட்பா - திருவருள் வேட்கை / Full Song Film | `dbdp19C0j3M` | [Open film](thiruvarutpa-backlog-02/thiruvarul_vetkai/THIRUVARUL_VETKAI-CINEMATIC-v1.mp4) |
 
 Scheduling changes the publication time after an upload succeeds. It does not bypass the upload quota.
 
