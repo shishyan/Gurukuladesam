@@ -1,0 +1,100 @@
+{
+  "sourceId": "MlaG3Z3_Kck",
+  "output": "KAATCHI-PERUMITHAM-FILM.mp4",
+  "title": "காட்சிப் பெருமிதம் | Kaatchi Perumitham Cinematic Shiva Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 469
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 469,
+      "outFrame": 930
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 930,
+      "outFrame": 1379
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1379,
+      "outFrame": 1819
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1819,
+      "outFrame": 2271
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 2271,
+      "outFrame": 2760
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 2760,
+      "outFrame": 3188
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 3188,
+      "outFrame": 3667
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 3667,
+      "outFrame": 4106
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 4106,
+      "outFrame": 4569
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 4569,
+      "outFrame": 5037
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 5037,
+      "outFrame": 5481
+    }
+  ],
+  "rainShots": [
+    6
+  ],
+  "lightningShots": [
+    6
+  ],
+  "publicationStatus": "ready; upload deferred by user",
+  "description": "காட்சிப் பெருமிதம் — Kaatchi Perumitham.\n\nA devotional image-based film for the complete original Guru Kula Desam song recording. Fresh scenes, gentle camera movement, dheepam and agarbaththi smoke, with occasional outdoor drizzle and lightning.\n\nOriginal recording: https://www.youtube.com/watch?v=MlaG3Z3_Kck\n\n#Thiruvarutpa #Shiva #TamilDevotional #GuruKulaDesam",
+  "playlistNames": [
+    "Discography",
+    "Lord Shiva Songs"
+  ],
+  "fps": 12,
+  "targetFrames": 5481,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review",
+  "localQC": {
+    "originalAudioExact": true,
+    "fullDecode": true,
+    "visualReview": "opening, rainy scene and dry successor inspected"
+  }
+}

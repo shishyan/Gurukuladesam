@@ -1,0 +1,83 @@
+{
+  "sourceId": "mb-lljpUJ5g",
+  "output": "THENNADUDAIYA-SIVANEY-POTRI-NEW-JOURNEY.mp4",
+  "title": "தென்னாடுடைய சிவனே போற்றி | New Cinematic Journey",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 423
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 423,
+      "outFrame": 852
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 852,
+      "outFrame": 1318
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1318,
+      "outFrame": 1764
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1764,
+      "outFrame": 2162
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 2162,
+      "outFrame": 2625
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 2625,
+      "outFrame": 3056
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 3056,
+      "outFrame": 3503
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 3503,
+      "outFrame": 3925
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 3925,
+      "outFrame": 4390
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 4390,
+      "outFrame": 4829
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 4829,
+      "outFrame": 5243
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 5243,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

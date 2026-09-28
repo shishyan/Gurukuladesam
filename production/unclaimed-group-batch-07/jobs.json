@@ -1,0 +1,39 @@
+{
+  "owner": "Main Guru Kula Desam task",
+  "status": "All three films published",
+  "songs": [
+    {
+      "sourceId": "RAUafMVpT5k",
+      "slug": "naadu_remix",
+      "chapter": "நாடு (Remix)",
+      "english": "Naadu Remix",
+      "collection": "Thirukkural",
+      "theme": "a flourishing country through prosperity, health, cooperation and good civic care",
+      "setting": "an expansive ancient Tamil delta with fertile fields, busy harbours and civic gardens",
+      "duration": 214,
+      "sourceTitle": "நாடு (Remix)"
+    },
+    {
+      "sourceId": "zq1dxg5R-rY",
+      "slug": "mannarai_sernthozhuthal_female",
+      "chapter": "மன்னரைச்சேர்ந்தொழுதல் (Female)",
+      "english": "Mannarai Sernthozhuthal Female",
+      "collection": "Thirukkural",
+      "theme": "wise respectful conduct and considered advice in the company of rulers",
+      "setting": "an ancient Tamil royal town with broad audience courtyards, gardens and assembly halls",
+      "duration": 281,
+      "sourceTitle": "மன்னரைச் சேர்ந்தொழுதல் (Female)"
+    },
+    {
+      "sourceId": "GN181JJ1lXU",
+      "slug": "kuripparithal_remix",
+      "chapter": "குறிப்பறிதல் (Remix)",
+      "english": "Kuripparithal Remix",
+      "collection": "Thirukkural",
+      "theme": "understanding unspoken cues through attentive observation and empathy",
+      "setting": "an ancient Tamil canal town with intimate civic courtyards and a wide lakeside promenade",
+      "duration": 287,
+      "sourceTitle": "குறிப்பறிதல் (Remix)"
+    }
+  ]
+}

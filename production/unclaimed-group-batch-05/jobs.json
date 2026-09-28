@@ -1,0 +1,39 @@
+{
+  "owner": "Main Guru Kula Desam task",
+  "status": "Reserved after shared workspace check; upload deferred",
+  "songs": [
+    {
+      "sourceId": "FS5fUOxZySE",
+      "slug": "valiyarithal_remix",
+      "chapter": "வலியறிதல் (Remix)",
+      "english": "Valiyarithal Remix",
+      "collection": "Thirukkural",
+      "theme": "understanding one's resources and capacity before acting",
+      "setting": "a Tamil mountain foothill town with craft workshops and river terraces",
+      "duration": 347,
+      "sourceTitle": "வலியறிதல் (Remix)"
+    },
+    {
+      "sourceId": "2Pun6K7h984",
+      "slug": "periyarai_thunaikodal_remix",
+      "chapter": "பெரியாரைத்துணைக்கோடல் (Remix)",
+      "english": "Periyarai Thunaikodal Remix",
+      "collection": "Thirukkural",
+      "theme": "seeking guidance and companionship from wise experienced elders",
+      "setting": "a Tamil lakeside learning settlement with banyan councils and shaded verandas",
+      "duration": 263,
+      "sourceTitle": "பெரியாரைத் துணைக்கோடல் (Remix)"
+    },
+    {
+      "sourceId": "0bz1myKXoJQ",
+      "slug": "arivudaimai_remix",
+      "chapter": "அறிவுடைமை (Remix)",
+      "english": "Arivudaimai Remix",
+      "collection": "Thirukkural",
+      "theme": "wisdom through careful listening, understanding and thoughtful action",
+      "setting": "a Tamil river island town with schools, gardens and civic pavilions",
+      "duration": 302,
+      "sourceTitle": "அறிவுடைமை (Remix)"
+    }
+  ]
+}

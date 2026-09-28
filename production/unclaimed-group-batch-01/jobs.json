@@ -1,0 +1,37 @@
+{
+  "owner": "Main Guru Kula Desam agent — unclaimed recording production",
+  "status": "Reserved for production. Other agents must not select these source IDs. Upload deferred by user.",
+  "scope": "Distinct recordings explicitly selected after user authorized the unstarted list. Do not duplicate identical audio; existing composition films are disclosed.",
+  "songs": [
+    {
+      "sourceId": "XlCvnE6y9d0",
+      "slug": "potri_thiru_agaval_2026",
+      "chapter": "போற்றி திரு அகவல் 2026",
+      "english": "Potri Thiru Agaval 2026",
+      "collection": "Thiruvasagam",
+      "theme": "community praises Shiva through dawn temple gathering and compassionate service",
+      "duration": 1255,
+      "sourceTitle": "போற்றி திரு அகவல் 2026 Potri Thiru Agaval (Thiruvasagam)"
+    },
+    {
+      "sourceId": "8b2B047SSTo",
+      "slug": "thiruvothur_pathigam_ii",
+      "chapter": "திருவோத்தூர் பதிகம் II",
+      "english": "Thiruvothur Pathigam II",
+      "collection": "Thevaram",
+      "theme": "Tamil temple community pilgrimage through palm groves and sacred courtyards",
+      "duration": 479,
+      "sourceTitle": "திருவோத்தூர் பதிகம் 2026 II"
+    },
+    {
+      "sourceId": "34D_HpbRxfo",
+      "slug": "thiruvothur_pathigam_iii",
+      "chapter": "திருவோத்தூர் பதிகம் III",
+      "english": "Thiruvothur Pathigam III",
+      "collection": "Thevaram",
+      "theme": "communal devotion and village celebration near Thiruvothur",
+      "duration": 317,
+      "sourceTitle": "திருவோத்தூர் பதிகம் 2026 III"
+    }
+  ]
+}

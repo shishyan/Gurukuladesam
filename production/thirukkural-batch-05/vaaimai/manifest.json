@@ -1,0 +1,96 @@
+{
+  "sourceId": "BoOWFaOGczE",
+  "output": "VAAIMAI-FILM.mp4",
+  "title": "திருக்குறள் - வாய்மை | Vaaimai Cinematic Thirukkural Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 241
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 241,
+      "outFrame": 488
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 488,
+      "outFrame": 744
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 744,
+      "outFrame": 1015
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1015,
+      "outFrame": 1248
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 1248,
+      "outFrame": 1539
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 1539,
+      "outFrame": 1774
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 1774,
+      "outFrame": 2017
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 2017,
+      "outFrame": 2307
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 2307,
+      "outFrame": 2547
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 2547,
+      "outFrame": 2806
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 2806,
+      "outFrame": 3047
+    }
+  ],
+  "rainShots": [
+    6
+  ],
+  "lightningShots": [
+    6
+  ],
+  "publicationStatus": "ready; upload deferred by user",
+  "description": "வாய்மை — Vaaimai.\n\nA cinematic image-based film for the complete original Guru Kula Desam recording, with twelve distinct scenes, gentle movement, dheepam and agarbaththi smoke, and occasional drizzle and lightning.\n\nOriginal recording: https://www.youtube.com/watch?v=BoOWFaOGczE\n\n#Thirukkural #TamilSong #GuruKulaDesam",
+  "fps": 12,
+  "targetFrames": 3047,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review",
+  "localQC": {
+    "originalAudioExact": true,
+    "fullDecode": true,
+    "visualReview": "opening, rainy scene and dry successor inspected"
+  }
+}

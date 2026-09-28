@@ -1,0 +1,39 @@
+{
+  "owner": "Main Guru Kula Desam task",
+  "status": "All three films published",
+  "songs": [
+    {
+      "sourceId": "q2oGlYiV-qg",
+      "slug": "solvanmai_remix",
+      "chapter": "சொல்வன்மை (Remix)",
+      "sourceTitle": "சொல்வன்மை (Remix)",
+      "english": "Solvanmai Remix",
+      "theme": "eloquent truthful speech that builds understanding and cooperation",
+      "setting": "an ancient Tamil lake city with open public debating pavilions and flowering gardens",
+      "collection": "Thirukkural",
+      "duration": 336
+    },
+    {
+      "sourceId": "J-mAIpyxy4A",
+      "slug": "vinai_thitpam_remix",
+      "chapter": "வினைத்திட்பம் (Remix)",
+      "sourceTitle": "வினைத்திட்பம் (Remix)",
+      "english": "Vinai Thitpam Remix",
+      "theme": "resolute purpose and perseverance in completing worthwhile work",
+      "setting": "an ancient Tamil foothill craft settlement with stone workshops and terraced orchards",
+      "collection": "Thirukkural",
+      "duration": 300
+    },
+    {
+      "sourceId": "XRizXIUU57g",
+      "slug": "vinai_thooymai_remix",
+      "chapter": "வினைத்தூய்மை (Remix)",
+      "sourceTitle": "வினைத்தூய்மை (Remix)",
+      "english": "Vinai Thooymai Remix",
+      "theme": "ethical purity of action, fairness and principled service",
+      "setting": "an ancient Tamil river market town with shaded trade courts and fertile community gardens",
+      "collection": "Thirukkural",
+      "duration": 271
+    }
+  ]
+}

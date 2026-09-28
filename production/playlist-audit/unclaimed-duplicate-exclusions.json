@@ -1,0 +1,9 @@
+{
+  "rule":"Do not create another film for identical audio or the same performance with an added introduction.",
+  "recordings":[
+    {"sourceId":"Q2xax9mIhZw","sameAs":"IT_-ioBG69g","reason":"Matching decoded mono 8kHz PCM SHA256 in cached audio audits."},
+    {"sourceId":"xc1iNs05Bkw","sameAs":"o5PVED0ZcfU","reason":"Matching decoded mono 8kHz PCM SHA256 in cached audio audits. Existing Thiruvenba film is complete."},
+    {"sourceId":"PVcmqZuROSU","sameAs":"CFEYF0X6fLU","reason":"Previously verified audio duplicate; see production/murugar-coverage-2026-09-27.json."},
+    {"sourceId":"w0lNqTk3QCU","sameAs":"UUytjlINYLw","reason":"Same performance with approximately 12.52 seconds of introduction; see production/vinayagar-amman-batch-03/SOURCE-AUDIT.md."}
+  ]
+}

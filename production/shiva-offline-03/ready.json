@@ -1,0 +1,53 @@
+[
+  {
+    "title": "ஆடலமுதப் பத்து | Aadalamudha Pathu Cinematic Shiva Film",
+    "sourceId": "juuVtFBK3X8",
+    "status": "Ready for later upload",
+    "manifest": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-03\\aadalamudha_pathu\\manifest.json",
+    "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-03\\aadalamudha_pathu\\AADALAMUDHA-PATHU-FILM.mp4",
+    "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-03\\aadalamudha_pathu\\opening-qc.png",
+    "description": "ஆடலமுதப் பத்து — Aadalamudha Pathu.\n\nA devotional image-based film for the complete original Guru Kula Desam song recording. Fresh scenes, gentle camera movement, dheepam and agarbaththi smoke, with occasional outdoor drizzle and lightning.\n\nOriginal recording: https://www.youtube.com/watch?v=juuVtFBK3X8\n\n#Thiruvarutpa #Shiva #TamilDevotional #GuruKulaDesam",
+    "playlistNames": [
+      "Discography",
+      "Lord Shiva Songs"
+    ],
+    "scenes": 12,
+    "durationSeconds": 344.25,
+    "bytes": 23100800,
+    "sha256": "bff14a1a9470155028df9107a4cd36e4816b01244c99048f3c63b4fcb4a135a9"
+  },
+  {
+    "title": "அபராதத்து ஆற்றாமை | Abaraathathu Aatraamai Cinematic Shiva Film",
+    "sourceId": "kshlDPh2IqE",
+    "status": "Ready for later upload",
+    "manifest": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-03\\abaraathathu_aatraamai\\manifest.json",
+    "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-03\\abaraathathu_aatraamai\\ABARAATHATHU-AATRAAMAI-FILM.mp4",
+    "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-03\\abaraathathu_aatraamai\\opening-qc.png",
+    "description": "அபராதத்து ஆற்றாமை — Abaraathathu Aatraamai.\n\nA devotional image-based film for the complete original Guru Kula Desam song recording. Fresh scenes, gentle camera movement, dheepam and agarbaththi smoke, with occasional outdoor drizzle and lightning.\n\nOriginal recording: https://www.youtube.com/watch?v=kshlDPh2IqE\n\n#Thiruvarutpa #Shiva #TamilDevotional #GuruKulaDesam",
+    "playlistNames": [
+      "Discography",
+      "Lord Shiva Songs"
+    ],
+    "scenes": 12,
+    "durationSeconds": 288.3333333333333,
+    "bytes": 20681364,
+    "sha256": "a8c6da8125f42efde4345fb23bb14f1e851adb2426f9c29cea1904a242c7f49d"
+  },
+  {
+    "title": "எழுத்தறியும் பெருமான் மாலை | Ezhuthariyum Peruman Maalai Cinematic Shiva Film",
+    "sourceId": "kyiaup-gjMc",
+    "status": "Ready for later upload",
+    "manifest": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-03\\ezhuthariyum_peruman_maalai\\manifest.json",
+    "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-03\\ezhuthariyum_peruman_maalai\\EZHUTHARIYUM-PERUMAN-MAALAI-FILM.mp4",
+    "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-03\\ezhuthariyum_peruman_maalai\\opening-qc.png",
+    "description": "எழுத்தறியும் பெருமான் மாலை — Ezhuthariyum Peruman Maalai.\n\nA devotional image-based film for the complete original Guru Kula Desam song recording. Fresh scenes, gentle camera movement, dheepam and agarbaththi smoke, with occasional outdoor drizzle and lightning.\n\nOriginal recording: https://www.youtube.com/watch?v=kyiaup-gjMc\n\n#Thiruvarutpa #Shiva #TamilDevotional #GuruKulaDesam",
+    "playlistNames": [
+      "Discography",
+      "Lord Shiva Songs"
+    ],
+    "scenes": 24,
+    "durationSeconds": 1257.0833333333333,
+    "bytes": 65896982,
+    "sha256": "c2835fa2247729bf1676bc301e5ae35c1fc6fdc3570209995e84b1f095eada6a"
+  }
+]

@@ -1,0 +1,107 @@
+{
+  "sourceId": "jXOalu0JJoA",
+  "output": "KALLAAMAI-SYMPHONY-FILM.mp4",
+  "title": "கள்ளாமை (Symphony) | Kallaamai Symphony Cinematic Thirukkural Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "Ultra-wide dawn panorama of a Tamil coastal village with markets and palm-shaded courtyards, many families and neighbours arriving along broad paths, expansive sky and powerful orchestral scale",
+      "inFrame": 0,
+      "outFrame": 320
+    },
+    {
+      "image": "S02.png",
+      "role": "A diverse group of Tamil elders, women and men discussing honesty, respect for others belongings, and generous community exchange around a broad stone table in a shaded courtyard, natural respectful interaction",
+      "inFrame": 320,
+      "outFrame": 582
+    },
+    {
+      "image": "S03.png",
+      "role": "Neighbours gathering at a small market and checking fair weights together, warm shared trust, setting a Tamil coastal village with markets and palm-shaded courtyards",
+      "inFrame": 582,
+      "outFrame": 900
+    },
+    {
+      "image": "S04.png",
+      "role": "Families and traders returning a found woven basket to its owner together, open smiles and respectful community interaction, setting a Tamil coastal village with markets and palm-shaded courtyards",
+      "inFrame": 900,
+      "outFrame": 1218
+    },
+    {
+      "image": "S05.png",
+      "role": "A mixed-age group learning from a wise elder beside palm-leaf manuscripts in a sunlit veranda, theme honesty, respect for others belongings, and generous community exchange",
+      "inFrame": 1218,
+      "outFrame": 1509
+    },
+    {
+      "image": "S06.png",
+      "role": "Women and men cooking and sharing a vegetarian community meal beneath trees, children helping elders, setting a Tamil coastal village with markets and palm-shaded courtyards",
+      "inFrame": 1509,
+      "outFrame": 1792
+    },
+    {
+      "image": "S07.png",
+      "role": "Wet outdoor public square in a Tamil coastal village with markets and palm-shaded courtyards beneath soft monsoon clouds, groups sharing woven palm umbrellas, no lightning bolts or drawn rain streaks",
+      "inFrame": 1792,
+      "outFrame": 2112
+    },
+    {
+      "image": "S08.png",
+      "role": "Dry enclosed stone assembly hall, a large attentive gathering considering honesty, respect for others belongings, and generous community exchange, golden lamps and absolutely no rain",
+      "inFrame": 2112,
+      "outFrame": 2406
+    },
+    {
+      "image": "S09.png",
+      "role": "A Tamil woman calmly speaking to a seated circle of neighbours about honesty, respect for others belongings, and generous community exchange, hopeful natural faces, a different courtyard and camera viewpoint",
+      "inFrame": 2406,
+      "outFrame": 2681
+    },
+    {
+      "image": "S10.png",
+      "role": "Several families and village workers repairing a stone water channel together at late afternoon, cooperative spirit, setting a Tamil coastal village with markets and palm-shaded courtyards",
+      "inFrame": 2681,
+      "outFrame": 2964
+    },
+    {
+      "image": "S11.png",
+      "role": "A broad gathering thanking elders and community helpers at sunset beside a lake, warm gratitude, theme honesty, respect for others belongings, and generous community exchange",
+      "inFrame": 2964,
+      "outFrame": 3292
+    },
+    {
+      "image": "S12.png",
+      "role": "Ultra-wide twilight panorama of a Tamil coastal village with markets and palm-shaded courtyards, communities gathering under courtyard lamps and an expansive indigo sky, serene closing",
+      "inFrame": 3292,
+      "outFrame": 3584
+    }
+  ],
+  "rainShots": [
+    6
+  ],
+  "lightningShots": [
+    6
+  ],
+  "publicationStatus": "Published",
+  "description": "கள்ளாமை (Symphony) — Kallaamai Symphony.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=jXOalu0JJoA\n\n#Thirukkural #Tamil #GuruKulaDesam",
+  "playlistNames": [
+    "Discography",
+    "திருக்குறள் | Thirukkural — Master Collection"
+  ],
+  "recordingVersion": "Kallaamai Symphony",
+  "fps": 12,
+  "targetFrames": 3584,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review",
+  "artworkReview": "All three four-quadrant sheets inspected; fresh community scenes; no fixed lightning bolts.",
+  "localQC": {
+    "originalAudioExact": true,
+    "fullDecode": true,
+    "visualReview": "inspected"
+  },
+  "recordingScope": "Distinct source recording; other recordings of this chapter already have films. No exact or near duplicate decoded audio found among 236 available source recordings.",
+  "youtubeVideoId": "tzAYLpH3TkI",
+  "youtubeMetadataComplete": true,
+  "youtubeChecksAtPublication": "Copyright and Community Guidelines passed",
+  "publicationVerified": "YouTube Studio Video published confirmation"
+}

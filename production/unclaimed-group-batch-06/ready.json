@@ -1,0 +1,53 @@
+{
+  "checkedAtUtc": "2026-09-28T15:00:04.067254+00:00",
+  "status": "Three full-song films ready; upload deferred",
+  "sceneCount": 36,
+  "songs": [
+    {
+      "sourceId": "UyCe3KLqY_8",
+      "title": "சிற்றினம்சேராமை (Remix) | Sittrinam Seramai Remix Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-06\\sittrinam_seramai_remix\\SITTRINAM-SERAMAI-REMIX-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-06\\sittrinam_seramai_remix\\opening-qc.png",
+      "durationSeconds": 330.9166666666667,
+      "scenes": 12,
+      "description": "சிற்றினம்சேராமை (Remix) — Sittrinam Seramai Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=UyCe3KLqY_8\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Ready for later upload",
+      "sha256": "b38dc3b59716e28f58a986475d379c5934701e20ec43b734e859b51cc20f7ff1"
+    },
+    {
+      "sourceId": "OzejLLvDq5s",
+      "title": "குற்றங்கடிதல் (Remix) | Kuttrangadithal Remix Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-06\\kuttrangadithal_remix\\KUTTRANGADITHAL-REMIX-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-06\\kuttrangadithal_remix\\opening-qc.png",
+      "durationSeconds": 221.16666666666666,
+      "scenes": 12,
+      "description": "குற்றங்கடிதல் (Remix) — Kuttrangadithal Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=OzejLLvDq5s\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Ready for later upload",
+      "sha256": "ff421f29d19c3cbc28d0bd58741b6f4df351757c52fc8f2dde290dbe0be1ba6c"
+    },
+    {
+      "sourceId": "r75xdfETSbE",
+      "title": "கேள்விச்செல்வம் (Remix) | Kelvi Selvam Remix Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-06\\kelvi_selvam_remix\\KELVI-SELVAM-REMIX-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-06\\kelvi_selvam_remix\\opening-qc.png",
+      "durationSeconds": 252.41666666666666,
+      "scenes": 12,
+      "description": "கேள்விச்செல்வம் (Remix) — Kelvi Selvam Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=r75xdfETSbE\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Ready for later upload",
+      "sha256": "c50ff46af182c7094486c5532f7369c7203eec28b376d7a6f49ee6b4f9156fc5"
+    }
+  ],
+  "reviewLimit": "Artwork and opening/wet/dry rendered samples inspected; full stream decode and exact original audio verified. Full human playback and exact lyric synchronisation are not claimed."
+}

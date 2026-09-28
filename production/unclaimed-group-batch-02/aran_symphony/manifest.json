@@ -1,0 +1,107 @@
+{
+  "sourceId": "YBmfJyQNSCY",
+  "output": "ARAN-SYMPHONY-FILM.mp4",
+  "title": "அரண் (Symphony) | Aran Symphony Cinematic Thirukkural Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "Ultra-wide powerful dawn panorama of a massive ancient Tamil stone fort overlooking farmland and a river, many townspeople approaching the gate, symphonic grandeur",
+      "inFrame": 0,
+      "outFrame": 223
+    },
+    {
+      "image": "S02.png",
+      "role": "Families and guards welcoming travellers at a broad fortified entrance, dignified peaceful community scene",
+      "inFrame": 223,
+      "outFrame": 461
+    },
+    {
+      "image": "S03.png",
+      "role": "Builders and village elders inspecting a stone rampart together, realistic historic Tamil clothing",
+      "inFrame": 461,
+      "outFrame": 686
+    },
+    {
+      "image": "S04.png",
+      "role": "A group of farmers, traders and children sharing supplies in a protected courtyard beside grain stores",
+      "inFrame": 686,
+      "outFrame": 911
+    },
+    {
+      "image": "S05.png",
+      "role": "Neighbours carrying water jars together to a broad clean communal cistern inside the fort",
+      "inFrame": 911,
+      "outFrame": 1147
+    },
+    {
+      "image": "S06.png",
+      "role": "A council of women and men discussing the welfare of their town in a shaded gatehouse pavilion",
+      "inFrame": 1147,
+      "outFrame": 1366
+    },
+    {
+      "image": "S07.png",
+      "role": "Wet outdoor stone fort walkway beneath monsoon clouds, grouped townspeople carrying palm umbrellas, no visible lightning bolts",
+      "inFrame": 1366,
+      "outFrame": 1559
+    },
+    {
+      "image": "S08.png",
+      "role": "Dry enclosed hall inside the fort, families and elders gathered beside food stores, warm lamplight, absolutely no rain",
+      "inFrame": 1559,
+      "outFrame": 1815
+    },
+    {
+      "image": "S09.png",
+      "role": "Workers and residents maintaining a stone bridge together, welcoming safe passage, wide river view",
+      "inFrame": 1815,
+      "outFrame": 2040
+    },
+    {
+      "image": "S10.png",
+      "role": "Children and elders learning together in a protected courtyard garden, serene group interaction",
+      "inFrame": 2040,
+      "outFrame": 2261
+    },
+    {
+      "image": "S11.png",
+      "role": "Many neighbours celebrating a shared harvest beneath fort walls in amber evening light",
+      "inFrame": 2261,
+      "outFrame": 2469
+    },
+    {
+      "image": "S12.png",
+      "role": "Ultra-wide sunset panorama of the fort, river and green fields, peaceful community silhouettes along the parapet, spacious closing",
+      "inFrame": 2469,
+      "outFrame": 2705
+    }
+  ],
+  "rainShots": [
+    6
+  ],
+  "lightningShots": [
+    6
+  ],
+  "publicationStatus": "Published",
+  "description": "அரண் (Symphony) — Aran Symphony.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=YBmfJyQNSCY\n\n#Thirukkural #Tamil #GuruKulaDesam",
+  "playlistNames": [
+    "Discography",
+    "திருக்குறள் | Thirukkural — Master Collection"
+  ],
+  "recordingVersion": "Aran Symphony",
+  "artworkReview": "All three four-quadrant sheets inspected; unique community scenes; no fixed lightning bolts.",
+  "fps": 12,
+  "targetFrames": 2705,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review",
+  "localQC": {
+    "originalAudioExact": true,
+    "fullDecode": true,
+    "visualReview": "inspected"
+  },
+  "recordingScope": "Distinct source recording; other recordings of this chapter already have films. No exact or near duplicate decoded audio found among 233 available source recordings.",
+  "youtubeVideoId": "irx33IVWrPY",
+  "youtubeMetadataComplete": true,
+  "youtubeChecksAtPublication": "Copyright and Community Guidelines passed",
+  "publicationVerified": "YouTube Studio Video published confirmation"
+}

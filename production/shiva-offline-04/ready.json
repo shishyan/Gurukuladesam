@@ -1,0 +1,53 @@
+[
+  {
+    "title": "காட்சிப் பெருமிதம் | Kaatchi Perumitham Cinematic Shiva Film",
+    "sourceId": "MlaG3Z3_Kck",
+    "status": "Ready for later upload",
+    "manifest": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-04\\kaatchi_perumitham\\manifest.json",
+    "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-04\\kaatchi_perumitham\\KAATCHI-PERUMITHAM-FILM.mp4",
+    "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-04\\kaatchi_perumitham\\opening-qc.png",
+    "description": "காட்சிப் பெருமிதம் — Kaatchi Perumitham.\n\nA devotional image-based film for the complete original Guru Kula Desam song recording. Fresh scenes, gentle camera movement, dheepam and agarbaththi smoke, with occasional outdoor drizzle and lightning.\n\nOriginal recording: https://www.youtube.com/watch?v=MlaG3Z3_Kck\n\n#Thiruvarutpa #Shiva #TamilDevotional #GuruKulaDesam",
+    "playlistNames": [
+      "Discography",
+      "Lord Shiva Songs"
+    ],
+    "scenes": 12,
+    "durationSeconds": 456.75,
+    "bytes": 26490441,
+    "sha256": "7f7aa16fe0b018680fc5e6e8e515b85a2aad42982071e8bf5a4c32f9a9d2da20"
+  },
+  {
+    "title": "சிவபுண்ணியத் தேற்றம் | Sivapunniya Thetram Cinematic Shiva Film",
+    "sourceId": "YORF54ouPz0",
+    "status": "Ready for later upload",
+    "manifest": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-04\\sivapunniya_thetram\\manifest.json",
+    "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-04\\sivapunniya_thetram\\SIVAPUNNIYA-THETRAM-FILM.mp4",
+    "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-04\\sivapunniya_thetram\\opening-qc.png",
+    "description": "சிவபுண்ணியத் தேற்றம் — Sivapunniya Thetram.\n\nA devotional image-based film for the complete original Guru Kula Desam song recording. Fresh scenes, gentle camera movement, dheepam and agarbaththi smoke, with occasional outdoor drizzle and lightning.\n\nOriginal recording: https://www.youtube.com/watch?v=YORF54ouPz0\n\n#Thiruvarutpa #Shiva #TamilDevotional #GuruKulaDesam",
+    "playlistNames": [
+      "Discography",
+      "Lord Shiva Songs"
+    ],
+    "scenes": 24,
+    "durationSeconds": 818.5,
+    "bytes": 49206391,
+    "sha256": "69ed090a72998cc5ebbde5ffd72454db4869189f278d2e3d09d0b1a85a3a91b6"
+  },
+  {
+    "title": "திருவடிச் சரண்புகல் | Thiruvadi Saranpugal Cinematic Shiva Film",
+    "sourceId": "Z7qFXMBjnak",
+    "status": "Ready for later upload",
+    "manifest": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-04\\thiruvadi_saranpugal\\manifest.json",
+    "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-04\\thiruvadi_saranpugal\\THIRUVADI-SARANPUGAL-FILM.mp4",
+    "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-04\\thiruvadi_saranpugal\\opening-qc.png",
+    "description": "திருவடிச் சரண்புகல் — Thiruvadi Saranpugal.\n\nA devotional image-based film for the complete original Guru Kula Desam song recording. Fresh scenes, gentle camera movement, dheepam and agarbaththi smoke, with occasional outdoor drizzle and lightning.\n\nOriginal recording: https://www.youtube.com/watch?v=Z7qFXMBjnak\n\n#Thiruvarutpa #Shiva #TamilDevotional #GuruKulaDesam",
+    "playlistNames": [
+      "Discography",
+      "Lord Shiva Songs"
+    ],
+    "scenes": 12,
+    "durationSeconds": 412.25,
+    "bytes": 25707670,
+    "sha256": "5985a416b3d48bd3478303c17dab6f05b12f51bf79711585b64f8de02cc8d35c"
+  }
+]

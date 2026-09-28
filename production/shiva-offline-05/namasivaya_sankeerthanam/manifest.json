@@ -1,0 +1,100 @@
+{
+  "sourceId": "EOkuHFSfv8c",
+  "output": "NAMASIVAYA-SANKEERTHANAM-FILM.mp4",
+  "title": "நமச்சிவாய ஸங்கீர்த்தனம் | Namasivaya Sankeerthanam Cinematic Shiva Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 691
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 691,
+      "outFrame": 1325
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 1325,
+      "outFrame": 1986
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1986,
+      "outFrame": 2666
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 2666,
+      "outFrame": 3357
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 3357,
+      "outFrame": 4006
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 4006,
+      "outFrame": 4682
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 4682,
+      "outFrame": 5348
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 5348,
+      "outFrame": 6009
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 6009,
+      "outFrame": 6665
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 6665,
+      "outFrame": 7316
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 7316,
+      "outFrame": 8003
+    }
+  ],
+  "rainShots": [
+    6
+  ],
+  "lightningShots": [
+    6
+  ],
+  "publicationStatus": "ready; upload deferred by user",
+  "description": "நமச்சிவாய ஸங்கீர்த்தனம் — Namasivaya Sankeerthanam.\n\nA devotional image-based film for the complete original Guru Kula Desam song recording. Fresh scenes, gentle camera movement, dheepam and agarbaththi smoke, with occasional outdoor drizzle and lightning.\n\nOriginal recording: https://www.youtube.com/watch?v=EOkuHFSfv8c\n\n#Thiruvarutpa #Shiva #TamilDevotional #GuruKulaDesam",
+  "playlistNames": [
+    "Discography",
+    "Lord Shiva Songs"
+  ],
+  "fps": 12,
+  "targetFrames": 8003,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review",
+  "localQC": {
+    "originalAudioExact": true,
+    "fullDecode": true,
+    "visualReview": "opening, rainy scene and dry successor inspected"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "sourceId": "cKyT1Cv7zEA",
+  "output": "MAASIL-VEENAIYUM-RIVER-MUSIC.mp4",
+  "title": "மாசில் வீணையும் | River Music Cinematic Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 561
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 561,
+      "outFrame": 1108
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 1108,
+      "outFrame": 1630
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1630,
+      "outFrame": 2194
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 2194,
+      "outFrame": 2716
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 2716,
+      "outFrame": 3270
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 3270,
+      "outFrame": 3834
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 3834,
+      "outFrame": 4373
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 4373,
+      "outFrame": 4921
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 4921,
+      "outFrame": 5470
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 5470,
+      "outFrame": 6015
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 6015,
+      "outFrame": 6539
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 6539,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

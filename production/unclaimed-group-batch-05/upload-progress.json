@@ -1,0 +1,51 @@
+{
+  "checkedAtUtc": "2026-09-28T16:11:40.842046+00:00",
+  "completed": [
+    {
+      "sourceId": "0bz1myKXoJQ",
+      "videoId": "xVyPWHTMXHw",
+      "url": "https://www.youtube.com/watch?v=xVyPWHTMXHw",
+      "title": "அறிவுடைமை (Remix) | Arivudaimai Remix Cinematic Thirukkural Film",
+      "status": "Public",
+      "confirmation": "YouTube Studio Video published",
+      "checksAtPublication": "Copyright and Community Guidelines passed",
+      "thumbnail": "opening-qc.png",
+      "playlists": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "aiDisclosure": true
+    },
+    {
+      "sourceId": "2Pun6K7h984",
+      "videoId": "HRN77i6Kio8",
+      "url": "https://www.youtube.com/watch?v=HRN77i6Kio8",
+      "title": "பெரியாரைத்துணைக்கோடல் (Remix) | Periyarai Thunaikodal Remix Cinematic Thirukkural Film",
+      "status": "Public",
+      "confirmation": "YouTube Studio Video published",
+      "checksAtPublication": "Copyright and Community Guidelines passed",
+      "thumbnail": "opening-qc.png",
+      "playlists": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "aiDisclosure": true
+    },
+    {
+      "sourceId": "FS5fUOxZySE",
+      "videoId": "KLsXZa28uyE",
+      "url": "https://www.youtube.com/watch?v=KLsXZa28uyE",
+      "title": "வலியறிதல் (Remix) | Valiyarithal Remix Cinematic Thirukkural Film",
+      "status": "Public",
+      "confirmation": "YouTube Studio Video published",
+      "checksAtPublication": "Copyright and Community Guidelines passed",
+      "thumbnail": "opening-qc.png",
+      "playlists": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "aiDisclosure": true
+    }
+  ],
+  "pending": []
+}

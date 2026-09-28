@@ -1,0 +1,96 @@
+{
+  "sourceId": "gBRvVKE_so8",
+  "output": "VINAI-SEYALVAGAI-FILM.mp4",
+  "title": "திருக்குறள் - வினைசெயல்வகை | Vinai Seyalvagai Cinematic Thirukkural Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 256
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 256,
+      "outFrame": 583
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 583,
+      "outFrame": 833
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 833,
+      "outFrame": 1142
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1142,
+      "outFrame": 1382
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 1382,
+      "outFrame": 1671
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 1671,
+      "outFrame": 1971
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 1971,
+      "outFrame": 2226
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 2226,
+      "outFrame": 2540
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 2540,
+      "outFrame": 2776
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 2776,
+      "outFrame": 3076
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 3076,
+      "outFrame": 3360
+    }
+  ],
+  "rainShots": [
+    6
+  ],
+  "lightningShots": [
+    6
+  ],
+  "publicationStatus": "ready; upload deferred by user",
+  "description": "வினைசெயல்வகை — Vinai Seyalvagai.\n\nA cinematic image-based film for the complete original Guru Kula Desam recording, with twelve distinct scenes, gentle movement, dheepam and agarbaththi smoke, and occasional drizzle and lightning.\n\nOriginal recording: https://www.youtube.com/watch?v=gBRvVKE_so8\n\n#Thirukkural #TamilSong #GuruKulaDesam",
+  "fps": 12,
+  "targetFrames": 3360,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review",
+  "localQC": {
+    "originalAudioExact": true,
+    "fullDecode": true,
+    "visualReview": "opening, rainy scene and dry successor inspected"
+  }
+}

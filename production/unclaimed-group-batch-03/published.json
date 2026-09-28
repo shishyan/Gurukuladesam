@@ -1,0 +1,50 @@
+{
+  "verifiedAtUtc": "2026-09-28T16:11:40.842046+00:00",
+  "songs": [
+    {
+      "sourceId": "jXOalu0JJoA",
+      "videoId": "tzAYLpH3TkI",
+      "url": "https://www.youtube.com/watch?v=tzAYLpH3TkI",
+      "title": "கள்ளாமை (Symphony) | Kallaamai Symphony Cinematic Thirukkural Film",
+      "status": "Public",
+      "confirmation": "YouTube Studio Video published",
+      "checksAtPublication": "Copyright and Community Guidelines passed",
+      "thumbnail": "opening-qc.png",
+      "playlists": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "aiDisclosure": true
+    },
+    {
+      "sourceId": "NxZf0eRutEY",
+      "videoId": "wPT_1jgn2Ys",
+      "url": "https://www.youtube.com/watch?v=wPT_1jgn2Ys",
+      "title": "கூடா ஒழுக்கம் (Symphony) | Kooda Ozhukkam Symphony Cinematic Thirukkural Film",
+      "status": "Public",
+      "confirmation": "YouTube Studio Video published",
+      "checksAtPublication": "Community Guidelines passed; copyright pending at publication",
+      "thumbnail": "opening-qc.png",
+      "playlists": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "aiDisclosure": true
+    },
+    {
+      "sourceId": "R-5gWfRNMts",
+      "videoId": "djYooU1LmGk",
+      "url": "https://www.youtube.com/watch?v=djYooU1LmGk",
+      "title": "வாய்மை (Remix) | Vaaymai Remix Cinematic Thirukkural Film",
+      "status": "Public",
+      "confirmation": "YouTube Studio Video published",
+      "checksAtPublication": "Copyright and Community Guidelines passed",
+      "thumbnail": "opening-qc.png",
+      "playlists": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "aiDisclosure": true
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "channelId": "UCPqB1A_WzpLJec6q69BOO3Q",
+  "playlistId": "PLcpX3K7ZFYjM",
+  "sourceAudit": "catalog-2026-09-26.json plus live Lord Murugar Songs playlist on 2026-09-27",
+  "newFilms": [
+    "eEYBleNgRGU", "B6yVe6HM8Ok", "DsbMysGdqv8",
+    "meXI3QsNHhE", "FTAB7OBVPPY", "Nvx3ObuSndM",
+    "iJ-3SHR2MKw", "-L3VXkM2MTY", "FFXImcs5Ehw",
+    "XErAOEtZdAU", "VMqFjcQtebw", "QRSRyYEacMs",
+    "1hoVaPwWMes", "0PvXn4gqlFM", "C2rLIrP3vAA"
+  ],
+  "existingRealFilms": {
+    "x355fpndpTI": "yPfkP_EjTyc",
+    "W2peLbC20sA": "ssOkftpUcLE",
+    "On2xoZqBsss": "SN7FIkL-o1k",
+    "C9Ea0-FfMNs": "nuSx1NgiCuo"
+  },
+  "notProducedToAvoidDuplicateSong": {
+    "YxP_uh3dM18": "Seer Ulaaviya already has real film Nvx3ObuSndM; distinct recording but same song",
+    "3oJ2OPG-WCs": "Muthai Tharu already has real film SN7FIkL-o1k; distinct recording but same song",
+    "-unILRjNLHQ": "Subramaniyar Thiruvirutham already has real film ssOkftpUcLE; distinct recording but same song"
+  },
+  "exactAudioDuplicate": {
+    "PVcmqZuROSU": "CFEYF0X6fLU"
+  },
+  "notMurugarSong": {
+    "pYh67ltckLQ": "Shiva song in Murugar playlist"
+  },
+  "filmEntryAlreadyInPlaylist": "ssOkftpUcLE",
+  "verification": "Fifteen new films public on this channel; Google Vids exports, full source-audio local QC, unique-scene checks and live Murugar playlist presence checked."
+}

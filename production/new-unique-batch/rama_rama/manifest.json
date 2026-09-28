@@ -1,0 +1,83 @@
+{
+  "sourceId": "jfXxy-Y9zuA",
+  "title": "இராம ராம ராம ஹரே ஹரே | Rama Rama Rama Hare Hare Cinematic Devotional Film",
+  "output": "RAMA_RAMA-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 356
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 356,
+      "outFrame": 662
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 662,
+      "outFrame": 1028
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1028,
+      "outFrame": 1335
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1335,
+      "outFrame": 1684
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 1684,
+      "outFrame": 2059
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 2059,
+      "outFrame": 2352
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 2352,
+      "outFrame": 2694
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 2694,
+      "outFrame": 3048
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 3048,
+      "outFrame": 3390
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 3390,
+      "outFrame": 3745
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 3745,
+      "outFrame": 4073
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 4073,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

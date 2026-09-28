@@ -1,0 +1,89 @@
+{
+  "sourceId": "EChaj0wXk_0",
+  "output": "ARULUDAIMAI-FILM.mp4",
+  "title": "திருக்குறள் - அருளுடைமை | Aruludaimai Cinematic Thirukkural Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 219
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 219,
+      "outFrame": 473
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 473,
+      "outFrame": 690
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 690,
+      "outFrame": 902
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 902,
+      "outFrame": 1170
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 1170,
+      "outFrame": 1383
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 1383,
+      "outFrame": 1625
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 1625,
+      "outFrame": 1831
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 1831,
+      "outFrame": 2101
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 2101,
+      "outFrame": 2328
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 2328,
+      "outFrame": 2546
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 2546,
+      "outFrame": 2779
+    }
+  ],
+  "rainShots": [
+    6
+  ],
+  "lightningShots": [
+    6
+  ],
+  "fps": 12,
+  "targetFrames": 2779,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

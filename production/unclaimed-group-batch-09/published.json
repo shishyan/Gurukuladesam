@@ -1,0 +1,51 @@
+{
+  "verifiedAtUtc": "2026-09-28T18:19:43.542116+00:00",
+  "count": 3,
+  "songs": [
+    {
+      "sourceId": "q2oGlYiV-qg",
+      "videoId": "rOowxP53oWA",
+      "url": "https://www.youtube.com/watch?v=rOowxP53oWA",
+      "title": "சொல்வன்மை (Remix) | Solvanmai Remix Cinematic Thirukkural Film",
+      "status": "Public",
+      "confirmation": "YouTube Studio Video published",
+      "checksAtPublication": "Copyright and Community Guidelines passed by publication confirmation",
+      "thumbnail": "opening-qc.png",
+      "playlists": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "aiDisclosure": true
+    },
+    {
+      "sourceId": "J-mAIpyxy4A",
+      "videoId": "0WurYH-hkNM",
+      "url": "https://www.youtube.com/watch?v=0WurYH-hkNM",
+      "title": "வினைத்திட்பம் (Remix) | Vinai Thitpam Remix Cinematic Thirukkural Film",
+      "status": "Public",
+      "confirmation": "YouTube Studio Video published",
+      "checksAtPublication": "Community Guidelines passed; copyright pending (taking longer than expected)",
+      "thumbnail": "opening-qc.png",
+      "playlists": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "aiDisclosure": true
+    },
+    {
+      "sourceId": "XRizXIUU57g",
+      "videoId": "D95woYqPoPI",
+      "url": "https://www.youtube.com/watch?v=D95woYqPoPI",
+      "title": "வினைத்தூய்மை (Remix) | Vinai Thooymai Remix Cinematic Thirukkural Film",
+      "status": "Public",
+      "confirmation": "YouTube Studio Video published",
+      "checksAtPublication": "Copyright and Community Guidelines passed",
+      "thumbnail": "opening-qc.png",
+      "playlists": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "aiDisclosure": true
+    }
+  ]
+}

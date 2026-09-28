@@ -1,0 +1,1129 @@
+{
+  "policy": "One film per composition; remixes and alternate performances excluded to avoid duplicate songs. Composition equivalence is not a claim of exact audio equality.",
+  "songs": [
+    {
+      "id": "FGFVertqRUU",
+      "title": "அமைச்சு (Remix)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - அமைச்சு 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "YBmfJyQNSCY",
+      "title": "அரண் (Symphony)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - அரண் 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "kdZSlrXEfvs",
+      "title": "அவை அஞ்சாமை (Female)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - அவை அஞ்சாமை 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "t9Ke0-KMTyM",
+      "title": "அவை அஞ்சாமை (Symphony)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - அவை அஞ்சாமை 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "HxxLl5p1t0A",
+      "title": "அவையறிதல் (Sad)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - அவையறிதல் 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "bUepGv6PJQA",
+      "title": "அறிவுடைமை (Pop)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - அறிவுடைமை 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "0bz1myKXoJQ",
+      "title": "அறிவுடைமை (Remix)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - அறிவுடைமை 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "jO2i4bcZ2ts",
+      "title": "அன்புடைமை | Anbudaimai Cinematic Thirukkural Film",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் அன்புடைமை",
+      "channelUpload": true,
+      "status": "existing film entry",
+      "evidence": "அன்புடைமை | Anbudaimai Cinematic Thirukkural Film"
+    },
+    {
+      "id": "37qaN4sG53k",
+      "title": "ஆள்வினையுடைமை (Remix)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - ஆள்வினையுடைமை 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "0DoegY9d0ZM",
+      "title": "இடனறிதல் (Remix)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - இடனறிதல் 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "ulW6fg4lkYA",
+      "title": "இடுக்கண் அழியாமை (Remix)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - இடுக்கண் அழியாமை 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "leIJDxweGiM",
+      "title": "இராம கிருஷ்ண துதி | Rama Krishna Thuthi Cinematic Devotional Film",
+      "playlists": [
+        "Lord Vishnu Songs"
+      ],
+      "release": null,
+      "channelUpload": true,
+      "status": "existing film entry",
+      "evidence": "இராம கிருஷ்ண துதி | Rama Krishna Thuthi Cinematic Devotional Film"
+    },
+    {
+      "id": "FXMVQIidbJU",
+      "title": "ஊக்கமுடைமை (Remix)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - ஊக்கமுடைமை 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "tj_5hsasdyU",
+      "title": "ஒற்றாடல் (Remix)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - ஒற்றாடல் 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "Vj6wcfC3rPk",
+      "title": "கண்ணோட்டம் (Remix)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - கண்ணோட்டம் 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "E7yfNOiwJmM",
+      "title": "கண்ணோட்டம் (Symphony)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - கண்ணோட்டம் 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "PVcmqZuROSU",
+      "title": "கந்தர் சஷ்டி துதி 2026 (Kandhar Shashti Thuthi)",
+      "playlists": [
+        "Lord Murugar Songs"
+      ],
+      "release": "கந்தர் சஷ்டி துதி 2026 (Kandhar Shashti Thuthi)",
+      "channelUpload": false,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Kandhar Shashti Thuthi"
+    },
+    {
+      "id": "jXOalu0JJoA",
+      "title": "கள்ளாமை (Symphony)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - கள்ளாமை",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "cUt716Zafy0",
+      "title": "காலமறிதல் (Remix)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - காலமறிதல் 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "OzejLLvDq5s",
+      "title": "குற்றங்கடிதல் (Remix)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - குற்றம் கடிதல் 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "GN181JJ1lXU",
+      "title": "குறிப்பறிதல் (Remix)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - குறிப்பறிதல் 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "K35B1jST2xw",
+      "title": "குறிப்பறிதல் (Symphony)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - குறிப்பறிதல் 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "NxZf0eRutEY",
+      "title": "கூடா ஒழுக்கம் (Symphony)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - கூடா ஒழுக்கம்",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "r75xdfETSbE",
+      "title": "கேள்விச் செல்வம் (Remix)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - கேள்வி  2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "01g0sJdaL2I",
+      "title": "கொடுங்கோன்மை (Remix)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - கொடுங்கோன்மை 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "ssOkftpUcLE",
+      "title": "சிவ சுப்ரமணியர் திருவிருத்தம் | Siva Subramaniyar Thiruvirutham Cinematic Devotional Film",
+      "playlists": [
+        "Lord Murugar Songs"
+      ],
+      "release": null,
+      "channelUpload": true,
+      "status": "existing film entry",
+      "evidence": "சிவ சுப்ரமணியர் திருவிருத்தம் | Siva Subramaniyar Thiruvirutham Cinematic Devotional Film"
+    },
+    {
+      "id": "u41L3XgIgGc",
+      "title": "சிவ புராணம் 2026 | Shiva Puranam (Thiruvasagam)",
+      "playlists": [
+        "Lord Shiva Songs"
+      ],
+      "release": "சிவ புராணம் 2026 | Shiva Puranam (Thiruvasagam)",
+      "channelUpload": false,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Sivapuranam"
+    },
+    {
+      "id": "UyCe3KLqY_8",
+      "title": "சிற்றினம் சேராமை (Remix)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - சிற்றினம் சேராமை 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "9-SvikTz2FU",
+      "title": "சுற்றந்தழால் (Remix)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - சுற்றந்தழால் 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "5coBrJy6a5M",
+      "title": "செங்கோன்மை (Remix)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - செங்கோன்மை 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "q2oGlYiV-qg",
+      "title": "சொல்வன்மை (Remix)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - சொல்வன்மை 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "Yu4RBKpAodM",
+      "title": "தனந்தரும் கல்விதரும் | Dhanam Tharum Kalvi Tharum Cinematic Film",
+      "playlists": [
+        "Goddess Amman Songs"
+      ],
+      "release": "அம்மன் பாடல்கள் (Tamil Amman Devotional Songs)",
+      "channelUpload": true,
+      "status": "existing film entry",
+      "evidence": "தனந்தரும் கல்விதரும் | Dhanam Tharum Kalvi Tharum Cinematic Film"
+    },
+    {
+      "id": "lneosghJWgs",
+      "title": "திருக்குறள் அன்புடைமை",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": null,
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "qUsv2Gyk3d4",
+      "title": "திருநீற்றுப் பதிகம் | Thiruneetru Pathigam Cinematic Devotional Film",
+      "playlists": [
+        "Lord Shiva Songs"
+      ],
+      "release": "Tamil Devotional Songs 4",
+      "channelUpload": true,
+      "status": "existing film entry",
+      "evidence": "திருநீற்றுப் பதிகம் | Thiruneetru Pathigam Cinematic Devotional Film"
+    },
+    {
+      "id": "tW9-r0H5rx8",
+      "title": "திருப்படை ஆட்சி (hiphop)",
+      "playlists": [
+        "Lord Shiva Songs"
+      ],
+      "release": "Tamil Devotional Songs VI",
+      "channelUpload": false,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Thiruppadai Aatchi"
+    },
+    {
+      "id": "S9WQ-O0tZJI",
+      "title": "திருப்படை ஆட்சி 2026 (திருவாசகம்) HipHop",
+      "playlists": [
+        "Lord Shiva Songs"
+      ],
+      "release": "Thiruvasagam 2026 (திருவாசகம்)",
+      "channelUpload": false,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Thiruppadai Aatchi"
+    },
+    {
+      "id": "Lzkbhp_ehA8",
+      "title": "திருப்பாவை - 2 (வையத்து வாழ்வீர்)",
+      "playlists": [
+        "Lord Vishnu Songs"
+      ],
+      "release": null,
+      "channelUpload": true,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Thiruppavai 2"
+    },
+    {
+      "id": "hm7_qUlTUiU",
+      "title": "திருப்பாவை - 2 (வையத்து வாழ்வீர்) | Cinematic Devotional Film",
+      "playlists": [
+        "Lord Vishnu Songs"
+      ],
+      "release": null,
+      "channelUpload": true,
+      "status": "existing film entry",
+      "evidence": "திருப்பாவை - 2 (வையத்து வாழ்வீர்) | Cinematic Devotional Film"
+    },
+    {
+      "id": "YxP_uh3dM18",
+      "title": "திருப்புகழ் 712 சீர் உலாவிய...",
+      "playlists": [
+        "Lord Murugar Songs"
+      ],
+      "release": "திருப்புகழ் 712 (திருப்போரூர்)",
+      "channelUpload": false,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Thiruppugazh 712"
+    },
+    {
+      "id": "gwTtvj-h77g",
+      "title": "திருமந்திரம் (முதல் தந்திரம்) 2026",
+      "playlists": [
+        "Lord Shiva Songs"
+      ],
+      "release": "திருமந்திரம் (முதல் தந்திரம்) 2026",
+      "channelUpload": false,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Thirumanthiram"
+    },
+    {
+      "id": "uMK4LISQFE4",
+      "title": "திருவருட்பா - திருமுல்லைவாயில்...",
+      "playlists": [
+        "Lord Shiva Songs"
+      ],
+      "release": "திருவருட்பா - இரண்டாம் திருமுறை - திருமுல்லைவாயில்",
+      "channelUpload": false,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Thirumullaivayil"
+    },
+    {
+      "id": "jsFIjA8ZOkw",
+      "title": "திருவாசகம் - குழைத்த பத்து - 2026 (II)",
+      "playlists": [
+        "Lord Shiva Songs"
+      ],
+      "release": "திருவாசகம் - குழைத்த பத்து - 2026 (II)",
+      "channelUpload": false,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Kuzhaitha Pathu"
+    },
+    {
+      "id": "vZyHNMkm8xU",
+      "title": "திருவாசகம் - தென் நாடுடைய சிவனே...",
+      "playlists": [
+        "Lord Shiva Songs"
+      ],
+      "release": "திருவாசகம் - தென் நாடுடைய சிவனே போற்றி! (Female)",
+      "channelUpload": false,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Thennadudaiya Sivaney Potri"
+    },
+    {
+      "id": "xc1iNs05Bkw",
+      "title": "திருவெண்பா (hiphop)",
+      "playlists": [
+        "Lord Shiva Songs"
+      ],
+      "release": "Tamil Devotional Songs VI",
+      "channelUpload": false,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Thiruvenba"
+    },
+    {
+      "id": "2vQYuvePk9U",
+      "title": "திருவையாறு திருமுறை!",
+      "playlists": [
+        "Lord Shiva Songs"
+      ],
+      "release": null,
+      "channelUpload": false,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Thiruvaiyaaru Thirumurai"
+    },
+    {
+      "id": "YycgNlQl6Go",
+      "title": "திருவோத்தூர் பதிகம் - பூத்தேர்ந்து...",
+      "playlists": [
+        "Lord Shiva Songs"
+      ],
+      "release": "முதல் திருமுறை - திருவோத்தூர் பதிகம் (III)",
+      "channelUpload": false,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Thiruvothur Pathigam"
+    },
+    {
+      "id": "zFb2PGEPrr4",
+      "title": "திருவோத்தூர் பதிகம் (Original)",
+      "playlists": [
+        "Lord Shiva Songs"
+      ],
+      "release": "திருவோத்தூர் பதிகம் 2027",
+      "channelUpload": false,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Thiruvothur Pathigam"
+    },
+    {
+      "id": "oOGRP4cqGP8",
+      "title": "திருவோத்தூர் பதிகம் (V)",
+      "playlists": [
+        "Lord Shiva Songs"
+      ],
+      "release": "திருவோத்தூர் பதிகம் 2027",
+      "channelUpload": false,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Thiruvothur Pathigam"
+    },
+    {
+      "id": "pWSY0_0UQwc",
+      "title": "திருவோத்தூர் பதிகம் 2026 (சாரம்)",
+      "playlists": [
+        "Lord Shiva Songs"
+      ],
+      "release": "திருவோத்தூர் பதிகம் 2026 (2)",
+      "channelUpload": false,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Thiruvothur Pathigam"
+    },
+    {
+      "id": "qjxmrb4fmjA",
+      "title": "திருவோத்தூர் பதிகம் 2026 I",
+      "playlists": [
+        "Lord Shiva Songs"
+      ],
+      "release": "திருவோத்தூர் பதிகம் 2026 (2)",
+      "channelUpload": false,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Thiruvothur Pathigam"
+    },
+    {
+      "id": "8b2B047SSTo",
+      "title": "திருவோத்தூர் பதிகம் 2026 II",
+      "playlists": [
+        "Lord Shiva Songs"
+      ],
+      "release": "திருவோத்தூர் பதிகம் 2026 (2)",
+      "channelUpload": false,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Thiruvothur Pathigam"
+    },
+    {
+      "id": "34D_HpbRxfo",
+      "title": "திருவோத்தூர் பதிகம் 2026 III",
+      "playlists": [
+        "Lord Shiva Songs"
+      ],
+      "release": "திருவோத்தூர் பதிகம் 2026 (2)",
+      "channelUpload": false,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Thiruvothur Pathigam"
+    },
+    {
+      "id": "QAv04nxeH4c",
+      "title": "துறவு (Female)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - துறவு 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "LjiR9PIRl8o",
+      "title": "துறவு (Rock)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - துறவு 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "rq7PXPBI7SA",
+      "title": "துறவு (Symphony)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - துறவு 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "RY7nPGorS94",
+      "title": "தூது (Remix)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - தூது 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "mpgnALSm7wk",
+      "title": "தெரிந்து செயல்வகை (Female)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - தெரிந்து செயல்வகை 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "tLt9J-X9WOE",
+      "title": "தெரிந்து தெளிதல் (Remix)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - தெரிந்து தெளிதல் 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "F-aVgFOdKFo",
+      "title": "தெரிந்து வினையாடல் (Remix)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - தெரிந்து வினையாடல் 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "j1tzixa2raU",
+      "title": "தென்னாடுடைய சிவனே போற்றி! 2026",
+      "playlists": [
+        "Lord Shiva Songs"
+      ],
+      "release": null,
+      "channelUpload": false,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Thennadudaiya Sivaney Potri"
+    },
+    {
+      "id": "QFCD-U3sT4M",
+      "title": "தென்னாடுடைய சிவனே போற்றி! 2026",
+      "playlists": [
+        "Lord Shiva Songs"
+      ],
+      "release": "Tamil Devotional Songs V",
+      "channelUpload": false,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Thennadudaiya Sivaney Potri"
+    },
+    {
+      "id": "6cE4xUOmSzU",
+      "title": "நமச்சிவாய வாழ்க! (சிவ புராணம்)",
+      "playlists": [
+        "Lord Shiva Songs"
+      ],
+      "release": "நமச்சிவாய வாழ்க! (சிவ புராணம்)",
+      "channelUpload": false,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Sivapuranam"
+    },
+    {
+      "id": "aq0j2OMVNoU",
+      "title": "நமச்சிவாய வாழ்க! by Children",
+      "playlists": [
+        "Lord Shiva Songs"
+      ],
+      "release": "நமச்சிவாய வாழ்க! (சிவ புராணம்) 2027",
+      "channelUpload": false,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Sivapuranam"
+    },
+    {
+      "id": "wXD_lSlfiSQ",
+      "title": "நமச்சிவாய வாழ்க! Symphony",
+      "playlists": [
+        "Lord Shiva Songs"
+      ],
+      "release": "நமச்சிவாய வாழ்க! (சிவ புராணம்) 2027",
+      "channelUpload": false,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Sivapuranam"
+    },
+    {
+      "id": "RAUafMVpT5k",
+      "title": "நாடு (Remix)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - நாடு 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "AW4cljBWy2w",
+      "title": "பாலும் தெளிர் தேனும்",
+      "playlists": [
+        "Lord Vinayagar Songs"
+      ],
+      "release": null,
+      "channelUpload": true,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Paalum Thelithenum"
+    },
+    {
+      "id": "RVMUEr1MOFo",
+      "title": "பாலும் தெளிர் தேனும் | Full Music Video",
+      "playlists": [
+        "Lord Vinayagar Songs"
+      ],
+      "release": null,
+      "channelUpload": true,
+      "status": "existing film entry",
+      "evidence": "பாலும் தெளிர் தேனும் | Full Music Video"
+    },
+    {
+      "id": "nutm-A24QcM",
+      "title": "பிடியதன் உருவுமை",
+      "playlists": [
+        "Lord Shiva Songs"
+      ],
+      "release": "முதல் தேவாரம் - பகுதி 1",
+      "channelUpload": false,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Pidiyathan Uruvumai"
+    },
+    {
+      "id": "2Pun6K7h984",
+      "title": "பெரியாரைத் துணைக்கோடல் (Remix)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - பெரியாரைத் துணைக்கோடல் 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "DhHGetUJlAI",
+      "title": "பொச்சாவாமை (Remix)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - பொச்சாவாமை 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "XlCvnE6y9d0",
+      "title": "போற்றி திரு அகவல் 2026 Potri Thiru Agaval (Thiruvasagam)",
+      "playlists": [
+        "Lord Shiva Songs"
+      ],
+      "release": "போற்றி திரு அகவல் 2026 Potri Thiru Agaval (Thiruvasagam)",
+      "channelUpload": false,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Potri Thiruagaval"
+    },
+    {
+      "id": "Fh3HfGUObmg",
+      "title": "மடியின்மை (Remix)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - மடியின்மை 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "zq1dxg5R-rY",
+      "title": "மன்னரைச் சேர்ந்தொழுதல் (Female)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - மன்னரைச் சேர்ந்தொழுதல் 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "fkgEbW9HdtI",
+      "title": "மார்கழி திங்கள் (திருப்பாவை)",
+      "playlists": [
+        "Lord Vishnu Songs"
+      ],
+      "release": null,
+      "channelUpload": false,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Thiruppavai 1"
+    },
+    {
+      "id": "3oJ2OPG-WCs",
+      "title": "முத்தைத் தரு 2026 (திருப்புகழ்)",
+      "playlists": [
+        "Lord Murugar Songs"
+      ],
+      "release": "Tamil Devotional Songs 4",
+      "channelUpload": false,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Muthai Tharu"
+    },
+    {
+      "id": "O7n8bL9XOn4",
+      "title": "ரகுபதி ராகவ ராஜா ராம் | Raghupati Raghava Cinematic Devotional Film",
+      "playlists": [
+        "Lord Vishnu Songs"
+      ],
+      "release": null,
+      "channelUpload": true,
+      "status": "existing film entry",
+      "evidence": "ரகுபதி ராகவ ராஜா ராம் | Raghupati Raghava Cinematic Devotional Film"
+    },
+    {
+      "id": "Q5G2h9GuGQs",
+      "title": "ரகுபதி ராகவ ராஜா ராம்!",
+      "playlists": [
+        "Lord Vishnu Songs"
+      ],
+      "release": null,
+      "channelUpload": true,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Raghupati Raghava"
+    },
+    {
+      "id": "FS5fUOxZySE",
+      "title": "வலியறிதல் (Remix)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - வலியறிதல் 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "R-5gWfRNMts",
+      "title": "வாய்மை (Remix)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - வாய்மை",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "MvwT6dnGE0U",
+      "title": "வினைசெயல்வகை (Female)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - வினைசெயல்வகை 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "J-mAIpyxy4A",
+      "title": "வினைத்திட்பம் (Remix)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - வினைத்திட்பம் 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "XRizXIUU57g",
+      "title": "வினைத்தூய்மை (Remix)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - வினைத்தூய்மை 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "8wZGK0nGTEo",
+      "title": "வினைத்தூய்மை (Slow)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - வினைத்தூய்மை 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "PmziMZrMHfE",
+      "title": "வெருவந்த செய்யாமை (Remix)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": "திருக்குறள் - வெருவந்த செய்யாமை 2026",
+      "channelUpload": false,
+      "status": "alternate recording of covered Thirukkural chapter",
+      "evidence": "playlist-audit/thirukkural-production-completion-2026-09-28.json"
+    },
+    {
+      "id": "phlMcxN_Cfw",
+      "title": "வையத்து வாழ்வீர்காள்! (திருப்பாவை)",
+      "playlists": [
+        "Lord Vishnu Songs"
+      ],
+      "release": "Tamil Devotional Songs III",
+      "channelUpload": false,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Thiruppavai 2"
+    },
+    {
+      "id": "rZvXZu39OHc",
+      "title": "ஹரே கிருஷ்ணா ஹரே ராமா | Hare Krishna Hare Rama Cinematic Devotional Film",
+      "playlists": [
+        "Lord Krishnar Songs"
+      ],
+      "release": null,
+      "channelUpload": true,
+      "status": "existing film entry",
+      "evidence": "ஹரே கிருஷ்ணா ஹரே ராமா | Hare Krishna Hare Rama Cinematic Devotional Film"
+    },
+    {
+      "id": "HPP3IG7DWRc",
+      "title": "ஹரே கிருஷ்ணா ஹரே ராமா!.m",
+      "playlists": [
+        "Lord Vishnu Songs",
+        "Lord Krishnar Songs"
+      ],
+      "release": null,
+      "channelUpload": true,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Hare Krishna Hare Rama"
+    },
+    {
+      "id": "w0lNqTk3QCU",
+      "title": "Abirami Anthathi Thuthi",
+      "playlists": [
+        "Goddess Amman Songs"
+      ],
+      "release": "Tamil Devotional Songs 4",
+      "channelUpload": false,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Abirami Anthathi Thuthi"
+    },
+    {
+      "id": "Q2xax9mIhZw",
+      "title": "Dhanam Tharum Abhirami",
+      "playlists": [
+        "Goddess Amman Songs"
+      ],
+      "release": null,
+      "channelUpload": false,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Dhanam Tharum Abirami"
+    },
+    {
+      "id": "5gO0xpY_Y3E",
+      "title": "Hans Zimmer - Interstellar (Space Sounds)",
+      "playlists": [
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "release": null,
+      "channelUpload": false,
+      "status": "excluded: third-party Hans Zimmer recording",
+      "evidence": "User scope: own audio songs"
+    },
+    {
+      "id": "nSQKZ2htJ-o",
+      "title": "Maasil Veenaiyum",
+      "playlists": [
+        "Lord Shiva Songs"
+      ],
+      "release": "Guru Kula Desam (Tamil Devotional I)",
+      "channelUpload": false,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Maasil Veenaiyum"
+    },
+    {
+      "id": "wehcVz3BMHo",
+      "title": "Magamayi Samayapurathaye | Cinematic Devotional Film",
+      "playlists": [
+        "Goddess Amman Songs"
+      ],
+      "release": null,
+      "channelUpload": true,
+      "status": "existing film entry",
+      "evidence": "Magamayi Samayapurathaye | Cinematic Devotional Film"
+    },
+    {
+      "id": "grjVzzo-RWc",
+      "title": "Magamayi Samayapurathaye | Original Story Version",
+      "playlists": [
+        "Goddess Amman Songs"
+      ],
+      "release": null,
+      "channelUpload": true,
+      "status": "existing film entry",
+      "evidence": "Magamayi Samayapurathaye | Original Story Version"
+    },
+    {
+      "id": "T1KiH3G5WPs",
+      "title": "Mahaganesa Pancharatnam | Cinematic Devotional Film",
+      "playlists": [
+        "Lord Vinayagar Songs"
+      ],
+      "release": null,
+      "channelUpload": true,
+      "status": "existing film entry",
+      "evidence": "Mahaganesa Pancharatnam | Cinematic Devotional Film"
+    },
+    {
+      "id": "P-gtNBy8sRE",
+      "title": "Mandhiram Aavadhu Neeru",
+      "playlists": [
+        "Lord Shiva Songs"
+      ],
+      "release": null,
+      "channelUpload": false,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Thiruneetru Pathigam"
+    },
+    {
+      "id": "_DHXM8tymn8",
+      "title": "Ragupathi Raghava Raja Ram",
+      "playlists": [
+        "Lord Vishnu Songs"
+      ],
+      "release": "Guru Kula Desam (Tamil Devotional I)",
+      "channelUpload": false,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Raghupati Raghava"
+    },
+    {
+      "id": "Y0tOS_2Azxs",
+      "title": "Siva Puranam 2026 (II) Thiruvasagam",
+      "playlists": [
+        "Lord Shiva Songs"
+      ],
+      "release": "Siva Puranam 2026 (II) Thiruvasagam",
+      "channelUpload": false,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Sivapuranam"
+    },
+    {
+      "id": "h39OlLt4N9A",
+      "title": "Sivapuranam | Devotional Story Film",
+      "playlists": [
+        "Lord Shiva Songs"
+      ],
+      "release": null,
+      "channelUpload": true,
+      "status": "existing film entry",
+      "evidence": "Sivapuranam | Devotional Story Film"
+    },
+    {
+      "id": "-unILRjNLHQ",
+      "title": "Sree Subramanyar Thiruviruththam",
+      "playlists": [
+        "Lord Murugar Songs"
+      ],
+      "release": "Tamil Devotional Songs 2",
+      "channelUpload": false,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Siva Subramaniyar Thiruvirutham"
+    },
+    {
+      "id": "XwlGJp3gqCc",
+      "title": "Thennadudaiya Sivaney Potri",
+      "playlists": [
+        "Lord Shiva Songs"
+      ],
+      "release": null,
+      "channelUpload": false,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Thennadudaiya Sivaney Potri"
+    },
+    {
+      "id": "l-JJXW1QKdg",
+      "title": "Thillai Vazh Anthanar Tham",
+      "playlists": [
+        "Lord Shiva Songs"
+      ],
+      "release": "Guru Kula Desam (Tamil Devotional I)",
+      "channelUpload": false,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Thillai Vazh Anthanar"
+    },
+    {
+      "id": "J7sfVqWuxyU",
+      "title": "Thiruvaiyaaru Thirumurai",
+      "playlists": [
+        "Lord Shiva Songs"
+      ],
+      "release": null,
+      "channelUpload": false,
+      "status": "same composition as existing or reserved film",
+      "evidence": "Thiruvaiyaaru Thirumurai"
+    }
+  ],
+  "unresolved": []
+}

@@ -1,0 +1,20 @@
+{
+  "method": "Every 30 seconds, decoded grayscale 64x64 video frames compared with first frame. All sources are cover-based videos, not existing cinematic films.",
+  "sources": [
+    {
+      "sourceId": "XlCvnE6y9d0",
+      "samples": 42,
+      "maximumMeanPixelDelta": 0.61
+    },
+    {
+      "sourceId": "8b2B047SSTo",
+      "samples": 16,
+      "maximumMeanPixelDelta": 1.36
+    },
+    {
+      "sourceId": "34D_HpbRxfo",
+      "samples": 11,
+      "maximumMeanPixelDelta": 1.36
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "sourceId": "N8MOVChJwPQ",
+  "title": "ஸ்கந்த மந்திரம் (Symphony) | Skanda Mantram Cinematic Film",
+  "output": "SKANDA_SYMPHONY-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 494
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 494,
+      "outFrame": 992
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 992,
+      "outFrame": 1481
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1481,
+      "outFrame": 1948
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1948,
+      "outFrame": 2437
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 2437,
+      "outFrame": 2903
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 2903,
+      "outFrame": 3397
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 3397,
+      "outFrame": 3891
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 3891,
+      "outFrame": 4393
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 4393,
+      "outFrame": 4889
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 4889,
+      "outFrame": 5354
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 5354,
+      "outFrame": 5847
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 5847,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

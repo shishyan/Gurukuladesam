@@ -1,0 +1,83 @@
+{
+  "sourceId": "W2peLbC20sA",
+  "output": "SIVA_SUBRAMANIYA-CINEMATIC-v1.mp4",
+  "title": "à®šà®¿à®µ à®šà¯à®ªà¯à®°à®®à®£à®¿à®¯à®°à¯ à®¤à®¿à®°à¯à®µà®¿à®°à¯à®¤à¯à®¤à®®à¯ | Siva Subramaniyar Thiruvirutham Cinematic Devotional Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 1359
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 1359,
+      "outFrame": 2710
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 2710,
+      "outFrame": 4025
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 4025,
+      "outFrame": 5397
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 5397,
+      "outFrame": 6728
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 6728,
+      "outFrame": 8040
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 8040,
+      "outFrame": 9397
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 9397,
+      "outFrame": 10729
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 10729,
+      "outFrame": 12065
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 12065,
+      "outFrame": 13436
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 13436,
+      "outFrame": 14755
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 14755,
+      "outFrame": 16118
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 16118,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

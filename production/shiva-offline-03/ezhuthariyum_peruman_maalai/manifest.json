@@ -1,0 +1,172 @@
+{
+  "sourceId": "kyiaup-gjMc",
+  "output": "EZHUTHARIYUM-PERUMAN-MAALAI-FILM.mp4",
+  "title": "எழுத்தறியும் பெருமான் மாலை | Ezhuthariyum Peruman Maalai Cinematic Shiva Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 618
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 618,
+      "outFrame": 1237
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 1237,
+      "outFrame": 1863
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1863,
+      "outFrame": 2507
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 2507,
+      "outFrame": 3119
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 3119,
+      "outFrame": 3784
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 3784,
+      "outFrame": 4391
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 4391,
+      "outFrame": 5005
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 5005,
+      "outFrame": 5640
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 5640,
+      "outFrame": 6276
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 6276,
+      "outFrame": 6935
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 6935,
+      "outFrame": 7531
+    },
+    {
+      "image": "S13.png",
+      "role": "scene 13",
+      "inFrame": 7531,
+      "outFrame": 8156
+    },
+    {
+      "image": "S14.png",
+      "role": "scene 14",
+      "inFrame": 8156,
+      "outFrame": 8799
+    },
+    {
+      "image": "S15.png",
+      "role": "scene 15",
+      "inFrame": 8799,
+      "outFrame": 9451
+    },
+    {
+      "image": "S16.png",
+      "role": "scene 16",
+      "inFrame": 9451,
+      "outFrame": 10062
+    },
+    {
+      "image": "S17.png",
+      "role": "scene 17",
+      "inFrame": 10062,
+      "outFrame": 10662
+    },
+    {
+      "image": "S18.png",
+      "role": "scene 18",
+      "inFrame": 10662,
+      "outFrame": 11296
+    },
+    {
+      "image": "S19.png",
+      "role": "scene 19",
+      "inFrame": 11296,
+      "outFrame": 11956
+    },
+    {
+      "image": "S20.png",
+      "role": "scene 20",
+      "inFrame": 11956,
+      "outFrame": 12558
+    },
+    {
+      "image": "S21.png",
+      "role": "scene 21",
+      "inFrame": 12558,
+      "outFrame": 13214
+    },
+    {
+      "image": "S22.png",
+      "role": "scene 22",
+      "inFrame": 13214,
+      "outFrame": 13834
+    },
+    {
+      "image": "S23.png",
+      "role": "scene 23",
+      "inFrame": 13834,
+      "outFrame": 14435
+    },
+    {
+      "image": "S24.png",
+      "role": "scene 24",
+      "inFrame": 14435,
+      "outFrame": 15085
+    }
+  ],
+  "rainShots": [
+    6
+  ],
+  "lightningShots": [
+    6
+  ],
+  "publicationStatus": "ready; upload deferred by user",
+  "description": "எழுத்தறியும் பெருமான் மாலை — Ezhuthariyum Peruman Maalai.\n\nA devotional image-based film for the complete original Guru Kula Desam song recording. Fresh scenes, gentle camera movement, dheepam and agarbaththi smoke, with occasional outdoor drizzle and lightning.\n\nOriginal recording: https://www.youtube.com/watch?v=kyiaup-gjMc\n\n#Thiruvarutpa #Shiva #TamilDevotional #GuruKulaDesam",
+  "playlistNames": [
+    "Discography",
+    "Lord Shiva Songs"
+  ],
+  "fps": 12,
+  "targetFrames": 15085,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review",
+  "localQC": {
+    "originalAudioExact": true,
+    "fullDecode": true,
+    "visualReview": "opening, rainy scene and dry successor inspected"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "verifiedAtUtc": "2026-09-28T16:11:40.842046+00:00",
+  "songs": [
+    {
+      "sourceId": "0DoegY9d0ZM",
+      "videoId": "oEQ3sx6ujQc",
+      "url": "https://www.youtube.com/watch?v=oEQ3sx6ujQc",
+      "title": "இடனறிதல் (Remix) | Idanarithal Remix Cinematic Thirukkural Film",
+      "status": "Public",
+      "confirmation": "YouTube Studio Video published",
+      "checksAtPublication": "Copyright and Community Guidelines passed",
+      "thumbnail": "opening-qc.png",
+      "playlists": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "aiDisclosure": true
+    },
+    {
+      "sourceId": "cUt716Zafy0",
+      "videoId": "dVYI3ZgpDC8",
+      "url": "https://www.youtube.com/watch?v=dVYI3ZgpDC8",
+      "title": "காலமறிதல் (Remix) | Kaalamarithal Remix Cinematic Thirukkural Film",
+      "status": "Public",
+      "confirmation": "YouTube Studio Video published",
+      "checksAtPublication": "Community Guidelines passed; copyright pending at publication",
+      "thumbnail": "opening-qc.png",
+      "playlists": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "aiDisclosure": true
+    },
+    {
+      "sourceId": "QAv04nxeH4c",
+      "videoId": "6MaQYObW8OQ",
+      "url": "https://www.youtube.com/watch?v=6MaQYObW8OQ",
+      "title": "துறவு (Female) | Thuravu Female Cinematic Thirukkural Film",
+      "status": "Public",
+      "confirmation": "YouTube Studio Video published",
+      "checksAtPublication": "Community Guidelines passed; copyright pending at publication",
+      "thumbnail": "opening-qc.png",
+      "playlists": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "aiDisclosure": true
+    }
+  ]
+}

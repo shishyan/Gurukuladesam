@@ -1,0 +1,1 @@
+Builtin imagegen: three photorealistic 16:9 Tamil period community scenes about folly and learning: banyan assembly and humble listening; market group correcting spilled grain; intergenerational palm-leaf learning courtyard. No text or modern objects. Nine distinct supporting group scenes from Therinthu Thelithal library.

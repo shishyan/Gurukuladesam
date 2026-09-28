@@ -1,0 +1,53 @@
+{
+  "checkedAtUtc": "2026-09-28T17:19:22.948339+00:00",
+  "status": "All three films published",
+  "sceneCount": 36,
+  "songs": [
+    {
+      "sourceId": "RY7nPGorS94",
+      "title": "தூது (Remix) | Thoothu Remix Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-08\\thoothu_remix\\THOOTHU-REMIX-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-08\\thoothu_remix\\opening-qc.png",
+      "durationSeconds": 250.91666666666666,
+      "scenes": 12,
+      "description": "தூது (Remix) — Thoothu Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=RY7nPGorS94\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Published",
+      "sha256": "3f571a8b10d22ffdd09cf585854663f55cc0c5f75dc7b9f1bd52f7e6c7fd3fbb"
+    },
+    {
+      "sourceId": "MvwT6dnGE0U",
+      "title": "வினைசெயல்வகை (Female) | Vinai Seyalvagai Female Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-08\\vinai_seyalvagai_female\\VINAI-SEYALVAGAI-FEMALE-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-08\\vinai_seyalvagai_female\\opening-qc.png",
+      "durationSeconds": 322.4166666666667,
+      "scenes": 12,
+      "description": "வினைசெயல்வகை (Female) — Vinai Seyalvagai Female.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=MvwT6dnGE0U\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Published",
+      "sha256": "653d296abecc042b147e0c3f69c8aebc8681281bc5c17ea13f7d5a00dd56f28c"
+    },
+    {
+      "sourceId": "ulW6fg4lkYA",
+      "title": "இடுக்கண் அழியாமை (Remix) | Idukkan Azhiyamai Remix Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-08\\idukkan_remix\\IDUKKAN-REMIX-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-08\\idukkan_remix\\opening-qc.png",
+      "durationSeconds": 329.5833333333333,
+      "scenes": 12,
+      "description": "இடுக்கண் அழியாமை (Remix) — Idukkan Azhiyamai Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=ulW6fg4lkYA\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Published",
+      "sha256": "9067a43989b9a4f99537cbf9041b6ba4e3701d2154dbed20a036d4a8edf2fac3"
+    }
+  ],
+  "reviewLimit": "Artwork and opening/wet/dry rendered samples inspected; full stream decode and exact original audio verified. Full human playback and exact lyric synchronisation are not claimed."
+}

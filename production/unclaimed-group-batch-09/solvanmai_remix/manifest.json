@@ -1,0 +1,106 @@
+{
+  "sourceId": "q2oGlYiV-qg",
+  "output": "SOLVANMAI-REMIX-FILM.mp4",
+  "title": "சொல்வன்மை (Remix) | Solvanmai Remix Cinematic Thirukkural Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "Ultra-wide dawn panorama of an ancient Tamil lake city with open public debating pavilions and flowering gardens, many families and neighbours arriving along broad paths, expansive sky and powerful orchestral scale",
+      "inFrame": 0,
+      "outFrame": 346
+    },
+    {
+      "image": "S02.png",
+      "role": "A diverse group of Tamil elders, women and men discussing eloquent truthful speech that builds understanding and cooperation around a broad stone table in a shaded courtyard, natural respectful interaction",
+      "inFrame": 346,
+      "outFrame": 692
+    },
+    {
+      "image": "S03.png",
+      "role": "A Tamil woman and village representatives speaking clearly to a broad gathering in a lakeside public debate pavilion, listeners attentive and respectful",
+      "inFrame": 692,
+      "outFrame": 1005
+    },
+    {
+      "image": "S04.png",
+      "role": "Two groups of neighbours resolving a disagreement through calm eloquent conversation beneath flowering trees, natural thoughtful faces",
+      "inFrame": 1005,
+      "outFrame": 1339
+    },
+    {
+      "image": "S05.png",
+      "role": "A mixed-age group learning from a wise elder beside palm-leaf manuscripts in a sunlit veranda, theme eloquent truthful speech that builds understanding and cooperation",
+      "inFrame": 1339,
+      "outFrame": 1701
+    },
+    {
+      "image": "S06.png",
+      "role": "Women and men cooking and sharing a vegetarian community meal beneath trees, children helping elders, setting an ancient Tamil lake city with open public debating pavilions and flowering gardens",
+      "inFrame": 1701,
+      "outFrame": 2003
+    },
+    {
+      "image": "S07.png",
+      "role": "Wet outdoor public square in an ancient Tamil lake city with open public debating pavilions and flowering gardens beneath soft monsoon clouds, groups sharing woven palm umbrellas, no lightning bolts or drawn rain streaks",
+      "inFrame": 2003,
+      "outFrame": 2340
+    },
+    {
+      "image": "S08.png",
+      "role": "Dry enclosed stone assembly hall, a large attentive gathering considering eloquent truthful speech that builds understanding and cooperation, golden lamps and absolutely no rain",
+      "inFrame": 2340,
+      "outFrame": 2675
+    },
+    {
+      "image": "S09.png",
+      "role": "A Tamil woman calmly speaking to a seated circle of neighbours about eloquent truthful speech that builds understanding and cooperation, hopeful natural faces, a different courtyard and camera viewpoint",
+      "inFrame": 2675,
+      "outFrame": 3005
+    },
+    {
+      "image": "S10.png",
+      "role": "A mixed-age public circle listening to a young speaker present palm-leaf notes with confidence and care, open dialogue and shared understanding",
+      "inFrame": 3005,
+      "outFrame": 3337
+    },
+    {
+      "image": "S11.png",
+      "role": "A broad gathering thanking elders and community helpers at sunset beside a lake, warm gratitude, theme eloquent truthful speech that builds understanding and cooperation",
+      "inFrame": 3337,
+      "outFrame": 3701
+    },
+    {
+      "image": "S12.png",
+      "role": "Ultra-wide twilight panorama of an ancient Tamil lake city with open public debating pavilions and flowering gardens, communities gathering under courtyard lamps and an expansive indigo sky, serene closing",
+      "inFrame": 3701,
+      "outFrame": 4029
+    }
+  ],
+  "rainShots": [
+    6
+  ],
+  "lightningShots": [
+    6
+  ],
+  "publicationStatus": "Published",
+  "description": "சொல்வன்மை (Remix) — Solvanmai Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=q2oGlYiV-qg\n\n#Thirukkural #Tamil #GuruKulaDesam",
+  "playlistNames": [
+    "Discography",
+    "திருக்குறள் | Thirukkural — Master Collection"
+  ],
+  "recordingVersion": "Solvanmai Remix",
+  "fps": 12,
+  "targetFrames": 4029,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review",
+  "localQC": {
+    "originalAudioExact": true,
+    "fullDecode": true,
+    "visualReview": "inspected"
+  },
+  "recordingScope": "Distinct source recording; other recordings of this chapter already have films. No exact or near duplicate decoded audio found among 254 available source recordings.",
+  "youtubeVideoId": "rOowxP53oWA",
+  "youtubeMetadataComplete": true,
+  "checksAtPublication": "Copyright and Community Guidelines passed by publication confirmation",
+  "publicationConfirmation": "YouTube Studio Video published"
+}

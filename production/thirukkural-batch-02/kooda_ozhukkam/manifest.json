@@ -1,0 +1,95 @@
+{
+  "sourceId": "mvOSVEFhvDc",
+  "output": "KOODA-OZHUKKAM-FILM.mp4",
+  "title": "கூடா ஒழுக்கம் (Original) | Kooda Ozhukkam Cinematic Thirukkural Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 258
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 258,
+      "outFrame": 539
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 539,
+      "outFrame": 764
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 764,
+      "outFrame": 1031
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1031,
+      "outFrame": 1296
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 1296,
+      "outFrame": 1599
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 1599,
+      "outFrame": 1821
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 1821,
+      "outFrame": 2091
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 2091,
+      "outFrame": 2369
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 2369,
+      "outFrame": 2637
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 2637,
+      "outFrame": 2896
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 2896,
+      "outFrame": 3154
+    }
+  ],
+  "rainShots": [
+    6
+  ],
+  "lightningShots": [
+    6
+  ],
+  "fps": 12,
+  "targetFrames": 3154,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review",
+  "localQC": {
+    "originalAudioExact": true,
+    "fullDecode": true,
+    "visualReview": "opening, rainy scene and dry successor inspected"
+  },
+  "publicationStatus": "ready; upload deferred by user"
+}

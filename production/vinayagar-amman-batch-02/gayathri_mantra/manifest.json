@@ -1,0 +1,86 @@
+{
+  "sourceId": "d4-qZaYo-4g",
+  "output": "GAYATHRI-MANTRA-2026-FILM.mp4",
+  "title": "Gayathri Mantra 2026 | Cinematic Devotional Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 2536
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 2536,
+      "outFrame": 5081
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 5081,
+      "outFrame": 7631
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 7631,
+      "outFrame": 10121
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 10121,
+      "outFrame": 12681
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 12681,
+      "outFrame": 15211
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 15211,
+      "outFrame": 17729
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 17729,
+      "outFrame": 20277
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 20277,
+      "outFrame": 22824
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 22824,
+      "outFrame": 25372
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 25372,
+      "outFrame": 27869
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 27869,
+      "outFrame": 30428
+    }
+  ],
+  "rainShots": [
+    6
+  ],
+  "fps": 24,
+  "targetFrames": 30428,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

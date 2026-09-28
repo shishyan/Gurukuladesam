@@ -1,0 +1,50 @@
+{
+  "verifiedAtUtc": "2026-09-28T16:11:40.842046+00:00",
+  "songs": [
+    {
+      "sourceId": "r75xdfETSbE",
+      "videoId": "vbMywONB5Wc",
+      "url": "https://www.youtube.com/watch?v=vbMywONB5Wc",
+      "title": "கேள்விச்செல்வம் (Remix) | Kelvi Selvam Remix Cinematic Thirukkural Film",
+      "status": "Public",
+      "confirmation": "YouTube Studio Video published",
+      "checksAtPublication": "Copyright and Community Guidelines passed",
+      "thumbnail": "opening-qc.png",
+      "playlists": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "aiDisclosure": true
+    },
+    {
+      "sourceId": "OzejLLvDq5s",
+      "videoId": "VVkl8bORJXg",
+      "url": "https://www.youtube.com/watch?v=VVkl8bORJXg",
+      "title": "குற்றங்கடிதல் (Remix) | Kuttrangadithal Remix Cinematic Thirukkural Film",
+      "status": "Public",
+      "confirmation": "YouTube Studio Video published",
+      "checksAtPublication": "Community Guidelines passed; copyright pending at publication",
+      "thumbnail": "opening-qc.png",
+      "playlists": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "aiDisclosure": true
+    },
+    {
+      "sourceId": "UyCe3KLqY_8",
+      "videoId": "wylRNpaJNmY",
+      "url": "https://www.youtube.com/watch?v=wylRNpaJNmY",
+      "title": "சிற்றினம்சேராமை (Remix) | Sittrinam Seramai Remix Cinematic Thirukkural Film",
+      "status": "Public",
+      "confirmation": "YouTube Studio Video published",
+      "checksAtPublication": "Community Guidelines passed; copyright pending at publication",
+      "thumbnail": "opening-qc.png",
+      "playlists": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "aiDisclosure": true
+    }
+  ]
+}

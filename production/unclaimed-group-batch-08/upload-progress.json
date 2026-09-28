@@ -1,0 +1,51 @@
+{
+  "updatedAtUtc": "2026-09-28T17:35:53.146340+00:00",
+  "completed": [
+    {
+      "sourceId": "RY7nPGorS94",
+      "videoId": "x3CyxNH5bpQ",
+      "url": "https://www.youtube.com/watch?v=x3CyxNH5bpQ",
+      "title": "தூது (Remix) | Thoothu Remix Cinematic Thirukkural Film",
+      "status": "Public",
+      "confirmation": "YouTube Studio Video published",
+      "checksAtPublication": "Community Guidelines passed; copyright pending at publication",
+      "thumbnail": "opening-qc.png",
+      "playlists": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "aiDisclosure": true
+    },
+    {
+      "sourceId": "MvwT6dnGE0U",
+      "videoId": "3yB_oTqh6Jk",
+      "url": "https://www.youtube.com/watch?v=3yB_oTqh6Jk",
+      "title": "வினைசெயல்வகை (Female) | Vinai Seyalvagai Female Cinematic Thirukkural Film",
+      "status": "Public",
+      "confirmation": "YouTube Studio Visibility Public; Standard Definition complete",
+      "checksAtPublication": "Copyright and Community Guidelines pending when public release submitted",
+      "thumbnail": "opening-qc.png",
+      "playlists": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "aiDisclosure": true
+    },
+    {
+      "sourceId": "ulW6fg4lkYA",
+      "videoId": "QXWB2raWKXE",
+      "url": "https://www.youtube.com/watch?v=QXWB2raWKXE",
+      "title": "இடுக்கண் அழியாமை (Remix) | Idukkan Azhiyamai Remix Cinematic Thirukkural Film",
+      "status": "Public",
+      "confirmation": "YouTube Studio Video published",
+      "checksAtPublication": "Community Guidelines passed; copyright pending at publication",
+      "thumbnail": "opening-qc.png",
+      "playlists": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "aiDisclosure": true
+    }
+  ],
+  "pending": []
+}

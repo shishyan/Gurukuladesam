@@ -1,0 +1,20 @@
+{
+  "songs": [
+    {
+      "sourceId": "hnDLt7aMUwY",
+      "title": "திருக்குறள் - பேதைமை | Pethaimai | Full Song Film",
+      "file": "pethaimai\\PETHAIMAI-CINEMATIC-v1.mp4",
+      "qc": {
+        "sourceId": "hnDLt7aMUwY",
+        "durationSeconds": 332.0,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 24466638
+      },
+      "status": "ready; pending Google Vids import and upload"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "checkedAtUtc": "2026-09-28T16:11:40.842046+00:00",
+  "completed": [
+    {
+      "sourceId": "XlCvnE6y9d0",
+      "videoId": "8YLA_CoDfP8",
+      "url": "https://www.youtube.com/watch?v=8YLA_CoDfP8",
+      "title": "போற்றி திரு அகவல் 2026 | Potri Thiru Agaval 2026 Cinematic Shiva Film",
+      "status": "Public",
+      "confirmation": "YouTube Studio Video published",
+      "checksAtPublication": "Community Guidelines passed; copyright pending at publication",
+      "thumbnail": "opening-qc.png",
+      "playlists": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "aiDisclosure": true
+    },
+    {
+      "sourceId": "8b2B047SSTo",
+      "videoId": "fNaiY4wiadc",
+      "url": "https://www.youtube.com/watch?v=fNaiY4wiadc",
+      "title": "திருவோத்தூர் பதிகம் II | Thiruvothur Pathigam II Cinematic Shiva Film",
+      "status": "Public",
+      "confirmation": "YouTube Studio Video published",
+      "checksAtPublication": "Copyright and Community Guidelines passed",
+      "thumbnail": "opening-qc.png",
+      "playlists": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "aiDisclosure": true
+    },
+    {
+      "sourceId": "34D_HpbRxfo",
+      "videoId": "lD6far4EmHY",
+      "url": "https://www.youtube.com/watch?v=lD6far4EmHY",
+      "title": "திருவோத்தூர் பதிகம் III | Thiruvothur Pathigam III Cinematic Shiva Film",
+      "status": "Public",
+      "confirmation": "YouTube Studio Video published",
+      "checksAtPublication": "Community Guidelines passed; copyright pending at publication",
+      "thumbnail": "opening-qc.png",
+      "playlists": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "aiDisclosure": true
+    }
+  ],
+  "pending": []
+}

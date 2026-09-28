@@ -1,0 +1,50 @@
+{
+  "verifiedAtUtc": "2026-09-28T16:11:40.842046+00:00",
+  "songs": [
+    {
+      "sourceId": "FGFVertqRUU",
+      "videoId": "JvonvWQHKQY",
+      "url": "https://www.youtube.com/watch?v=JvonvWQHKQY",
+      "title": "அமைச்சு (Remix) | Amaichu Remix Cinematic Thirukkural Film",
+      "status": "Public",
+      "confirmation": "YouTube Studio Video published",
+      "checksAtPublication": "Copyright and Community Guidelines passed",
+      "thumbnail": "opening-qc.png",
+      "playlists": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "aiDisclosure": true
+    },
+    {
+      "sourceId": "YBmfJyQNSCY",
+      "videoId": "irx33IVWrPY",
+      "url": "https://www.youtube.com/watch?v=irx33IVWrPY",
+      "title": "அரண் (Symphony) | Aran Symphony Cinematic Thirukkural Film",
+      "status": "Public",
+      "confirmation": "YouTube Studio Video published",
+      "checksAtPublication": "Copyright and Community Guidelines passed",
+      "thumbnail": "opening-qc.png",
+      "playlists": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "aiDisclosure": true
+    },
+    {
+      "sourceId": "kdZSlrXEfvs",
+      "videoId": "wyDIU74Rs7Y",
+      "url": "https://www.youtube.com/watch?v=wyDIU74Rs7Y",
+      "title": "அவை அஞ்சாமை (Female) | Avai Anjaamai Female Cinematic Thirukkural Film",
+      "status": "Public",
+      "confirmation": "YouTube Studio Video published",
+      "checksAtPublication": "Community Guidelines passed; copyright pending at publication",
+      "thumbnail": "opening-qc.png",
+      "playlists": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "aiDisclosure": true
+    }
+  ]
+}

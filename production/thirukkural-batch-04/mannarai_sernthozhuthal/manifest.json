@@ -1,0 +1,96 @@
+{
+  "sourceId": "u9NeXaCHu-A",
+  "output": "MANNARAI-SERNTHOZHUTHAL-FILM.mp4",
+  "title": "திருக்குறள் - மன்னரைச் சேர்ந்தொழுதல் | Mannarai Sernthozhuthal Cinematic Thirukkural Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 266
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 266,
+      "outFrame": 524
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 524,
+      "outFrame": 812
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 812,
+      "outFrame": 1059
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1059,
+      "outFrame": 1320
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 1320,
+      "outFrame": 1612
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 1612,
+      "outFrame": 1880
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 1880,
+      "outFrame": 2100
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 2100,
+      "outFrame": 2392
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 2392,
+      "outFrame": 2679
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 2679,
+      "outFrame": 2935
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 2935,
+      "outFrame": 3186
+    }
+  ],
+  "rainShots": [
+    6
+  ],
+  "lightningShots": [
+    6
+  ],
+  "publicationStatus": "ready; upload deferred by user",
+  "description": "மன்னரைச் சேர்ந்தொழுதல் — Mannarai Sernthozhuthal.\n\nA cinematic image-based film for the complete original Guru Kula Desam recording, with twelve distinct scenes, gentle movement, dheepam and agarbaththi smoke, and occasional drizzle and lightning.\n\nOriginal recording: https://www.youtube.com/watch?v=u9NeXaCHu-A\n\n#Thirukkural #TamilSong #GuruKulaDesam",
+  "fps": 12,
+  "targetFrames": 3186,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review",
+  "localQC": {
+    "originalAudioExact": true,
+    "fullDecode": true,
+    "visualReview": "opening, rainy scene and dry successor inspected"
+  }
+}

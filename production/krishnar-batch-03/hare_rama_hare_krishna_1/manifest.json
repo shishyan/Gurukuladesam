@@ -1,0 +1,89 @@
+{
+  "sourceId": "EXl0IUQXfoU",
+  "output": "HARE-RAMA-HARE-KRISHNA-I-FILM.mp4",
+  "title": "ஹரே ராமா ஹரே கிருஷ்ணா! I",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 345
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 345,
+      "outFrame": 622
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 622,
+      "outFrame": 945
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 945,
+      "outFrame": 1287
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1287,
+      "outFrame": 1583
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 1583,
+      "outFrame": 1951
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 1951,
+      "outFrame": 2239
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 2239,
+      "outFrame": 2547
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 2547,
+      "outFrame": 2872
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 2872,
+      "outFrame": 3232
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 3232,
+      "outFrame": 3556
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 3556,
+      "outFrame": 3856
+    }
+  ],
+  "rainShots": [
+    6
+  ],
+  "lightningShots": [
+    6
+  ],
+  "fps": 12,
+  "targetFrames": 3856,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

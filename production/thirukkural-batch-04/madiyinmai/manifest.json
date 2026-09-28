@@ -1,0 +1,96 @@
+{
+  "sourceId": "GfGlO3RQuik",
+  "output": "MADIYINMAI-FILM.mp4",
+  "title": "திருக்குறள் - மடியின்மை | Madiyinmai Cinematic Thirukkural Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 271
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 271,
+      "outFrame": 519
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 519,
+      "outFrame": 748
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 748,
+      "outFrame": 1002
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1002,
+      "outFrame": 1253
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 1253,
+      "outFrame": 1478
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 1478,
+      "outFrame": 1760
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 1760,
+      "outFrame": 2011
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 2011,
+      "outFrame": 2242
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 2242,
+      "outFrame": 2490
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 2490,
+      "outFrame": 2746
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 2746,
+      "outFrame": 2988
+    }
+  ],
+  "rainShots": [
+    6
+  ],
+  "lightningShots": [
+    6
+  ],
+  "publicationStatus": "ready; upload deferred by user",
+  "description": "மடியின்மை — Madiyinmai.\n\nA cinematic image-based film for the complete original Guru Kula Desam recording, with twelve distinct scenes, gentle movement, dheepam and agarbaththi smoke, and occasional drizzle and lightning.\n\nOriginal recording: https://www.youtube.com/watch?v=GfGlO3RQuik\n\n#Thirukkural #TamilSong #GuruKulaDesam",
+  "fps": 12,
+  "targetFrames": 2988,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review",
+  "localQC": {
+    "originalAudioExact": true,
+    "fullDecode": true,
+    "visualReview": "opening, rainy scene and dry successor inspected"
+  }
+}

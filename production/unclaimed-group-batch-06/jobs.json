@@ -1,0 +1,39 @@
+{
+  "owner": "Main Guru Kula Desam task",
+  "status": "Reserved after shared workspace check; upload deferred",
+  "songs": [
+    {
+      "sourceId": "UyCe3KLqY_8",
+      "slug": "sittrinam_seramai_remix",
+      "chapter": "சிற்றினம்சேராமை (Remix)",
+      "english": "Sittrinam Seramai Remix",
+      "collection": "Thirukkural",
+      "theme": "choosing ethical companions and nurturing good community conduct",
+      "setting": "an ancient Tamil garden town with lotus ponds and craft courtyards",
+      "duration": 331,
+      "sourceTitle": "சிற்றினம் சேராமை (Remix)"
+    },
+    {
+      "sourceId": "OzejLLvDq5s",
+      "slug": "kuttrangadithal_remix",
+      "chapter": "குற்றங்கடிதல் (Remix)",
+      "english": "Kuttrangadithal Remix",
+      "collection": "Thirukkural",
+      "theme": "recognising one's faults and correcting them through humility and responsible action",
+      "setting": "an ancient Tamil hilltop civic town with terraced orchards",
+      "duration": 221,
+      "sourceTitle": "குற்றங்கடிதல் (Remix)"
+    },
+    {
+      "sourceId": "r75xdfETSbE",
+      "slug": "kelvi_selvam_remix",
+      "chapter": "கேள்விச்செல்வம் (Remix)",
+      "english": "Kelvi Selvam Remix",
+      "collection": "Thirukkural",
+      "theme": "the wealth of attentive listening and shared learning",
+      "setting": "an ancient Tamil estuary learning town with open verandas and palm groves",
+      "duration": 252,
+      "sourceTitle": "கேள்விச் செல்வம் (Remix)"
+    }
+  ]
+}

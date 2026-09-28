@@ -1,0 +1,20 @@
+{
+  "method": "Frames sampled every 30 seconds, decoded grayscale 64x64 compared with first frame; static cover-based sources.",
+  "sources": [
+    {
+      "sourceId": "QAv04nxeH4c",
+      "samples": 9,
+      "maximumMeanPixelDelta": 1.354
+    },
+    {
+      "sourceId": "0DoegY9d0ZM",
+      "samples": 9,
+      "maximumMeanPixelDelta": 1.433
+    },
+    {
+      "sourceId": "cUt716Zafy0",
+      "samples": 8,
+      "maximumMeanPixelDelta": 1.431
+    }
+  ]
+}

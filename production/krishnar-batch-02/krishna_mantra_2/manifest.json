@@ -1,0 +1,89 @@
+{
+  "sourceId": "JkivipMHrzc",
+  "output": "KRISHNA-MANTRA-II-FILM.mp4",
+  "title": "கிருஷ்ண மந்திரம் II",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 200
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 200,
+      "outFrame": 449
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 449,
+      "outFrame": 655
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 655,
+      "outFrame": 850
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 850,
+      "outFrame": 1074
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 1074,
+      "outFrame": 1314
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 1314,
+      "outFrame": 1527
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 1527,
+      "outFrame": 1745
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 1745,
+      "outFrame": 1955
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 1955,
+      "outFrame": 2165
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 2165,
+      "outFrame": 2406
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 2406,
+      "outFrame": 2618
+    }
+  ],
+  "fps": 12,
+  "targetFrames": 2618,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review",
+  "rainShots": [
+    6
+  ],
+  "lightningShots": [
+    6
+  ]
+}

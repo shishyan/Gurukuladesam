@@ -1,0 +1,83 @@
+{
+  "sourceId": "lw2nEZfR7Kc",
+  "title": "Anbe Saranam Arule Saranam | Full Song Film",
+  "output": "ANBE_SARANAM-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "opening",
+      "inFrame": 0,
+      "outFrame": 493
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 493,
+      "outFrame": 990
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 990,
+      "outFrame": 1455
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1455,
+      "outFrame": 1946
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1946,
+      "outFrame": 2456
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 2456,
+      "outFrame": 2931
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 2931,
+      "outFrame": 3418
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 3418,
+      "outFrame": 3917
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 3917,
+      "outFrame": 4402
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 4402,
+      "outFrame": 4885
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 4885,
+      "outFrame": 5368
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 5368,
+      "outFrame": 5865
+    }
+  ],
+  "imageDerived": true,
+  "fps": 12,
+  "targetFrames": 5865,
+  "cutRule": "near even spacing at low audio energy"
+}

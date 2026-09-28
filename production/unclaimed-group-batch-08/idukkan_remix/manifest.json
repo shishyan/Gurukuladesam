@@ -1,0 +1,106 @@
+{
+  "sourceId": "ulW6fg4lkYA",
+  "output": "IDUKKAN-REMIX-FILM.mp4",
+  "title": "இடுக்கண் அழியாமை (Remix) | Idukkan Azhiyamai Remix Cinematic Thirukkural Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "Ultra-wide dawn panorama of an ancient Tamil hill valley settlement with terraced fields and riverside community shelters, many families and neighbours arriving along broad paths, expansive sky and powerful orchestral scale",
+      "inFrame": 0,
+      "outFrame": 316
+    },
+    {
+      "image": "S02.png",
+      "role": "A diverse group of Tamil elders, women and men discussing steadfast courage, humour and mutual support during adversity around a broad stone table in a shaded courtyard, natural respectful interaction",
+      "inFrame": 316,
+      "outFrame": 676
+    },
+    {
+      "image": "S03.png",
+      "role": "Neighbours encouraging tired farmers with gentle smiles after difficult field work, dignified warmth and quiet resilience beneath a hill-side pavilion",
+      "inFrame": 676,
+      "outFrame": 970
+    },
+    {
+      "image": "S04.png",
+      "role": "Families and village workers restoring a storm-damaged garden path together, calm hopeful mutual support without distress or danger",
+      "inFrame": 970,
+      "outFrame": 1299
+    },
+    {
+      "image": "S05.png",
+      "role": "A mixed-age group learning from a wise elder beside palm-leaf manuscripts in a sunlit veranda, theme steadfast courage, humour and mutual support during adversity",
+      "inFrame": 1299,
+      "outFrame": 1672
+    },
+    {
+      "image": "S06.png",
+      "role": "Women and men cooking and sharing a vegetarian community meal beneath trees, children helping elders, setting an ancient Tamil hill valley settlement with terraced fields and riverside community shelters",
+      "inFrame": 1672,
+      "outFrame": 1959
+    },
+    {
+      "image": "S07.png",
+      "role": "Wet outdoor public square in an ancient Tamil hill valley settlement with terraced fields and riverside community shelters beneath soft monsoon clouds, groups sharing woven palm umbrellas, no lightning bolts or drawn rain streaks",
+      "inFrame": 1959,
+      "outFrame": 2301
+    },
+    {
+      "image": "S08.png",
+      "role": "Dry enclosed stone assembly hall, a large attentive gathering considering steadfast courage, humour and mutual support during adversity, golden lamps and absolutely no rain",
+      "inFrame": 2301,
+      "outFrame": 2655
+    },
+    {
+      "image": "S09.png",
+      "role": "A Tamil woman calmly speaking to a seated circle of neighbours about steadfast courage, humour and mutual support during adversity, hopeful natural faces, a different courtyard and camera viewpoint",
+      "inFrame": 2655,
+      "outFrame": 2968
+    },
+    {
+      "image": "S10.png",
+      "role": "A mixed-age gathering repairing a wooden cart and sharing a light-hearted moment, natural reassuring smiles and practical courage",
+      "inFrame": 2968,
+      "outFrame": 3307
+    },
+    {
+      "image": "S11.png",
+      "role": "A broad gathering thanking elders and community helpers at sunset beside a lake, warm gratitude, theme steadfast courage, humour and mutual support during adversity",
+      "inFrame": 3307,
+      "outFrame": 3619
+    },
+    {
+      "image": "S12.png",
+      "role": "Ultra-wide twilight panorama of an ancient Tamil hill valley settlement with terraced fields and riverside community shelters, communities gathering under courtyard lamps and an expansive indigo sky, serene closing",
+      "inFrame": 3619,
+      "outFrame": 3955
+    }
+  ],
+  "rainShots": [
+    6
+  ],
+  "lightningShots": [
+    6
+  ],
+  "publicationStatus": "Published",
+  "description": "இடுக்கண் அழியாமை (Remix) — Idukkan Azhiyamai Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=ulW6fg4lkYA\n\n#Thirukkural #Tamil #GuruKulaDesam",
+  "playlistNames": [
+    "Discography",
+    "திருக்குறள் | Thirukkural — Master Collection"
+  ],
+  "recordingVersion": "Idukkan Azhiyamai Remix",
+  "fps": 12,
+  "targetFrames": 3955,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review",
+  "localQC": {
+    "originalAudioExact": true,
+    "fullDecode": true,
+    "visualReview": "inspected"
+  },
+  "recordingScope": "Distinct source recording; other recordings of this chapter already have films. No exact or near duplicate decoded audio found among 251 available source recordings.",
+  "youtubeVideoId": "QXWB2raWKXE",
+  "youtubeMetadataComplete": true,
+  "checksAtPublication": "Community Guidelines passed; copyright pending at publication",
+  "publicationConfirmation": "YouTube Studio Video published"
+}

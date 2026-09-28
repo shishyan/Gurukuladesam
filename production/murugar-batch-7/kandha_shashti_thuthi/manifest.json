@@ -1,0 +1,155 @@
+{
+  "sourceId": "CFEYF0X6fLU",
+  "title": "கந்த சஷ்டி கவசம் துதி 2026 | Kandha Shashti Thuthi Cinematic Film",
+  "output": "KANDHA_SHASHTI_THUTHI-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 752
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 752,
+      "outFrame": 1494
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 1494,
+      "outFrame": 2243
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 2243,
+      "outFrame": 2989
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 2989,
+      "outFrame": 3726
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 3726,
+      "outFrame": 4483
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 4483,
+      "outFrame": 5232
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 5232,
+      "outFrame": 5975
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 5975,
+      "outFrame": 6724
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 6724,
+      "outFrame": 7472
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 7472,
+      "outFrame": 8217
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 8217,
+      "outFrame": 8946
+    },
+    {
+      "image": "S13.png",
+      "role": "scene 13",
+      "inFrame": 8946,
+      "outFrame": 9686
+    },
+    {
+      "image": "S14.png",
+      "role": "scene 14",
+      "inFrame": 9686,
+      "outFrame": 10439
+    },
+    {
+      "image": "S15.png",
+      "role": "scene 15",
+      "inFrame": 10439,
+      "outFrame": 11202
+    },
+    {
+      "image": "S16.png",
+      "role": "scene 16",
+      "inFrame": 11202,
+      "outFrame": 11939
+    },
+    {
+      "image": "S17.png",
+      "role": "scene 17",
+      "inFrame": 11939,
+      "outFrame": 12674
+    },
+    {
+      "image": "S18.png",
+      "role": "scene 18",
+      "inFrame": 12674,
+      "outFrame": 13420
+    },
+    {
+      "image": "S19.png",
+      "role": "scene 19",
+      "inFrame": 13420,
+      "outFrame": 14176
+    },
+    {
+      "image": "S20.png",
+      "role": "scene 20",
+      "inFrame": 14176,
+      "outFrame": 14917
+    },
+    {
+      "image": "S21.png",
+      "role": "scene 21",
+      "inFrame": 14917,
+      "outFrame": 15659
+    },
+    {
+      "image": "S22.png",
+      "role": "scene 22",
+      "inFrame": 15659,
+      "outFrame": 16422
+    },
+    {
+      "image": "S23.png",
+      "role": "scene 23",
+      "inFrame": 16422,
+      "outFrame": 17152
+    },
+    {
+      "image": "S24.png",
+      "role": "scene 24",
+      "inFrame": 17152,
+      "outFrame": 17904
+    }
+  ],
+  "fps": 12,
+  "targetFrames": 17904,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy"
+}

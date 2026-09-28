@@ -1,0 +1,107 @@
+{
+  "sourceId": "FGFVertqRUU",
+  "output": "AMAICHU-REMIX-FILM.mp4",
+  "title": "அமைச்சு (Remix) | Amaichu Remix Cinematic Thirukkural Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "Ultra-wide sunrise panorama of an ancient Tamil town with an open council pavilion, many residents gathering along broad streets, majestic orchestral scale",
+      "inFrame": 0,
+      "outFrame": 308
+    },
+    {
+      "image": "S02.png",
+      "role": "A diverse council of Tamil elders, women and men listening around a broad stone table, dignified collaborative discussion",
+      "inFrame": 308,
+      "outFrame": 604
+    },
+    {
+      "image": "S03.png",
+      "role": "A community gathering reviewing granary baskets and palm-leaf records with a thoughtful adviser, naturally posed hands",
+      "inFrame": 604,
+      "outFrame": 922
+    },
+    {
+      "image": "S04.png",
+      "role": "Farmers and irrigation workers consulting together at a stone canal junction, wide countryside view",
+      "inFrame": 922,
+      "outFrame": 1238
+    },
+    {
+      "image": "S05.png",
+      "role": "An assembly of artisans and neighbours sharing practical knowledge in a shaded courtyard",
+      "inFrame": 1238,
+      "outFrame": 1536
+    },
+    {
+      "image": "S06.png",
+      "role": "Women, men and young adults planning a community meal beside abundant vegetable baskets, candid interaction",
+      "inFrame": 1536,
+      "outFrame": 1835
+    },
+    {
+      "image": "S07.png",
+      "role": "Wet outdoor town square under soft grey monsoon clouds, neighbours sheltering together beneath woven umbrellas, no lightning bolts",
+      "inFrame": 1835,
+      "outFrame": 2138
+    },
+    {
+      "image": "S08.png",
+      "role": "Dry interior council hall, a mixed-age assembly listening attentively to a calm speaker, warm oil-lamp lighting and no rain",
+      "inFrame": 2138,
+      "outFrame": 2470
+    },
+    {
+      "image": "S09.png",
+      "role": "A group of advisers hearing villagers speak beneath a banyan canopy, inclusive respectful gathering",
+      "inFrame": 2470,
+      "outFrame": 2738
+    },
+    {
+      "image": "S10.png",
+      "role": "Many workers and families opening a repaired irrigation gate together in late afternoon, hopeful wide composition",
+      "inFrame": 2738,
+      "outFrame": 3074
+    },
+    {
+      "image": "S11.png",
+      "role": "An open pavilion council meeting at dusk, neighbours seated in a semicircle with a welcoming central speaker",
+      "inFrame": 3074,
+      "outFrame": 3378
+    },
+    {
+      "image": "S12.png",
+      "role": "Ultra-wide evening town panorama, community gathered beneath warm courtyard lamps and an expansive sky, peaceful closing",
+      "inFrame": 3378,
+      "outFrame": 3681
+    }
+  ],
+  "rainShots": [
+    6
+  ],
+  "lightningShots": [
+    6
+  ],
+  "publicationStatus": "Published",
+  "description": "அமைச்சு (Remix) — Amaichu Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=FGFVertqRUU\n\n#Thirukkural #Tamil #GuruKulaDesam",
+  "playlistNames": [
+    "Discography",
+    "திருக்குறள் | Thirukkural — Master Collection"
+  ],
+  "recordingVersion": "Amaichu Remix",
+  "fps": 12,
+  "targetFrames": 3681,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review",
+  "artworkReview": "All three four-quadrant sheets inspected; unique community scenes; no fixed lightning bolts.",
+  "localQC": {
+    "originalAudioExact": true,
+    "fullDecode": true,
+    "visualReview": "inspected"
+  },
+  "recordingScope": "Distinct source recording; other recordings of this chapter already have films. No exact or near duplicate decoded audio found among 233 available source recordings.",
+  "youtubeVideoId": "JvonvWQHKQY",
+  "youtubeMetadataComplete": true,
+  "youtubeChecksAtPublication": "Copyright and Community Guidelines passed",
+  "publicationVerified": "YouTube Studio Video published confirmation"
+}

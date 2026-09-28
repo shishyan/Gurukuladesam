@@ -1,0 +1,53 @@
+{
+  "checkedAtUtc": "2026-09-28T13:36:11.565186+00:00",
+  "status": "Three full-song films ready; upload deferred",
+  "sceneCount": 36,
+  "songs": [
+    {
+      "sourceId": "FGFVertqRUU",
+      "title": "அமைச்சு (Remix) | Amaichu Remix Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-02\\amaichu_remix\\AMAICHU-REMIX-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-02\\amaichu_remix\\opening-qc.png",
+      "durationSeconds": 306.75,
+      "scenes": 12,
+      "description": "அமைச்சு (Remix) — Amaichu Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=FGFVertqRUU\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Ready for later upload",
+      "sha256": "e87ce58147d9fe116bc45b0153f8a786bb6798f2dbcd3b297718928c9a5ebf72"
+    },
+    {
+      "sourceId": "YBmfJyQNSCY",
+      "title": "அரண் (Symphony) | Aran Symphony Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-02\\aran_symphony\\ARAN-SYMPHONY-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-02\\aran_symphony\\opening-qc.png",
+      "durationSeconds": 225.41666666666666,
+      "scenes": 12,
+      "description": "அரண் (Symphony) — Aran Symphony.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=YBmfJyQNSCY\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Ready for later upload",
+      "sha256": "4e4c1cb46565733dc127911b756c66e2eef80c786c3698fcf7422962f4805685"
+    },
+    {
+      "sourceId": "kdZSlrXEfvs",
+      "title": "அவை அஞ்சாமை (Female) | Avai Anjaamai Female Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-02\\avai_anjaamai_female\\AVAI-ANJAAMAI-FEMALE-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-02\\avai_anjaamai_female\\opening-qc.png",
+      "durationSeconds": 227.83333333333334,
+      "scenes": 12,
+      "description": "அவை அஞ்சாமை (Female) — Avai Anjaamai Female.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=kdZSlrXEfvs\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Ready for later upload",
+      "sha256": "c7bd34dd5ca0298db1b4f8b6bf27b270602b9f9795fe9fdea9b9426e46656789"
+    }
+  ],
+  "reviewLimit": "Artwork and opening/wet/dry rendered samples inspected; full stream decode and exact original audio verified. Full human playback and exact lyric synchronisation are not claimed."
+}

@@ -1,0 +1,106 @@
+{
+  "sourceId": "zq1dxg5R-rY",
+  "output": "MANNARAI-SERNTHOZHUTHAL-FEMALE-FILM.mp4",
+  "title": "மன்னரைச்சேர்ந்தொழுதல் (Female) | Mannarai Sernthozhuthal Female Cinematic Thirukkural Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "Ultra-wide dawn panorama of an ancient Tamil royal town with broad audience courtyards, gardens and assembly halls, many families and neighbours arriving along broad paths, expansive sky and powerful orchestral scale",
+      "inFrame": 0,
+      "outFrame": 288
+    },
+    {
+      "image": "S02.png",
+      "role": "A diverse group of Tamil elders, women and men discussing wise respectful conduct and considered advice in the company of rulers around a broad stone table in a shaded courtyard, natural respectful interaction",
+      "inFrame": 288,
+      "outFrame": 552
+    },
+    {
+      "image": "S03.png",
+      "role": "A wise Tamil woman and several advisers quietly listening to a ruler in a spacious palace audience courtyard, respectful distance and composed natural body language",
+      "inFrame": 552,
+      "outFrame": 825
+    },
+    {
+      "image": "S04.png",
+      "role": "Councillors consulting privately in a shaded palace garden before offering considered advice, calm restraint and attentive group interaction",
+      "inFrame": 825,
+      "outFrame": 1113
+    },
+    {
+      "image": "S05.png",
+      "role": "A mixed-age group learning from a wise elder beside palm-leaf manuscripts in a sunlit veranda, theme wise respectful conduct and considered advice in the company of rulers",
+      "inFrame": 1113,
+      "outFrame": 1390
+    },
+    {
+      "image": "S06.png",
+      "role": "Women and men cooking and sharing a vegetarian community meal beneath trees, children helping elders, setting an ancient Tamil royal town with broad audience courtyards, gardens and assembly halls",
+      "inFrame": 1390,
+      "outFrame": 1694
+    },
+    {
+      "image": "S07.png",
+      "role": "Wet outdoor public square in an ancient Tamil royal town with broad audience courtyards, gardens and assembly halls beneath soft monsoon clouds, groups sharing woven palm umbrellas, no lightning bolts or drawn rain streaks",
+      "inFrame": 1694,
+      "outFrame": 1986
+    },
+    {
+      "image": "S08.png",
+      "role": "Dry enclosed stone assembly hall, a large attentive gathering considering wise respectful conduct and considered advice in the company of rulers, golden lamps and absolutely no rain",
+      "inFrame": 1986,
+      "outFrame": 2254
+    },
+    {
+      "image": "S09.png",
+      "role": "A Tamil woman calmly speaking to a seated circle of neighbours about wise respectful conduct and considered advice in the company of rulers, hopeful natural faces, a different courtyard and camera viewpoint",
+      "inFrame": 2254,
+      "outFrame": 2517
+    },
+    {
+      "image": "S10.png",
+      "role": "A woman adviser thoughtfully presenting palm-leaf notes to a seated ruler and council at an appropriate moment, dignified cooperative civic leadership",
+      "inFrame": 2517,
+      "outFrame": 2803
+    },
+    {
+      "image": "S11.png",
+      "role": "A broad gathering thanking elders and community helpers at sunset beside a lake, warm gratitude, theme wise respectful conduct and considered advice in the company of rulers",
+      "inFrame": 2803,
+      "outFrame": 3079
+    },
+    {
+      "image": "S12.png",
+      "role": "Ultra-wide twilight panorama of an ancient Tamil royal town with broad audience courtyards, gardens and assembly halls, communities gathering under courtyard lamps and an expansive indigo sky, serene closing",
+      "inFrame": 3079,
+      "outFrame": 3373
+    }
+  ],
+  "rainShots": [
+    6
+  ],
+  "lightningShots": [
+    6
+  ],
+  "publicationStatus": "Published",
+  "description": "மன்னரைச்சேர்ந்தொழுதல் (Female) — Mannarai Sernthozhuthal Female.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=zq1dxg5R-rY\n\n#Thirukkural #Tamil #GuruKulaDesam",
+  "playlistNames": [
+    "Discography",
+    "திருக்குறள் | Thirukkural — Master Collection"
+  ],
+  "recordingVersion": "Mannarai Sernthozhuthal Female",
+  "fps": 12,
+  "targetFrames": 3373,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review",
+  "localQC": {
+    "originalAudioExact": true,
+    "fullDecode": true,
+    "visualReview": "inspected"
+  },
+  "recordingScope": "Distinct source recording; other recordings of this chapter already have films. No exact or near duplicate decoded audio found among 248 available source recordings.",
+  "youtubeVideoId": "dthZW-Wo8IU",
+  "youtubeMetadataComplete": true,
+  "checksAtPublication": "Copyright and Community Guidelines pending at publication",
+  "publicationConfirmation": "YouTube Studio Video published"
+}

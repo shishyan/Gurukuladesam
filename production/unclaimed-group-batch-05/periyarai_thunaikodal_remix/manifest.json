@@ -1,0 +1,107 @@
+{
+  "sourceId": "2Pun6K7h984",
+  "output": "PERIYARAI-THUNAIKODAL-REMIX-FILM.mp4",
+  "title": "பெரியாரைத்துணைக்கோடல் (Remix) | Periyarai Thunaikodal Remix Cinematic Thirukkural Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "Ultra-wide dawn panorama of a Tamil lakeside learning settlement with banyan councils and shaded verandas, many families and neighbours arriving along broad paths, expansive sky and powerful orchestral scale",
+      "inFrame": 0,
+      "outFrame": 283
+    },
+    {
+      "image": "S02.png",
+      "role": "A diverse group of Tamil elders, women and men discussing seeking guidance and companionship from wise experienced elders around a broad stone table in a shaded courtyard, natural respectful interaction",
+      "inFrame": 283,
+      "outFrame": 518
+    },
+    {
+      "image": "S03.png",
+      "role": "Young women and men seeking the counsel of respected elders beneath a vast banyan tree, patient attentive group discussion",
+      "inFrame": 518,
+      "outFrame": 771
+    },
+    {
+      "image": "S04.png",
+      "role": "Experienced farmers walking with younger villagers beside irrigation channels, passing on practical knowledge through gentle demonstration",
+      "inFrame": 771,
+      "outFrame": 1057
+    },
+    {
+      "image": "S05.png",
+      "role": "A mixed-age group learning from a wise elder beside palm-leaf manuscripts in a sunlit veranda, theme seeking guidance and companionship from wise experienced elders",
+      "inFrame": 1057,
+      "outFrame": 1337
+    },
+    {
+      "image": "S06.png",
+      "role": "Women and men cooking and sharing a vegetarian community meal beneath trees, children helping elders, setting a Tamil lakeside learning settlement with banyan councils and shaded verandas",
+      "inFrame": 1337,
+      "outFrame": 1557
+    },
+    {
+      "image": "S07.png",
+      "role": "Wet outdoor public square in a Tamil lakeside learning settlement with banyan councils and shaded verandas beneath soft monsoon clouds, groups sharing woven palm umbrellas, no lightning bolts or drawn rain streaks",
+      "inFrame": 1557,
+      "outFrame": 1851
+    },
+    {
+      "image": "S08.png",
+      "role": "Dry enclosed stone assembly hall, a large attentive gathering considering seeking guidance and companionship from wise experienced elders, golden lamps and absolutely no rain",
+      "inFrame": 1851,
+      "outFrame": 2122
+    },
+    {
+      "image": "S09.png",
+      "role": "A Tamil woman calmly speaking to a seated circle of neighbours about seeking guidance and companionship from wise experienced elders, hopeful natural faces, a different courtyard and camera viewpoint",
+      "inFrame": 2122,
+      "outFrame": 2341
+    },
+    {
+      "image": "S10.png",
+      "role": "Three elderly craft mentors teaching a mixed-age group to repair a wooden cart in a shaded courtyard, warm companionship",
+      "inFrame": 2341,
+      "outFrame": 2619
+    },
+    {
+      "image": "S11.png",
+      "role": "A broad gathering thanking elders and community helpers at sunset beside a lake, warm gratitude, theme seeking guidance and companionship from wise experienced elders",
+      "inFrame": 2619,
+      "outFrame": 2875
+    },
+    {
+      "image": "S12.png",
+      "role": "Ultra-wide twilight panorama of a Tamil lakeside learning settlement with banyan councils and shaded verandas, communities gathering under courtyard lamps and an expansive indigo sky, serene closing",
+      "inFrame": 2875,
+      "outFrame": 3153
+    }
+  ],
+  "rainShots": [
+    6
+  ],
+  "lightningShots": [
+    6
+  ],
+  "publicationStatus": "Published",
+  "description": "பெரியாரைத்துணைக்கோடல் (Remix) — Periyarai Thunaikodal Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=2Pun6K7h984\n\n#Thirukkural #Tamil #GuruKulaDesam",
+  "playlistNames": [
+    "Discography",
+    "திருக்குறள் | Thirukkural — Master Collection"
+  ],
+  "recordingVersion": "Periyarai Thunaikodal Remix",
+  "artworkReview": "All three four-quadrant sheets inspected",
+  "fps": 12,
+  "targetFrames": 3153,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review",
+  "localQC": {
+    "originalAudioExact": true,
+    "fullDecode": true,
+    "visualReview": "inspected"
+  },
+  "recordingScope": "Distinct source recording; other recordings of this chapter already have films. No exact or near duplicate decoded audio found among 242 available source recordings.",
+  "youtubeVideoId": "HRN77i6Kio8",
+  "youtubeMetadataComplete": true,
+  "youtubeChecksAtPublication": "Copyright and Community Guidelines passed",
+  "publicationVerified": "YouTube Studio Video published confirmation"
+}

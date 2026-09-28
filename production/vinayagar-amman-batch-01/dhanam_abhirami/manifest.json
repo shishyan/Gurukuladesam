@@ -1,0 +1,86 @@
+{
+  "sourceId": "IT_-ioBG69g",
+  "output": "DHANAM-THARUM-ABHIRAMI-FILM-v2.mp4",
+  "title": "தனந்தரும் அபிராமி | Cinematic Devotional Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 464
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 464,
+      "outFrame": 943
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 943,
+      "outFrame": 1432
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1432,
+      "outFrame": 1911
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1911,
+      "outFrame": 2345
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 2345,
+      "outFrame": 2844
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 2844,
+      "outFrame": 3297
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 3297,
+      "outFrame": 3762
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 3762,
+      "outFrame": 4269
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 4269,
+      "outFrame": 4701
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 4701,
+      "outFrame": 5220
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 5220,
+      "outFrame": 5668
+    }
+  ],
+  "rainShots": [
+    8
+  ],
+  "fps": 24,
+  "targetFrames": 5668,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

@@ -1,0 +1,107 @@
+{
+  "sourceId": "kdZSlrXEfvs",
+  "output": "AVAI-ANJAAMAI-FEMALE-FILM.mp4",
+  "title": "அவை அஞ்சாமை (Female) | Avai Anjaamai Female Cinematic Thirukkural Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "Ultra-wide dawn view of an ancient Tamil open-air assembly pavilion beside a lake, women and men arriving in groups, expansive musical opening",
+      "inFrame": 0,
+      "outFrame": 204
+    },
+    {
+      "image": "S02.png",
+      "role": "A Tamil woman standing thoughtfully before a large seated assembly, calm courage, respectful listeners and natural anatomy",
+      "inFrame": 204,
+      "outFrame": 475
+    },
+    {
+      "image": "S03.png",
+      "role": "Several women and elders studying palm-leaf manuscripts together in a shaded courtyard",
+      "inFrame": 475,
+      "outFrame": 701
+    },
+    {
+      "image": "S04.png",
+      "role": "An inclusive circle of neighbours exchanging ideas beneath a banyan tree, children listening nearby",
+      "inFrame": 701,
+      "outFrame": 900
+    },
+    {
+      "image": "S05.png",
+      "role": "A group of young women practising a speech with supportive elders at a stone veranda, warm candid atmosphere",
+      "inFrame": 900,
+      "outFrame": 1134
+    },
+    {
+      "image": "S06.png",
+      "role": "Residents of different ages listening carefully to a woman explaining an idea in an open hall, encouraging faces",
+      "inFrame": 1134,
+      "outFrame": 1380
+    },
+    {
+      "image": "S07.png",
+      "role": "Wet outdoor path toward the assembly pavilion under grey clouds, groups sharing palm umbrellas, no frozen lightning bolts",
+      "inFrame": 1380,
+      "outFrame": 1584
+    },
+    {
+      "image": "S08.png",
+      "role": "Dry enclosed lecture hall, a woman speaking confidently to neighbours seated in a semicircle, warm lamps, no rain",
+      "inFrame": 1584,
+      "outFrame": 1837
+    },
+    {
+      "image": "S09.png",
+      "role": "Community members discussing a thoughtful question in small groups beside a lotus lake",
+      "inFrame": 1837,
+      "outFrame": 2047
+    },
+    {
+      "image": "S10.png",
+      "role": "A woman and several advisers presenting palm-leaf records to a dignified council, balanced group composition",
+      "inFrame": 2047,
+      "outFrame": 2283
+    },
+    {
+      "image": "S11.png",
+      "role": "The assembled community thanking several speakers in a wide sunset courtyard, shared warmth and confidence",
+      "inFrame": 2283,
+      "outFrame": 2517
+    },
+    {
+      "image": "S12.png",
+      "role": "Ultra-wide twilight lake and assembly pavilion, families and neighbours departing together beneath a violet sky, hopeful peaceful closing",
+      "inFrame": 2517,
+      "outFrame": 2734
+    }
+  ],
+  "rainShots": [
+    6
+  ],
+  "lightningShots": [
+    6
+  ],
+  "publicationStatus": "Published",
+  "description": "அவை அஞ்சாமை (Female) — Avai Anjaamai Female.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=kdZSlrXEfvs\n\n#Thirukkural #Tamil #GuruKulaDesam",
+  "playlistNames": [
+    "Discography",
+    "திருக்குறள் | Thirukkural — Master Collection"
+  ],
+  "recordingVersion": "Avai Anjaamai Female",
+  "artworkReview": "All three four-quadrant sheets inspected; unique community scenes; no fixed lightning bolts.",
+  "fps": 12,
+  "targetFrames": 2734,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review",
+  "localQC": {
+    "originalAudioExact": true,
+    "fullDecode": true,
+    "visualReview": "inspected"
+  },
+  "recordingScope": "Distinct source recording; other recordings of this chapter already have films. No exact or near duplicate decoded audio found among 233 available source recordings.",
+  "youtubeVideoId": "wyDIU74Rs7Y",
+  "youtubeChecksAtPublication": "Community Guidelines passed; copyright pending at publication",
+  "youtubeMetadataComplete": true,
+  "publicationVerified": "YouTube Studio Video published confirmation"
+}

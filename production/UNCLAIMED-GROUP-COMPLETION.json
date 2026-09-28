@@ -1,0 +1,497 @@
+{
+  "completedAtUtc": "2026-09-28T18:19:43.875879+00:00",
+  "status": "Finished exact-recording films with recorded YouTube publication status",
+  "filmCount": 27,
+  "sceneCount": 336,
+  "minutes": 145.55,
+  "scope": "These exact recordings had no prior start in shared production records. Other versions of their compositions or chapters already have films. Audio checks found no exact or near duplicate among available comparison sources.",
+  "reviewLimit": "All generated sheets and opening/wet/dry rendered samples inspected; exact original decoded audio, full video decode and no black passages of 0.5s or longer verified. Full human playback and exact lyric timing are not claimed.",
+  "songs": [
+    {
+      "sourceId": "XlCvnE6y9d0",
+      "title": "போற்றி திரு அகவல் 2026 | Potri Thiru Agaval 2026 Cinematic Shiva Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-01\\potri_thiru_agaval_2026\\POTRI-THIRU-AGAVAL-2026-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-01\\potri_thiru_agaval_2026\\opening-qc.png",
+      "durationSeconds": 1254.9166666666667,
+      "scenes": 24,
+      "description": "போற்றி திரு அகவல் 2026 — Potri Thiru Agaval 2026.\n\nA devotional image-based film for the complete original Guru Kula Desam song recording. Fresh scenes, gentle camera movement, dheepam and agarbaththi smoke, with occasional outdoor drizzle and lightning.\n\nOriginal recording: https://www.youtube.com/watch?v=XlCvnE6y9d0\n\n#Thiruvasagam #Shiva #TamilDevotional #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "status": "Ready for later upload",
+      "sha256": "1c495ee3d443013e5abb89ce2de3eed0be872c33ac3e669aa51e72720fa07dbb",
+      "batch": "unclaimed-group-batch-01",
+      "publicationStatus": "Published",
+      "youtubeVideoId": "8YLA_CoDfP8"
+    },
+    {
+      "sourceId": "8b2B047SSTo",
+      "title": "திருவோத்தூர் பதிகம் II | Thiruvothur Pathigam II Cinematic Shiva Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-01\\thiruvothur_pathigam_ii\\THIRUVOTHUR-PATHIGAM-II-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-01\\thiruvothur_pathigam_ii\\opening-qc.png",
+      "durationSeconds": 479.4166666666667,
+      "scenes": 12,
+      "description": "திருவோத்தூர் பதிகம் II — Thiruvothur Pathigam II.\n\nA devotional image-based film for the complete original Guru Kula Desam song recording. Fresh scenes, gentle camera movement, dheepam and agarbaththi smoke, with occasional outdoor drizzle and lightning.\n\nOriginal recording: https://www.youtube.com/watch?v=8b2B047SSTo\n\n#Thevaram #Shiva #TamilDevotional #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "status": "Ready for later upload",
+      "sha256": "71f479741a0fbc9bf603178d76519bfc0f4b0b363bf48aea7e35a2729bdf0850",
+      "batch": "unclaimed-group-batch-01",
+      "publicationStatus": "Published",
+      "youtubeVideoId": "fNaiY4wiadc"
+    },
+    {
+      "sourceId": "34D_HpbRxfo",
+      "title": "திருவோத்தூர் பதிகம் III | Thiruvothur Pathigam III Cinematic Shiva Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-01\\thiruvothur_pathigam_iii\\THIRUVOTHUR-PATHIGAM-III-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-01\\thiruvothur_pathigam_iii\\opening-qc.png",
+      "durationSeconds": 317.4166666666667,
+      "scenes": 12,
+      "description": "திருவோத்தூர் பதிகம் III — Thiruvothur Pathigam III.\n\nA devotional image-based film for the complete original Guru Kula Desam song recording. Fresh scenes, gentle camera movement, dheepam and agarbaththi smoke, with occasional outdoor drizzle and lightning.\n\nOriginal recording: https://www.youtube.com/watch?v=34D_HpbRxfo\n\n#Thevaram #Shiva #TamilDevotional #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "status": "Ready for later upload",
+      "sha256": "e9b85660b94b321dfc628385ef62c4dfb771600ab23e7a3fd329810f2609c160",
+      "batch": "unclaimed-group-batch-01",
+      "publicationStatus": "Published",
+      "youtubeVideoId": "lD6far4EmHY"
+    },
+    {
+      "sourceId": "FGFVertqRUU",
+      "title": "அமைச்சு (Remix) | Amaichu Remix Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-02\\amaichu_remix\\AMAICHU-REMIX-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-02\\amaichu_remix\\opening-qc.png",
+      "durationSeconds": 306.75,
+      "scenes": 12,
+      "description": "அமைச்சு (Remix) — Amaichu Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=FGFVertqRUU\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Ready for later upload",
+      "sha256": "e87ce58147d9fe116bc45b0153f8a786bb6798f2dbcd3b297718928c9a5ebf72",
+      "batch": "unclaimed-group-batch-02",
+      "publicationStatus": "Published",
+      "youtubeVideoId": "JvonvWQHKQY"
+    },
+    {
+      "sourceId": "YBmfJyQNSCY",
+      "title": "அரண் (Symphony) | Aran Symphony Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-02\\aran_symphony\\ARAN-SYMPHONY-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-02\\aran_symphony\\opening-qc.png",
+      "durationSeconds": 225.41666666666666,
+      "scenes": 12,
+      "description": "அரண் (Symphony) — Aran Symphony.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=YBmfJyQNSCY\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Ready for later upload",
+      "sha256": "4e4c1cb46565733dc127911b756c66e2eef80c786c3698fcf7422962f4805685",
+      "batch": "unclaimed-group-batch-02",
+      "publicationStatus": "Published",
+      "youtubeVideoId": "irx33IVWrPY"
+    },
+    {
+      "sourceId": "kdZSlrXEfvs",
+      "title": "அவை அஞ்சாமை (Female) | Avai Anjaamai Female Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-02\\avai_anjaamai_female\\AVAI-ANJAAMAI-FEMALE-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-02\\avai_anjaamai_female\\opening-qc.png",
+      "durationSeconds": 227.83333333333334,
+      "scenes": 12,
+      "description": "அவை அஞ்சாமை (Female) — Avai Anjaamai Female.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=kdZSlrXEfvs\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Ready for later upload",
+      "sha256": "c7bd34dd5ca0298db1b4f8b6bf27b270602b9f9795fe9fdea9b9426e46656789",
+      "batch": "unclaimed-group-batch-02",
+      "publicationStatus": "Published",
+      "youtubeVideoId": "wyDIU74Rs7Y"
+    },
+    {
+      "sourceId": "NxZf0eRutEY",
+      "title": "கூடா ஒழுக்கம் (Symphony) | Kooda Ozhukkam Symphony Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-03\\kooda_ozhukkam_symphony\\KOODA-OZHUKKAM-SYMPHONY-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-03\\kooda_ozhukkam_symphony\\opening-qc.png",
+      "durationSeconds": 282.0,
+      "scenes": 12,
+      "description": "கூடா ஒழுக்கம் (Symphony) — Kooda Ozhukkam Symphony.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=NxZf0eRutEY\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Ready for later upload",
+      "sha256": "05c94b22813de8bdecf099476b67c945c290c9974e42ec2bf73a33f4e73ab826",
+      "batch": "unclaimed-group-batch-03",
+      "publicationStatus": "Published",
+      "youtubeVideoId": "wPT_1jgn2Ys"
+    },
+    {
+      "sourceId": "jXOalu0JJoA",
+      "title": "கள்ளாமை (Symphony) | Kallaamai Symphony Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-03\\kallaamai_symphony\\KALLAAMAI-SYMPHONY-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-03\\kallaamai_symphony\\opening-qc.png",
+      "durationSeconds": 298.6666666666667,
+      "scenes": 12,
+      "description": "கள்ளாமை (Symphony) — Kallaamai Symphony.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=jXOalu0JJoA\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Ready for later upload",
+      "sha256": "d7a3e27c120fcf68d6be0dccd4a371288c1615f0d27a306945aefc4f4abd6745",
+      "batch": "unclaimed-group-batch-03",
+      "publicationStatus": "Published",
+      "youtubeVideoId": "tzAYLpH3TkI"
+    },
+    {
+      "sourceId": "R-5gWfRNMts",
+      "title": "வாய்மை (Remix) | Vaaymai Remix Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-03\\vaaymai_remix\\VAAYMAI-REMIX-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-03\\vaaymai_remix\\opening-qc.png",
+      "durationSeconds": 236.75,
+      "scenes": 12,
+      "description": "வாய்மை (Remix) — Vaaymai Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=R-5gWfRNMts\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Ready for later upload",
+      "sha256": "0ef9e81068744bca4a9927eb1a48d49b205229106766712152883e00efd55be4",
+      "batch": "unclaimed-group-batch-03",
+      "publicationStatus": "Published",
+      "youtubeVideoId": "djYooU1LmGk"
+    },
+    {
+      "sourceId": "QAv04nxeH4c",
+      "title": "துறவு (Female) | Thuravu Female Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-04\\thuravu_female\\THURAVU-FEMALE-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-04\\thuravu_female\\opening-qc.png",
+      "durationSeconds": 282.3333333333333,
+      "scenes": 12,
+      "description": "துறவு (Female) — Thuravu Female.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=QAv04nxeH4c\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Ready for later upload",
+      "sha256": "7e2b3a8e8af35af099768e87c3a759be6f47429576ab5e07e6571496ebfe03f9",
+      "batch": "unclaimed-group-batch-04",
+      "publicationStatus": "Published",
+      "youtubeVideoId": "6MaQYObW8OQ"
+    },
+    {
+      "sourceId": "0DoegY9d0ZM",
+      "title": "இடனறிதல் (Remix) | Idanarithal Remix Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-04\\idanarithal_remix\\IDANARITHAL-REMIX-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-04\\idanarithal_remix\\opening-qc.png",
+      "durationSeconds": 277.0833333333333,
+      "scenes": 12,
+      "description": "இடனறிதல் (Remix) — Idanarithal Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=0DoegY9d0ZM\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Ready for later upload",
+      "sha256": "6aec071b8a2eb58f46bf9a6c79ceef6cfc2f225831530f8831dc308373263afc",
+      "batch": "unclaimed-group-batch-04",
+      "publicationStatus": "Published",
+      "youtubeVideoId": "oEQ3sx6ujQc"
+    },
+    {
+      "sourceId": "cUt716Zafy0",
+      "title": "காலமறிதல் (Remix) | Kaalamarithal Remix Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-04\\kaalamarithal_remix\\KAALAMARITHAL-REMIX-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-04\\kaalamarithal_remix\\opening-qc.png",
+      "durationSeconds": 236.83333333333334,
+      "scenes": 12,
+      "description": "காலமறிதல் (Remix) — Kaalamarithal Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=cUt716Zafy0\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Ready for later upload",
+      "sha256": "7379b34cda498eda601d57e4b76eb4406f7d1eb572b9ffa36ec5df11d230f044",
+      "batch": "unclaimed-group-batch-04",
+      "publicationStatus": "Published",
+      "youtubeVideoId": "dVYI3ZgpDC8"
+    },
+    {
+      "sourceId": "FS5fUOxZySE",
+      "title": "வலியறிதல் (Remix) | Valiyarithal Remix Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-05\\valiyarithal_remix\\VALIYARITHAL-REMIX-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-05\\valiyarithal_remix\\opening-qc.png",
+      "durationSeconds": 346.75,
+      "scenes": 12,
+      "description": "வலியறிதல் (Remix) — Valiyarithal Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=FS5fUOxZySE\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Ready for later upload",
+      "sha256": "d6ac7d34f26099f35658ef01d1285d76267da6a1f16b611bffed27fe83171c4f",
+      "batch": "unclaimed-group-batch-05",
+      "publicationStatus": "Published",
+      "youtubeVideoId": "KLsXZa28uyE"
+    },
+    {
+      "sourceId": "2Pun6K7h984",
+      "title": "பெரியாரைத்துணைக்கோடல் (Remix) | Periyarai Thunaikodal Remix Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-05\\periyarai_thunaikodal_remix\\PERIYARAI-THUNAIKODAL-REMIX-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-05\\periyarai_thunaikodal_remix\\opening-qc.png",
+      "durationSeconds": 262.75,
+      "scenes": 12,
+      "description": "பெரியாரைத்துணைக்கோடல் (Remix) — Periyarai Thunaikodal Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=2Pun6K7h984\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Ready for later upload",
+      "sha256": "4742ecf9a14059197ee11343c41f3c0ce5a01057739b280f8a389baca76cbe59",
+      "batch": "unclaimed-group-batch-05",
+      "publicationStatus": "Published",
+      "youtubeVideoId": "HRN77i6Kio8"
+    },
+    {
+      "sourceId": "0bz1myKXoJQ",
+      "title": "அறிவுடைமை (Remix) | Arivudaimai Remix Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-05\\arivudaimai_remix\\ARIVUDAIMAI-REMIX-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-05\\arivudaimai_remix\\opening-qc.png",
+      "durationSeconds": 302.0,
+      "scenes": 12,
+      "description": "அறிவுடைமை (Remix) — Arivudaimai Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=0bz1myKXoJQ\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Ready for later upload",
+      "sha256": "94c0ef8db58decd8b8fbd4a63add828e3092b1a38b9be5a39b37720dd54a9e72",
+      "batch": "unclaimed-group-batch-05",
+      "publicationStatus": "Published",
+      "youtubeVideoId": "xVyPWHTMXHw"
+    },
+    {
+      "sourceId": "UyCe3KLqY_8",
+      "title": "சிற்றினம்சேராமை (Remix) | Sittrinam Seramai Remix Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-06\\sittrinam_seramai_remix\\SITTRINAM-SERAMAI-REMIX-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-06\\sittrinam_seramai_remix\\opening-qc.png",
+      "durationSeconds": 330.9166666666667,
+      "scenes": 12,
+      "description": "சிற்றினம்சேராமை (Remix) — Sittrinam Seramai Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=UyCe3KLqY_8\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Ready for later upload",
+      "sha256": "b38dc3b59716e28f58a986475d379c5934701e20ec43b734e859b51cc20f7ff1",
+      "batch": "unclaimed-group-batch-06",
+      "publicationStatus": "Published",
+      "youtubeVideoId": "wylRNpaJNmY"
+    },
+    {
+      "sourceId": "OzejLLvDq5s",
+      "title": "குற்றங்கடிதல் (Remix) | Kuttrangadithal Remix Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-06\\kuttrangadithal_remix\\KUTTRANGADITHAL-REMIX-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-06\\kuttrangadithal_remix\\opening-qc.png",
+      "durationSeconds": 221.16666666666666,
+      "scenes": 12,
+      "description": "குற்றங்கடிதல் (Remix) — Kuttrangadithal Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=OzejLLvDq5s\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Ready for later upload",
+      "sha256": "ff421f29d19c3cbc28d0bd58741b6f4df351757c52fc8f2dde290dbe0be1ba6c",
+      "batch": "unclaimed-group-batch-06",
+      "publicationStatus": "Published",
+      "youtubeVideoId": "VVkl8bORJXg"
+    },
+    {
+      "sourceId": "r75xdfETSbE",
+      "title": "கேள்விச்செல்வம் (Remix) | Kelvi Selvam Remix Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-06\\kelvi_selvam_remix\\KELVI-SELVAM-REMIX-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-06\\kelvi_selvam_remix\\opening-qc.png",
+      "durationSeconds": 252.41666666666666,
+      "scenes": 12,
+      "description": "கேள்விச்செல்வம் (Remix) — Kelvi Selvam Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=r75xdfETSbE\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Ready for later upload",
+      "sha256": "c50ff46af182c7094486c5532f7369c7203eec28b376d7a6f49ee6b4f9156fc5",
+      "batch": "unclaimed-group-batch-06",
+      "publicationStatus": "Published",
+      "youtubeVideoId": "vbMywONB5Wc"
+    },
+    {
+      "sourceId": "RAUafMVpT5k",
+      "title": "நாடு (Remix) | Naadu Remix Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-07\\naadu_remix\\NAADU-REMIX-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-07\\naadu_remix\\opening-qc.png",
+      "durationSeconds": 213.58333333333334,
+      "scenes": 12,
+      "description": "நாடு (Remix) — Naadu Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=RAUafMVpT5k\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Published",
+      "sha256": "ba22e3ceed7c705b1fd4db0a9d85497f59ae5370fb9bbadcf3c8a45df9f56ab3",
+      "batch": "unclaimed-group-batch-07",
+      "publicationStatus": "Published",
+      "youtubeVideoId": "gjo0AfKBzsU"
+    },
+    {
+      "sourceId": "zq1dxg5R-rY",
+      "title": "மன்னரைச்சேர்ந்தொழுதல் (Female) | Mannarai Sernthozhuthal Female Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-07\\mannarai_sernthozhuthal_female\\MANNARAI-SERNTHOZHUTHAL-FEMALE-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-07\\mannarai_sernthozhuthal_female\\opening-qc.png",
+      "durationSeconds": 281.0833333333333,
+      "scenes": 12,
+      "description": "மன்னரைச்சேர்ந்தொழுதல் (Female) — Mannarai Sernthozhuthal Female.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=zq1dxg5R-rY\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Published",
+      "sha256": "36c9af86f7b70ca6019d85cf29829cb53422377a3320a4da25ff79f2f1524a26",
+      "batch": "unclaimed-group-batch-07",
+      "publicationStatus": "Published",
+      "youtubeVideoId": "dthZW-Wo8IU"
+    },
+    {
+      "sourceId": "GN181JJ1lXU",
+      "title": "குறிப்பறிதல் (Remix) | Kuripparithal Remix Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-07\\kuripparithal_remix\\KURIPPARITHAL-REMIX-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-07\\kuripparithal_remix\\opening-qc.png",
+      "durationSeconds": 287.25,
+      "scenes": 12,
+      "description": "குறிப்பறிதல் (Remix) — Kuripparithal Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=GN181JJ1lXU\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Published",
+      "sha256": "5817047e865bb24172c23ca87965047189b5f0e7dffeb689f9e5c956c6a88489",
+      "batch": "unclaimed-group-batch-07",
+      "publicationStatus": "Published",
+      "youtubeVideoId": "2Qs07DTJvvM"
+    },
+    {
+      "sourceId": "RY7nPGorS94",
+      "title": "தூது (Remix) | Thoothu Remix Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-08\\thoothu_remix\\THOOTHU-REMIX-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-08\\thoothu_remix\\opening-qc.png",
+      "durationSeconds": 250.91666666666666,
+      "scenes": 12,
+      "description": "தூது (Remix) — Thoothu Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=RY7nPGorS94\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Published",
+      "sha256": "3f571a8b10d22ffdd09cf585854663f55cc0c5f75dc7b9f1bd52f7e6c7fd3fbb",
+      "batch": "unclaimed-group-batch-08",
+      "publicationStatus": "Published",
+      "youtubeVideoId": "x3CyxNH5bpQ"
+    },
+    {
+      "sourceId": "MvwT6dnGE0U",
+      "title": "வினைசெயல்வகை (Female) | Vinai Seyalvagai Female Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-08\\vinai_seyalvagai_female\\VINAI-SEYALVAGAI-FEMALE-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-08\\vinai_seyalvagai_female\\opening-qc.png",
+      "durationSeconds": 322.4166666666667,
+      "scenes": 12,
+      "description": "வினைசெயல்வகை (Female) — Vinai Seyalvagai Female.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=MvwT6dnGE0U\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Published",
+      "sha256": "653d296abecc042b147e0c3f69c8aebc8681281bc5c17ea13f7d5a00dd56f28c",
+      "batch": "unclaimed-group-batch-08",
+      "publicationStatus": "Published",
+      "youtubeVideoId": "3yB_oTqh6Jk"
+    },
+    {
+      "sourceId": "ulW6fg4lkYA",
+      "title": "இடுக்கண் அழியாமை (Remix) | Idukkan Azhiyamai Remix Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-08\\idukkan_remix\\IDUKKAN-REMIX-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-08\\idukkan_remix\\opening-qc.png",
+      "durationSeconds": 329.5833333333333,
+      "scenes": 12,
+      "description": "இடுக்கண் அழியாமை (Remix) — Idukkan Azhiyamai Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=ulW6fg4lkYA\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Published",
+      "sha256": "9067a43989b9a4f99537cbf9041b6ba4e3701d2154dbed20a036d4a8edf2fac3",
+      "batch": "unclaimed-group-batch-08",
+      "publicationStatus": "Published",
+      "youtubeVideoId": "QXWB2raWKXE"
+    },
+    {
+      "sourceId": "q2oGlYiV-qg",
+      "title": "சொல்வன்மை (Remix) | Solvanmai Remix Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-09\\solvanmai_remix\\SOLVANMAI-REMIX-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-09\\solvanmai_remix\\opening-qc.png",
+      "durationSeconds": 335.75,
+      "scenes": 12,
+      "description": "சொல்வன்மை (Remix) — Solvanmai Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=q2oGlYiV-qg\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Published",
+      "sha256": "a850a1cccf800af408eec5885bdffaf5348cdb5e10ad88ad6280ed4c4e9c6e56",
+      "batch": "unclaimed-group-batch-09",
+      "publicationStatus": "Published",
+      "youtubeVideoId": "rOowxP53oWA"
+    },
+    {
+      "sourceId": "J-mAIpyxy4A",
+      "title": "வினைத்திட்பம் (Remix) | Vinai Thitpam Remix Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-09\\vinai_thitpam_remix\\VINAI-THITPAM-REMIX-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-09\\vinai_thitpam_remix\\opening-qc.png",
+      "durationSeconds": 299.8333333333333,
+      "scenes": 12,
+      "description": "வினைத்திட்பம் (Remix) — Vinai Thitpam Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=J-mAIpyxy4A\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Published",
+      "sha256": "e780075f07109df50ea3157cfa3a68d1d64ce5f4bf3b7fd9c9814ad47eb49622",
+      "batch": "unclaimed-group-batch-09",
+      "publicationStatus": "Published",
+      "youtubeVideoId": "0WurYH-hkNM"
+    },
+    {
+      "sourceId": "XRizXIUU57g",
+      "title": "வினைத்தூய்மை (Remix) | Vinai Thooymai Remix Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-09\\vinai_thooymai_remix\\VINAI-THOOYMAI-REMIX-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-09\\vinai_thooymai_remix\\opening-qc.png",
+      "durationSeconds": 271.1666666666667,
+      "scenes": 12,
+      "description": "வினைத்தூய்மை (Remix) — Vinai Thooymai Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=XRizXIUU57g\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Published",
+      "sha256": "7f97ab0f5ae9cf7f7ffe688aa32d8d03d2a86a4dea08dde2311f9257a798407e",
+      "batch": "unclaimed-group-batch-09",
+      "publicationStatus": "Published",
+      "youtubeVideoId": "D95woYqPoPI"
+    }
+  ]
+}

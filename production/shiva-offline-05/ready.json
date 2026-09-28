@@ -1,0 +1,53 @@
+[
+  {
+    "title": "திருமுல்லைவாயில் | Thirumullaivayil Cinematic Shiva Film",
+    "sourceId": "73GrCFM_v6Q",
+    "status": "Ready for later upload",
+    "manifest": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-05\\thirumullaivayil\\manifest.json",
+    "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-05\\thirumullaivayil\\THIRUMULLAIVAYIL-FILM.mp4",
+    "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-05\\thirumullaivayil\\opening-qc.png",
+    "description": "திருமுல்லைவாயில் — Thirumullaivayil.\n\nA devotional image-based film for the complete original Guru Kula Desam song recording. Fresh scenes, gentle camera movement, dheepam and agarbaththi smoke, with occasional outdoor drizzle and lightning.\n\nOriginal recording: https://www.youtube.com/watch?v=73GrCFM_v6Q\n\n#Thiruvarutpa #Shiva #TamilDevotional #GuruKulaDesam",
+    "playlistNames": [
+      "Discography",
+      "Lord Shiva Songs"
+    ],
+    "scenes": 12,
+    "durationSeconds": 398.0833333333333,
+    "bytes": 24640820,
+    "sha256": "1cc13d146b9fad9d09104e7cf4050143137e9c68bd0a9b6af71dd50c3434c626"
+  },
+  {
+    "title": "நமச்சிவாய ஸங்கீர்த்தனம் | Namasivaya Sankeerthanam Cinematic Shiva Film",
+    "sourceId": "EOkuHFSfv8c",
+    "status": "Ready for later upload",
+    "manifest": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-05\\namasivaya_sankeerthanam\\manifest.json",
+    "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-05\\namasivaya_sankeerthanam\\NAMASIVAYA-SANKEERTHANAM-FILM.mp4",
+    "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-05\\namasivaya_sankeerthanam\\opening-qc.png",
+    "description": "நமச்சிவாய ஸங்கீர்த்தனம் — Namasivaya Sankeerthanam.\n\nA devotional image-based film for the complete original Guru Kula Desam song recording. Fresh scenes, gentle camera movement, dheepam and agarbaththi smoke, with occasional outdoor drizzle and lightning.\n\nOriginal recording: https://www.youtube.com/watch?v=EOkuHFSfv8c\n\n#Thiruvarutpa #Shiva #TamilDevotional #GuruKulaDesam",
+    "playlistNames": [
+      "Discography",
+      "Lord Shiva Songs"
+    ],
+    "scenes": 12,
+    "durationSeconds": 666.9166666666666,
+    "bytes": 33061306,
+    "sha256": "cc711573ad5afac9c3909eef136db92ca3b23ea0eb256d540efe37bb62d058e7"
+  },
+  {
+    "title": "கொடைமடப் புகழ்ச்சி | Kodaimada Pugazhchi Cinematic Shiva Film",
+    "sourceId": "nGBmGzsD-kM",
+    "status": "Ready for later upload",
+    "manifest": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-05\\kodaimada_pugazhchi\\manifest.json",
+    "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-05\\kodaimada_pugazhchi\\KODAIMADA-PUGAZHCHI-FILM.mp4",
+    "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-05\\kodaimada_pugazhchi\\opening-qc.png",
+    "description": "கொடைமடப் புகழ்ச்சி — Kodaimada Pugazhchi.\n\nA devotional image-based film for the complete original Guru Kula Desam song recording. Fresh scenes, gentle camera movement, dheepam and agarbaththi smoke, with occasional outdoor drizzle and lightning.\n\nOriginal recording: https://www.youtube.com/watch?v=nGBmGzsD-kM\n\n#Thiruvarutpa #Shiva #TamilDevotional #GuruKulaDesam",
+    "playlistNames": [
+      "Discography",
+      "Lord Shiva Songs"
+    ],
+    "scenes": 12,
+    "durationSeconds": 622.8333333333334,
+    "bytes": 32369510,
+    "sha256": "3deded43940684f208d615e87d9acf78adb04477087dcde509d8556660ff4627"
+  }
+]

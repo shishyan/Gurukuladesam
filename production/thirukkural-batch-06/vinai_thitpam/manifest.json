@@ -1,0 +1,96 @@
+{
+  "sourceId": "--4jzoezBW8",
+  "output": "VINAI-THITPAM-FILM.mp4",
+  "title": "திருக்குறள் - வினைத்திட்பம் | Vinai Thitpam Cinematic Thirukkural Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 338
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 338,
+      "outFrame": 723
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 723,
+      "outFrame": 1074
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1074,
+      "outFrame": 1398
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1398,
+      "outFrame": 1800
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 1800,
+      "outFrame": 2154
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 2154,
+      "outFrame": 2492
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 2492,
+      "outFrame": 2861
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 2861,
+      "outFrame": 3193
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 3193,
+      "outFrame": 3553
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 3553,
+      "outFrame": 3904
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 3904,
+      "outFrame": 4266
+    }
+  ],
+  "rainShots": [
+    6
+  ],
+  "lightningShots": [
+    6
+  ],
+  "publicationStatus": "ready; upload deferred by user",
+  "description": "வினைத்திட்பம் — Vinai Thitpam.\n\nA cinematic image-based film for the complete original Guru Kula Desam recording, with twelve distinct scenes, gentle movement, dheepam and agarbaththi smoke, and occasional drizzle and lightning.\n\nOriginal recording: https://www.youtube.com/watch?v=--4jzoezBW8\n\n#Thirukkural #TamilSong #GuruKulaDesam",
+  "fps": 12,
+  "targetFrames": 4266,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review",
+  "localQC": {
+    "originalAudioExact": true,
+    "fullDecode": true,
+    "visualReview": "opening, rainy scene and dry successor inspected"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "sourceId": "nGBmGzsD-kM",
+  "output": "KODAIMADA-PUGAZHCHI-FILM.mp4",
+  "title": "கொடைமடப் புகழ்ச்சி | Kodaimada Pugazhchi Cinematic Shiva Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 611
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 611,
+      "outFrame": 1222
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 1222,
+      "outFrame": 1873
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1873,
+      "outFrame": 2467
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 2467,
+      "outFrame": 3122
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 3122,
+      "outFrame": 3713
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 3713,
+      "outFrame": 4349
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 4349,
+      "outFrame": 4989
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 4989,
+      "outFrame": 5607
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 5607,
+      "outFrame": 6247
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 6247,
+      "outFrame": 6868
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 6868,
+      "outFrame": 7474
+    }
+  ],
+  "rainShots": [
+    6
+  ],
+  "lightningShots": [
+    6
+  ],
+  "publicationStatus": "ready; upload deferred by user",
+  "description": "கொடைமடப் புகழ்ச்சி — Kodaimada Pugazhchi.\n\nA devotional image-based film for the complete original Guru Kula Desam song recording. Fresh scenes, gentle camera movement, dheepam and agarbaththi smoke, with occasional outdoor drizzle and lightning.\n\nOriginal recording: https://www.youtube.com/watch?v=nGBmGzsD-kM\n\n#Thiruvarutpa #Shiva #TamilDevotional #GuruKulaDesam",
+  "playlistNames": [
+    "Discography",
+    "Lord Shiva Songs"
+  ],
+  "fps": 12,
+  "targetFrames": 7474,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review",
+  "localQC": {
+    "originalAudioExact": true,
+    "fullDecode": true,
+    "visualReview": "opening, rainy scene and dry successor inspected"
+  }
+}

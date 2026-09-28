@@ -1,0 +1,40 @@
+{
+  "owner": "Main Guru Kula Desam agent — unclaimed exact-recording production",
+  "status": "Reserved for production. Other agents must not select these IDs. Upload deferred by user.",
+  "scope": "Distinct recordings from the user-approved unstarted list. Earlier chapter versions already have films; exclude identical audio.",
+  "songs": [
+    {
+      "sourceId": "NxZf0eRutEY",
+      "slug": "kooda_ozhukkam_symphony",
+      "chapter": "கூடா ஒழுக்கம் (Symphony)",
+      "english": "Kooda Ozhukkam Symphony",
+      "collection": "Thirukkural",
+      "theme": "integrity in shared public and private life",
+      "setting": "a Tamil riverside town with courtyards and civic pavilions",
+      "duration": 282,
+      "sourceTitle": "கூடா ஒழுக்கம் (Symphony)"
+    },
+    {
+      "sourceId": "jXOalu0JJoA",
+      "slug": "kallaamai_symphony",
+      "chapter": "கள்ளாமை (Symphony)",
+      "english": "Kallaamai Symphony",
+      "collection": "Thirukkural",
+      "theme": "honesty, respect for others belongings, and generous community exchange",
+      "setting": "a Tamil coastal village with markets and palm-shaded courtyards",
+      "duration": 299,
+      "sourceTitle": "கள்ளாமை (Symphony)"
+    },
+    {
+      "sourceId": "R-5gWfRNMts",
+      "slug": "vaaymai_remix",
+      "chapter": "வாய்மை (Remix)",
+      "english": "Vaaymai Remix",
+      "collection": "Thirukkural",
+      "theme": "truthfulness and trustworthy public conversation",
+      "setting": "a Tamil hill town with a lake and a stone assembly hall",
+      "duration": 237,
+      "sourceTitle": "வாய்மை (Remix)"
+    }
+  ]
+}

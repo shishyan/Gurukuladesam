@@ -1,0 +1,39 @@
+{
+  "owner": "Main Guru Kula Desam task",
+  "status": "Reserved after shared workspace check; upload deferred",
+  "songs": [
+    {
+      "sourceId": "QAv04nxeH4c",
+      "slug": "thuravu_female",
+      "chapter": "துறவு (Female)",
+      "english": "Thuravu Female",
+      "collection": "Thirukkural",
+      "theme": "renunciation of possessiveness and selfless community service",
+      "setting": "a forest monastery beside an ancient Tamil lake village",
+      "duration": 282,
+      "sourceTitle": "துறவு (Female)"
+    },
+    {
+      "sourceId": "0DoegY9d0ZM",
+      "slug": "idanarithal_remix",
+      "chapter": "இடனறிதல் (Remix)",
+      "english": "Idanarithal Remix",
+      "collection": "Thirukkural",
+      "theme": "carefully choosing an appropriate place before undertaking work",
+      "setting": "a Tamil valley settlement with hill paths, river crossings and civic courtyards",
+      "duration": 277,
+      "sourceTitle": "இடனறிதல் (Remix)"
+    },
+    {
+      "sourceId": "cUt716Zafy0",
+      "slug": "kaalamarithal_remix",
+      "chapter": "காலமறிதல் (Remix)",
+      "english": "Kaalamarithal Remix",
+      "collection": "Thirukkural",
+      "theme": "patience and choosing the right time for wise action",
+      "setting": "an agricultural Tamil town with seasonal fields and a large irrigation lake",
+      "duration": 237,
+      "sourceTitle": "காலமறிதல் (Remix)"
+    }
+  ]
+}

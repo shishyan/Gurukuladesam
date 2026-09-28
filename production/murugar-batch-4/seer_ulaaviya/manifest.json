@@ -1,0 +1,83 @@
+{
+  "sourceId": "iPFEtwdcIxc",
+  "title": "திருப்புகழ் 712 சீர் உலாவிய | Seer Ulaaviya Cinematic Devotional Film",
+  "output": "SEER_ULAAVIYA-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 404
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 404,
+      "outFrame": 826
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 826,
+      "outFrame": 1239
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1239,
+      "outFrame": 1664
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1664,
+      "outFrame": 2080
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 2080,
+      "outFrame": 2513
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 2513,
+      "outFrame": 2895
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 2895,
+      "outFrame": 3348
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 3348,
+      "outFrame": 3728
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 3728,
+      "outFrame": 4143
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 4143,
+      "outFrame": 4569
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 4569,
+      "outFrame": 4997
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 4997,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

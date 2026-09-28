@@ -1,0 +1,53 @@
+{
+  "checkedAtUtc": "2026-09-28T13:38:42.099627+00:00",
+  "status": "Three full-song films ready; upload deferred",
+  "sceneCount": 48,
+  "songs": [
+    {
+      "sourceId": "XlCvnE6y9d0",
+      "title": "போற்றி திரு அகவல் 2026 | Potri Thiru Agaval 2026 Cinematic Shiva Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-01\\potri_thiru_agaval_2026\\POTRI-THIRU-AGAVAL-2026-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-01\\potri_thiru_agaval_2026\\opening-qc.png",
+      "durationSeconds": 1254.9166666666667,
+      "scenes": 24,
+      "description": "போற்றி திரு அகவல் 2026 — Potri Thiru Agaval 2026.\n\nA devotional image-based film for the complete original Guru Kula Desam song recording. Fresh scenes, gentle camera movement, dheepam and agarbaththi smoke, with occasional outdoor drizzle and lightning.\n\nOriginal recording: https://www.youtube.com/watch?v=XlCvnE6y9d0\n\n#Thiruvasagam #Shiva #TamilDevotional #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "status": "Ready for later upload",
+      "sha256": "1c495ee3d443013e5abb89ce2de3eed0be872c33ac3e669aa51e72720fa07dbb"
+    },
+    {
+      "sourceId": "8b2B047SSTo",
+      "title": "திருவோத்தூர் பதிகம் II | Thiruvothur Pathigam II Cinematic Shiva Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-01\\thiruvothur_pathigam_ii\\THIRUVOTHUR-PATHIGAM-II-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-01\\thiruvothur_pathigam_ii\\opening-qc.png",
+      "durationSeconds": 479.4166666666667,
+      "scenes": 12,
+      "description": "திருவோத்தூர் பதிகம் II — Thiruvothur Pathigam II.\n\nA devotional image-based film for the complete original Guru Kula Desam song recording. Fresh scenes, gentle camera movement, dheepam and agarbaththi smoke, with occasional outdoor drizzle and lightning.\n\nOriginal recording: https://www.youtube.com/watch?v=8b2B047SSTo\n\n#Thevaram #Shiva #TamilDevotional #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "status": "Ready for later upload",
+      "sha256": "71f479741a0fbc9bf603178d76519bfc0f4b0b363bf48aea7e35a2729bdf0850"
+    },
+    {
+      "sourceId": "34D_HpbRxfo",
+      "title": "திருவோத்தூர் பதிகம் III | Thiruvothur Pathigam III Cinematic Shiva Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-01\\thiruvothur_pathigam_iii\\THIRUVOTHUR-PATHIGAM-III-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-01\\thiruvothur_pathigam_iii\\opening-qc.png",
+      "durationSeconds": 317.4166666666667,
+      "scenes": 12,
+      "description": "திருவோத்தூர் பதிகம் III — Thiruvothur Pathigam III.\n\nA devotional image-based film for the complete original Guru Kula Desam song recording. Fresh scenes, gentle camera movement, dheepam and agarbaththi smoke, with occasional outdoor drizzle and lightning.\n\nOriginal recording: https://www.youtube.com/watch?v=34D_HpbRxfo\n\n#Thevaram #Shiva #TamilDevotional #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "status": "Ready for later upload",
+      "sha256": "e9b85660b94b321dfc628385ef62c4dfb771600ab23e7a3fd329810f2609c160"
+    }
+  ],
+  "reviewLimit": "Artwork and opening/wet/dry rendered samples inspected; full stream decode and exact original audio verified. Full human playback and exact lyric synchronisation are not claimed."
+}

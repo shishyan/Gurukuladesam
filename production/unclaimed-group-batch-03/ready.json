@@ -1,0 +1,53 @@
+{
+  "checkedAtUtc": "2026-09-28T14:08:34.922264+00:00",
+  "status": "Three full-song films ready; upload deferred",
+  "sceneCount": 36,
+  "songs": [
+    {
+      "sourceId": "NxZf0eRutEY",
+      "title": "கூடா ஒழுக்கம் (Symphony) | Kooda Ozhukkam Symphony Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-03\\kooda_ozhukkam_symphony\\KOODA-OZHUKKAM-SYMPHONY-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-03\\kooda_ozhukkam_symphony\\opening-qc.png",
+      "durationSeconds": 282.0,
+      "scenes": 12,
+      "description": "கூடா ஒழுக்கம் (Symphony) — Kooda Ozhukkam Symphony.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=NxZf0eRutEY\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Ready for later upload",
+      "sha256": "05c94b22813de8bdecf099476b67c945c290c9974e42ec2bf73a33f4e73ab826"
+    },
+    {
+      "sourceId": "jXOalu0JJoA",
+      "title": "கள்ளாமை (Symphony) | Kallaamai Symphony Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-03\\kallaamai_symphony\\KALLAAMAI-SYMPHONY-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-03\\kallaamai_symphony\\opening-qc.png",
+      "durationSeconds": 298.6666666666667,
+      "scenes": 12,
+      "description": "கள்ளாமை (Symphony) — Kallaamai Symphony.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=jXOalu0JJoA\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Ready for later upload",
+      "sha256": "d7a3e27c120fcf68d6be0dccd4a371288c1615f0d27a306945aefc4f4abd6745"
+    },
+    {
+      "sourceId": "R-5gWfRNMts",
+      "title": "வாய்மை (Remix) | Vaaymai Remix Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-03\\vaaymai_remix\\VAAYMAI-REMIX-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-03\\vaaymai_remix\\opening-qc.png",
+      "durationSeconds": 236.75,
+      "scenes": 12,
+      "description": "வாய்மை (Remix) — Vaaymai Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=R-5gWfRNMts\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Ready for later upload",
+      "sha256": "0ef9e81068744bca4a9927eb1a48d49b205229106766712152883e00efd55be4"
+    }
+  ],
+  "reviewLimit": "Artwork and opening/wet/dry rendered samples inspected; full stream decode and exact original audio verified. Full human playback and exact lyric synchronisation are not claimed."
+}

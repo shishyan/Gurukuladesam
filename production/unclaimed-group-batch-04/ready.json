@@ -1,0 +1,53 @@
+{
+  "checkedAtUtc": "2026-09-28T14:30:27.619727+00:00",
+  "status": "Three full-song films ready; upload deferred",
+  "sceneCount": 36,
+  "songs": [
+    {
+      "sourceId": "QAv04nxeH4c",
+      "title": "துறவு (Female) | Thuravu Female Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-04\\thuravu_female\\THURAVU-FEMALE-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-04\\thuravu_female\\opening-qc.png",
+      "durationSeconds": 282.3333333333333,
+      "scenes": 12,
+      "description": "துறவு (Female) — Thuravu Female.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=QAv04nxeH4c\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Ready for later upload",
+      "sha256": "7e2b3a8e8af35af099768e87c3a759be6f47429576ab5e07e6571496ebfe03f9"
+    },
+    {
+      "sourceId": "0DoegY9d0ZM",
+      "title": "இடனறிதல் (Remix) | Idanarithal Remix Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-04\\idanarithal_remix\\IDANARITHAL-REMIX-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-04\\idanarithal_remix\\opening-qc.png",
+      "durationSeconds": 277.0833333333333,
+      "scenes": 12,
+      "description": "இடனறிதல் (Remix) — Idanarithal Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=0DoegY9d0ZM\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Ready for later upload",
+      "sha256": "6aec071b8a2eb58f46bf9a6c79ceef6cfc2f225831530f8831dc308373263afc"
+    },
+    {
+      "sourceId": "cUt716Zafy0",
+      "title": "காலமறிதல் (Remix) | Kaalamarithal Remix Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-04\\kaalamarithal_remix\\KAALAMARITHAL-REMIX-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-04\\kaalamarithal_remix\\opening-qc.png",
+      "durationSeconds": 236.83333333333334,
+      "scenes": 12,
+      "description": "காலமறிதல் (Remix) — Kaalamarithal Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=cUt716Zafy0\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Ready for later upload",
+      "sha256": "7379b34cda498eda601d57e4b76eb4406f7d1eb572b9ffa36ec5df11d230f044"
+    }
+  ],
+  "reviewLimit": "Artwork and opening/wet/dry rendered samples inspected; full stream decode and exact original audio verified. Full human playback and exact lyric synchronisation are not claimed."
+}

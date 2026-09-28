@@ -1,0 +1,100 @@
+{
+  "sourceId": "o5PVED0ZcfU",
+  "output": "THIRUVENBA-FILM.mp4",
+  "title": "திருவெண்பா | Thiruvenba Cinematic Shiva Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 197
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 197,
+      "outFrame": 400
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 400,
+      "outFrame": 597
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 597,
+      "outFrame": 772
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 772,
+      "outFrame": 978
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 978,
+      "outFrame": 1170
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 1170,
+      "outFrame": 1349
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 1349,
+      "outFrame": 1567
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 1567,
+      "outFrame": 1755
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 1755,
+      "outFrame": 1940
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 1940,
+      "outFrame": 2138
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 2138,
+      "outFrame": 2323
+    }
+  ],
+  "rainShots": [
+    6
+  ],
+  "lightningShots": [
+    6
+  ],
+  "publicationStatus": "ready; upload deferred by user",
+  "description": "திருவெண்பா — Thiruvenba.\n\nA devotional image-based film for the complete original Guru Kula Desam song recording. Fresh scenes, gentle camera movement, dheepam and agarbaththi smoke, with occasional outdoor drizzle and lightning.\n\nOriginal recording: https://www.youtube.com/watch?v=o5PVED0ZcfU\n\n#Thiruvasagam #Shiva #TamilDevotional #GuruKulaDesam",
+  "playlistNames": [
+    "Discography",
+    "Lord Shiva Songs"
+  ],
+  "fps": 12,
+  "targetFrames": 2323,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review",
+  "localQC": {
+    "originalAudioExact": true,
+    "fullDecode": true,
+    "visualReview": "opening, rainy scene and dry successor inspected"
+  }
+}

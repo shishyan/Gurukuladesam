@@ -1,0 +1,37 @@
+{
+  "status": "Reserved for fresh-image production by main Guru Kula Desam song-film task; do not duplicate. Upload deferred by user.",
+  "songs": [
+    {
+      "sourceId": "0TB3drCSvNc",
+      "slug": "thiruvarul_vetkai",
+      "chapter": "திருவருள் வேட்கை",
+      "english": "Thiruvarul Vetkai",
+      "theme": "longing for divine grace",
+      "generationSuppressed": true,
+      "preferredExistingProduction": "thiruvarutpa-backlog-02",
+      "duplicateCompositionSourceId": "dbdp19C0j3M"
+    },
+    {
+      "sourceId": "DCJ2qoMSIBA",
+      "slug": "thiyaga_vanna_pathigam",
+      "chapter": "தியாக வண்ணப் பதிகம்",
+      "english": "Thiyaga Vanna Pathigam",
+      "theme": "reverence for Lord Thyagaraja"
+    },
+    {
+      "sourceId": "hDoLscfeg5Q",
+      "slug": "thiruvarul_vazhakka_vilakkam",
+      "chapter": "திருவருள் வழக்க விளக்கம்",
+      "english": "Thiruvarul Vazhakka Vilakkam",
+      "theme": "divine grace expressed through compassion"
+    },
+    {
+      "sourceId": "o5PVED0ZcfU",
+      "slug": "thiruvenba",
+      "chapter": "திருவெண்பா",
+      "english": "Thiruvenba",
+      "collection": "Thiruvasagam",
+      "theme": "devotion and surrender to Shiva"
+    }
+  ]
+}

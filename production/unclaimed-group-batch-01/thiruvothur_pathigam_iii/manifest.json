@@ -1,0 +1,113 @@
+{
+  "sourceId": "34D_HpbRxfo",
+  "output": "THIRUVOTHUR-PATHIGAM-III-FILM.mp4",
+  "title": "திருவோத்தூர் பதிகம் III | Thiruvothur Pathigam III Cinematic Shiva Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "Ultra-wide golden dawn panorama of a Tamil village and palmyra-lined temple lake, a broad community arriving by several paths, powerful orchestral scale",
+      "inFrame": 0,
+      "outFrame": 337
+    },
+    {
+      "image": "S02.png",
+      "role": "Villagers gathering around a decorated temple chariot in a spacious granite courtyard, natural varied poses",
+      "inFrame": 337,
+      "outFrame": 640
+    },
+    {
+      "image": "S03.png",
+      "role": "Women and men preparing flower arrangements together under a woven canopy, children helping elders",
+      "inFrame": 640,
+      "outFrame": 957
+    },
+    {
+      "image": "S04.png",
+      "role": "Respectful close-medium view of a flower-adorned Shiva lingam with devotees softly visible through the shrine opening",
+      "inFrame": 957,
+      "outFrame": 1291
+    },
+    {
+      "image": "S05.png",
+      "role": "Large seated circle of Tamil devotional singers beside a carved pillared hall, veena and hand drums",
+      "inFrame": 1291,
+      "outFrame": 1564
+    },
+    {
+      "image": "S06.png",
+      "role": "Neighbouring families welcoming pilgrims and sharing fruit in a sunlit temple street",
+      "inFrame": 1564,
+      "outFrame": 1882
+    },
+    {
+      "image": "S07.png",
+      "role": "Rain-darkened outdoor temple lake embankment beneath thick grey clouds, groups sheltering near palm trees with umbrellas; no fixed lightning bolts or drawn streaks",
+      "inFrame": 1882,
+      "outFrame": 2200
+    },
+    {
+      "image": "S08.png",
+      "role": "Dry indoor hall with families listening to a wise elder, carved stone columns and warm lamps, absolutely no rain",
+      "inFrame": 2200,
+      "outFrame": 2536
+    },
+    {
+      "image": "S09.png",
+      "role": "A community carrying flower offerings along a narrow village lane viewed from a balcony, varied clothing",
+      "inFrame": 2536,
+      "outFrame": 2852
+    },
+    {
+      "image": "S10.png",
+      "role": "Elders and children planting a small palm sapling together near the temple boundary, late golden sunlight",
+      "inFrame": 2852,
+      "outFrame": 3196
+    },
+    {
+      "image": "S11.png",
+      "role": "A wide evening congregation facing an illuminated temple entrance, musicians at the side, tranquil shared devotion",
+      "inFrame": 3196,
+      "outFrame": 3514
+    },
+    {
+      "image": "S12.png",
+      "role": "Ultra-wide sunset over palmyra silhouettes and temple lake, groups departing gently along the shore, peaceful closing",
+      "inFrame": 3514,
+      "outFrame": 3809
+    }
+  ],
+  "rainShots": [
+    6
+  ],
+  "lightningShots": [
+    6
+  ],
+  "publicationStatus": "Published",
+  "description": "திருவோத்தூர் பதிகம் III — Thiruvothur Pathigam III.\n\nA devotional image-based film for the complete original Guru Kula Desam song recording. Fresh scenes, gentle camera movement, dheepam and agarbaththi smoke, with occasional outdoor drizzle and lightning.\n\nOriginal recording: https://www.youtube.com/watch?v=34D_HpbRxfo\n\n#Thevaram #Shiva #TamilDevotional #GuruKulaDesam",
+  "playlistNames": [
+    "Discography",
+    "Lord Shiva Songs"
+  ],
+  "recordingVersion": "Thiruvothur Pathigam III",
+  "artworkReview": "All four-quadrant sheets inspected; group gatherings preferred; no fixed lightning bolts.",
+  "rainRegion": {
+    "x": 420,
+    "y": 0,
+    "width": 860,
+    "height": 720
+  },
+  "fps": 12,
+  "targetFrames": 3809,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review",
+  "localQC": {
+    "originalAudioExact": true,
+    "fullDecode": true,
+    "visualReview": "inspected"
+  },
+  "recordingScope": "Distinct source recording; other recordings of this composition already have films. No exact or near duplicate decoded audio found in comparison with 76 prior Shiva sources.",
+  "youtubeVideoId": "lD6far4EmHY",
+  "youtubeChecksAtPublication": "Community Guidelines passed; copyright pending at publication",
+  "youtubeMetadataComplete": true,
+  "publicationVerified": "YouTube Studio Video published confirmation"
+}

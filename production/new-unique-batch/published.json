@@ -1,0 +1,41 @@
+﻿{
+  "channel": "https://www.youtube.com/@guru-kula-desam",
+  "publishedAt": "2026-09-27",
+  "selectionRule": "Original source has static cover art across the song and no existing video song was found for the title in the channel catalog or recent uploads.",
+  "videos": [
+    {
+      "slug": "rama_rama",
+      "sourceId": "jfXxy-Y9zuA",
+      "youtubeId": "qW6CZgELq1o",
+      "url": "https://youtu.be/qW6CZgELq1o",
+      "googleVid": "https://docs.google.com/videos/d/1FEQGkE5DwlBTh7XOJf1KA_ir9e0puFJ3GNo7GvLs7_A/edit",
+      "sourceCoverMaxMeanPixelDifference": 0.46,
+      "duration": "2:49.7"
+    },
+    {
+      "slug": "maha_ganesha",
+      "sourceId": "zqStqzcFgbM",
+      "youtubeId": "pYuwzoJkhTE",
+      "url": "https://youtu.be/pYuwzoJkhTE",
+      "googleVid": "https://docs.google.com/videos/d/1lF0R0z7guVxdHry6FO7dewoDwSd6iHzCSqdylG2xpwY/edit",
+      "sourceCoverMaxMeanPixelDifference": 0.39,
+      "duration": "4:37.9"
+    },
+    {
+      "slug": "arutperunjothi",
+      "sourceId": "9PUF7elNSOU",
+      "youtubeId": "zPQOik79O68",
+      "url": "https://youtu.be/zPQOik79O68",
+      "googleVid": "https://docs.google.com/videos/d/1yPXBUHane4mc6LzZbGshcAfGp3_bZ405ZNoZKFpmu2w/edit",
+      "sourceCoverMaxMeanPixelDifference": 0.44,
+      "duration": "5:46.3"
+    }
+  ],
+  "excludedBecauseExistingSongVideo": [
+    "W2peLbC20sA",
+    "0k9CZLNA2TY",
+    "JzGTK1V3dkM"
+  ],
+  "qc": "Each published file has 12 unique images, an exact decoded-audio match to the downloaded source, full video decode, and a visually confirmed lower-left channel emblem."
+}
+

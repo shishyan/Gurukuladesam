@@ -1,0 +1,83 @@
+{
+  "sourceId": "zqStqzcFgbM",
+  "title": "மகா கணேச பஞ்சரத்னம் | Maha Ganesha Pancharatnam Cinematic Devotional Film",
+  "output": "MAHA_GANESHA-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 565
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 565,
+      "outFrame": 1126
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 1126,
+      "outFrame": 1666
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1666,
+      "outFrame": 2222
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 2222,
+      "outFrame": 2761
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 2761,
+      "outFrame": 3348
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 3348,
+      "outFrame": 3875
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 3875,
+      "outFrame": 4453
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 4453,
+      "outFrame": 5005
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 5005,
+      "outFrame": 5565
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 5565,
+      "outFrame": 6107
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 6107,
+      "outFrame": 6669
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 6669,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

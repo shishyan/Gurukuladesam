@@ -1,0 +1,227 @@
+{
+  "sourceId": "8mzfe5h9JoY",
+  "title": "கந்த சஷ்டி கவசம் II | Kandha Sashti Kavasam II Cinematic Film",
+  "output": "KANDHA_SASHTI_KAVASAM_II-CINEMATIC-v2.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 787
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 787,
+      "outFrame": 1581
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 1581,
+      "outFrame": 2357
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 2357,
+      "outFrame": 3149
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 3149,
+      "outFrame": 3920
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 3920,
+      "outFrame": 4710
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 4710,
+      "outFrame": 5501
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 5501,
+      "outFrame": 6293
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 6293,
+      "outFrame": 7074
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 7074,
+      "outFrame": 7851
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 7851,
+      "outFrame": 8633
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 8633,
+      "outFrame": 9435
+    },
+    {
+      "image": "S13.png",
+      "role": "scene 13",
+      "inFrame": 9435,
+      "outFrame": 10202
+    },
+    {
+      "image": "S14.png",
+      "role": "scene 14",
+      "inFrame": 10202,
+      "outFrame": 11005
+    },
+    {
+      "image": "S15.png",
+      "role": "scene 15",
+      "inFrame": 11005,
+      "outFrame": 11767
+    },
+    {
+      "image": "S16.png",
+      "role": "scene 16",
+      "inFrame": 11767,
+      "outFrame": 12557
+    },
+    {
+      "image": "S17.png",
+      "role": "scene 17",
+      "inFrame": 12557,
+      "outFrame": 13354
+    },
+    {
+      "image": "S18.png",
+      "role": "scene 18",
+      "inFrame": 13354,
+      "outFrame": 14136
+    },
+    {
+      "image": "S19.png",
+      "role": "scene 19",
+      "inFrame": 14136,
+      "outFrame": 14911
+    },
+    {
+      "image": "S20.png",
+      "role": "scene 20",
+      "inFrame": 14911,
+      "outFrame": 15694
+    },
+    {
+      "image": "S21.png",
+      "role": "scene 21",
+      "inFrame": 15694,
+      "outFrame": 16480
+    },
+    {
+      "image": "S22.png",
+      "role": "scene 22",
+      "inFrame": 16480,
+      "outFrame": 17288
+    },
+    {
+      "image": "S23.png",
+      "role": "scene 23",
+      "inFrame": 17288,
+      "outFrame": 18073
+    },
+    {
+      "image": "S24.png",
+      "role": "scene 24",
+      "inFrame": 18073,
+      "outFrame": 18844
+    },
+    {
+      "image": "S25.png",
+      "role": "scene 25",
+      "inFrame": 18844,
+      "outFrame": 19637
+    },
+    {
+      "image": "S26.png",
+      "role": "scene 26",
+      "inFrame": 19637,
+      "outFrame": 20422
+    },
+    {
+      "image": "S27.png",
+      "role": "scene 27",
+      "inFrame": 20422,
+      "outFrame": 21191
+    },
+    {
+      "image": "S28.png",
+      "role": "scene 28",
+      "inFrame": 21191,
+      "outFrame": 21992
+    },
+    {
+      "image": "S29.png",
+      "role": "scene 29",
+      "inFrame": 21992,
+      "outFrame": 22766
+    },
+    {
+      "image": "S30.png",
+      "role": "scene 30",
+      "inFrame": 22766,
+      "outFrame": 23554
+    },
+    {
+      "image": "S31.png",
+      "role": "scene 31",
+      "inFrame": 23554,
+      "outFrame": 24337
+    },
+    {
+      "image": "S32.png",
+      "role": "scene 32",
+      "inFrame": 24337,
+      "outFrame": 25138
+    },
+    {
+      "image": "S33.png",
+      "role": "scene 33",
+      "inFrame": 25138,
+      "outFrame": 25912
+    },
+    {
+      "image": "S34.png",
+      "role": "scene 34",
+      "inFrame": 25912,
+      "outFrame": 26707
+    },
+    {
+      "image": "S35.png",
+      "role": "scene 35",
+      "inFrame": 26707,
+      "outFrame": 27492
+    },
+    {
+      "image": "S36.png",
+      "role": "scene 36",
+      "inFrame": 27492,
+      "outFrame": 28270
+    }
+  ],
+  "fps": 12,
+  "targetFrames": 28270,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy"
+}

@@ -1,0 +1,83 @@
+{
+  "sourceId": "LL77sdbmUNE",
+  "title": "ஸ்ரீ சிவசண்முக நாம ஸங்கீர்த்தனம் | Siva Shanmuga Nama Sankeerthanam Cinematic Film",
+  "output": "SHANMUGA_NAMA-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 1175
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 1175,
+      "outFrame": 2324
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 2324,
+      "outFrame": 3523
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 3523,
+      "outFrame": 4656
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 4656,
+      "outFrame": 5833
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 5833,
+      "outFrame": 6984
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 6984,
+      "outFrame": 8151
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 8151,
+      "outFrame": 9332
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 9332,
+      "outFrame": 10497
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 10497,
+      "outFrame": 11684
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 11684,
+      "outFrame": 12857
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 12857,
+      "outFrame": 14012
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 14012,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

@@ -1,0 +1,96 @@
+{
+  "sourceId": "hjcH8zbEleE",
+  "output": "VERUVANTHA-SEYYAAMAI-FILM.mp4",
+  "title": "திருக்குறள் - வெருவந்த செய்யாமை | Veruvantha Seyyaamai Cinematic Thirukkural Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 362
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 362,
+      "outFrame": 683
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 683,
+      "outFrame": 1020
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1020,
+      "outFrame": 1381
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1381,
+      "outFrame": 1725
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 1725,
+      "outFrame": 2060
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 2060,
+      "outFrame": 2381
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 2381,
+      "outFrame": 2725
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 2725,
+      "outFrame": 3095
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 3095,
+      "outFrame": 3421
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 3421,
+      "outFrame": 3743
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 3743,
+      "outFrame": 4098
+    }
+  ],
+  "rainShots": [
+    6
+  ],
+  "lightningShots": [
+    6
+  ],
+  "publicationStatus": "ready; upload deferred by user",
+  "description": "வெருவந்த செய்யாமை — Veruvantha Seyyaamai.\n\nA cinematic image-based film for the complete original Guru Kula Desam recording, with twelve distinct scenes, gentle movement, dheepam and agarbaththi smoke, and occasional drizzle and lightning.\n\nOriginal recording: https://www.youtube.com/watch?v=hjcH8zbEleE\n\n#Thirukkural #TamilSong #GuruKulaDesam",
+  "fps": 12,
+  "targetFrames": 4098,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review",
+  "localQC": {
+    "originalAudioExact": true,
+    "fullDecode": true,
+    "visualReview": "opening, rainy scene and dry successor inspected"
+  }
+}

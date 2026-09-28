@@ -1,0 +1,53 @@
+{
+  "checkedAtUtc": "2026-09-28T16:49:39.489502+00:00",
+  "status": "All three films published",
+  "sceneCount": 36,
+  "songs": [
+    {
+      "sourceId": "RAUafMVpT5k",
+      "title": "நாடு (Remix) | Naadu Remix Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-07\\naadu_remix\\NAADU-REMIX-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-07\\naadu_remix\\opening-qc.png",
+      "durationSeconds": 213.58333333333334,
+      "scenes": 12,
+      "description": "நாடு (Remix) — Naadu Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=RAUafMVpT5k\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Published",
+      "sha256": "ba22e3ceed7c705b1fd4db0a9d85497f59ae5370fb9bbadcf3c8a45df9f56ab3"
+    },
+    {
+      "sourceId": "zq1dxg5R-rY",
+      "title": "மன்னரைச்சேர்ந்தொழுதல் (Female) | Mannarai Sernthozhuthal Female Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-07\\mannarai_sernthozhuthal_female\\MANNARAI-SERNTHOZHUTHAL-FEMALE-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-07\\mannarai_sernthozhuthal_female\\opening-qc.png",
+      "durationSeconds": 281.0833333333333,
+      "scenes": 12,
+      "description": "மன்னரைச்சேர்ந்தொழுதல் (Female) — Mannarai Sernthozhuthal Female.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=zq1dxg5R-rY\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Published",
+      "sha256": "36c9af86f7b70ca6019d85cf29829cb53422377a3320a4da25ff79f2f1524a26"
+    },
+    {
+      "sourceId": "GN181JJ1lXU",
+      "title": "குறிப்பறிதல் (Remix) | Kuripparithal Remix Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-07\\kuripparithal_remix\\KURIPPARITHAL-REMIX-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-07\\kuripparithal_remix\\opening-qc.png",
+      "durationSeconds": 287.25,
+      "scenes": 12,
+      "description": "குறிப்பறிதல் (Remix) — Kuripparithal Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=GN181JJ1lXU\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Published",
+      "sha256": "5817047e865bb24172c23ca87965047189b5f0e7dffeb689f9e5c956c6a88489"
+    }
+  ],
+  "reviewLimit": "Artwork and opening/wet/dry rendered samples inspected; full stream decode and exact original audio verified. Full human playback and exact lyric synchronisation are not claimed."
+}

@@ -1,0 +1,100 @@
+{
+  "sourceId": "DCJ2qoMSIBA",
+  "output": "THIYAGA-VANNA-PATHIGAM-FILM.mp4",
+  "title": "தியாக வண்ணப் பதிகம் | Thiyaga Vanna Pathigam Cinematic Shiva Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 255
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 255,
+      "outFrame": 564
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 564,
+      "outFrame": 811
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 811,
+      "outFrame": 1089
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1089,
+      "outFrame": 1381
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 1381,
+      "outFrame": 1648
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 1648,
+      "outFrame": 1949
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 1949,
+      "outFrame": 2213
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 2213,
+      "outFrame": 2492
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 2492,
+      "outFrame": 2760
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 2760,
+      "outFrame": 3041
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 3041,
+      "outFrame": 3315
+    }
+  ],
+  "rainShots": [
+    6
+  ],
+  "lightningShots": [
+    6
+  ],
+  "publicationStatus": "ready; upload deferred by user",
+  "description": "தியாக வண்ணப் பதிகம் — Thiyaga Vanna Pathigam.\n\nA devotional image-based film for the complete original Guru Kula Desam song recording. Fresh scenes, gentle camera movement, dheepam and agarbaththi smoke, with occasional outdoor drizzle and lightning.\n\nOriginal recording: https://www.youtube.com/watch?v=DCJ2qoMSIBA\n\n#Thiruvarutpa #Shiva #TamilDevotional #GuruKulaDesam",
+  "playlistNames": [
+    "Discography",
+    "Lord Shiva Songs"
+  ],
+  "fps": 12,
+  "targetFrames": 3315,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review",
+  "localQC": {
+    "originalAudioExact": true,
+    "fullDecode": true,
+    "visualReview": "opening, rainy scene and dry successor inspected"
+  }
+}

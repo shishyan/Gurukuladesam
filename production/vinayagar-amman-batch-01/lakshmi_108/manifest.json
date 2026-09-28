@@ -1,0 +1,86 @@
+{
+  "sourceId": "hp1ctMubVmo",
+  "output": "LAKSHMI-108-POTRI-FILM.mp4",
+  "title": "லக்ஷ்மி 108 போற்றி | Cinematic Devotional Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 1812
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 1812,
+      "outFrame": 3605
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 3605,
+      "outFrame": 5362
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 5362,
+      "outFrame": 7156
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 7156,
+      "outFrame": 8980
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 8980,
+      "outFrame": 10778
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 10778,
+      "outFrame": 12532
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 12532,
+      "outFrame": 14333
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 14333,
+      "outFrame": 16118
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 16118,
+      "outFrame": 17956
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 17956,
+      "outFrame": 19712
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 19712,
+      "outFrame": 21522
+    }
+  ],
+  "rainShots": [
+    7
+  ],
+  "fps": 24,
+  "targetFrames": 21522,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

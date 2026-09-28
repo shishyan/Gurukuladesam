@@ -1,0 +1,106 @@
+{
+  "sourceId": "MvwT6dnGE0U",
+  "output": "VINAI-SEYALVAGAI-FEMALE-FILM.mp4",
+  "title": "வினைசெயல்வகை (Female) | Vinai Seyalvagai Female Cinematic Thirukkural Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "Ultra-wide dawn panorama of an ancient Tamil coastal craft town with workshops, a lively harbour and civic courtyards, many families and neighbours arriving along broad paths, expansive sky and powerful orchestral scale",
+      "inFrame": 0,
+      "outFrame": 304
+    },
+    {
+      "image": "S02.png",
+      "role": "A diverse group of Tamil elders, women and men discussing careful practical action through planning, cooperation and completion around a broad stone table in a shaded courtyard, natural respectful interaction",
+      "inFrame": 304,
+      "outFrame": 666
+    },
+    {
+      "image": "S03.png",
+      "role": "A broad group of carpenters, potters, weavers and neighbours planning a harbour storehouse together using wooden models and palm-leaf notes",
+      "inFrame": 666,
+      "outFrame": 961
+    },
+    {
+      "image": "S04.png",
+      "role": "Craft workers carefully choosing sound timber and preparing tools together in an ancient Tamil workshop courtyard, practical purposeful cooperation",
+      "inFrame": 961,
+      "outFrame": 1314
+    },
+    {
+      "image": "S05.png",
+      "role": "A mixed-age group learning from a wise elder beside palm-leaf manuscripts in a sunlit veranda, theme careful practical action through planning, cooperation and completion",
+      "inFrame": 1314,
+      "outFrame": 1632
+    },
+    {
+      "image": "S06.png",
+      "role": "Women and men cooking and sharing a vegetarian community meal beneath trees, children helping elders, setting an ancient Tamil coastal craft town with workshops, a lively harbour and civic courtyards",
+      "inFrame": 1632,
+      "outFrame": 1944
+    },
+    {
+      "image": "S07.png",
+      "role": "Wet outdoor public square in an ancient Tamil coastal craft town with workshops, a lively harbour and civic courtyards beneath soft monsoon clouds, groups sharing woven palm umbrellas, no lightning bolts or drawn rain streaks",
+      "inFrame": 1944,
+      "outFrame": 2233
+    },
+    {
+      "image": "S08.png",
+      "role": "Dry enclosed stone assembly hall, a large attentive gathering considering careful practical action through planning, cooperation and completion, golden lamps and absolutely no rain",
+      "inFrame": 2233,
+      "outFrame": 2597
+    },
+    {
+      "image": "S09.png",
+      "role": "A Tamil woman calmly speaking to a seated circle of neighbours about careful practical action through planning, cooperation and completion, hopeful natural faces, a different courtyard and camera viewpoint",
+      "inFrame": 2597,
+      "outFrame": 2921
+    },
+    {
+      "image": "S10.png",
+      "role": "A community completing a sturdy harbour storehouse, women and men carrying baskets and checking finished work, shared satisfaction",
+      "inFrame": 2921,
+      "outFrame": 3217
+    },
+    {
+      "image": "S11.png",
+      "role": "A broad gathering thanking elders and community helpers at sunset beside a lake, warm gratitude, theme careful practical action through planning, cooperation and completion",
+      "inFrame": 3217,
+      "outFrame": 3537
+    },
+    {
+      "image": "S12.png",
+      "role": "Ultra-wide twilight panorama of an ancient Tamil coastal craft town with workshops, a lively harbour and civic courtyards, communities gathering under courtyard lamps and an expansive indigo sky, serene closing",
+      "inFrame": 3537,
+      "outFrame": 3869
+    }
+  ],
+  "rainShots": [
+    6
+  ],
+  "lightningShots": [
+    6
+  ],
+  "publicationStatus": "Published",
+  "description": "வினைசெயல்வகை (Female) — Vinai Seyalvagai Female.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=MvwT6dnGE0U\n\n#Thirukkural #Tamil #GuruKulaDesam",
+  "playlistNames": [
+    "Discography",
+    "திருக்குறள் | Thirukkural — Master Collection"
+  ],
+  "recordingVersion": "Vinai Seyalvagai Female",
+  "fps": 12,
+  "targetFrames": 3869,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review",
+  "localQC": {
+    "originalAudioExact": true,
+    "fullDecode": true,
+    "visualReview": "inspected"
+  },
+  "recordingScope": "Distinct source recording; other recordings of this chapter already have films. No exact or near duplicate decoded audio found among 251 available source recordings.",
+  "youtubeVideoId": "3yB_oTqh6Jk",
+  "youtubeMetadataComplete": true,
+  "checksAtPublication": "Copyright and Community Guidelines pending when public release submitted",
+  "publicationConfirmation": "YouTube Studio Visibility Public; Standard Definition complete"
+}

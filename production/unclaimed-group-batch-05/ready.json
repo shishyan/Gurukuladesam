@@ -1,0 +1,53 @@
+{
+  "checkedAtUtc": "2026-09-28T14:42:00.895284+00:00",
+  "status": "Three full-song films ready; upload deferred",
+  "sceneCount": 36,
+  "songs": [
+    {
+      "sourceId": "FS5fUOxZySE",
+      "title": "வலியறிதல் (Remix) | Valiyarithal Remix Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-05\\valiyarithal_remix\\VALIYARITHAL-REMIX-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-05\\valiyarithal_remix\\opening-qc.png",
+      "durationSeconds": 346.75,
+      "scenes": 12,
+      "description": "வலியறிதல் (Remix) — Valiyarithal Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=FS5fUOxZySE\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Ready for later upload",
+      "sha256": "d6ac7d34f26099f35658ef01d1285d76267da6a1f16b611bffed27fe83171c4f"
+    },
+    {
+      "sourceId": "2Pun6K7h984",
+      "title": "பெரியாரைத்துணைக்கோடல் (Remix) | Periyarai Thunaikodal Remix Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-05\\periyarai_thunaikodal_remix\\PERIYARAI-THUNAIKODAL-REMIX-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-05\\periyarai_thunaikodal_remix\\opening-qc.png",
+      "durationSeconds": 262.75,
+      "scenes": 12,
+      "description": "பெரியாரைத்துணைக்கோடல் (Remix) — Periyarai Thunaikodal Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=2Pun6K7h984\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Ready for later upload",
+      "sha256": "4742ecf9a14059197ee11343c41f3c0ce5a01057739b280f8a389baca76cbe59"
+    },
+    {
+      "sourceId": "0bz1myKXoJQ",
+      "title": "அறிவுடைமை (Remix) | Arivudaimai Remix Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-05\\arivudaimai_remix\\ARIVUDAIMAI-REMIX-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-05\\arivudaimai_remix\\opening-qc.png",
+      "durationSeconds": 302.0,
+      "scenes": 12,
+      "description": "அறிவுடைமை (Remix) — Arivudaimai Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=0bz1myKXoJQ\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Ready for later upload",
+      "sha256": "94c0ef8db58decd8b8fbd4a63add828e3092b1a38b9be5a39b37720dd54a9e72"
+    }
+  ],
+  "reviewLimit": "Artwork and opening/wet/dry rendered samples inspected; full stream decode and exact original audio verified. Full human playback and exact lyric synchronisation are not claimed."
+}

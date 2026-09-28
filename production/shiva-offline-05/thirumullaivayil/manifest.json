@@ -1,0 +1,100 @@
+{
+  "sourceId": "73GrCFM_v6Q",
+  "output": "THIRUMULLAIVAYIL-FILM.mp4",
+  "title": "திருமுல்லைவாயில் | Thirumullaivayil Cinematic Shiva Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 421
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 421,
+      "outFrame": 777
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 777,
+      "outFrame": 1202
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1202,
+      "outFrame": 1614
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1614,
+      "outFrame": 2005
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 2005,
+      "outFrame": 2390
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 2390,
+      "outFrame": 2763
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 2763,
+      "outFrame": 3180
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 3180,
+      "outFrame": 3573
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 3573,
+      "outFrame": 3997
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 3997,
+      "outFrame": 4388
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 4388,
+      "outFrame": 4777
+    }
+  ],
+  "rainShots": [
+    6
+  ],
+  "lightningShots": [
+    6
+  ],
+  "publicationStatus": "ready; upload deferred by user",
+  "description": "திருமுல்லைவாயில் — Thirumullaivayil.\n\nA devotional image-based film for the complete original Guru Kula Desam song recording. Fresh scenes, gentle camera movement, dheepam and agarbaththi smoke, with occasional outdoor drizzle and lightning.\n\nOriginal recording: https://www.youtube.com/watch?v=73GrCFM_v6Q\n\n#Thiruvarutpa #Shiva #TamilDevotional #GuruKulaDesam",
+  "playlistNames": [
+    "Discography",
+    "Lord Shiva Songs"
+  ],
+  "fps": 12,
+  "targetFrames": 4777,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review",
+  "localQC": {
+    "originalAudioExact": true,
+    "fullDecode": true,
+    "visualReview": "opening, rainy scene and dry successor inspected"
+  }
+}

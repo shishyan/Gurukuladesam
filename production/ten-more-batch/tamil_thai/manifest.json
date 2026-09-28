@@ -1,0 +1,83 @@
+{
+  "sourceId": "ETELjf0OTi4",
+  "output": "TAMIL-THAI-VAZHTHU-LAND-AND-PEOPLE.mp4",
+  "title": "தமிழ்த்தாய் வாழ்த்து | Land and People Cinematic Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 527
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 527,
+      "outFrame": 995
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 995,
+      "outFrame": 1499
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1499,
+      "outFrame": 2036
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 2036,
+      "outFrame": 2530
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 2530,
+      "outFrame": 2996
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 2996,
+      "outFrame": 3506
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 3506,
+      "outFrame": 4013
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 4013,
+      "outFrame": 4535
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 4535,
+      "outFrame": 5015
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 5015,
+      "outFrame": 5516
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 5516,
+      "outFrame": 6035
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 6035,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

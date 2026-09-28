@@ -1,0 +1,1565 @@
+{
+  "checkedAtUtc": "2026-09-28T14:18:35.535277+00:00",
+  "scope": "84 entries previously lacking explicit alternate-version film mappings. Exact-recording start status, not composition uniqueness. Existing/claimed alternate recordings must not be selected twice. No new production claimed by this audit.",
+  "counts": {
+    "No exact-recording production found": 66,
+    "Already started or claimed in shared workspace": 18
+  },
+  "rows": [
+    {
+      "sourceId": "XwlGJp3gqCc",
+      "title": "Thennadudaiya Sivaney Potri",
+      "sourceUrl": "https://www.youtube.com/watch?v=XwlGJp3gqCc",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: same composition as existing or reserved film; Thennadudaiya Sivaney Potri"
+    },
+    {
+      "sourceId": "S9WQ-O0tZJI",
+      "title": "திருப்படை ஆட்சி 2026 (திருவாசகம்) HipHop",
+      "sourceUrl": "https://www.youtube.com/watch?v=S9WQ-O0tZJI",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: same composition as existing or reserved film; Thiruppadai Aatchi"
+    },
+    {
+      "sourceId": "u41L3XgIgGc",
+      "title": "சிவ புராணம் 2026 | Shiva Puranam (Thiruvasagam)",
+      "sourceUrl": "https://www.youtube.com/watch?v=u41L3XgIgGc",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: same composition as existing or reserved film; Sivapuranam"
+    },
+    {
+      "sourceId": "Y0tOS_2Azxs",
+      "title": "Siva Puranam 2026 (II) Thiruvasagam",
+      "sourceUrl": "https://www.youtube.com/watch?v=Y0tOS_2Azxs",
+      "status": "Already started or claimed in shared workspace",
+      "workspaceRecords": [
+        {
+          "path": "shiva-batch-10\\batch.json",
+          "status": null,
+          "suppressed": false
+        },
+        {
+          "path": "shiva-batch-10\\publication-queue.json",
+          "status": "Ready; pending upload availability",
+          "suppressed": false
+        },
+        {
+          "path": "shiva-batch-10\\sivapuranam_ii\\manifest.json",
+          "status": null,
+          "suppressed": false
+        }
+      ],
+      "priorCompositionClassification": "Prior classification: same composition as existing or reserved film; Sivapuranam"
+    },
+    {
+      "sourceId": "XlCvnE6y9d0",
+      "title": "போற்றி திரு அகவல் 2026 Potri Thiru Agaval (Thiruvasagam)",
+      "sourceUrl": "https://www.youtube.com/watch?v=XlCvnE6y9d0",
+      "status": "Already started or claimed in shared workspace",
+      "workspaceRecords": [
+        {
+          "path": "unclaimed-group-batch-01\\jobs.json",
+          "status": null,
+          "suppressed": false
+        },
+        {
+          "path": "unclaimed-group-batch-01\\ready.json",
+          "status": "Ready for later upload",
+          "suppressed": false
+        },
+        {
+          "path": "unclaimed-group-batch-01\\potri_thiru_agaval_2026\\manifest.json",
+          "status": "Ready for later upload; deferred by user",
+          "suppressed": false
+        }
+      ],
+      "priorCompositionClassification": "Prior classification: same composition as existing or reserved film; Potri Thiruagaval"
+    },
+    {
+      "sourceId": "PVcmqZuROSU",
+      "title": "கந்தர் சஷ்டி துதி 2026 (Kandhar Shashti Thuthi)",
+      "sourceUrl": "https://www.youtube.com/watch?v=PVcmqZuROSU",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: same composition as existing or reserved film; Kandhar Shashti Thuthi"
+    },
+    {
+      "sourceId": "gwTtvj-h77g",
+      "title": "திருமந்திரம் (முதல் தந்திரம்) 2026",
+      "sourceUrl": "https://www.youtube.com/watch?v=gwTtvj-h77g",
+      "status": "Already started or claimed in shared workspace",
+      "workspaceRecords": [
+        {
+          "path": "shiva-batch-10\\batch.json",
+          "status": null,
+          "suppressed": false
+        },
+        {
+          "path": "shiva-batch-10\\publication-queue.json",
+          "status": "Ready; pending upload availability",
+          "suppressed": false
+        },
+        {
+          "path": "shiva-batch-10\\thirumanthiram_2026\\manifest.json",
+          "status": null,
+          "suppressed": false
+        }
+      ],
+      "priorCompositionClassification": "Prior classification: same composition as existing or reserved film; Thirumanthiram"
+    },
+    {
+      "sourceId": "j1tzixa2raU",
+      "title": "தென்னாடுடைய சிவனே போற்றி! 2026",
+      "sourceUrl": "https://www.youtube.com/watch?v=j1tzixa2raU",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: same composition as existing or reserved film; Thennadudaiya Sivaney Potri"
+    },
+    {
+      "sourceId": "nutm-A24QcM",
+      "title": "பிடியதன் உருவுமை",
+      "sourceUrl": "https://www.youtube.com/watch?v=nutm-A24QcM",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: same composition as existing or reserved film; Pidiyathan Uruvumai"
+    },
+    {
+      "sourceId": "-unILRjNLHQ",
+      "title": "Sree Subramanyar Thiruviruththam",
+      "sourceUrl": "https://www.youtube.com/watch?v=-unILRjNLHQ",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: same composition as existing or reserved film; Siva Subramaniyar Thiruvirutham"
+    },
+    {
+      "sourceId": "3oJ2OPG-WCs",
+      "title": "முத்தைத் தரு 2026 (திருப்புகழ்)",
+      "sourceUrl": "https://www.youtube.com/watch?v=3oJ2OPG-WCs",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: same composition as existing or reserved film; Muthai Tharu"
+    },
+    {
+      "sourceId": "w0lNqTk3QCU",
+      "title": "Abirami Anthathi Thuthi",
+      "sourceUrl": "https://www.youtube.com/watch?v=w0lNqTk3QCU",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: same composition as existing or reserved film; Abirami Anthathi Thuthi"
+    },
+    {
+      "sourceId": "P-gtNBy8sRE",
+      "title": "Mandhiram Aavadhu Neeru",
+      "sourceUrl": "https://www.youtube.com/watch?v=P-gtNBy8sRE",
+      "status": "Already started or claimed in shared workspace",
+      "workspaceRecords": [
+        {
+          "path": "shiva-batch-10\\batch.json",
+          "status": null,
+          "suppressed": false
+        },
+        {
+          "path": "shiva-batch-10\\publication-queue.json",
+          "status": "Ready; pending upload availability",
+          "suppressed": false
+        },
+        {
+          "path": "shiva-batch-10\\mandhiram_aavadhu_neeru_alt\\manifest.json",
+          "status": null,
+          "suppressed": false
+        }
+      ],
+      "priorCompositionClassification": "Prior classification: same composition as existing or reserved film; Thiruneetru Pathigam"
+    },
+    {
+      "sourceId": "J7sfVqWuxyU",
+      "title": "Thiruvaiyaaru Thirumurai",
+      "sourceUrl": "https://www.youtube.com/watch?v=J7sfVqWuxyU",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: same composition as existing or reserved film; Thiruvaiyaaru Thirumurai"
+    },
+    {
+      "sourceId": "fkgEbW9HdtI",
+      "title": "மார்கழி திங்கள் (திருப்பாவை)",
+      "sourceUrl": "https://www.youtube.com/watch?v=fkgEbW9HdtI",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: same composition as existing or reserved film; Thiruppavai 1"
+    },
+    {
+      "sourceId": "phlMcxN_Cfw",
+      "title": "வையத்து வாழ்வீர்காள்! (திருப்பாவை)",
+      "sourceUrl": "https://www.youtube.com/watch?v=phlMcxN_Cfw",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: same composition as existing or reserved film; Thiruppavai 2"
+    },
+    {
+      "sourceId": "pWSY0_0UQwc",
+      "title": "திருவோத்தூர் பதிகம் 2026 (சாரம்)",
+      "sourceUrl": "https://www.youtube.com/watch?v=pWSY0_0UQwc",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: same composition as existing or reserved film; Thiruvothur Pathigam"
+    },
+    {
+      "sourceId": "34D_HpbRxfo",
+      "title": "திருவோத்தூர் பதிகம் 2026 III",
+      "sourceUrl": "https://www.youtube.com/watch?v=34D_HpbRxfo",
+      "status": "Already started or claimed in shared workspace",
+      "workspaceRecords": [
+        {
+          "path": "unclaimed-group-batch-01\\jobs.json",
+          "status": null,
+          "suppressed": false
+        },
+        {
+          "path": "unclaimed-group-batch-01\\ready.json",
+          "status": "Ready for later upload",
+          "suppressed": false
+        },
+        {
+          "path": "unclaimed-group-batch-01\\thiruvothur_pathigam_iii\\manifest.json",
+          "status": "Ready for later upload; deferred by user",
+          "suppressed": false
+        }
+      ],
+      "priorCompositionClassification": "Prior classification: same composition as existing or reserved film; Thiruvothur Pathigam"
+    },
+    {
+      "sourceId": "8b2B047SSTo",
+      "title": "திருவோத்தூர் பதிகம் 2026 II",
+      "sourceUrl": "https://www.youtube.com/watch?v=8b2B047SSTo",
+      "status": "Already started or claimed in shared workspace",
+      "workspaceRecords": [
+        {
+          "path": "unclaimed-group-batch-01\\jobs.json",
+          "status": null,
+          "suppressed": false
+        },
+        {
+          "path": "unclaimed-group-batch-01\\ready.json",
+          "status": "Ready for later upload",
+          "suppressed": false
+        },
+        {
+          "path": "unclaimed-group-batch-01\\thiruvothur_pathigam_ii\\manifest.json",
+          "status": "Ready for later upload; deferred by user",
+          "suppressed": false
+        }
+      ],
+      "priorCompositionClassification": "Prior classification: same composition as existing or reserved film; Thiruvothur Pathigam"
+    },
+    {
+      "sourceId": "qjxmrb4fmjA",
+      "title": "திருவோத்தூர் பதிகம் 2026 I",
+      "sourceUrl": "https://www.youtube.com/watch?v=qjxmrb4fmjA",
+      "status": "Already started or claimed in shared workspace",
+      "workspaceRecords": [
+        {
+          "path": "shiva-batch-10\\batch.json",
+          "status": null,
+          "suppressed": false
+        },
+        {
+          "path": "shiva-batch-10\\publication-queue.json",
+          "status": "Ready; pending upload availability",
+          "suppressed": false
+        },
+        {
+          "path": "shiva-batch-10\\thiruvothur_i\\manifest.json",
+          "status": null,
+          "suppressed": false
+        }
+      ],
+      "priorCompositionClassification": "Prior classification: same composition as existing or reserved film; Thiruvothur Pathigam"
+    },
+    {
+      "sourceId": "l-JJXW1QKdg",
+      "title": "Thillai Vazh Anthanar Tham",
+      "sourceUrl": "https://www.youtube.com/watch?v=l-JJXW1QKdg",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: same composition as existing or reserved film; Thillai Vazh Anthanar"
+    },
+    {
+      "sourceId": "_DHXM8tymn8",
+      "title": "Ragupathi Raghava Raja Ram",
+      "sourceUrl": "https://www.youtube.com/watch?v=_DHXM8tymn8",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: same composition as existing or reserved film; Raghupati Raghava"
+    },
+    {
+      "sourceId": "Q2xax9mIhZw",
+      "title": "Dhanam Tharum Abhirami",
+      "sourceUrl": "https://www.youtube.com/watch?v=Q2xax9mIhZw",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: same composition as existing or reserved film; Dhanam Tharum Abirami"
+    },
+    {
+      "sourceId": "nSQKZ2htJ-o",
+      "title": "Maasil Veenaiyum",
+      "sourceUrl": "https://www.youtube.com/watch?v=nSQKZ2htJ-o",
+      "status": "Already started or claimed in shared workspace",
+      "workspaceRecords": [
+        {
+          "path": "shiva-batch-10\\batch.json",
+          "status": null,
+          "suppressed": false
+        },
+        {
+          "path": "shiva-batch-10\\publication-queue.json",
+          "status": "Ready; pending upload availability",
+          "suppressed": false
+        },
+        {
+          "path": "shiva-batch-10\\maasil_veenaiyum_alt\\manifest.json",
+          "status": null,
+          "suppressed": false
+        }
+      ],
+      "priorCompositionClassification": "Prior classification: same composition as existing or reserved film; Maasil Veenaiyum"
+    },
+    {
+      "sourceId": "xc1iNs05Bkw",
+      "title": "திருவெண்பா (hiphop)",
+      "sourceUrl": "https://www.youtube.com/watch?v=xc1iNs05Bkw",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: same composition as existing or reserved film; Thiruvenba"
+    },
+    {
+      "sourceId": "QFCD-U3sT4M",
+      "title": "தென்னாடுடைய சிவனே போற்றி! 2026",
+      "sourceUrl": "https://www.youtube.com/watch?v=QFCD-U3sT4M",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: same composition as existing or reserved film; Thennadudaiya Sivaney Potri"
+    },
+    {
+      "sourceId": "2vQYuvePk9U",
+      "title": "திருவையாறு திருமுறை!",
+      "sourceUrl": "https://www.youtube.com/watch?v=2vQYuvePk9U",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: same composition as existing or reserved film; Thiruvaiyaaru Thirumurai"
+    },
+    {
+      "sourceId": "uMK4LISQFE4",
+      "title": "திருவருட்பா - திருமுல்லைவாயில்...",
+      "sourceUrl": "https://www.youtube.com/watch?v=uMK4LISQFE4",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: same composition as existing or reserved film; Thirumullaivayil"
+    },
+    {
+      "sourceId": "0TB3drCSvNc",
+      "title": "திருவருட்பா - இரண்டாம் திருமுறை -...",
+      "sourceUrl": "https://www.youtube.com/watch?v=0TB3drCSvNc",
+      "status": "Already started or claimed in shared workspace",
+      "workspaceRecords": [
+        {
+          "path": "shiva-offline-02\\jobs.json",
+          "status": null,
+          "suppressed": true
+        }
+      ],
+      "priorCompositionClassification": "Prior classification: same composition as completed Thiruvarul Vetkai film; SHIVA-OFFLINE-OWNERSHIP.md; thiruvarutpa-backlog-02 (dbdp19C0j3M)"
+    },
+    {
+      "sourceId": "HPP3IG7DWRc",
+      "title": "ஹரே கிருஷ்ணா ஹரே ராமா!.m",
+      "sourceUrl": "https://www.youtube.com/watch?v=HPP3IG7DWRc",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: same composition as existing or reserved film; Hare Krishna Hare Rama"
+    },
+    {
+      "sourceId": "Lzkbhp_ehA8",
+      "title": "திருப்பாவை - 2 (வையத்து வாழ்வீர்)",
+      "sourceUrl": "https://www.youtube.com/watch?v=Lzkbhp_ehA8",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: same composition as existing or reserved film; Thiruppavai 2"
+    },
+    {
+      "sourceId": "AW4cljBWy2w",
+      "title": "பாலும் தெளிர் தேனும்",
+      "sourceUrl": "https://www.youtube.com/watch?v=AW4cljBWy2w",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: same composition as existing or reserved film; Paalum Thelithenum"
+    },
+    {
+      "sourceId": "Q5G2h9GuGQs",
+      "title": "ரகுபதி ராகவ ராஜா ராம்!",
+      "sourceUrl": "https://www.youtube.com/watch?v=Q5G2h9GuGQs",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: same composition as existing or reserved film; Raghupati Raghava"
+    },
+    {
+      "sourceId": "wXD_lSlfiSQ",
+      "title": "நமச்சிவாய வாழ்க! Symphony",
+      "sourceUrl": "https://www.youtube.com/watch?v=wXD_lSlfiSQ",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: same composition as existing or reserved film; Sivapuranam"
+    },
+    {
+      "sourceId": "YxP_uh3dM18",
+      "title": "திருப்புகழ் 712 சீர் உலாவிய...",
+      "sourceUrl": "https://www.youtube.com/watch?v=YxP_uh3dM18",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: same composition as existing or reserved film; Thiruppugazh 712"
+    },
+    {
+      "sourceId": "6cE4xUOmSzU",
+      "title": "நமச்சிவாய வாழ்க! (சிவ புராணம்)",
+      "sourceUrl": "https://www.youtube.com/watch?v=6cE4xUOmSzU",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: same composition as existing or reserved film; Sivapuranam"
+    },
+    {
+      "sourceId": "zFb2PGEPrr4",
+      "title": "திருவோத்தூர் பதிகம் (Original)",
+      "sourceUrl": "https://www.youtube.com/watch?v=zFb2PGEPrr4",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: same composition as existing or reserved film; Thiruvothur Pathigam"
+    },
+    {
+      "sourceId": "YycgNlQl6Go",
+      "title": "திருவோத்தூர் பதிகம் - பூத்தேர்ந்து...",
+      "sourceUrl": "https://www.youtube.com/watch?v=YycgNlQl6Go",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: same composition as existing or reserved film; Thiruvothur Pathigam"
+    },
+    {
+      "sourceId": "lneosghJWgs",
+      "title": "திருக்குறள் அன்புடைமை",
+      "sourceUrl": "https://www.youtube.com/watch?v=lneosghJWgs",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "அன்புடைமை",
+        "recordings": [
+          "jO2i4bcZ2ts",
+          "lneosghJWgs"
+        ],
+        "status": "existing public film",
+        "id": "jO2i4bcZ2ts"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\rama_krishna_cinematic_visual.mp4"
+      ]
+    },
+    {
+      "sourceId": "NxZf0eRutEY",
+      "title": "கூடா ஒழுக்கம் (Symphony)",
+      "sourceUrl": "https://www.youtube.com/watch?v=NxZf0eRutEY",
+      "status": "Already started or claimed in shared workspace",
+      "workspaceRecords": [
+        {
+          "path": "unclaimed-group-batch-03\\jobs.json",
+          "status": null,
+          "suppressed": false
+        },
+        {
+          "path": "unclaimed-group-batch-03\\ready.json",
+          "status": "Ready for later upload",
+          "suppressed": false
+        },
+        {
+          "path": "unclaimed-group-batch-03\\kooda_ozhukkam_symphony\\manifest.json",
+          "status": "Ready for later upload; deferred by user",
+          "suppressed": false
+        }
+      ],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "கூடா ஒழுக்கம்",
+        "recordings": [
+          "mvOSVEFhvDc",
+          "NxZf0eRutEY"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-batch-02\\kooda_ozhukkam\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-batch-02\\kooda_ozhukkam\\KOODA-OZHUKKAM-FILM.mp4"
+      ]
+    },
+    {
+      "sourceId": "jXOalu0JJoA",
+      "title": "கள்ளாமை (Symphony)",
+      "sourceUrl": "https://www.youtube.com/watch?v=jXOalu0JJoA",
+      "status": "Already started or claimed in shared workspace",
+      "workspaceRecords": [
+        {
+          "path": "unclaimed-group-batch-03\\jobs.json",
+          "status": null,
+          "suppressed": false
+        },
+        {
+          "path": "unclaimed-group-batch-03\\ready.json",
+          "status": "Ready for later upload",
+          "suppressed": false
+        },
+        {
+          "path": "unclaimed-group-batch-03\\kallaamai_symphony\\manifest.json",
+          "status": "Ready for later upload; deferred by user",
+          "suppressed": false
+        }
+      ],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "கள்ளாமை",
+        "recordings": [
+          "h4Pc0KxvnRo",
+          "jXOalu0JJoA"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-backlog-04\\kallaamai\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-backlog-04\\kallaamai\\KALLAAMAI-CINEMATIC-v1.mp4"
+      ]
+    },
+    {
+      "sourceId": "R-5gWfRNMts",
+      "title": "வாய்மை (Remix)",
+      "sourceUrl": "https://www.youtube.com/watch?v=R-5gWfRNMts",
+      "status": "Already started or claimed in shared workspace",
+      "workspaceRecords": [
+        {
+          "path": "unclaimed-group-batch-03\\jobs.json",
+          "status": null,
+          "suppressed": false
+        },
+        {
+          "path": "unclaimed-group-batch-03\\ready.json",
+          "status": "Ready for later upload",
+          "suppressed": false
+        },
+        {
+          "path": "unclaimed-group-batch-03\\vaaymai_remix\\manifest.json",
+          "status": "Ready for later upload; deferred by user",
+          "suppressed": false
+        }
+      ],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "வாய்மை",
+        "recordings": [
+          "BoOWFaOGczE",
+          "R-5gWfRNMts"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-batch-05\\vaaimai\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-batch-05\\vaaimai\\VAAIMAI-FILM.mp4"
+      ]
+    },
+    {
+      "sourceId": "0DoegY9d0ZM",
+      "title": "இடனறிதல் (Remix)",
+      "sourceUrl": "https://www.youtube.com/watch?v=0DoegY9d0ZM",
+      "status": "Already started or claimed in shared workspace",
+      "workspaceRecords": [
+        {
+          "path": "unclaimed-group-batch-04\\jobs.json",
+          "status": null,
+          "suppressed": false
+        },
+        {
+          "path": "unclaimed-group-batch-04\\idanarithal_remix\\manifest.json",
+          "status": "in production; upload deferred by user",
+          "suppressed": false
+        }
+      ],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "இடனறிதல்",
+        "recordings": [
+          "L-FvFZeT_cQ",
+          "0DoegY9d0ZM"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-backlog-03\\idanarithal\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-backlog-03\\idanarithal\\IDANARITHAL-CINEMATIC-groups-v2.mp4",
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-backlog-03\\idanarithal\\IDANARITHAL-CINEMATIC-v1.mp4"
+      ]
+    },
+    {
+      "sourceId": "QAv04nxeH4c",
+      "title": "துறவு (Female)",
+      "sourceUrl": "https://www.youtube.com/watch?v=QAv04nxeH4c",
+      "status": "Already started or claimed in shared workspace",
+      "workspaceRecords": [
+        {
+          "path": "unclaimed-group-batch-04\\jobs.json",
+          "status": null,
+          "suppressed": false
+        },
+        {
+          "path": "unclaimed-group-batch-04\\thuravu_female\\manifest.json",
+          "status": "in production; upload deferred by user",
+          "suppressed": false
+        }
+      ],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "துறவு",
+        "recordings": [
+          "QAv04nxeH4c",
+          "WKCMHUFbf2Q",
+          "LjiR9PIRl8o",
+          "rq7PXPBI7SA"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-backlog-10\\thuravu\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-backlog-10\\thuravu\\THURAVU-CINEMATIC-v1.mp4"
+      ]
+    },
+    {
+      "sourceId": "rq7PXPBI7SA",
+      "title": "துறவு (Symphony)",
+      "sourceUrl": "https://www.youtube.com/watch?v=rq7PXPBI7SA",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "துறவு",
+        "recordings": [
+          "QAv04nxeH4c",
+          "WKCMHUFbf2Q",
+          "LjiR9PIRl8o",
+          "rq7PXPBI7SA"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-backlog-10\\thuravu\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-backlog-10\\thuravu\\THURAVU-CINEMATIC-v1.mp4"
+      ]
+    },
+    {
+      "sourceId": "LjiR9PIRl8o",
+      "title": "துறவு (Rock)",
+      "sourceUrl": "https://www.youtube.com/watch?v=LjiR9PIRl8o",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "துறவு",
+        "recordings": [
+          "QAv04nxeH4c",
+          "WKCMHUFbf2Q",
+          "LjiR9PIRl8o",
+          "rq7PXPBI7SA"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-backlog-10\\thuravu\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-backlog-10\\thuravu\\THURAVU-CINEMATIC-v1.mp4"
+      ]
+    },
+    {
+      "sourceId": "cUt716Zafy0",
+      "title": "காலமறிதல் (Remix)",
+      "sourceUrl": "https://www.youtube.com/watch?v=cUt716Zafy0",
+      "status": "Already started or claimed in shared workspace",
+      "workspaceRecords": [
+        {
+          "path": "unclaimed-group-batch-04\\jobs.json",
+          "status": null,
+          "suppressed": false
+        },
+        {
+          "path": "unclaimed-group-batch-04\\kaalamarithal_remix\\manifest.json",
+          "status": "in production; upload deferred by user",
+          "suppressed": false
+        }
+      ],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "காலமறிதல்",
+        "recordings": [
+          "diUv8fkOqv0",
+          "cUt716Zafy0"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-backlog-05\\kaalamarithal\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-backlog-05\\kaalamarithal\\KAALAMARITHAL-CINEMATIC-v1.mp4"
+      ]
+    },
+    {
+      "sourceId": "FS5fUOxZySE",
+      "title": "வலியறிதல் (Remix)",
+      "sourceUrl": "https://www.youtube.com/watch?v=FS5fUOxZySE",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "வலியறிதல்",
+        "recordings": [
+          "Js6Vepbegr8",
+          "FS5fUOxZySE"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-batch-05\\valiyarithal\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-batch-05\\valiyarithal\\VALIYARITHAL-FILM.mp4"
+      ]
+    },
+    {
+      "sourceId": "2Pun6K7h984",
+      "title": "பெரியாரைத் துணைக்கோடல் (Remix)",
+      "sourceUrl": "https://www.youtube.com/watch?v=2Pun6K7h984",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "பெரியாரைத் துணைக்கோடல்",
+        "recordings": [
+          "aTFvlXMPBSE",
+          "2Pun6K7h984"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-batch-03\\periyaarai_thunaikkodal\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-batch-03\\periyaarai_thunaikkodal\\PERIYAARAI-THUNAIKKODAL-FILM.mp4"
+      ]
+    },
+    {
+      "sourceId": "0bz1myKXoJQ",
+      "title": "அறிவுடைமை (Remix)",
+      "sourceUrl": "https://www.youtube.com/watch?v=0bz1myKXoJQ",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "அறிவுடைமை",
+        "recordings": [
+          "FkQqysk6vmE",
+          "bUepGv6PJQA",
+          "0bz1myKXoJQ"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-backlog-02\\arivudaimai\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-backlog-02\\arivudaimai\\ARIVUDAIMAI-CINEMATIC-groups-v2.mp4",
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-backlog-02\\arivudaimai\\ARIVUDAIMAI-CINEMATIC-v1.mp4"
+      ]
+    },
+    {
+      "sourceId": "bUepGv6PJQA",
+      "title": "அறிவுடைமை (Pop)",
+      "sourceUrl": "https://www.youtube.com/watch?v=bUepGv6PJQA",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "அறிவுடைமை",
+        "recordings": [
+          "FkQqysk6vmE",
+          "bUepGv6PJQA",
+          "0bz1myKXoJQ"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-backlog-02\\arivudaimai\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-backlog-02\\arivudaimai\\ARIVUDAIMAI-CINEMATIC-groups-v2.mp4",
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-backlog-02\\arivudaimai\\ARIVUDAIMAI-CINEMATIC-v1.mp4"
+      ]
+    },
+    {
+      "sourceId": "UyCe3KLqY_8",
+      "title": "சிற்றினம் சேராமை (Remix)",
+      "sourceUrl": "https://www.youtube.com/watch?v=UyCe3KLqY_8",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "சிற்றினம் சேராமை",
+        "recordings": [
+          "5-z9v-1INWg",
+          "UyCe3KLqY_8"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-backlog-06\\sitrinam_seraamai\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-backlog-06\\sitrinam_seraamai\\SITRINAM_SERAAMAI-CINEMATIC-v1.mp4"
+      ]
+    },
+    {
+      "sourceId": "OzejLLvDq5s",
+      "title": "குற்றங்கடிதல் (Remix)",
+      "sourceUrl": "https://www.youtube.com/watch?v=OzejLLvDq5s",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "குற்றங்கடிதல்",
+        "recordings": [
+          "2_TfLljo1qg",
+          "OzejLLvDq5s"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-backlog-05\\kuttrankadithal\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-backlog-05\\kuttrankadithal\\KUTTRANKADITHAL-CINEMATIC-v1.mp4"
+      ]
+    },
+    {
+      "sourceId": "r75xdfETSbE",
+      "title": "கேள்விச் செல்வம் (Remix)",
+      "sourceUrl": "https://www.youtube.com/watch?v=r75xdfETSbE",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "கேள்விச் செல்வம்",
+        "recordings": [
+          "3CICxCn-4A0",
+          "r75xdfETSbE"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-backlog-06\\kelvi_selvam\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-backlog-06\\kelvi_selvam\\KELVI_SELVAM-CINEMATIC-v1.mp4"
+      ]
+    },
+    {
+      "sourceId": "kdZSlrXEfvs",
+      "title": "அவை அஞ்சாமை (Female)",
+      "sourceUrl": "https://www.youtube.com/watch?v=kdZSlrXEfvs",
+      "status": "Already started or claimed in shared workspace",
+      "workspaceRecords": [
+        {
+          "path": "unclaimed-group-batch-02\\jobs.json",
+          "status": null,
+          "suppressed": false
+        },
+        {
+          "path": "unclaimed-group-batch-02\\ready.json",
+          "status": "Ready for later upload",
+          "suppressed": false
+        },
+        {
+          "path": "unclaimed-group-batch-02\\avai_anjaamai_female\\manifest.json",
+          "status": "Ready for later upload; deferred by user",
+          "suppressed": false
+        }
+      ],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "அவை அஞ்சாமை",
+        "recordings": [
+          "kdZSlrXEfvs",
+          "FrZmyvY3sEc",
+          "t9Ke0-KMTyM"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-backlog-01\\avai_anjaamai\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-backlog-01\\avai_anjaamai\\AVAI_ANJAAMAI-CINEMATIC-v1.mp4"
+      ]
+    },
+    {
+      "sourceId": "RAUafMVpT5k",
+      "title": "நாடு (Remix)",
+      "sourceUrl": "https://www.youtube.com/watch?v=RAUafMVpT5k",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "நாடு",
+        "recordings": [
+          "nf8EO1GdKlY",
+          "RAUafMVpT5k"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-batch-03\\naadu\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-batch-03\\naadu\\NAADU-FILM.mp4"
+      ]
+    },
+    {
+      "sourceId": "t9Ke0-KMTyM",
+      "title": "அவை அஞ்சாமை (Symphony)",
+      "sourceUrl": "https://www.youtube.com/watch?v=t9Ke0-KMTyM",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "அவை அஞ்சாமை",
+        "recordings": [
+          "kdZSlrXEfvs",
+          "FrZmyvY3sEc",
+          "t9Ke0-KMTyM"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-backlog-01\\avai_anjaamai\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-backlog-01\\avai_anjaamai\\AVAI_ANJAAMAI-CINEMATIC-v1.mp4"
+      ]
+    },
+    {
+      "sourceId": "zq1dxg5R-rY",
+      "title": "மன்னரைச் சேர்ந்தொழுதல் (Female)",
+      "sourceUrl": "https://www.youtube.com/watch?v=zq1dxg5R-rY",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "மன்னரைச் சேர்ந்தொழுதல்",
+        "recordings": [
+          "zq1dxg5R-rY",
+          "u9NeXaCHu-A"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-batch-04\\mannarai_sernthozhuthal\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-batch-04\\mannarai_sernthozhuthal\\MANNARAI-SERNTHOZHUTHAL-FILM.mp4"
+      ]
+    },
+    {
+      "sourceId": "K35B1jST2xw",
+      "title": "குறிப்பறிதல் (Symphony)",
+      "sourceUrl": "https://www.youtube.com/watch?v=K35B1jST2xw",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "குறிப்பறிதல்",
+        "recordings": [
+          "6hfla_PRW40",
+          "GN181JJ1lXU",
+          "K35B1jST2xw"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-backlog-05\\kuripparithal\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-backlog-05\\kuripparithal\\KURIPPARITHAL-CINEMATIC-v1.mp4"
+      ]
+    },
+    {
+      "sourceId": "GN181JJ1lXU",
+      "title": "குறிப்பறிதல் (Remix)",
+      "sourceUrl": "https://www.youtube.com/watch?v=GN181JJ1lXU",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "குறிப்பறிதல்",
+        "recordings": [
+          "6hfla_PRW40",
+          "GN181JJ1lXU",
+          "K35B1jST2xw"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-backlog-05\\kuripparithal\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-backlog-05\\kuripparithal\\KURIPPARITHAL-CINEMATIC-v1.mp4"
+      ]
+    },
+    {
+      "sourceId": "HxxLl5p1t0A",
+      "title": "அவையறிதல் (Sad)",
+      "sourceUrl": "https://www.youtube.com/watch?v=HxxLl5p1t0A",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "அவையறிதல்",
+        "recordings": [
+          "9mOpq9daQVs",
+          "HxxLl5p1t0A"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-backlog-02\\avaiyarithal\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-backlog-02\\avaiyarithal\\AVAIYARITHAL-CINEMATIC-v1.mp4"
+      ]
+    },
+    {
+      "sourceId": "RY7nPGorS94",
+      "title": "தூது (Remix)",
+      "sourceUrl": "https://www.youtube.com/watch?v=RY7nPGorS94",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "தூது",
+        "recordings": [
+          "aBA50x-gDME",
+          "RY7nPGorS94"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-backlog-11\\thoothu\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-backlog-11\\thoothu\\THOOTHU-CINEMATIC-v1.mp4"
+      ]
+    },
+    {
+      "sourceId": "MvwT6dnGE0U",
+      "title": "வினைசெயல்வகை (Female)",
+      "sourceUrl": "https://www.youtube.com/watch?v=MvwT6dnGE0U",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "வினைசெயல்வகை",
+        "recordings": [
+          "MvwT6dnGE0U",
+          "gBRvVKE_so8"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-batch-05\\vinai_seyalvagai\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-batch-05\\vinai_seyalvagai\\VINAI-SEYALVAGAI-FILM.mp4"
+      ]
+    },
+    {
+      "sourceId": "ulW6fg4lkYA",
+      "title": "இடுக்கண் அழியாமை (Remix)",
+      "sourceUrl": "https://www.youtube.com/watch?v=ulW6fg4lkYA",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "இடுக்கண் அழியாமை",
+        "recordings": [
+          "B9N2j7r2KkI",
+          "ulW6fg4lkYA"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-backlog-03\\idukkan_azhiyaamai\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-backlog-03\\idukkan_azhiyaamai\\IDUKKAN_AZHIYAAMAI-CINEMATIC-groups-v2.mp4",
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-backlog-03\\idukkan_azhiyaamai\\IDUKKAN_AZHIYAAMAI-CINEMATIC-v1.mp4"
+      ]
+    },
+    {
+      "sourceId": "q2oGlYiV-qg",
+      "title": "சொல்வன்மை (Remix)",
+      "sourceUrl": "https://www.youtube.com/watch?v=q2oGlYiV-qg",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "சொல்வன்மை",
+        "recordings": [
+          "NIvQ6yD1wnY",
+          "q2oGlYiV-qg"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-backlog-07\\solvanmai\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-backlog-07\\solvanmai\\SOLVANMAI-CINEMATIC-v1.mp4"
+      ]
+    },
+    {
+      "sourceId": "FGFVertqRUU",
+      "title": "அமைச்சு (Remix)",
+      "sourceUrl": "https://www.youtube.com/watch?v=FGFVertqRUU",
+      "status": "Already started or claimed in shared workspace",
+      "workspaceRecords": [
+        {
+          "path": "unclaimed-group-batch-02\\jobs.json",
+          "status": null,
+          "suppressed": false
+        },
+        {
+          "path": "unclaimed-group-batch-02\\ready.json",
+          "status": "Ready for later upload",
+          "suppressed": false
+        },
+        {
+          "path": "unclaimed-group-batch-02\\amaichu_remix\\manifest.json",
+          "status": "Ready for later upload; deferred by user",
+          "suppressed": false
+        }
+      ],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "அமைச்சு",
+        "recordings": [
+          "jBA9wlyNjAE",
+          "FGFVertqRUU"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-backlog-01\\amaichu\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-backlog-01\\amaichu\\AMAICHU-CINEMATIC-v1.mp4"
+      ]
+    },
+    {
+      "sourceId": "J-mAIpyxy4A",
+      "title": "வினைத்திட்பம் (Remix)",
+      "sourceUrl": "https://www.youtube.com/watch?v=J-mAIpyxy4A",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "வினைத்திட்பம்",
+        "recordings": [
+          "--4jzoezBW8",
+          "J-mAIpyxy4A"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-batch-06\\vinai_thitpam\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-batch-06\\vinai_thitpam\\VINAI-THITPAM-FILM.mp4"
+      ]
+    },
+    {
+      "sourceId": "XRizXIUU57g",
+      "title": "வினைத்தூய்மை (Remix)",
+      "sourceUrl": "https://www.youtube.com/watch?v=XRizXIUU57g",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "வினைத்தூய்மை",
+        "recordings": [
+          "cj6mlDwjJEo",
+          "XRizXIUU57g",
+          "8wZGK0nGTEo"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-batch-06\\vinai_thooimai\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-batch-06\\vinai_thooimai\\VINAI-THOOIMAI-FILM.mp4"
+      ]
+    },
+    {
+      "sourceId": "8wZGK0nGTEo",
+      "title": "வினைத்தூய்மை (Slow)",
+      "sourceUrl": "https://www.youtube.com/watch?v=8wZGK0nGTEo",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "வினைத்தூய்மை",
+        "recordings": [
+          "cj6mlDwjJEo",
+          "XRizXIUU57g",
+          "8wZGK0nGTEo"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-batch-06\\vinai_thooimai\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-batch-06\\vinai_thooimai\\VINAI-THOOIMAI-FILM.mp4"
+      ]
+    },
+    {
+      "sourceId": "tj_5hsasdyU",
+      "title": "ஒற்றாடல் (Remix)",
+      "sourceUrl": "https://www.youtube.com/watch?v=tj_5hsasdyU",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "ஒற்றாடல்",
+        "recordings": [
+          "cn776n6oKXQ",
+          "tj_5hsasdyU"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-backlog-04\\ottraadal\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-backlog-04\\ottraadal\\OTTRAADAL-CINEMATIC-v1.mp4"
+      ]
+    },
+    {
+      "sourceId": "Fh3HfGUObmg",
+      "title": "மடியின்மை (Remix)",
+      "sourceUrl": "https://www.youtube.com/watch?v=Fh3HfGUObmg",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "மடியின்மை",
+        "recordings": [
+          "GfGlO3RQuik",
+          "Fh3HfGUObmg"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-batch-04\\madiyinmai\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-batch-04\\madiyinmai\\MADIYINMAI-FILM.mp4"
+      ]
+    },
+    {
+      "sourceId": "YBmfJyQNSCY",
+      "title": "அரண் (Symphony)",
+      "sourceUrl": "https://www.youtube.com/watch?v=YBmfJyQNSCY",
+      "status": "Already started or claimed in shared workspace",
+      "workspaceRecords": [
+        {
+          "path": "unclaimed-group-batch-02\\jobs.json",
+          "status": null,
+          "suppressed": false
+        },
+        {
+          "path": "unclaimed-group-batch-02\\ready.json",
+          "status": "Ready for later upload",
+          "suppressed": false
+        },
+        {
+          "path": "unclaimed-group-batch-02\\aran_symphony\\manifest.json",
+          "status": "Ready for later upload; deferred by user",
+          "suppressed": false
+        }
+      ],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "அரண்",
+        "recordings": [
+          "IiZoud1sP2o",
+          "YBmfJyQNSCY"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-backlog-01\\aran\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-backlog-01\\aran\\ARAN-CINEMATIC-v1.mp4"
+      ]
+    },
+    {
+      "sourceId": "FXMVQIidbJU",
+      "title": "ஊக்கமுடைமை (Remix)",
+      "sourceUrl": "https://www.youtube.com/watch?v=FXMVQIidbJU",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "ஊக்கமுடைமை",
+        "recordings": [
+          "nHj4Q196kU4",
+          "FXMVQIidbJU"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-backlog-03\\ookkamudaimai\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-backlog-03\\ookkamudaimai\\OOKKAMUDAIMAI-CINEMATIC-groups-v2.mp4",
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-backlog-03\\ookkamudaimai\\OOKKAMUDAIMAI-CINEMATIC-v1.mp4"
+      ]
+    },
+    {
+      "sourceId": "PmziMZrMHfE",
+      "title": "வெருவந்த செய்யாமை (Remix)",
+      "sourceUrl": "https://www.youtube.com/watch?v=PmziMZrMHfE",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "வெருவந்த செய்யாமை",
+        "recordings": [
+          "hjcH8zbEleE",
+          "PmziMZrMHfE"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-batch-06\\veruvantha_seyyaamai\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-batch-06\\veruvantha_seyyaamai\\VERUVANTHA-SEYYAAMAI-FILM.mp4"
+      ]
+    },
+    {
+      "sourceId": "37qaN4sG53k",
+      "title": "ஆள்வினையுடைமை (Remix)",
+      "sourceUrl": "https://www.youtube.com/watch?v=37qaN4sG53k",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "ஆள்வினையுடைமை",
+        "recordings": [
+          "um09tyT-2p0",
+          "37qaN4sG53k"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-backlog-02\\aalvinaiyudaimai\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-backlog-02\\aalvinaiyudaimai\\AALVINAIYUDAIMAI-CINEMATIC-groups-v2.mp4",
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-backlog-02\\aalvinaiyudaimai\\AALVINAIYUDAIMAI-CINEMATIC-v1.mp4"
+      ]
+    },
+    {
+      "sourceId": "E7yfNOiwJmM",
+      "title": "கண்ணோட்டம் (Symphony)",
+      "sourceUrl": "https://www.youtube.com/watch?v=E7yfNOiwJmM",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "கண்ணோட்டம்",
+        "recordings": [
+          "SI8ItN6nqck",
+          "Vj6wcfC3rPk",
+          "E7yfNOiwJmM"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-backlog-04\\kannottam\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-backlog-04\\kannottam\\KANNOTTAM-CINEMATIC-v1.mp4"
+      ]
+    },
+    {
+      "sourceId": "Vj6wcfC3rPk",
+      "title": "கண்ணோட்டம் (Remix)",
+      "sourceUrl": "https://www.youtube.com/watch?v=Vj6wcfC3rPk",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "கண்ணோட்டம்",
+        "recordings": [
+          "SI8ItN6nqck",
+          "Vj6wcfC3rPk",
+          "E7yfNOiwJmM"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-backlog-04\\kannottam\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-backlog-04\\kannottam\\KANNOTTAM-CINEMATIC-v1.mp4"
+      ]
+    },
+    {
+      "sourceId": "tLt9J-X9WOE",
+      "title": "தெரிந்து தெளிதல் (Remix)",
+      "sourceUrl": "https://www.youtube.com/watch?v=tLt9J-X9WOE",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "தெரிந்து தெளிதல்",
+        "recordings": [
+          "hrg_nAlW7VQ",
+          "tLt9J-X9WOE"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-backlog-11\\therinthu_thelithal\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-backlog-11\\therinthu_thelithal\\THERINTHU_THELITHAL-CINEMATIC-v1.mp4"
+      ]
+    },
+    {
+      "sourceId": "5coBrJy6a5M",
+      "title": "செங்கோன்மை (Remix)",
+      "sourceUrl": "https://www.youtube.com/watch?v=5coBrJy6a5M",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "செங்கோன்மை",
+        "recordings": [
+          "sScywbUNArA",
+          "5coBrJy6a5M"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-backlog-07\\sengonmai\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-backlog-07\\sengonmai\\SENGONMAI-CINEMATIC-v1.mp4"
+      ]
+    },
+    {
+      "sourceId": "01g0sJdaL2I",
+      "title": "கொடுங்கோன்மை (Remix)",
+      "sourceUrl": "https://www.youtube.com/watch?v=01g0sJdaL2I",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "கொடுங்கோன்மை",
+        "recordings": [
+          "tqF2NBWp6_8",
+          "01g0sJdaL2I"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-backlog-06\\kodungonmai\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-backlog-06\\kodungonmai\\KODUNGONMAI-CINEMATIC-v1.mp4"
+      ]
+    },
+    {
+      "sourceId": "9-SvikTz2FU",
+      "title": "சுற்றந்தழால் (Remix)",
+      "sourceUrl": "https://www.youtube.com/watch?v=9-SvikTz2FU",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "சுற்றந்தழால்",
+        "recordings": [
+          "pTxTsQzF8Xs",
+          "9-SvikTz2FU"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-backlog-07\\suttranthazhaal\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-backlog-07\\suttranthazhaal\\SUTTRANTHAZHAAL-CINEMATIC-v1.mp4"
+      ]
+    },
+    {
+      "sourceId": "DhHGetUJlAI",
+      "title": "பொச்சாவாமை (Remix)",
+      "sourceUrl": "https://www.youtube.com/watch?v=DhHGetUJlAI",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "பொச்சாவாமை",
+        "recordings": [
+          "O0hASl4BS2c",
+          "DhHGetUJlAI"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-batch-04\\pocchaavaamai\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-batch-04\\pocchaavaamai\\POCCHAAVAAMAI-FILM.mp4"
+      ]
+    },
+    {
+      "sourceId": "F-aVgFOdKFo",
+      "title": "தெரிந்து வினையாடல் (Remix)",
+      "sourceUrl": "https://www.youtube.com/watch?v=F-aVgFOdKFo",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "தெரிந்து வினையாடல்",
+        "recordings": [
+          "5uRYFxhT32k",
+          "F-aVgFOdKFo"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-batch-03\\therinthu_vinaiyaadal\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-batch-03\\therinthu_vinaiyaadal\\THERINTHU-VINAIYAADAL-FILM.mp4"
+      ]
+    },
+    {
+      "sourceId": "mpgnALSm7wk",
+      "title": "தெரிந்து செயல்வகை (Female)",
+      "sourceUrl": "https://www.youtube.com/watch?v=mpgnALSm7wk",
+      "status": "No exact-recording production found",
+      "workspaceRecords": [],
+      "priorCompositionClassification": "Prior classification: alternate recording of covered Thirukkural chapter; playlist-audit/thirukkural-production-completion-2026-09-28.json",
+      "chapterProduction": {
+        "chapter": "தெரிந்து செயல்வகை",
+        "recordings": [
+          "mpgnALSm7wk",
+          "OqRZLEMvx8s"
+        ],
+        "status": "local production exists",
+        "manifest": "production\\thirukkural-backlog-11\\therinthu_seyalvagai\\manifest.json"
+      },
+      "chapterManifestExists": true,
+      "chapterFilmFiles": [
+        "C:\\GitHub\\Gurukuladesam-audit\\production\\thirukkural-backlog-11\\therinthu_seyalvagai\\THERINTHU_SEYALVAGAI-CINEMATIC-v1.mp4"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "sourceId": "aTFvlXMPBSE",
+  "output": "PERIYAARAI-THUNAIKKODAL-FILM.mp4",
+  "title": "திருக்குறள் - பெரியாரைத் துணைக்கோடல் | Periyaarai Thunaikkodal Cinematic Thirukkural Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 250
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 250,
+      "outFrame": 547
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 547,
+      "outFrame": 820
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 820,
+      "outFrame": 1108
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1108,
+      "outFrame": 1349
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 1349,
+      "outFrame": 1655
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 1655,
+      "outFrame": 1906
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 1906,
+      "outFrame": 2171
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 2171,
+      "outFrame": 2471
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 2471,
+      "outFrame": 2709
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 2709,
+      "outFrame": 2991
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 2991,
+      "outFrame": 3279
+    }
+  ],
+  "rainShots": [
+    6
+  ],
+  "lightningShots": [
+    6
+  ],
+  "publicationStatus": "ready; upload deferred by user",
+  "description": "பெரியாரைத் துணைக்கோடல் — Periyaarai Thunaikkodal.\n\nA cinematic image-based film for the complete original Guru Kula Desam recording, with twelve distinct scenes, gentle movement, dheepam and agarbaththi smoke, and occasional drizzle and lightning.\n\nOriginal recording: https://www.youtube.com/watch?v=aTFvlXMPBSE\n\n#Thirukkural #TamilSong #GuruKulaDesam",
+  "fps": 12,
+  "targetFrames": 3279,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review",
+  "localQC": {
+    "originalAudioExact": true,
+    "fullDecode": true,
+    "visualReview": "opening, rainy scene and dry successor inspected"
+  }
+}

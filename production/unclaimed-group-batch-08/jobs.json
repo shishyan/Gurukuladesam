@@ -1,0 +1,39 @@
+{
+  "owner": "Main Guru Kula Desam task",
+  "status": "All three films published",
+  "songs": [
+    {
+      "sourceId": "RY7nPGorS94",
+      "slug": "thoothu_remix",
+      "chapter": "தூது (Remix)",
+      "sourceTitle": "தூது (Remix)",
+      "english": "Thoothu Remix",
+      "theme": "thoughtful truthful diplomacy and carrying messages responsibly",
+      "setting": "an ancient Tamil river capital with broad palace forecourts and shaded traveller gardens",
+      "collection": "Thirukkural",
+      "duration": 251
+    },
+    {
+      "sourceId": "MvwT6dnGE0U",
+      "slug": "vinai_seyalvagai_female",
+      "chapter": "வினைசெயல்வகை (Female)",
+      "sourceTitle": "வினைசெயல்வகை (Female)",
+      "english": "Vinai Seyalvagai Female",
+      "theme": "careful practical action through planning, cooperation and completion",
+      "setting": "an ancient Tamil coastal craft town with workshops, a lively harbour and civic courtyards",
+      "collection": "Thirukkural",
+      "duration": 322
+    },
+    {
+      "sourceId": "ulW6fg4lkYA",
+      "slug": "idukkan_remix",
+      "chapter": "இடுக்கண் அழியாமை (Remix)",
+      "sourceTitle": "இடுக்கண் அழியாமை (Remix)",
+      "english": "Idukkan Azhiyamai Remix",
+      "theme": "steadfast courage, humour and mutual support during adversity",
+      "setting": "an ancient Tamil hill valley settlement with terraced fields and riverside community shelters",
+      "collection": "Thirukkural",
+      "duration": 330
+    }
+  ]
+}

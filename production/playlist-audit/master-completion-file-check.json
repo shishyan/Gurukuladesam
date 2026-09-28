@@ -1,0 +1,52 @@
+{
+  "playlistId": "PLAjtBRKl_IlI",
+  "liveEntries": 456,
+  "uniqueEntries": 456,
+  "recordsWithFilmFileOrPublishedEvidence": 219,
+  "recordsNeedingCompletionCheck": [],
+  "additionalResolvedFilmFiles": [
+    {
+      "id": "RDcw0Bol-cE",
+      "title": "திருப்பாவை - 1 (மார்கழி திங்கள்)",
+      "filmFiles": [
+        {
+          "file": "production\\thiruppavai1-image-motion\\THIRUPPAVAI-1-CINEMATIC-v1.mp4",
+          "bytes": 50608688
+        }
+      ]
+    },
+    {
+      "id": "_Ceq0AzIQ9c",
+      "title": "திருக்குறள் -  கல்வி",
+      "filmFiles": [
+        {
+          "file": "production\\kalvi-image-motion\\KALVI-CINEMATIC-v2.mp4",
+          "bytes": 41626505
+        },
+        {
+          "file": "production\\kalvi-image-motion\\KALVI-CINEMATIC-v3-UNIQUE-IMAGES.mp4",
+          "bytes": 49517586
+        },
+        {
+          "file": "production\\kalvi-image-motion\\KALVI-FULL-IMAGE-MOTION-REVIEW-v1.mp4",
+          "bytes": 42523505
+        }
+      ]
+    },
+    {
+      "id": "GydxHEmyDPc",
+      "title": "கண நாதா ஓம் (Original)",
+      "filmFiles": [
+        {
+          "file": "production\\gananatha-om\\GANA-NATHA-OM-CINEMATIC-v2.mp4",
+          "bytes": 35236092
+        },
+        {
+          "file": "production\\gananatha-om\\GANA-NATHA-OM-FULL-IMAGE-MOTION-REVIEW-v1.mp4",
+          "bytes": 35460315
+        }
+      ]
+    }
+  ],
+  "limitation": "File existence and prior publication evidence checked. Not a new full playback or technical quality audit. Alternate recordings are classified at composition level in full-playlist-refresh-2026-09-28.json."
+}

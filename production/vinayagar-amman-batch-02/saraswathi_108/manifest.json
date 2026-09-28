@@ -1,0 +1,86 @@
+{
+  "sourceId": "94drEh5bkH0",
+  "output": "SARASWATHI-108-POTRI-FILM.mp4",
+  "title": "108 Saraswathi Potri | Cinematic Devotional Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 2364
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 2364,
+      "outFrame": 4766
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 4766,
+      "outFrame": 7160
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 7160,
+      "outFrame": 9509
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 9509,
+      "outFrame": 11874
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 11874,
+      "outFrame": 14273
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 14273,
+      "outFrame": 16667
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 16667,
+      "outFrame": 19017
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 19017,
+      "outFrame": 21384
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 21384,
+      "outFrame": 23798
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 23798,
+      "outFrame": 26185
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 26185,
+      "outFrame": 28544
+    }
+  ],
+  "rainShots": [
+    7
+  ],
+  "fps": 24,
+  "targetFrames": 28544,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

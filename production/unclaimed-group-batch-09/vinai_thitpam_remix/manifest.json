@@ -1,0 +1,106 @@
+{
+  "sourceId": "J-mAIpyxy4A",
+  "output": "VINAI-THITPAM-REMIX-FILM.mp4",
+  "title": "வினைத்திட்பம் (Remix) | Vinai Thitpam Remix Cinematic Thirukkural Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "Ultra-wide dawn panorama of an ancient Tamil foothill craft settlement with stone workshops and terraced orchards, many families and neighbours arriving along broad paths, expansive sky and powerful orchestral scale",
+      "inFrame": 0,
+      "outFrame": 286
+    },
+    {
+      "image": "S02.png",
+      "role": "A diverse group of Tamil elders, women and men discussing resolute purpose and perseverance in completing worthwhile work around a broad stone table in a shaded courtyard, natural respectful interaction",
+      "inFrame": 286,
+      "outFrame": 596
+    },
+    {
+      "image": "S03.png",
+      "role": "Stone craft workers and women planners assessing a half-built community pavilion together in a foothill workshop, clear purpose and patient coordination",
+      "inFrame": 596,
+      "outFrame": 900
+    },
+    {
+      "image": "S04.png",
+      "role": "A broad village team continuing careful stonework despite a difficult task, safe practical tools and mutually encouraging faces",
+      "inFrame": 900,
+      "outFrame": 1190
+    },
+    {
+      "image": "S05.png",
+      "role": "A mixed-age group learning from a wise elder beside palm-leaf manuscripts in a sunlit veranda, theme resolute purpose and perseverance in completing worthwhile work",
+      "inFrame": 1190,
+      "outFrame": 1475
+    },
+    {
+      "image": "S06.png",
+      "role": "Women and men cooking and sharing a vegetarian community meal beneath trees, children helping elders, setting an ancient Tamil foothill craft settlement with stone workshops and terraced orchards",
+      "inFrame": 1475,
+      "outFrame": 1794
+    },
+    {
+      "image": "S07.png",
+      "role": "Wet outdoor public square in an ancient Tamil foothill craft settlement with stone workshops and terraced orchards beneath soft monsoon clouds, groups sharing woven palm umbrellas, no lightning bolts or drawn rain streaks",
+      "inFrame": 1794,
+      "outFrame": 2077
+    },
+    {
+      "image": "S08.png",
+      "role": "Dry enclosed stone assembly hall, a large attentive gathering considering resolute purpose and perseverance in completing worthwhile work, golden lamps and absolutely no rain",
+      "inFrame": 2077,
+      "outFrame": 2398
+    },
+    {
+      "image": "S09.png",
+      "role": "A Tamil woman calmly speaking to a seated circle of neighbours about resolute purpose and perseverance in completing worthwhile work, hopeful natural faces, a different courtyard and camera viewpoint",
+      "inFrame": 2398,
+      "outFrame": 2709
+    },
+    {
+      "image": "S10.png",
+      "role": "Workers and families celebrating a completed sturdy irrigation terrace after patient shared effort, quiet satisfaction and purposeful teamwork",
+      "inFrame": 2709,
+      "outFrame": 3005
+    },
+    {
+      "image": "S11.png",
+      "role": "A broad gathering thanking elders and community helpers at sunset beside a lake, warm gratitude, theme resolute purpose and perseverance in completing worthwhile work",
+      "inFrame": 3005,
+      "outFrame": 3291
+    },
+    {
+      "image": "S12.png",
+      "role": "Ultra-wide twilight panorama of an ancient Tamil foothill craft settlement with stone workshops and terraced orchards, communities gathering under courtyard lamps and an expansive indigo sky, serene closing",
+      "inFrame": 3291,
+      "outFrame": 3598
+    }
+  ],
+  "rainShots": [
+    6
+  ],
+  "lightningShots": [
+    6
+  ],
+  "publicationStatus": "Published",
+  "description": "வினைத்திட்பம் (Remix) — Vinai Thitpam Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=J-mAIpyxy4A\n\n#Thirukkural #Tamil #GuruKulaDesam",
+  "playlistNames": [
+    "Discography",
+    "திருக்குறள் | Thirukkural — Master Collection"
+  ],
+  "recordingVersion": "Vinai Thitpam Remix",
+  "fps": 12,
+  "targetFrames": 3598,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review",
+  "localQC": {
+    "originalAudioExact": true,
+    "fullDecode": true,
+    "visualReview": "inspected"
+  },
+  "recordingScope": "Distinct source recording; other recordings of this chapter already have films. No exact or near duplicate decoded audio found among 254 available source recordings.",
+  "youtubeVideoId": "0WurYH-hkNM",
+  "youtubeMetadataComplete": true,
+  "checksAtPublication": "Community Guidelines passed; copyright pending (taking longer than expected)",
+  "publicationConfirmation": "YouTube Studio Video published"
+}

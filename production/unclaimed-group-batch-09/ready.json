@@ -1,0 +1,53 @@
+{
+  "checkedAtUtc": "2026-09-28T18:00:08.107455+00:00",
+  "status": "All three films published",
+  "sceneCount": 36,
+  "songs": [
+    {
+      "sourceId": "q2oGlYiV-qg",
+      "title": "சொல்வன்மை (Remix) | Solvanmai Remix Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-09\\solvanmai_remix\\SOLVANMAI-REMIX-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-09\\solvanmai_remix\\opening-qc.png",
+      "durationSeconds": 335.75,
+      "scenes": 12,
+      "description": "சொல்வன்மை (Remix) — Solvanmai Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=q2oGlYiV-qg\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Published",
+      "sha256": "a850a1cccf800af408eec5885bdffaf5348cdb5e10ad88ad6280ed4c4e9c6e56"
+    },
+    {
+      "sourceId": "J-mAIpyxy4A",
+      "title": "வினைத்திட்பம் (Remix) | Vinai Thitpam Remix Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-09\\vinai_thitpam_remix\\VINAI-THITPAM-REMIX-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-09\\vinai_thitpam_remix\\opening-qc.png",
+      "durationSeconds": 299.8333333333333,
+      "scenes": 12,
+      "description": "வினைத்திட்பம் (Remix) — Vinai Thitpam Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=J-mAIpyxy4A\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Published",
+      "sha256": "e780075f07109df50ea3157cfa3a68d1d64ce5f4bf3b7fd9c9814ad47eb49622"
+    },
+    {
+      "sourceId": "XRizXIUU57g",
+      "title": "வினைத்தூய்மை (Remix) | Vinai Thooymai Remix Cinematic Thirukkural Film",
+      "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-09\\vinai_thooymai_remix\\VINAI-THOOYMAI-REMIX-FILM.mp4",
+      "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\unclaimed-group-batch-09\\vinai_thooymai_remix\\opening-qc.png",
+      "durationSeconds": 271.1666666666667,
+      "scenes": 12,
+      "description": "வினைத்தூய்மை (Remix) — Vinai Thooymai Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=XRizXIUU57g\n\n#Thirukkural #Tamil #GuruKulaDesam",
+      "playlistNames": [
+        "Discography",
+        "திருக்குறள் | Thirukkural — Master Collection"
+      ],
+      "status": "Published",
+      "sha256": "7f97ab0f5ae9cf7f7ffe688aa32d8d03d2a86a4dea08dde2311f9257a798407e"
+    }
+  ],
+  "reviewLimit": "Artwork and opening/wet/dry rendered samples inspected; full stream decode and exact original audio verified. Full human playback and exact lyric synchronisation are not claimed."
+}

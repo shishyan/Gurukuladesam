@@ -1,0 +1,96 @@
+{
+  "sourceId": "O0hASl4BS2c",
+  "output": "POCCHAAVAAMAI-FILM.mp4",
+  "title": "திருக்குறள் - பொச்சாவாமை | Pocchaavaamai Cinematic Thirukkural Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 307
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 307,
+      "outFrame": 654
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 654,
+      "outFrame": 950
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 950,
+      "outFrame": 1300
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1300,
+      "outFrame": 1596
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 1596,
+      "outFrame": 1940
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 1940,
+      "outFrame": 2223
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 2223,
+      "outFrame": 2559
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 2559,
+      "outFrame": 2863
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 2863,
+      "outFrame": 3215
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 3215,
+      "outFrame": 3502
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 3502,
+      "outFrame": 3832
+    }
+  ],
+  "rainShots": [
+    6
+  ],
+  "lightningShots": [
+    6
+  ],
+  "publicationStatus": "ready; upload deferred by user",
+  "description": "பொச்சாவாமை — Pocchaavaamai.\n\nA cinematic image-based film for the complete original Guru Kula Desam recording, with twelve distinct scenes, gentle movement, dheepam and agarbaththi smoke, and occasional drizzle and lightning.\n\nOriginal recording: https://www.youtube.com/watch?v=O0hASl4BS2c\n\n#Thirukkural #TamilSong #GuruKulaDesam",
+  "fps": 12,
+  "targetFrames": 3832,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review",
+  "localQC": {
+    "originalAudioExact": true,
+    "fullDecode": true,
+    "visualReview": "opening, rainy scene and dry successor inspected"
+  }
+}

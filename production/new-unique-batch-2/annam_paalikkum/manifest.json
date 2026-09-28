@@ -1,0 +1,83 @@
+{
+  "sourceId": "y7TMSgzWf8o",
+  "title": "அன்னம் பாலிக்கும் தில்லை | Annam Paalikkum Thillai Cinematic Devotional Film",
+  "output": "ANNAM_PAALIKKUM-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 744
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 744,
+      "outFrame": 1512
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 1512,
+      "outFrame": 2308
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 2308,
+      "outFrame": 3079
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 3079,
+      "outFrame": 3849
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 3849,
+      "outFrame": 4603
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 4603,
+      "outFrame": 5393
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 5393,
+      "outFrame": 6133
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 6133,
+      "outFrame": 6890
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 6890,
+      "outFrame": 7688
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 7688,
+      "outFrame": 8439
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 8439,
+      "outFrame": 9214
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 9214,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

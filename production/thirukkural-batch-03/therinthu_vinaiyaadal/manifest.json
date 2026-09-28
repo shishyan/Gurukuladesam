@@ -1,0 +1,96 @@
+{
+  "sourceId": "5uRYFxhT32k",
+  "output": "THERINTHU-VINAIYAADAL-FILM.mp4",
+  "title": "திருக்குறள் - தெரிந்து வினையாடல் | Therinthu Vinaiyaadal Cinematic Thirukkural Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 379
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 379,
+      "outFrame": 777
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 777,
+      "outFrame": 1126
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1126,
+      "outFrame": 1519
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1519,
+      "outFrame": 1903
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 1903,
+      "outFrame": 2283
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 2283,
+      "outFrame": 2692
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 2692,
+      "outFrame": 3068
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 3068,
+      "outFrame": 3439
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 3439,
+      "outFrame": 3827
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 3827,
+      "outFrame": 4190
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 4190,
+      "outFrame": 4586
+    }
+  ],
+  "rainShots": [
+    6
+  ],
+  "lightningShots": [
+    6
+  ],
+  "publicationStatus": "ready; upload deferred by user",
+  "description": "தெரிந்து வினையாடல் — Therinthu Vinaiyaadal.\n\nA cinematic image-based film for the complete original Guru Kula Desam recording, with twelve distinct scenes, gentle movement, dheepam and agarbaththi smoke, and occasional drizzle and lightning.\n\nOriginal recording: https://www.youtube.com/watch?v=5uRYFxhT32k\n\n#Thirukkural #TamilSong #GuruKulaDesam",
+  "fps": 12,
+  "targetFrames": 4586,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review",
+  "localQC": {
+    "originalAudioExact": true,
+    "fullDecode": true,
+    "visualReview": "opening, rainy scene and dry successor inspected"
+  }
+}

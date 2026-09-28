@@ -1,0 +1,83 @@
+{
+  "sourceId": "JzGTK1V3dkM",
+  "output": "THIRUNEETRU-CINEMATIC-v1.mp4",
+  "title": "à®¤à®¿à®°à¯à®¨à¯€à®±à¯à®±à¯à®ªà¯ à®ªà®¤à®¿à®•à®®à¯ | Thiruneetru Pathigam Cinematic Devotional Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 588
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 588,
+      "outFrame": 1162
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 1162,
+      "outFrame": 1731
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 1731,
+      "outFrame": 2291
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 2291,
+      "outFrame": 2865
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 2865,
+      "outFrame": 3474
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 3474,
+      "outFrame": 4014
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 4014,
+      "outFrame": 4636
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 4636,
+      "outFrame": 5205
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 5205,
+      "outFrame": 5786
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 5786,
+      "outFrame": 6350
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 6350,
+      "outFrame": 6922
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 6922,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

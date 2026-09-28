@@ -1,0 +1,95 @@
+{
+  "sourceId": "I-ZLmvGIiz4",
+  "output": "SIVA-PATHI-VILAKKAM-FILM.mp4",
+  "title": "சிவ பதி விளக்கம் | Siva Pathi Vilakkam Cinematic Shiva Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 289
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 289,
+      "outFrame": 581
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 581,
+      "outFrame": 857
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 857,
+      "outFrame": 1116
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1116,
+      "outFrame": 1405
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 1405,
+      "outFrame": 1721
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 1721,
+      "outFrame": 2012
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 2012,
+      "outFrame": 2299
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 2299,
+      "outFrame": 2552
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 2552,
+      "outFrame": 2866
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 2866,
+      "outFrame": 3159
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 3159,
+      "outFrame": 3420
+    }
+  ],
+  "rainShots": [
+    6
+  ],
+  "lightningShots": [
+    6
+  ],
+  "publicationStatus": "suppressed alternate; use thiruvarutpa-backlog-01",
+  "description": "சிவ பதி விளக்கம் — Siva Pathi Vilakkam.\n\nA devotional image-based film for the complete original Guru Kula Desam song recording. Fresh scenes, gentle camera movement, dheepam and agarbaththi smoke, with occasional outdoor drizzle and lightning.\n\nOriginal recording: https://www.youtube.com/watch?v=I-ZLmvGIiz4\n\n#Thiruvarutpa #Shiva #TamilDevotional #GuruKulaDesam",
+  "playlistNames": [
+    "Discography",
+    "Lord Shiva Songs"
+  ],
+  "fps": 12,
+  "targetFrames": 3420,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

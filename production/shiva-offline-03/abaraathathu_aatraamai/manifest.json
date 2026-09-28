@@ -1,0 +1,100 @@
+{
+  "sourceId": "kshlDPh2IqE",
+  "output": "ABARAATHATHU-AATRAAMAI-FILM.mp4",
+  "title": "அபராதத்து ஆற்றாமை | Abaraathathu Aatraamai Cinematic Shiva Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 268
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 268,
+      "outFrame": 579
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 579,
+      "outFrame": 859
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 859,
+      "outFrame": 1130
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1130,
+      "outFrame": 1447
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 1447,
+      "outFrame": 1719
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 1719,
+      "outFrame": 2003
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 2003,
+      "outFrame": 2331
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 2331,
+      "outFrame": 2612
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 2612,
+      "outFrame": 2907
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 2907,
+      "outFrame": 3195
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 3195,
+      "outFrame": 3460
+    }
+  ],
+  "rainShots": [
+    6
+  ],
+  "lightningShots": [
+    6
+  ],
+  "publicationStatus": "ready; upload deferred by user",
+  "description": "அபராதத்து ஆற்றாமை — Abaraathathu Aatraamai.\n\nA devotional image-based film for the complete original Guru Kula Desam song recording. Fresh scenes, gentle camera movement, dheepam and agarbaththi smoke, with occasional outdoor drizzle and lightning.\n\nOriginal recording: https://www.youtube.com/watch?v=kshlDPh2IqE\n\n#Thiruvarutpa #Shiva #TamilDevotional #GuruKulaDesam",
+  "playlistNames": [
+    "Discography",
+    "Lord Shiva Songs"
+  ],
+  "fps": 12,
+  "targetFrames": 3460,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review",
+  "localQC": {
+    "originalAudioExact": true,
+    "fullDecode": true,
+    "visualReview": "opening, rainy scene and dry successor inspected"
+  }
+}

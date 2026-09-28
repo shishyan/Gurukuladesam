@@ -1,0 +1,106 @@
+{
+  "sourceId": "RAUafMVpT5k",
+  "output": "NAADU-REMIX-FILM.mp4",
+  "title": "நாடு (Remix) | Naadu Remix Cinematic Thirukkural Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "Ultra-wide dawn panorama of an expansive ancient Tamil delta with fertile fields, busy harbours and civic gardens, many families and neighbours arriving along broad paths, expansive sky and powerful orchestral scale",
+      "inFrame": 0,
+      "outFrame": 190
+    },
+    {
+      "image": "S02.png",
+      "role": "A diverse group of Tamil elders, women and men discussing a flourishing country through prosperity, health, cooperation and good civic care around a broad stone table in a shaded courtyard, natural respectful interaction",
+      "inFrame": 190,
+      "outFrame": 438
+    },
+    {
+      "image": "S03.png",
+      "role": "A broad gathering of farmers, traders and harbour workers exchanging abundant rice, vegetables and woven goods at an ancient Tamil delta harbour, prosperous orderly civic life",
+      "inFrame": 438,
+      "outFrame": 633
+    },
+    {
+      "image": "S04.png",
+      "role": "Village healers and neighbours caring for families beneath a shady civic garden pavilion, clean water pots and medicinal plants, dignified community wellbeing",
+      "inFrame": 633,
+      "outFrame": 842
+    },
+    {
+      "image": "S05.png",
+      "role": "A mixed-age group learning from a wise elder beside palm-leaf manuscripts in a sunlit veranda, theme a flourishing country through prosperity, health, cooperation and good civic care",
+      "inFrame": 842,
+      "outFrame": 1071
+    },
+    {
+      "image": "S06.png",
+      "role": "Women and men cooking and sharing a vegetarian community meal beneath trees, children helping elders, setting an expansive ancient Tamil delta with fertile fields, busy harbours and civic gardens",
+      "inFrame": 1071,
+      "outFrame": 1293
+    },
+    {
+      "image": "S07.png",
+      "role": "Wet outdoor public square in an expansive ancient Tamil delta with fertile fields, busy harbours and civic gardens beneath soft monsoon clouds, groups sharing woven palm umbrellas, no lightning bolts or drawn rain streaks",
+      "inFrame": 1293,
+      "outFrame": 1515
+    },
+    {
+      "image": "S08.png",
+      "role": "Dry enclosed stone assembly hall, a large attentive gathering considering a flourishing country through prosperity, health, cooperation and good civic care, golden lamps and absolutely no rain",
+      "inFrame": 1515,
+      "outFrame": 1695
+    },
+    {
+      "image": "S09.png",
+      "role": "A Tamil woman calmly speaking to a seated circle of neighbours about a flourishing country through prosperity, health, cooperation and good civic care, hopeful natural faces, a different courtyard and camera viewpoint",
+      "inFrame": 1695,
+      "outFrame": 1944
+    },
+    {
+      "image": "S10.png",
+      "role": "A large community maintaining an irrigation sluice beside fertile fields, plentiful flowing water and hopeful shared care",
+      "inFrame": 1944,
+      "outFrame": 2157
+    },
+    {
+      "image": "S11.png",
+      "role": "A broad gathering thanking elders and community helpers at sunset beside a lake, warm gratitude, theme a flourishing country through prosperity, health, cooperation and good civic care",
+      "inFrame": 2157,
+      "outFrame": 2365
+    },
+    {
+      "image": "S12.png",
+      "role": "Ultra-wide twilight panorama of an expansive ancient Tamil delta with fertile fields, busy harbours and civic gardens, communities gathering under courtyard lamps and an expansive indigo sky, serene closing",
+      "inFrame": 2365,
+      "outFrame": 2563
+    }
+  ],
+  "rainShots": [
+    6
+  ],
+  "lightningShots": [
+    6
+  ],
+  "publicationStatus": "Published",
+  "description": "நாடு (Remix) — Naadu Remix.\n\nA complete Guru Kula Desam Thirukkural recording presented with fresh community scenes.\n\nOriginal recording: https://www.youtube.com/watch?v=RAUafMVpT5k\n\n#Thirukkural #Tamil #GuruKulaDesam",
+  "playlistNames": [
+    "Discography",
+    "திருக்குறள் | Thirukkural — Master Collection"
+  ],
+  "recordingVersion": "Naadu Remix",
+  "fps": 12,
+  "targetFrames": 2563,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review",
+  "localQC": {
+    "originalAudioExact": true,
+    "fullDecode": true,
+    "visualReview": "inspected"
+  },
+  "youtubeVideoId": "gjo0AfKBzsU",
+  "youtubeMetadataComplete": true,
+  "checksAtPublication": "Community Guidelines passed; copyright pending at publication",
+  "publicationConfirmation": "YouTube Studio Video published",
+  "recordingScope": "Distinct source recording; other recordings of this chapter already have films. No exact or near duplicate decoded audio found among 248 available source recordings."
+}

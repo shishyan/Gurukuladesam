@@ -1,0 +1,83 @@
+{
+  "sourceId": "9PUF7elNSOU",
+  "title": "அருட்பெருஞ்சோதி 2026 | Arutperunjothi Cinematic Devotional Film",
+  "output": "ARUTPERUNJOTHI-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 704
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 704,
+      "outFrame": 1402
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 1402,
+      "outFrame": 2100
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 2100,
+      "outFrame": 2763
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 2763,
+      "outFrame": 3481
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 3481,
+      "outFrame": 4178
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 4178,
+      "outFrame": 4857
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 4857,
+      "outFrame": 5529
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 5529,
+      "outFrame": 6222
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 6222,
+      "outFrame": 6903
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 6903,
+      "outFrame": 7637
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 7637,
+      "outFrame": 8312
+    }
+  ],
+  "fps": 24,
+  "targetFrames": 8312,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}

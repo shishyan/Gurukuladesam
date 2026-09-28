@@ -1,0 +1,37 @@
+{
+  "owner": "Main Guru Kula Desam agent — unclaimed exact-recording production",
+  "status": "Reserved; do not duplicate these source IDs. Other agents own the earlier original-recording films. Upload deferred by user.",
+  "scope": "User authorized starting recordings with no production record. These are separate versions of chapters already filmed; exact audio duplicates must be excluded.",
+  "songs": [
+    {
+      "sourceId": "FGFVertqRUU",
+      "slug": "amaichu_remix",
+      "chapter": "அமைச்சு (Remix)",
+      "english": "Amaichu Remix",
+      "collection": "Thirukkural",
+      "theme": "wise counsel and community governance",
+      "duration": 307,
+      "sourceTitle": "அமைச்சு (Remix)"
+    },
+    {
+      "sourceId": "YBmfJyQNSCY",
+      "slug": "aran_symphony",
+      "chapter": "அரண் (Symphony)",
+      "english": "Aran Symphony",
+      "collection": "Thirukkural",
+      "theme": "a strong community and protective fort",
+      "duration": 225,
+      "sourceTitle": "அரண் (Symphony)"
+    },
+    {
+      "sourceId": "kdZSlrXEfvs",
+      "slug": "avai_anjaamai_female",
+      "chapter": "அவை அஞ்சாமை (Female)",
+      "english": "Avai Anjaamai Female",
+      "collection": "Thirukkural",
+      "theme": "courage to speak thoughtfully before an assembly",
+      "duration": 228,
+      "sourceTitle": "அவை அஞ்சாமை (Female)"
+    }
+  ]
+}

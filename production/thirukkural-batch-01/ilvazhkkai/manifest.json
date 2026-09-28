@@ -1,0 +1,89 @@
+{
+  "sourceId": "v_dsHTOvKP8",
+  "output": "ILVAZHKKAI-FILM.mp4",
+  "title": "திருக்குறள் - இல்வாழ்க்கை | Ilvazhkkai Cinematic Thirukkural Film",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "scene 1",
+      "inFrame": 0,
+      "outFrame": 242
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 242,
+      "outFrame": 523
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 523,
+      "outFrame": 788
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 788,
+      "outFrame": 1010
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 1010,
+      "outFrame": 1301
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 1301,
+      "outFrame": 1541
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 1541,
+      "outFrame": 1780
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 1780,
+      "outFrame": 2077
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 2077,
+      "outFrame": 2294
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 2294,
+      "outFrame": 2557
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 2557,
+      "outFrame": 2836
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 2836,
+      "outFrame": 3091
+    }
+  ],
+  "rainShots": [
+    6
+  ],
+  "lightningShots": [
+    6
+  ],
+  "fps": 12,
+  "targetFrames": 3091,
+  "imageDerived": true,
+  "cutRule": "near even spacing at low audio energy; lyric timing requires review"
+}
