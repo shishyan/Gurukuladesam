@@ -3,8 +3,8 @@
     {
       "sourceId": "C7PTFCAFIRI",
       "title": "திருக்குறள் - அவா அறுத்தல் | Avaa Aruththal | Full Song Film",
-      "file": "avaa_aruththal\\AVAA_ARUTHTHAL-CINEMATIC-v1.mp4",
-      "status": "ready; pending daily upload quota",
+      "file": "avaa_aruththal\\AVAA_ARUTHTHAL-CINEMATIC-groups-v2.mp4",
+      "status": "ready; group revision QC passed; saved in Vids",
       "publishedUrl": null,
       "qc": {
         "sourceId": "C7PTFCAFIRI",
@@ -15,9 +15,11 @@
         "fullDecodePassed": true,
         "allScenesHaveMovement": true,
         "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 16186732
+        "fileBytes": 16623064,
+        "groupSceneRevision": "Replaced solitary study with seven villagers learning together; retain twelve unique moving scenes and original audio"
       },
-      "googleVids": "https://docs.google.com/videos/d/1lpyKd6QFwQ3kAYl9JCm-C1TI6tK8w3eLLx5S16dsMn0/edit",
+      "supersededGoogleVids": "https://docs.google.com/videos/d/1lpyKd6QFwQ3kAYl9JCm-C1TI6tK8w3eLLx5S16dsMn0/edit",
+      "googleVids": "https://docs.google.com/videos/d/1Q7_KQSC10fV1AqJ_zaQgvU1hVwdW-YbjaMkemVnKP4U/edit",
       "vidsVerification": {
         "savedToDrive": true,
         "volumePercent": 100,

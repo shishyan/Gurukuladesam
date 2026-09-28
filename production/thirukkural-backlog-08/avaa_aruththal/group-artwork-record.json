@@ -1,0 +1,6 @@
+{
+  "tool": "built-in imagegen",
+  "output": "S02-groups-v2.png",
+  "prompt": "Use case: historical-scene. Asset type: one 16:9 cinematic still for Tamil Thirukkural Avaa Aruththal, overcoming desire. Photorealistic ancient Tamil stone temple courtyard at sunrise, a thoughtful young Tamil man in simple ivory dhoti sitting together with six adult villagers and an elderly teacher, all studying palm leaf manuscripts in a relaxed circle, natural group interaction and shared learning, warm gold light, realistic anatomy, wide composition. No lettering, no logos, no borders. Produce one landscape image.",
+  "verification": "Group study scene visually inspected; original solo scene preserved in v1."
+}

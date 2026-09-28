@@ -1,0 +1,114 @@
+{
+  "sourceId": "C7PTFCAFIRI",
+  "title": "திருக்குறள் - அவா அறுத்தல் | Avaa Aruththal | Full Song Film",
+  "output": "AVAA_ARUTHTHAL-CINEMATIC-groups-v2.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "narrative scene 1",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-08\\avaa_aruththal\\new-1.png",
+      "inFrame": 0,
+      "outFrame": 220
+    },
+    {
+      "image": "S02-groups-v2.png",
+      "role": "villagers study together with an elder",
+      "artOrigin": "built-in imagegen group scene",
+      "assetSource": "production\\thirukkural-backlog-08\\avaa_aruththal\\S02-groups-v2.png",
+      "inFrame": 220,
+      "outFrame": 456
+    },
+    {
+      "image": "S03.png",
+      "role": "narrative scene 3",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S02.png",
+      "inFrame": 456,
+      "outFrame": 685
+    },
+    {
+      "image": "S04.png",
+      "role": "narrative scene 4",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-08\\avaa_aruththal\\new-2.png",
+      "inFrame": 685,
+      "outFrame": 939
+    },
+    {
+      "image": "S05.png",
+      "role": "narrative scene 5",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S04.png",
+      "inFrame": 939,
+      "outFrame": 1169
+    },
+    {
+      "image": "S06.png",
+      "role": "narrative scene 6",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S08.png",
+      "inFrame": 1169,
+      "outFrame": 1395
+    },
+    {
+      "image": "S07.png",
+      "role": "narrative scene 7",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\avai_anjaamai\\S11.png",
+      "inFrame": 1395,
+      "outFrame": 1634
+    },
+    {
+      "image": "S08.png",
+      "role": "narrative scene 8",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-08\\avaa_aruththal\\new-3.png",
+      "inFrame": 1634,
+      "outFrame": 1847
+    },
+    {
+      "image": "S09.png",
+      "role": "narrative scene 9",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S10.png",
+      "inFrame": 1847,
+      "outFrame": 2086
+    },
+    {
+      "image": "S10.png",
+      "role": "narrative scene 10",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S11.png",
+      "inFrame": 2086,
+      "outFrame": 2308
+    },
+    {
+      "image": "S11.png",
+      "role": "narrative scene 11",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S12.png",
+      "inFrame": 2308,
+      "outFrame": 2546
+    },
+    {
+      "image": "S12.png",
+      "role": "narrative scene 12",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-08\\avaa_aruththal\\new-4.png",
+      "inFrame": 2546,
+      "outFrame": 2781
+    }
+  ],
+  "imageDerived": true,
+  "theme": "contentment and freedom from excessive desire",
+  "duplicateAudit": {
+    "publicVideosChecked": 180,
+    "matchingFilms": []
+  },
+  "publicationStatus": "pending YouTube daily upload quota",
+  "fps": 12,
+  "targetFrames": 2781,
+  "cutRule": "near even spacing at low audio energy",
+  "groupSceneRevision": "Replaced solitary study with seven villagers learning together; retain twelve unique moving scenes and original audio"
+}

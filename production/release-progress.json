@@ -104,6 +104,16 @@
       "sourceId": "pTxTsQzF8Xs",
       "url": "https://www.youtube.com/watch?v=Nb1nAcrGNeU",
       "status": "published; both checks passed; unmuted playback and bottom-left logo verified"
+    },
+    {
+      "sourceId": "K6mhIh64XE8",
+      "url": "https://www.youtube.com/watch?v=mCwNR1Bytj4",
+      "status": "upload complete; saved privately; Community Guidelines passed; copyright running"
+    },
+    {
+      "sourceId": "scUcWDtCge8",
+      "url": "https://www.youtube.com/watch?v=dD_cXqU_XVQ",
+      "status": "upload complete; saved privately; checks pending"
     }
   ]
 }
