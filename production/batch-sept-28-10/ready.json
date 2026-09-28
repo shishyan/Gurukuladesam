@@ -1,0 +1,22 @@
+{
+  "status": "rendered and QC passed; YouTube publication blocked by daily upload limit",
+  "blocker": "YouTube Studio showed Daily upload limit reached and You can upload more videos in 24 hours, confirmed again after reloading Studio and trying the second file.",
+  "songs": [
+    {
+      "sourceId": "QXhT9uoA7_w",
+      "slug": "agara_muthala",
+      "title": "திருக்குறள் - அகர முதல | Agara Muthala | Full Song Film",
+      "driveId": "1VEIhgjKYfDMR_fje5xs-D5ec_tMIJthj",
+      "googleVids": "https://docs.google.com/videos/d/1sDu_aiI67g-yJt1g9DUxKYWiYLc4JEfjSuOcIG73Wsc/edit",
+      "publishedUrl": null
+    },
+    {
+      "sourceId": "6ofQ9hrD1RQ",
+      "slug": "vaazkkai_thunai",
+      "title": "திருக்குறள் - வாழ்க்கை துணை | Vaazkkai Thunai | Full Song Film",
+      "driveId": "1kFKPEMNq9KyABqSp2J_KDFIfCQH4RMHV",
+      "googleVids": "https://docs.google.com/videos/d/114gBoxuuLhXBuEuQgOyrIHyK4b8uECd2XNx7GhttgsU/edit",
+      "publishedUrl": null
+    }
+  ]
+}

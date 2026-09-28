@@ -1,0 +1,83 @@
+{
+  "sourceId": "QXhT9uoA7_w",
+  "title": "Thirukkural Agara Muthala | Full Song Film",
+  "output": "AGARA_MUTHALA-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "opening",
+      "inFrame": 0,
+      "outFrame": 231
+    },
+    {
+      "image": "S02.png",
+      "role": "scene 2",
+      "inFrame": 231,
+      "outFrame": 483
+    },
+    {
+      "image": "S03.png",
+      "role": "scene 3",
+      "inFrame": 483,
+      "outFrame": 710
+    },
+    {
+      "image": "S04.png",
+      "role": "scene 4",
+      "inFrame": 710,
+      "outFrame": 966
+    },
+    {
+      "image": "S05.png",
+      "role": "scene 5",
+      "inFrame": 966,
+      "outFrame": 1181
+    },
+    {
+      "image": "S06.png",
+      "role": "scene 6",
+      "inFrame": 1181,
+      "outFrame": 1440
+    },
+    {
+      "image": "S07.png",
+      "role": "scene 7",
+      "inFrame": 1440,
+      "outFrame": 1663
+    },
+    {
+      "image": "S08.png",
+      "role": "scene 8",
+      "inFrame": 1663,
+      "outFrame": 1914
+    },
+    {
+      "image": "S09.png",
+      "role": "scene 9",
+      "inFrame": 1914,
+      "outFrame": 2139
+    },
+    {
+      "image": "S10.png",
+      "role": "scene 10",
+      "inFrame": 2139,
+      "outFrame": 2395
+    },
+    {
+      "image": "S11.png",
+      "role": "scene 11",
+      "inFrame": 2395,
+      "outFrame": 2633
+    },
+    {
+      "image": "S12.png",
+      "role": "scene 12",
+      "inFrame": 2633,
+      "outFrame": 2863
+    }
+  ],
+  "imageDerived": true,
+  "fps": 12,
+  "targetFrames": 2863,
+  "cutRule": "near even spacing at low audio energy"
+}

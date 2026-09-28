@@ -10,4 +10,4 @@ Five distinct recordings selected after checking YouTube Studio titles and earli
 | பூவார் சென்னி மன்னன் (திருவாசகம்) | [Original](https://youtu.be/iKIsoxTz5-k) | Pending |
 | தில்லை வாழ் அந்தணர்! | [Original](https://youtu.be/xqM-FFGFDC4) | Pending |
 
-All five films passed exact decoded-audio, twelve-distinct-scene, and full-media-decode QC. Publication is pending because YouTube Studio browser control is unavailable. Once access resumes, upload each completed MP4 to Discography and Lord Shiva Songs, then replace Pending with its verified public link. Do not re-render or duplicate an upload.
+All five films passed exact decoded-audio, twelve-distinct-scene, and full-media-decode QC. Studio access recovered on retry, but YouTube blocked the Eeswara II file with “Daily upload limit reached” and “You can upload more videos in 24 hours.” No video link was created. All five releases remain Pending. When the limit relaxes, inspect the existing upload checkpoint before uploading each completed MP4 to Discography and Lord Shiva Songs, then replace Pending with its verified public link. Do not re-render or duplicate an upload.
