@@ -4,8 +4,8 @@
       "sourceId": "um09tyT-2p0",
       "title": "திருக்குறள் - ஆள்வினையுடைமை | Aalvinaiyudaimai | Full Song Film",
       "file": "aalvinaiyudaimai\\AALVINAIYUDAIMAI-CINEMATIC-groups-v2.mp4",
-      "status": "ready; revised group scenes; pending publication",
-      "publishedUrl": null,
+      "status": "published and public playback verified",
+      "publishedUrl": "https://www.youtube.com/watch?v=zj4_pEqa_cs",
       "qc": {
         "sourceId": "um09tyT-2p0",
         "durationSeconds": 288.8333333333333,
@@ -32,7 +32,9 @@
         "savedToDrive": true,
         "volumePercent": 100,
         "muted": false
-      }
+      },
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T09:46:42.547428+00:00"
     },
     {
       "sourceId": "FkQqysk6vmE",

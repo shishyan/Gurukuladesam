@@ -1,12 +1,11 @@
 # Pending song videos
 
-33 QC-passed full-song films are ready locally. Upload slots were available at the latest check.
+32 QC-passed full-song films are ready locally. Upload slots were available at the latest check.
 
-33 films have saved Google Vids projects; 0 still need a Vids import.
+32 films have saved Google Vids projects; 0 still need a Vids import.
 
 | Song | Source | Local MP4 |
 | --- | --- | --- |
-| திருக்குறள் - ஆள்வினையுடைமை / Aalvinaiyudaimai / Full Song Film | `um09tyT-2p0` | [Open film](thirukkural-backlog-02/aalvinaiyudaimai/AALVINAIYUDAIMAI-CINEMATIC-groups-v2.mp4) |
 | திருக்குறள் - அறிவுடைமை / Arivudaimai / Full Song Film | `FkQqysk6vmE` | [Open film](thirukkural-backlog-02/arivudaimai/ARIVUDAIMAI-CINEMATIC-groups-v2.mp4) |
 | திருக்குறள் - இடனறிதல் / Idanarithal / Full Song Film | `L-FvFZeT_cQ` | [Open film](thirukkural-backlog-03/idanarithal/IDANARITHAL-CINEMATIC-v1.mp4) |
 | திருக்குறள் - இடுக்கண் அழியாமை / Idukkan Azhiyaamai / Full Song Film | `B9N2j7r2KkI` | [Open film](thirukkural-backlog-03/idukkan_azhiyaamai/IDUKKAN_AZHIYAAMAI-CINEMATIC-v1.mp4) |
