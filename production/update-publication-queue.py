@@ -3,6 +3,9 @@ import json
 from pathlib import Path
 
 P = Path(__file__).resolve().parent
+limit = json.loads((P/'upload-limit-status.json').read_text(encoding='utf-8'))
+quota_blocked = 'blocked' in limit.get('result', '')
+pending_status = 'ready; pending upload quota' if quota_blocked else 'ready; pending publication'
 entries = []
 other_owners = {}
 for manifest_path in sorted(P.glob('thirukkural-batch-*/*/manifest.json')):
@@ -19,7 +22,7 @@ for row in batch10['songs']:
         manifest = json.loads((folder/'manifest.json').read_text(encoding='utf-8'))
         entries.append({'sourceId':row['sourceId'],'title':row['title'],
                         'file':str((folder/manifest['output']).relative_to(P)),
-                        'googleVids':row['googleVids'],'status':'ready; pending upload quota'})
+                        'googleVids':row['googleVids'],'status':pending_status})
 ready_files = list(P.glob('thirukkural-backlog-*/ready.json')) + list(P.glob('thiruvarutpa-backlog-*/ready.json'))
 for ready in sorted(ready_files):
     data = json.loads(ready.read_text(encoding='utf-8'))
@@ -40,15 +43,15 @@ for ready in sorted(ready_files):
                 continue
             entries.append({'sourceId':row['sourceId'],'title':row['title'],
                             'file':str(film.relative_to(P)), 'googleVids':row.get('googleVids'),
-                            'status':'ready; pending upload quota','qc':row['qc']})
+                            'status':pending_status,'qc':row['qc']})
     if changed:
         ready.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 assert len(entries) == len({r['sourceId'] for r in entries})
-out = {'channel':'@guru-kula-desam','pendingCount':len(entries),'blocker':'YouTube daily upload limit',
+out = {'channel':'@guru-kula-desam','pendingCount':len(entries),'blocker':'YouTube daily upload limit' if quota_blocked else None,
        'releaseInstructions':'Recheck public channel for duplicates, import locally finished films into Google Vids, publish through the correct channel Studio, and verify public URLs. Scheduling requires the upload to succeed first.',
        'songs':entries,'excludedAlternateRenders':excluded}
 (P/'publication-queue.json').write_text(json.dumps(out,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-lines = ['# Pending song videos', '', f"{len(entries)} QC-passed full-song films are ready locally. YouTube publication is blocked by the daily upload quota.", '',
+lines = ['# Pending song videos', '', f"{len(entries)} QC-passed full-song films are ready locally." + (' YouTube publication is blocked by the daily upload quota.' if quota_blocked else ' Upload slots were available at the latest check.'), '',
          f"{sum(bool(r.get('googleVids')) for r in entries)} films have saved Google Vids projects; {sum(not bool(r.get('googleVids')) for r in entries)} still need a Vids import.", '',
          '| Song | Source | Local MP4 |', '| --- | --- | --- |']
 for row in entries:

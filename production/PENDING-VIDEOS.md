@@ -1,14 +1,11 @@
 # Pending song videos
 
-37 QC-passed full-song films are ready locally. YouTube publication is blocked by the daily upload quota.
+34 QC-passed full-song films are ready locally. Upload slots were available at the latest check.
 
-37 films have saved Google Vids projects; 0 still need a Vids import.
+34 films have saved Google Vids projects; 0 still need a Vids import.
 
 | Song | Source | Local MP4 |
 | --- | --- | --- |
-| திருக்குறள் - அமைச்சு / Amaichu / Full Song Film | `jBA9wlyNjAE` | [Open film](thirukkural-backlog-01/amaichu/AMAICHU-CINEMATIC-v1.mp4) |
-| திருக்குறள் - அரண் / Aran / Full Song Film | `IiZoud1sP2o` | [Open film](thirukkural-backlog-01/aran/ARAN-CINEMATIC-v1.mp4) |
-| திருக்குறள் - அவை அஞ்சாமை / Avai Anjaamai / Full Song Film | `FrZmyvY3sEc` | [Open film](thirukkural-backlog-01/avai_anjaamai/AVAI_ANJAAMAI-CINEMATIC-v1.mp4) |
 | திருக்குறள் - ஆள்வினையுடைமை / Aalvinaiyudaimai / Full Song Film | `um09tyT-2p0` | [Open film](thirukkural-backlog-02/aalvinaiyudaimai/AALVINAIYUDAIMAI-CINEMATIC-v1.mp4) |
 | திருக்குறள் - அறிவுடைமை / Arivudaimai / Full Song Film | `FkQqysk6vmE` | [Open film](thirukkural-backlog-02/arivudaimai/ARIVUDAIMAI-CINEMATIC-v1.mp4) |
 | திருக்குறள் - அவையறிதல் / Avaiyarithal / Full Song Film | `9mOpq9daQVs` | [Open film](thirukkural-backlog-02/avaiyarithal/AVAIYARITHAL-CINEMATIC-v1.mp4) |

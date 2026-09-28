@@ -1,10 +1,12 @@
 {
-  "checkedAtUtc": "2026-09-28 08:22:51 UTC",
+  "checkedAtUtc": "2026-09-28T09:27:58.152854+00:00",
   "channel": "@guru-kula-desam",
   "channelId": "UCPqB1A_WzpLJec6q69BOO3Q",
-  "sourceId": "jBA9wlyNjAE",
-  "result": "blocked after one accepted upload",
-  "message": "Daily upload limit reached. You can upload more videos in 24 hours.",
-  "verification": "Fresh Edge Studio tabs on the correct channel. Vaazkkai Thunai accepted and published; next actual Amaichu MP4 upload blocked.",
-  "publishedUrl": "https://www.youtube.com/watch?v=hCHBPd8BH8A"
+  "result": "available",
+  "message": "Three actual uploads accepted and published with clean checks.",
+  "publishedUrls": [
+    "https://www.youtube.com/watch?v=VENn3ip3XPA",
+    "https://www.youtube.com/watch?v=6r6TpY-sgbw",
+    "https://www.youtube.com/watch?v=W4LQ0TT2cRA"
+  ]
 }

@@ -4,8 +4,8 @@
       "sourceId": "jBA9wlyNjAE",
       "title": "திருக்குறள் - அமைச்சு | Amaichu | Full Song Film",
       "file": "amaichu\\AMAICHU-CINEMATIC-v1.mp4",
-      "status": "ready; pending daily upload quota",
-      "publishedUrl": null,
+      "status": "published and public playback verified",
+      "publishedUrl": "https://www.youtube.com/watch?v=VENn3ip3XPA",
       "qc": {
         "sourceId": "jBA9wlyNjAE",
         "durationSeconds": 307.5,
@@ -22,14 +22,16 @@
         "savedToDrive": true,
         "volumePercent": 100,
         "muted": false
-      }
+      },
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T09:24:31.252631+00:00"
     },
     {
       "sourceId": "IiZoud1sP2o",
       "title": "திருக்குறள் - அரண் | Aran | Full Song Film",
       "file": "aran\\ARAN-CINEMATIC-v1.mp4",
-      "status": "ready; pending daily upload quota",
-      "publishedUrl": null,
+      "status": "published and public playback verified",
+      "publishedUrl": "https://www.youtube.com/watch?v=6r6TpY-sgbw",
       "qc": {
         "sourceId": "IiZoud1sP2o",
         "durationSeconds": 273.25,
@@ -46,14 +48,16 @@
         "savedToDrive": true,
         "volumePercent": 100,
         "muted": false
-      }
+      },
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T09:27:24.635290+00:00"
     },
     {
       "sourceId": "FrZmyvY3sEc",
       "title": "திருக்குறள் - அவை அஞ்சாமை | Avai Anjaamai | Full Song Film",
       "file": "avai_anjaamai\\AVAI_ANJAAMAI-CINEMATIC-v1.mp4",
-      "status": "ready; pending daily upload quota",
-      "publishedUrl": null,
+      "status": "published and public playback verified",
+      "publishedUrl": "https://www.youtube.com/watch?v=W4LQ0TT2cRA",
       "qc": {
         "sourceId": "FrZmyvY3sEc",
         "durationSeconds": 238.33333333333334,
@@ -70,7 +74,9 @@
         "savedToDrive": true,
         "volumePercent": 100,
         "muted": false
-      }
+      },
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T09:27:24.728535+00:00"
     }
   ]
 }
