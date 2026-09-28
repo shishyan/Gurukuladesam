@@ -4,8 +4,8 @@
       "sourceId": "3CICxCn-4A0",
       "title": "திருக்குறள் - கேள்விச் செல்வம் | Kelvi Selvam | Full Song Film",
       "file": "kelvi_selvam\\KELVI_SELVAM-CINEMATIC-v1.mp4",
-      "status": "ready; pending daily upload quota",
-      "publishedUrl": null,
+      "status": "published and public playback verified",
+      "publishedUrl": "https://www.youtube.com/watch?v=9kHN9Dzrv7o",
       "qc": {
         "sourceId": "3CICxCn-4A0",
         "durationSeconds": 248.75,
@@ -22,7 +22,9 @@
         "savedToDrive": true,
         "volumePercent": 100,
         "muted": false
-      }
+      },
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T13:55:28.589630+00:00"
     },
     {
       "sourceId": "tqF2NBWp6_8",

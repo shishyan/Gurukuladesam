@@ -1,16 +1,12 @@
 # Pending song videos
 
-26 QC-passed full-song films are ready locally. Upload slots were available at the latest check.
+22 QC-passed full-song films are ready locally. Upload slots were available at the latest check.
 
-26 films have saved Google Vids projects; 0 still need a Vids import.
+22 films have saved Google Vids projects; 0 still need a Vids import.
 
 | Song | Source | Local MP4 |
 | --- | --- | --- |
 | திருக்குறள் - ஒற்றாடல் / Ottraadal / Full Song Film | `cn776n6oKXQ` | [Open film](thirukkural-backlog-04/ottraadal/OTTRAADAL-CINEMATIC-v1.mp4) |
-| திருக்குறள் - காலமறிதல் / Kaalamarithal / Full Song Film | `diUv8fkOqv0` | [Open film](thirukkural-backlog-05/kaalamarithal/KAALAMARITHAL-CINEMATIC-v1.mp4) |
-| திருக்குறள் - குறிப்பறிதல் / Kuripparithal / Full Song Film | `6hfla_PRW40` | [Open film](thirukkural-backlog-05/kuripparithal/KURIPPARITHAL-CINEMATIC-v1.mp4) |
-| திருக்குறள் - குற்றங்கடிதல் / Kuttrankadithal / Full Song Film | `2_TfLljo1qg` | [Open film](thirukkural-backlog-05/kuttrankadithal/KUTTRANKADITHAL-CINEMATIC-v1.mp4) |
-| திருக்குறள் - கேள்விச் செல்வம் / Kelvi Selvam / Full Song Film | `3CICxCn-4A0` | [Open film](thirukkural-backlog-06/kelvi_selvam/KELVI_SELVAM-CINEMATIC-v1.mp4) |
 | திருக்குறள் - கொடுங்கோன்மை / Kodungonmai / Full Song Film | `tqF2NBWp6_8` | [Open film](thirukkural-backlog-06/kodungonmai/KODUNGONMAI-CINEMATIC-v1.mp4) |
 | திருக்குறள் - சிற்றினம் சேராமை / Sitrinam Seraamai / Full Song Film | `5-z9v-1INWg` | [Open film](thirukkural-backlog-06/sitrinam_seraamai/SITRINAM_SERAAMAI-CINEMATIC-v1.mp4) |
 | திருக்குறள் - செங்கோன்மை / Sengonmai / Full Song Film | `sScywbUNArA` | [Open film](thirukkural-backlog-07/sengonmai/SENGONMAI-CINEMATIC-v1.mp4) |

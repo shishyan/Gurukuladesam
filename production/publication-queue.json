@@ -1,6 +1,6 @@
 {
   "channel": "@guru-kula-desam",
-  "pendingCount": 26,
+  "pendingCount": 22,
   "blocker": null,
   "releaseInstructions": "Recheck public channel for duplicates, import locally finished films into Google Vids, publish through the correct channel Studio, and verify public URLs. Scheduling requires the upload to succeed first.",
   "songs": [
@@ -20,78 +20,6 @@
         "allScenesHaveMovement": true,
         "logoPosition": "bottom-left, 24px inset",
         "fileBytes": 19935961
-      }
-    },
-    {
-      "sourceId": "diUv8fkOqv0",
-      "title": "திருக்குறள் - காலமறிதல் | Kaalamarithal | Full Song Film",
-      "file": "thirukkural-backlog-05\\kaalamarithal\\KAALAMARITHAL-CINEMATIC-v1.mp4",
-      "googleVids": "https://docs.google.com/videos/d/15I8LG_VYWW01z5Ic0F-pVyYBMN_mydofQaaCRERC3D4/edit",
-      "status": "ready; pending publication",
-      "qc": {
-        "sourceId": "diUv8fkOqv0",
-        "durationSeconds": 261.3333333333333,
-        "scenes": 12,
-        "uniqueImages": 12,
-        "originalAacBitstreamMatched": true,
-        "fullDecodePassed": true,
-        "allScenesHaveMovement": true,
-        "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 21502483
-      }
-    },
-    {
-      "sourceId": "6hfla_PRW40",
-      "title": "திருக்குறள் - குறிப்பறிதல் | Kuripparithal | Full Song Film",
-      "file": "thirukkural-backlog-05\\kuripparithal\\KURIPPARITHAL-CINEMATIC-v1.mp4",
-      "googleVids": "https://docs.google.com/videos/d/1PXIRh-TrwJqOMvuG9qNp5sVxJ5gxBoNznqt7mpUyPv0/edit",
-      "status": "ready; pending publication",
-      "qc": {
-        "sourceId": "6hfla_PRW40",
-        "durationSeconds": 274.1666666666667,
-        "scenes": 12,
-        "uniqueImages": 12,
-        "originalAacBitstreamMatched": true,
-        "fullDecodePassed": true,
-        "allScenesHaveMovement": true,
-        "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 18237549
-      }
-    },
-    {
-      "sourceId": "2_TfLljo1qg",
-      "title": "திருக்குறள் - குற்றங்கடிதல் | Kuttrankadithal | Full Song Film",
-      "file": "thirukkural-backlog-05\\kuttrankadithal\\KUTTRANKADITHAL-CINEMATIC-v1.mp4",
-      "googleVids": "https://docs.google.com/videos/d/1Z3sUWIFQRH37K-ND938vT_q132wkogxzuKL8fBux-qY/edit",
-      "status": "ready; pending publication",
-      "qc": {
-        "sourceId": "2_TfLljo1qg",
-        "durationSeconds": 233.58333333333334,
-        "scenes": 12,
-        "uniqueImages": 12,
-        "originalAacBitstreamMatched": true,
-        "fullDecodePassed": true,
-        "allScenesHaveMovement": true,
-        "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 15287135
-      }
-    },
-    {
-      "sourceId": "3CICxCn-4A0",
-      "title": "திருக்குறள் - கேள்விச் செல்வம் | Kelvi Selvam | Full Song Film",
-      "file": "thirukkural-backlog-06\\kelvi_selvam\\KELVI_SELVAM-CINEMATIC-v1.mp4",
-      "googleVids": "https://docs.google.com/videos/d/1nzt7JYUUB0Pn0KdmX7ZBf5hY9FGjJLJ1WS-w-n6hQPY/edit",
-      "status": "ready; pending publication",
-      "qc": {
-        "sourceId": "3CICxCn-4A0",
-        "durationSeconds": 248.75,
-        "scenes": 12,
-        "uniqueImages": 12,
-        "originalAacBitstreamMatched": true,
-        "fullDecodePassed": true,
-        "allScenesHaveMovement": true,
-        "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 16957023
       }
     },
     {

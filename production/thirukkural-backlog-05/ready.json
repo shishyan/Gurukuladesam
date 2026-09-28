@@ -4,8 +4,8 @@
       "sourceId": "diUv8fkOqv0",
       "title": "திருக்குறள் - காலமறிதல் | Kaalamarithal | Full Song Film",
       "file": "kaalamarithal\\KAALAMARITHAL-CINEMATIC-v1.mp4",
-      "status": "ready; pending daily upload quota",
-      "publishedUrl": null,
+      "status": "published and public playback verified",
+      "publishedUrl": "https://www.youtube.com/watch?v=DIDV-3cHhag",
       "qc": {
         "sourceId": "diUv8fkOqv0",
         "durationSeconds": 261.3333333333333,
@@ -22,14 +22,16 @@
         "savedToDrive": true,
         "volumePercent": 100,
         "muted": false
-      }
+      },
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T13:42:00.541115+00:00"
     },
     {
       "sourceId": "6hfla_PRW40",
       "title": "திருக்குறள் - குறிப்பறிதல் | Kuripparithal | Full Song Film",
       "file": "kuripparithal\\KURIPPARITHAL-CINEMATIC-v1.mp4",
-      "status": "ready; pending daily upload quota",
-      "publishedUrl": null,
+      "status": "published and public playback verified",
+      "publishedUrl": "https://www.youtube.com/watch?v=dBIUA3fKBJ0",
       "qc": {
         "sourceId": "6hfla_PRW40",
         "durationSeconds": 274.1666666666667,
@@ -46,14 +48,16 @@
         "savedToDrive": true,
         "volumePercent": 100,
         "muted": false
-      }
+      },
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T13:45:49.537199+00:00"
     },
     {
       "sourceId": "2_TfLljo1qg",
       "title": "திருக்குறள் - குற்றங்கடிதல் | Kuttrankadithal | Full Song Film",
       "file": "kuttrankadithal\\KUTTRANKADITHAL-CINEMATIC-v1.mp4",
-      "status": "ready; pending daily upload quota",
-      "publishedUrl": null,
+      "status": "published and public playback verified",
+      "publishedUrl": "https://www.youtube.com/watch?v=B60TIM5LLvY",
       "qc": {
         "sourceId": "2_TfLljo1qg",
         "durationSeconds": 233.58333333333334,
@@ -70,7 +74,9 @@
         "savedToDrive": true,
         "volumePercent": 100,
         "muted": false
-      }
+      },
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T13:53:55.651313+00:00"
     }
   ]
 }
