@@ -93,12 +93,17 @@
     {
       "sourceId": "sScywbUNArA",
       "url": "https://www.youtube.com/watch?v=lCBVB2Yj_7U",
-      "status": "upload complete; saved privately; both checks running"
+      "status": "published; both checks passed; unmuted playback and bottom-left logo verified"
     },
     {
       "sourceId": "NIvQ6yD1wnY",
       "url": "https://www.youtube.com/watch?v=q6Rg5CUbOD0",
-      "status": "saved privately; copyright passed; Community Guidelines running"
+      "status": "published; both checks passed; unmuted playback and bottom-left logo verified"
+    },
+    {
+      "sourceId": "pTxTsQzF8Xs",
+      "url": "https://www.youtube.com/watch?v=Nb1nAcrGNeU",
+      "status": "published; both checks passed; unmuted playback and bottom-left logo verified"
     }
   ]
 }

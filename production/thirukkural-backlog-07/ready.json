@@ -4,8 +4,8 @@
       "sourceId": "sScywbUNArA",
       "title": "திருக்குறள் - செங்கோன்மை | Sengonmai | Full Song Film",
       "file": "sengonmai\\SENGONMAI-CINEMATIC-v1.mp4",
-      "status": "ready; pending daily upload quota",
-      "publishedUrl": null,
+      "status": "published and public playback verified",
+      "publishedUrl": "https://www.youtube.com/watch?v=lCBVB2Yj_7U",
       "qc": {
         "sourceId": "sScywbUNArA",
         "durationSeconds": 296.9166666666667,
@@ -22,14 +22,16 @@
         "savedToDrive": true,
         "volumePercent": 100,
         "muted": false
-      }
+      },
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T14:20:26.757377+00:00"
     },
     {
       "sourceId": "NIvQ6yD1wnY",
       "title": "திருக்குறள் - சொல்வன்மை | Solvanmai | Full Song Film",
       "file": "solvanmai\\SOLVANMAI-CINEMATIC-v1.mp4",
-      "status": "ready; pending daily upload quota",
-      "publishedUrl": null,
+      "status": "published and public playback verified",
+      "publishedUrl": "https://www.youtube.com/watch?v=q6Rg5CUbOD0",
       "qc": {
         "sourceId": "NIvQ6yD1wnY",
         "durationSeconds": 338.75,
@@ -46,14 +48,16 @@
         "savedToDrive": true,
         "volumePercent": 100,
         "muted": false
-      }
+      },
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T14:24:17.658736+00:00"
     },
     {
       "sourceId": "pTxTsQzF8Xs",
       "title": "திருக்குறள் - சுற்றந்தழால் | Suttranthazhaal | Full Song Film",
       "file": "suttranthazhaal\\SUTTRANTHAZHAAL-CINEMATIC-v1.mp4",
-      "status": "ready; pending daily upload quota",
-      "publishedUrl": null,
+      "status": "published and public playback verified",
+      "publishedUrl": "https://www.youtube.com/watch?v=Nb1nAcrGNeU",
       "qc": {
         "sourceId": "pTxTsQzF8Xs",
         "durationSeconds": 413.0833333333333,
@@ -70,7 +74,9 @@
         "savedToDrive": true,
         "volumePercent": 100,
         "muted": false
-      }
+      },
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T14:30:10.735751+00:00"
     }
   ]
 }

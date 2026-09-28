@@ -1,15 +1,12 @@
 # Pending song videos
 
-20 QC-passed full-song films are ready locally. Upload slots were available at the latest check.
+17 QC-passed full-song films are ready locally. Upload slots were available at the latest check.
 
-20 films have saved Google Vids projects; 0 still need a Vids import.
+17 films have saved Google Vids projects; 0 still need a Vids import.
 
 | Song | Source | Local MP4 |
 | --- | --- | --- |
 | திருக்குறள் - ஒற்றாடல் / Ottraadal / Full Song Film | `cn776n6oKXQ` | [Open film](thirukkural-backlog-04/ottraadal/OTTRAADAL-CINEMATIC-v1.mp4) |
-| திருக்குறள் - செங்கோன்மை / Sengonmai / Full Song Film | `sScywbUNArA` | [Open film](thirukkural-backlog-07/sengonmai/SENGONMAI-CINEMATIC-v1.mp4) |
-| திருக்குறள் - சொல்வன்மை / Solvanmai / Full Song Film | `NIvQ6yD1wnY` | [Open film](thirukkural-backlog-07/solvanmai/SOLVANMAI-CINEMATIC-v1.mp4) |
-| திருக்குறள் - சுற்றந்தழால் / Suttranthazhaal / Full Song Film | `pTxTsQzF8Xs` | [Open film](thirukkural-backlog-07/suttranthazhaal/SUTTRANTHAZHAAL-CINEMATIC-v1.mp4) |
 | திருக்குறள் - அவா அறுத்தல் / Avaa Aruththal / Full Song Film | `C7PTFCAFIRI` | [Open film](thirukkural-backlog-08/avaa_aruththal/AVAA_ARUTHTHAL-CINEMATIC-v1.mp4) |
 | திருக்குறள் - இறை மாட்சி / Irai Maatchi / Full Song Film | `K6mhIh64XE8` | [Open film](thirukkural-backlog-08/irai_maatchi/IRAI_MAATCHI-CINEMATIC-v1.mp4) |
 | திருக்குறள் - ஊழ் வினை / Oozh Vinai / Full Song Film | `scUcWDtCge8` | [Open film](thirukkural-backlog-08/oozh_vinai/OOZH_VINAI-CINEMATIC-v1.mp4) |
