@@ -1,0 +1,88 @@
+{
+  "sourceId": "FkQqysk6vmE",
+  "title": "திருக்குறள் - அறிவுடைமை | Arivudaimai | Full Song Film",
+  "output": "ARIVUDAIMAI-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "narrative scene 1",
+      "inFrame": 0,
+      "outFrame": 295
+    },
+    {
+      "image": "S02.png",
+      "role": "narrative scene 2",
+      "inFrame": 295,
+      "outFrame": 611
+    },
+    {
+      "image": "S03.png",
+      "role": "narrative scene 3",
+      "inFrame": 611,
+      "outFrame": 917
+    },
+    {
+      "image": "S04.png",
+      "role": "narrative scene 4",
+      "inFrame": 917,
+      "outFrame": 1208
+    },
+    {
+      "image": "S05.png",
+      "role": "narrative scene 5",
+      "inFrame": 1208,
+      "outFrame": 1518
+    },
+    {
+      "image": "S06.png",
+      "role": "narrative scene 6",
+      "inFrame": 1518,
+      "outFrame": 1818
+    },
+    {
+      "image": "S07.png",
+      "role": "narrative scene 7",
+      "inFrame": 1818,
+      "outFrame": 2103
+    },
+    {
+      "image": "S08.png",
+      "role": "narrative scene 8",
+      "inFrame": 2103,
+      "outFrame": 2423
+    },
+    {
+      "image": "S09.png",
+      "role": "narrative scene 9",
+      "inFrame": 2423,
+      "outFrame": 2716
+    },
+    {
+      "image": "S10.png",
+      "role": "narrative scene 10",
+      "inFrame": 2716,
+      "outFrame": 3022
+    },
+    {
+      "image": "S11.png",
+      "role": "narrative scene 11",
+      "inFrame": 3022,
+      "outFrame": 3330
+    },
+    {
+      "image": "S12.png",
+      "role": "narrative scene 12",
+      "inFrame": 3330,
+      "outFrame": 3621
+    }
+  ],
+  "imageDerived": true,
+  "duplicateAudit": {
+    "publicVideosChecked": 180,
+    "matchingFilms": []
+  },
+  "publicationStatus": "pending YouTube daily upload quota",
+  "fps": 12,
+  "targetFrames": 3621,
+  "cutRule": "near even spacing at low audio energy"
+}

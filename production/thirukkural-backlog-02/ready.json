@@ -1,0 +1,58 @@
+{
+  "songs": [
+    {
+      "sourceId": "um09tyT-2p0",
+      "title": "திருக்குறள் - ஆள்வினையுடைமை | Aalvinaiyudaimai | Full Song Film",
+      "file": "aalvinaiyudaimai\\AALVINAIYUDAIMAI-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "um09tyT-2p0",
+        "durationSeconds": 288.8333333333333,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 22940086
+      }
+    },
+    {
+      "sourceId": "FkQqysk6vmE",
+      "title": "திருக்குறள் - அறிவுடைமை | Arivudaimai | Full Song Film",
+      "file": "arivudaimai\\ARIVUDAIMAI-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "FkQqysk6vmE",
+        "durationSeconds": 301.75,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 20668000
+      }
+    },
+    {
+      "sourceId": "9mOpq9daQVs",
+      "title": "திருக்குறள் - அவையறிதல் | Avaiyarithal | Full Song Film",
+      "file": "avaiyarithal\\AVAIYARITHAL-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "9mOpq9daQVs",
+        "durationSeconds": 229.58333333333334,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 14160483
+      }
+    }
+  ]
+}

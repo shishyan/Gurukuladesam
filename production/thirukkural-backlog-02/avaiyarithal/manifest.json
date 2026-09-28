@@ -1,0 +1,88 @@
+{
+  "sourceId": "9mOpq9daQVs",
+  "title": "திருக்குறள் - அவையறிதல் | Avaiyarithal | Full Song Film",
+  "output": "AVAIYARITHAL-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "narrative scene 1",
+      "inFrame": 0,
+      "outFrame": 226
+    },
+    {
+      "image": "S02.png",
+      "role": "narrative scene 2",
+      "inFrame": 226,
+      "outFrame": 468
+    },
+    {
+      "image": "S03.png",
+      "role": "narrative scene 3",
+      "inFrame": 468,
+      "outFrame": 696
+    },
+    {
+      "image": "S04.png",
+      "role": "narrative scene 4",
+      "inFrame": 696,
+      "outFrame": 919
+    },
+    {
+      "image": "S05.png",
+      "role": "narrative scene 5",
+      "inFrame": 919,
+      "outFrame": 1156
+    },
+    {
+      "image": "S06.png",
+      "role": "narrative scene 6",
+      "inFrame": 1156,
+      "outFrame": 1369
+    },
+    {
+      "image": "S07.png",
+      "role": "narrative scene 7",
+      "inFrame": 1369,
+      "outFrame": 1604
+    },
+    {
+      "image": "S08.png",
+      "role": "narrative scene 8",
+      "inFrame": 1604,
+      "outFrame": 1844
+    },
+    {
+      "image": "S09.png",
+      "role": "narrative scene 9",
+      "inFrame": 1844,
+      "outFrame": 2066
+    },
+    {
+      "image": "S10.png",
+      "role": "narrative scene 10",
+      "inFrame": 2066,
+      "outFrame": 2296
+    },
+    {
+      "image": "S11.png",
+      "role": "narrative scene 11",
+      "inFrame": 2296,
+      "outFrame": 2516
+    },
+    {
+      "image": "S12.png",
+      "role": "narrative scene 12",
+      "inFrame": 2516,
+      "outFrame": 2755
+    }
+  ],
+  "imageDerived": true,
+  "duplicateAudit": {
+    "publicVideosChecked": 180,
+    "matchingFilms": []
+  },
+  "publicationStatus": "pending YouTube daily upload quota",
+  "fps": 12,
+  "targetFrames": 2755,
+  "cutRule": "near even spacing at low audio energy"
+}
