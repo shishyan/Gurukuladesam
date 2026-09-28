@@ -40,8 +40,8 @@
       "sourceId": "FkQqysk6vmE",
       "title": "திருக்குறள் - அறிவுடைமை | Arivudaimai | Full Song Film",
       "file": "arivudaimai\\ARIVUDAIMAI-CINEMATIC-groups-v2.mp4",
-      "status": "ready; revised group scenes; pending publication",
-      "publishedUrl": null,
+      "status": "published and public playback verified",
+      "publishedUrl": "https://www.youtube.com/watch?v=_Q2t-TcmDT4",
       "qc": {
         "sourceId": "FkQqysk6vmE",
         "durationSeconds": 301.75,
@@ -68,7 +68,9 @@
         "savedToDrive": true,
         "volumePercent": 100,
         "muted": false
-      }
+      },
+      "publicationVerified": true,
+      "publishedAtUtc": "2026-09-28T13:02:17.457054+00:00"
     },
     {
       "sourceId": "9mOpq9daQVs",

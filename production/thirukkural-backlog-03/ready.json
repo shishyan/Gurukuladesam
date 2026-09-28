@@ -3,8 +3,8 @@
     {
       "sourceId": "L-FvFZeT_cQ",
       "title": "திருக்குறள் - இடனறிதல் | Idanarithal | Full Song Film",
-      "file": "idanarithal\\IDANARITHAL-CINEMATIC-v1.mp4",
-      "status": "ready; pending daily upload quota",
+      "file": "idanarithal\\IDANARITHAL-CINEMATIC-groups-v2.mp4",
+      "status": "ready; revised group scenes; pending publication",
       "publishedUrl": null,
       "qc": {
         "sourceId": "L-FvFZeT_cQ",
@@ -15,9 +15,17 @@
         "fullDecodePassed": true,
         "allScenesHaveMovement": true,
         "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 23595666
+        "fileBytes": 25237420,
+        "groupSceneRevision": {
+          "replacedScenes": [
+            1
+          ],
+          "reason": "user preference for more group gatherings",
+          "originalManifest": "manifest.json"
+        }
       },
-      "googleVids": "https://docs.google.com/videos/d/1oqYy3raK_o8YulNlcx0Tiq1ic7IXydMYh4gVAc6gUZ0/edit",
+      "supersededGoogleVids": "https://docs.google.com/videos/d/1oqYy3raK_o8YulNlcx0Tiq1ic7IXydMYh4gVAc6gUZ0/edit",
+      "googleVids": "https://docs.google.com/videos/d/1dQTJQ4RhL9hfQAd0jZ0ssjaMCDRNz7deAKPQQgIuR3A/edit",
       "vidsVerification": {
         "savedToDrive": true,
         "volumePercent": 100,
@@ -27,8 +35,8 @@
     {
       "sourceId": "B9N2j7r2KkI",
       "title": "திருக்குறள் - இடுக்கண் அழியாமை | Idukkan Azhiyaamai | Full Song Film",
-      "file": "idukkan_azhiyaamai\\IDUKKAN_AZHIYAAMAI-CINEMATIC-v1.mp4",
-      "status": "ready; pending daily upload quota",
+      "file": "idukkan_azhiyaamai\\IDUKKAN_AZHIYAAMAI-CINEMATIC-groups-v2.mp4",
+      "status": "ready; revised group scenes; pending publication",
       "publishedUrl": null,
       "qc": {
         "sourceId": "B9N2j7r2KkI",
@@ -39,9 +47,18 @@
         "fullDecodePassed": true,
         "allScenesHaveMovement": true,
         "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 24333684
+        "fileBytes": 26861757,
+        "groupSceneRevision": {
+          "replacedScenes": [
+            1,
+            11
+          ],
+          "reason": "user preference for more group gatherings",
+          "originalManifest": "manifest.json"
+        }
       },
-      "googleVids": "https://docs.google.com/videos/d/1JGo2uKNHgnsTMB6GqljBG-sbfuaGIaeoDafBgBfyVa8/edit",
+      "supersededGoogleVids": "https://docs.google.com/videos/d/1JGo2uKNHgnsTMB6GqljBG-sbfuaGIaeoDafBgBfyVa8/edit",
+      "googleVids": "https://docs.google.com/videos/d/1VAQ4FQgBVftU6-2GwitNglPuu6ox1qPwOOEgmcVzWDA/edit",
       "vidsVerification": {
         "savedToDrive": true,
         "volumePercent": 100,
@@ -51,8 +68,8 @@
     {
       "sourceId": "nHj4Q196kU4",
       "title": "திருக்குறள் - ஊக்கமுடைமை | Ookkamudaimai | Full Song Film",
-      "file": "ookkamudaimai\\OOKKAMUDAIMAI-CINEMATIC-v1.mp4",
-      "status": "ready; pending daily upload quota",
+      "file": "ookkamudaimai\\OOKKAMUDAIMAI-CINEMATIC-groups-v2.mp4",
+      "status": "ready; revised group scenes; pending publication",
       "publishedUrl": null,
       "qc": {
         "sourceId": "nHj4Q196kU4",
@@ -63,9 +80,19 @@
         "fullDecodePassed": true,
         "allScenesHaveMovement": true,
         "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 20478152
+        "fileBytes": 25050714,
+        "groupSceneRevision": {
+          "replacedScenes": [
+            1,
+            6,
+            11
+          ],
+          "reason": "user preference for more group gatherings",
+          "originalManifest": "manifest.json"
+        }
       },
-      "googleVids": "https://docs.google.com/videos/d/13bIQGGPwNCX2QxO2643iHJTXJNJHU4JqElwZFUvilxg/edit",
+      "supersededGoogleVids": "https://docs.google.com/videos/d/13bIQGGPwNCX2QxO2643iHJTXJNJHU4JqElwZFUvilxg/edit",
+      "googleVids": "https://docs.google.com/videos/d/1_NS_yLOtrbLby95XtTRpZ04HZYbnqIozZn3jQUs7TbA/edit",
       "vidsVerification": {
         "savedToDrive": true,
         "volumePercent": 100,

@@ -48,24 +48,30 @@
     },
     {
       "sourceId": "L-FvFZeT_cQ",
-      "googleVids": "https://docs.google.com/videos/d/1oqYy3raK_o8YulNlcx0Tiq1ic7IXydMYh4gVAc6gUZ0/edit",
+      "googleVids": "https://docs.google.com/videos/d/1dQTJQ4RhL9hfQAd0jZ0ssjaMCDRNz7deAKPQQgIuR3A/edit",
       "savedToDrive": true,
       "volumePercent": 100,
-      "muted": false
+      "muted": false,
+      "supersededGoogleVids": "https://docs.google.com/videos/d/1oqYy3raK_o8YulNlcx0Tiq1ic7IXydMYh4gVAc6gUZ0/edit",
+      "revision": "groups-v2"
     },
     {
       "sourceId": "B9N2j7r2KkI",
-      "googleVids": "https://docs.google.com/videos/d/1JGo2uKNHgnsTMB6GqljBG-sbfuaGIaeoDafBgBfyVa8/edit",
+      "googleVids": "https://docs.google.com/videos/d/1VAQ4FQgBVftU6-2GwitNglPuu6ox1qPwOOEgmcVzWDA/edit",
       "savedToDrive": true,
       "volumePercent": 100,
-      "muted": false
+      "muted": false,
+      "supersededGoogleVids": "https://docs.google.com/videos/d/1JGo2uKNHgnsTMB6GqljBG-sbfuaGIaeoDafBgBfyVa8/edit",
+      "revision": "groups-v2"
     },
     {
       "sourceId": "nHj4Q196kU4",
-      "googleVids": "https://docs.google.com/videos/d/13bIQGGPwNCX2QxO2643iHJTXJNJHU4JqElwZFUvilxg/edit",
+      "googleVids": "https://docs.google.com/videos/d/1_NS_yLOtrbLby95XtTRpZ04HZYbnqIozZn3jQUs7TbA/edit",
       "savedToDrive": true,
       "volumePercent": 100,
-      "muted": false
+      "muted": false,
+      "supersededGoogleVids": "https://docs.google.com/videos/d/13bIQGGPwNCX2QxO2643iHJTXJNJHU4JqElwZFUvilxg/edit",
+      "revision": "groups-v2"
     },
     {
       "sourceId": "h4Pc0KxvnRo",

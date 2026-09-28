@@ -1,41 +1,14 @@
 {
   "channel": "@guru-kula-desam",
-  "pendingCount": 32,
+  "pendingCount": 31,
   "blocker": null,
   "releaseInstructions": "Recheck public channel for duplicates, import locally finished films into Google Vids, publish through the correct channel Studio, and verify public URLs. Scheduling requires the upload to succeed first.",
   "songs": [
     {
-      "sourceId": "FkQqysk6vmE",
-      "title": "திருக்குறள் - அறிவுடைமை | Arivudaimai | Full Song Film",
-      "file": "thirukkural-backlog-02\\arivudaimai\\ARIVUDAIMAI-CINEMATIC-groups-v2.mp4",
-      "googleVids": "https://docs.google.com/videos/d/1jEyWNW3Ha8EWfDvGNdZmfEYkMyAqHZ69rZPJpRmlrjI/edit",
-      "status": "ready; pending publication",
-      "qc": {
-        "sourceId": "FkQqysk6vmE",
-        "durationSeconds": 301.75,
-        "scenes": 12,
-        "uniqueImages": 12,
-        "originalAacBitstreamMatched": true,
-        "fullDecodePassed": true,
-        "allScenesHaveMovement": true,
-        "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 24740529,
-        "groupSceneRevision": {
-          "replacedScenes": [
-            1,
-            6,
-            12
-          ],
-          "reason": "user preference for more group gatherings",
-          "originalManifest": "manifest.json"
-        }
-      }
-    },
-    {
       "sourceId": "L-FvFZeT_cQ",
       "title": "திருக்குறள் - இடனறிதல் | Idanarithal | Full Song Film",
-      "file": "thirukkural-backlog-03\\idanarithal\\IDANARITHAL-CINEMATIC-v1.mp4",
-      "googleVids": "https://docs.google.com/videos/d/1oqYy3raK_o8YulNlcx0Tiq1ic7IXydMYh4gVAc6gUZ0/edit",
+      "file": "thirukkural-backlog-03\\idanarithal\\IDANARITHAL-CINEMATIC-groups-v2.mp4",
+      "googleVids": "https://docs.google.com/videos/d/1dQTJQ4RhL9hfQAd0jZ0ssjaMCDRNz7deAKPQQgIuR3A/edit",
       "status": "ready; pending publication",
       "qc": {
         "sourceId": "L-FvFZeT_cQ",
@@ -46,14 +19,21 @@
         "fullDecodePassed": true,
         "allScenesHaveMovement": true,
         "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 23595666
+        "fileBytes": 25237420,
+        "groupSceneRevision": {
+          "replacedScenes": [
+            1
+          ],
+          "reason": "user preference for more group gatherings",
+          "originalManifest": "manifest.json"
+        }
       }
     },
     {
       "sourceId": "B9N2j7r2KkI",
       "title": "திருக்குறள் - இடுக்கண் அழியாமை | Idukkan Azhiyaamai | Full Song Film",
-      "file": "thirukkural-backlog-03\\idukkan_azhiyaamai\\IDUKKAN_AZHIYAAMAI-CINEMATIC-v1.mp4",
-      "googleVids": "https://docs.google.com/videos/d/1JGo2uKNHgnsTMB6GqljBG-sbfuaGIaeoDafBgBfyVa8/edit",
+      "file": "thirukkural-backlog-03\\idukkan_azhiyaamai\\IDUKKAN_AZHIYAAMAI-CINEMATIC-groups-v2.mp4",
+      "googleVids": "https://docs.google.com/videos/d/1VAQ4FQgBVftU6-2GwitNglPuu6ox1qPwOOEgmcVzWDA/edit",
       "status": "ready; pending publication",
       "qc": {
         "sourceId": "B9N2j7r2KkI",
@@ -64,14 +44,22 @@
         "fullDecodePassed": true,
         "allScenesHaveMovement": true,
         "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 24333684
+        "fileBytes": 26861757,
+        "groupSceneRevision": {
+          "replacedScenes": [
+            1,
+            11
+          ],
+          "reason": "user preference for more group gatherings",
+          "originalManifest": "manifest.json"
+        }
       }
     },
     {
       "sourceId": "nHj4Q196kU4",
       "title": "திருக்குறள் - ஊக்கமுடைமை | Ookkamudaimai | Full Song Film",
-      "file": "thirukkural-backlog-03\\ookkamudaimai\\OOKKAMUDAIMAI-CINEMATIC-v1.mp4",
-      "googleVids": "https://docs.google.com/videos/d/13bIQGGPwNCX2QxO2643iHJTXJNJHU4JqElwZFUvilxg/edit",
+      "file": "thirukkural-backlog-03\\ookkamudaimai\\OOKKAMUDAIMAI-CINEMATIC-groups-v2.mp4",
+      "googleVids": "https://docs.google.com/videos/d/1_NS_yLOtrbLby95XtTRpZ04HZYbnqIozZn3jQUs7TbA/edit",
       "status": "ready; pending publication",
       "qc": {
         "sourceId": "nHj4Q196kU4",
@@ -82,7 +70,16 @@
         "fullDecodePassed": true,
         "allScenesHaveMovement": true,
         "logoPosition": "bottom-left, 24px inset",
-        "fileBytes": 20478152
+        "fileBytes": 25050714,
+        "groupSceneRevision": {
+          "replacedScenes": [
+            1,
+            6,
+            11
+          ],
+          "reason": "user preference for more group gatherings",
+          "originalManifest": "manifest.json"
+        }
       }
     },
     {

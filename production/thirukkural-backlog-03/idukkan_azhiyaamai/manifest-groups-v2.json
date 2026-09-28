@@ -1,0 +1,121 @@
+{
+  "sourceId": "B9N2j7r2KkI",
+  "title": "திருக்குறள் - இடுக்கண் அழியாமை | Idukkan Azhiyaamai | Full Song Film",
+  "output": "IDUKKAN_AZHIYAAMAI-CINEMATIC-groups-v2.mp4",
+  "shots": [
+    {
+      "image": "G01.png",
+      "role": "group gathering scene",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-03\\idukkan_azhiyaamai\\new-1.png",
+      "inFrame": 0,
+      "outFrame": 304
+    },
+    {
+      "image": "S02.png",
+      "role": "narrative scene 2",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S02.png",
+      "inFrame": 304,
+      "outFrame": 585
+    },
+    {
+      "image": "S03.png",
+      "role": "narrative scene 3",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S05.png",
+      "inFrame": 585,
+      "outFrame": 891
+    },
+    {
+      "image": "S04.png",
+      "role": "narrative scene 4",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-03\\idukkan_azhiyaamai\\new-2.png",
+      "inFrame": 891,
+      "outFrame": 1172
+    },
+    {
+      "image": "S05.png",
+      "role": "narrative scene 5",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S06.png",
+      "inFrame": 1172,
+      "outFrame": 1469
+    },
+    {
+      "image": "S06.png",
+      "role": "narrative scene 6",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S11.png",
+      "inFrame": 1469,
+      "outFrame": 1751
+    },
+    {
+      "image": "S07.png",
+      "role": "narrative scene 7",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S07.png",
+      "inFrame": 1751,
+      "outFrame": 2055
+    },
+    {
+      "image": "S08.png",
+      "role": "narrative scene 8",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-03\\idukkan_azhiyaamai\\new-3.png",
+      "inFrame": 2055,
+      "outFrame": 2332
+    },
+    {
+      "image": "S09.png",
+      "role": "narrative scene 9",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S09.png",
+      "inFrame": 2332,
+      "outFrame": 2637
+    },
+    {
+      "image": "S10.png",
+      "role": "narrative scene 10",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S11.png",
+      "inFrame": 2637,
+      "outFrame": 2919
+    },
+    {
+      "image": "G11.png",
+      "role": "group gathering scene",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S12.png",
+      "inFrame": 2919,
+      "outFrame": 3213
+    },
+    {
+      "image": "S12.png",
+      "role": "narrative scene 12",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-03\\idukkan_azhiyaamai\\new-4.png",
+      "inFrame": 3213,
+      "outFrame": 3515
+    }
+  ],
+  "imageDerived": true,
+  "theme": "steadfastness through difficulty",
+  "duplicateAudit": {
+    "publicVideosChecked": 180,
+    "matchingFilms": []
+  },
+  "publicationStatus": "pending YouTube daily upload quota",
+  "fps": 12,
+  "targetFrames": 3515,
+  "cutRule": "near even spacing at low audio energy",
+  "groupSceneRevision": {
+    "replacedScenes": [
+      1,
+      11
+    ],
+    "reason": "user preference for more group gatherings",
+    "originalManifest": "manifest.json"
+  }
+}

@@ -24,12 +24,11 @@
       "sourceId": "um09tyT-2p0",
       "url": "https://www.youtube.com/watch?v=zj4_pEqa_cs",
       "status": "published and public playback verified"
+    },
+    {
+      "sourceId": "FkQqysk6vmE",
+      "url": "https://www.youtube.com/watch?v=_Q2t-TcmDT4",
+      "status": "published and public playback verified"
     }
-  ],
-  "uploadPickerBlocker": {
-    "sourceId": "FkQqysk6vmE",
-    "error": "file chooser timeout after three attempts across two tabs",
-    "observedUtc": "2026-09-28T09:45:17.557603+00:00",
-    "localAndVidsSaved": true
-  }
+  ]
 }

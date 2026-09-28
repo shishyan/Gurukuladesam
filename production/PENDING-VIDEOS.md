@@ -1,15 +1,14 @@
 # Pending song videos
 
-32 QC-passed full-song films are ready locally. Upload slots were available at the latest check.
+31 QC-passed full-song films are ready locally. Upload slots were available at the latest check.
 
-32 films have saved Google Vids projects; 0 still need a Vids import.
+31 films have saved Google Vids projects; 0 still need a Vids import.
 
 | Song | Source | Local MP4 |
 | --- | --- | --- |
-| திருக்குறள் - அறிவுடைமை / Arivudaimai / Full Song Film | `FkQqysk6vmE` | [Open film](thirukkural-backlog-02/arivudaimai/ARIVUDAIMAI-CINEMATIC-groups-v2.mp4) |
-| திருக்குறள் - இடனறிதல் / Idanarithal / Full Song Film | `L-FvFZeT_cQ` | [Open film](thirukkural-backlog-03/idanarithal/IDANARITHAL-CINEMATIC-v1.mp4) |
-| திருக்குறள் - இடுக்கண் அழியாமை / Idukkan Azhiyaamai / Full Song Film | `B9N2j7r2KkI` | [Open film](thirukkural-backlog-03/idukkan_azhiyaamai/IDUKKAN_AZHIYAAMAI-CINEMATIC-v1.mp4) |
-| திருக்குறள் - ஊக்கமுடைமை / Ookkamudaimai / Full Song Film | `nHj4Q196kU4` | [Open film](thirukkural-backlog-03/ookkamudaimai/OOKKAMUDAIMAI-CINEMATIC-v1.mp4) |
+| திருக்குறள் - இடனறிதல் / Idanarithal / Full Song Film | `L-FvFZeT_cQ` | [Open film](thirukkural-backlog-03/idanarithal/IDANARITHAL-CINEMATIC-groups-v2.mp4) |
+| திருக்குறள் - இடுக்கண் அழியாமை / Idukkan Azhiyaamai / Full Song Film | `B9N2j7r2KkI` | [Open film](thirukkural-backlog-03/idukkan_azhiyaamai/IDUKKAN_AZHIYAAMAI-CINEMATIC-groups-v2.mp4) |
+| திருக்குறள் - ஊக்கமுடைமை / Ookkamudaimai / Full Song Film | `nHj4Q196kU4` | [Open film](thirukkural-backlog-03/ookkamudaimai/OOKKAMUDAIMAI-CINEMATIC-groups-v2.mp4) |
 | திருக்குறள் - கள்ளாமை / Kallaamai / Full Song Film | `h4Pc0KxvnRo` | [Open film](thirukkural-backlog-04/kallaamai/KALLAAMAI-CINEMATIC-v1.mp4) |
 | திருக்குறள் - கண்ணோட்டம் / Kannottam / Full Song Film | `SI8ItN6nqck` | [Open film](thirukkural-backlog-04/kannottam/KANNOTTAM-CINEMATIC-v1.mp4) |
 | திருக்குறள் - ஒற்றாடல் / Ottraadal / Full Song Film | `cn776n6oKXQ` | [Open film](thirukkural-backlog-04/ottraadal/OTTRAADAL-CINEMATIC-v1.mp4) |

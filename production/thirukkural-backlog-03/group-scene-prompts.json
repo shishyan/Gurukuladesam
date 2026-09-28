@@ -1,0 +1,41 @@
+{
+  "mode": "built-in image_gen",
+  "jobs": [
+    {
+      "key": "idan-G01",
+      "folder": "idanarithal",
+      "slot": 1,
+      "prompt": "Use case: historical-scene. Asset type: single seamless 16:9 cinematic realistic Tamil historical illustration for a full Thirukkural song film. Ancient Tamil stone temples and villages, ivory dhotis and colorful sarees, natural anatomy, wide group composition, multiple equally prominent people interacting. No text, no watermark, no logo, no collage, no modern items. Understanding the right place: twelve villagers and elders gathered at a hillside overlooking river, fertile fields and stone fort, collaboratively studying a palm-leaf map and pointing toward locations for a new settlement. Thoughtful planning, golden dawn, landscape and group equally visible."
+    },
+    {
+      "key": "iduk-G01",
+      "folder": "idukkan_azhiyaamai",
+      "slot": 1,
+      "prompt": "Use case: historical-scene. Asset type: single seamless 16:9 cinematic realistic Tamil historical illustration for a full Thirukkural song film. Ancient Tamil stone temples and villages, ivory dhotis and colorful sarees, natural anatomy, wide group composition, multiple equally prominent people interacting. No text, no watermark, no logo, no collage, no modern items. Resilience in adversity: fifteen villagers, women and men, gathered in a damaged field after a storm has passed, calmly making a plan to rebuild irrigation channels. Some hold baskets and tools, elders encourage younger workers, cooperation and hope. Soft morning light through clearing clouds, wet fields but no rain falling."
+    },
+    {
+      "key": "ook-G01",
+      "folder": "ookkamudaimai",
+      "slot": 1,
+      "prompt": "Use case: historical-scene. Asset type: single seamless 16:9 cinematic realistic Tamil historical illustration for a full Thirukkural song film. Ancient Tamil stone temples and villages, ivory dhotis and colorful sarees, natural anatomy, wide group composition, multiple equally prominent people interacting. No text, no watermark, no logo, no collage, no modern items. Energy and determination: twelve learners of different adult ages seated in a circle beneath a banyan tree beside a temple courtyard, reading palm-leaf manuscripts and enthusiastically discussing knowledge together. Several contribute equally, shared purpose, warm sunrise."
+    },
+    {
+      "key": "iduk-G11",
+      "folder": "idukkan_azhiyaamai",
+      "slot": 11,
+      "prompt": "Use case: historical-scene. Single seamless landscape 16:9 cinematic realistic historical Tamil illustration. Ancient Tamil temples, village and palm fields, historically appropriate ivory dhotis and jewel-colored sarees. Broad group composition, several equally prominent people interacting, natural anatomy. No text, watermark, logo, collage or modern objects. Resilience achieved: fifteen villagers men and women gathered at sunset beside repaired irrigation channels and thriving crops, sharing baskets of harvest, encouraging each other after overcoming hardship. Modest grateful celebration and collective success, nobody alone."
+    },
+    {
+      "key": "ook-G06",
+      "folder": "ookkamudaimai",
+      "slot": 6,
+      "prompt": "Use case: historical-scene. Single seamless landscape 16:9 cinematic realistic historical Tamil illustration. Ancient Tamil temples, village and palm fields, historically appropriate ivory dhotis and jewel-colored sarees. Broad group composition, several equally prominent people interacting, natural anatomy. No text, watermark, logo, collage or modern objects. Determination in skilled craft: nine men and women gathered cooperatively weaving cloth at three wooden looms in a shaded open stone courtyard. Elderly artisans mentor younger adults, others wind yarn and discuss patterns. Shared industrious effort, colorful fabric, afternoon light outside, dry floor."
+    },
+    {
+      "key": "ook-G11",
+      "folder": "ookkamudaimai",
+      "slot": 11,
+      "prompt": "Use case: historical-scene. Single seamless landscape 16:9 cinematic realistic historical Tamil illustration. Ancient Tamil temples, village and palm fields, historically appropriate ivory dhotis and jewel-colored sarees. Broad group composition, several equally prominent people interacting, natural anatomy. No text, watermark, logo, collage or modern objects. Shared ambition and determination: fifteen villagers, scholars, farmers and artisans gather on a hill beside a stone temple at warm sunset, looking toward thriving fields and a completed village water channel, discussing their next collective project, carrying tools and palm-leaf plans. A group with shared purpose rather than a lone central hero."
+    }
+  ]
+}

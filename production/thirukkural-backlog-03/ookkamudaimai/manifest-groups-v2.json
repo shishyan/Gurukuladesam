@@ -1,0 +1,122 @@
+{
+  "sourceId": "nHj4Q196kU4",
+  "title": "திருக்குறள் - ஊக்கமுடைமை | Ookkamudaimai | Full Song Film",
+  "output": "OOKKAMUDAIMAI-CINEMATIC-groups-v2.mp4",
+  "shots": [
+    {
+      "image": "G01.png",
+      "role": "group gathering scene",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-03\\ookkamudaimai\\new-1.png",
+      "inFrame": 0,
+      "outFrame": 313
+    },
+    {
+      "image": "S02.png",
+      "role": "narrative scene 2",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S01.png",
+      "inFrame": 313,
+      "outFrame": 606
+    },
+    {
+      "image": "S03.png",
+      "role": "narrative scene 3",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\avai_anjaamai\\S01.png",
+      "inFrame": 606,
+      "outFrame": 912
+    },
+    {
+      "image": "S04.png",
+      "role": "narrative scene 4",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-03\\ookkamudaimai\\new-2.png",
+      "inFrame": 912,
+      "outFrame": 1241
+    },
+    {
+      "image": "S05.png",
+      "role": "narrative scene 5",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S03.png",
+      "inFrame": 1241,
+      "outFrame": 1543
+    },
+    {
+      "image": "G06.png",
+      "role": "group gathering scene",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S04.png",
+      "inFrame": 1543,
+      "outFrame": 1842
+    },
+    {
+      "image": "S07.png",
+      "role": "narrative scene 7",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S08.png",
+      "inFrame": 1842,
+      "outFrame": 2145
+    },
+    {
+      "image": "S08.png",
+      "role": "narrative scene 8",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-03\\ookkamudaimai\\new-3.png",
+      "inFrame": 2145,
+      "outFrame": 2449
+    },
+    {
+      "image": "S09.png",
+      "role": "narrative scene 9",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\avai_anjaamai\\S11.png",
+      "inFrame": 2449,
+      "outFrame": 2753
+    },
+    {
+      "image": "S10.png",
+      "role": "narrative scene 10",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S10.png",
+      "inFrame": 2753,
+      "outFrame": 3071
+    },
+    {
+      "image": "G11.png",
+      "role": "group gathering scene",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S12.png",
+      "inFrame": 3071,
+      "outFrame": 3368
+    },
+    {
+      "image": "S12.png",
+      "role": "narrative scene 12",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-03\\ookkamudaimai\\new-4.png",
+      "inFrame": 3368,
+      "outFrame": 3687
+    }
+  ],
+  "imageDerived": true,
+  "theme": "determination and energy",
+  "duplicateAudit": {
+    "publicVideosChecked": 180,
+    "matchingFilms": []
+  },
+  "publicationStatus": "pending YouTube daily upload quota",
+  "fps": 12,
+  "targetFrames": 3687,
+  "cutRule": "near even spacing at low audio energy",
+  "groupSceneRevision": {
+    "replacedScenes": [
+      1,
+      6,
+      11
+    ],
+    "reason": "user preference for more group gatherings",
+    "originalManifest": "manifest.json"
+  }
+}
