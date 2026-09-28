@@ -1,0 +1,58 @@
+{
+  "songs": [
+    {
+      "sourceId": "jBA9wlyNjAE",
+      "title": "திருக்குறள் - அமைச்சு | Amaichu | Full Song Film",
+      "file": "amaichu\\AMAICHU-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "jBA9wlyNjAE",
+        "durationSeconds": 307.5,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 20326908
+      }
+    },
+    {
+      "sourceId": "IiZoud1sP2o",
+      "title": "திருக்குறள் - அரண் | Aran | Full Song Film",
+      "file": "aran\\ARAN-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "IiZoud1sP2o",
+        "durationSeconds": 273.25,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 23370911
+      }
+    },
+    {
+      "sourceId": "FrZmyvY3sEc",
+      "title": "திருக்குறள் - அவை அஞ்சாமை | Avai Anjaamai | Full Song Film",
+      "file": "avai_anjaamai\\AVAI_ANJAAMAI-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "FrZmyvY3sEc",
+        "durationSeconds": 238.33333333333334,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 14887652
+      }
+    }
+  ]
+}

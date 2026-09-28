@@ -1,0 +1,88 @@
+{
+  "sourceId": "jBA9wlyNjAE",
+  "title": "திருக்குறள் - அமைச்சு | Amaichu | Full Song Film",
+  "output": "AMAICHU-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "narrative scene 1",
+      "inFrame": 0,
+      "outFrame": 306
+    },
+    {
+      "image": "S02.png",
+      "role": "narrative scene 2",
+      "inFrame": 306,
+      "outFrame": 605
+    },
+    {
+      "image": "S03.png",
+      "role": "narrative scene 3",
+      "inFrame": 605,
+      "outFrame": 920
+    },
+    {
+      "image": "S04.png",
+      "role": "narrative scene 4",
+      "inFrame": 920,
+      "outFrame": 1238
+    },
+    {
+      "image": "S05.png",
+      "role": "narrative scene 5",
+      "inFrame": 1238,
+      "outFrame": 1537
+    },
+    {
+      "image": "S06.png",
+      "role": "narrative scene 6",
+      "inFrame": 1537,
+      "outFrame": 1857
+    },
+    {
+      "image": "S07.png",
+      "role": "narrative scene 7",
+      "inFrame": 1857,
+      "outFrame": 2148
+    },
+    {
+      "image": "S08.png",
+      "role": "narrative scene 8",
+      "inFrame": 2148,
+      "outFrame": 2466
+    },
+    {
+      "image": "S09.png",
+      "role": "narrative scene 9",
+      "inFrame": 2466,
+      "outFrame": 2770
+    },
+    {
+      "image": "S10.png",
+      "role": "narrative scene 10",
+      "inFrame": 2770,
+      "outFrame": 3067
+    },
+    {
+      "image": "S11.png",
+      "role": "narrative scene 11",
+      "inFrame": 3067,
+      "outFrame": 3370
+    },
+    {
+      "image": "S12.png",
+      "role": "narrative scene 12",
+      "inFrame": 3370,
+      "outFrame": 3690
+    }
+  ],
+  "imageDerived": true,
+  "duplicateAudit": {
+    "publicVideosChecked": 180,
+    "matchingFilms": []
+  },
+  "publicationStatus": "pending YouTube daily upload quota",
+  "fps": 12,
+  "targetFrames": 3690,
+  "cutRule": "near even spacing at low audio energy"
+}

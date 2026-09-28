@@ -1,0 +1,88 @@
+{
+  "sourceId": "IiZoud1sP2o",
+  "title": "திருக்குறள் - அரண் | Aran | Full Song Film",
+  "output": "ARAN-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "narrative scene 1",
+      "inFrame": 0,
+      "outFrame": 272
+    },
+    {
+      "image": "S02.png",
+      "role": "narrative scene 2",
+      "inFrame": 272,
+      "outFrame": 536
+    },
+    {
+      "image": "S03.png",
+      "role": "narrative scene 3",
+      "inFrame": 536,
+      "outFrame": 831
+    },
+    {
+      "image": "S04.png",
+      "role": "narrative scene 4",
+      "inFrame": 831,
+      "outFrame": 1084
+    },
+    {
+      "image": "S05.png",
+      "role": "narrative scene 5",
+      "inFrame": 1084,
+      "outFrame": 1358
+    },
+    {
+      "image": "S06.png",
+      "role": "narrative scene 6",
+      "inFrame": 1358,
+      "outFrame": 1640
+    },
+    {
+      "image": "S07.png",
+      "role": "narrative scene 7",
+      "inFrame": 1640,
+      "outFrame": 1902
+    },
+    {
+      "image": "S08.png",
+      "role": "narrative scene 8",
+      "inFrame": 1902,
+      "outFrame": 2179
+    },
+    {
+      "image": "S09.png",
+      "role": "narrative scene 9",
+      "inFrame": 2179,
+      "outFrame": 2470
+    },
+    {
+      "image": "S10.png",
+      "role": "narrative scene 10",
+      "inFrame": 2470,
+      "outFrame": 2720
+    },
+    {
+      "image": "S11.png",
+      "role": "narrative scene 11",
+      "inFrame": 2720,
+      "outFrame": 3002
+    },
+    {
+      "image": "S12.png",
+      "role": "narrative scene 12",
+      "inFrame": 3002,
+      "outFrame": 3279
+    }
+  ],
+  "imageDerived": true,
+  "duplicateAudit": {
+    "publicVideosChecked": 180,
+    "matchingFilms": []
+  },
+  "publicationStatus": "pending YouTube daily upload quota",
+  "fps": 12,
+  "targetFrames": 3279,
+  "cutRule": "near even spacing at low audio energy"
+}
