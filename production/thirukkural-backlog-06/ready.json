@@ -1,0 +1,58 @@
+{
+  "songs": [
+    {
+      "sourceId": "3CICxCn-4A0",
+      "title": "திருக்குறள் - கேள்விச் செல்வம் | Kelvi Selvam | Full Song Film",
+      "file": "kelvi_selvam\\KELVI_SELVAM-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "3CICxCn-4A0",
+        "durationSeconds": 248.75,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 16957023
+      }
+    },
+    {
+      "sourceId": "tqF2NBWp6_8",
+      "title": "திருக்குறள் - கொடுங்கோன்மை | Kodungonmai | Full Song Film",
+      "file": "kodungonmai\\KODUNGONMAI-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "tqF2NBWp6_8",
+        "durationSeconds": 275.1666666666667,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 19781669
+      }
+    },
+    {
+      "sourceId": "5-z9v-1INWg",
+      "title": "திருக்குறள் - சிற்றினம் சேராமை | Sitrinam Seraamai | Full Song Film",
+      "file": "sitrinam_seraamai\\SITRINAM_SERAAMAI-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "5-z9v-1INWg",
+        "durationSeconds": 353.4166666666667,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 20513543
+      }
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "channel": "@guru-kula-desam",
-  "pendingCount": 17,
+  "pendingCount": 26,
   "blocker": "YouTube daily upload limit",
   "releaseInstructions": "Recheck public channel for duplicates, import locally finished films into Google Vids, publish through the correct channel Studio, and verify public URLs. Scheduling requires the upload to succeed first.",
   "songs": [
@@ -286,6 +286,168 @@
         "allScenesHaveMovement": true,
         "logoPosition": "bottom-left, 24px inset",
         "fileBytes": 15287135
+      }
+    },
+    {
+      "sourceId": "3CICxCn-4A0",
+      "title": "திருக்குறள் - கேள்விச் செல்வம் | Kelvi Selvam | Full Song Film",
+      "file": "thirukkural-backlog-06\\kelvi_selvam\\KELVI_SELVAM-CINEMATIC-v1.mp4",
+      "googleVids": null,
+      "status": "ready; pending upload quota",
+      "qc": {
+        "sourceId": "3CICxCn-4A0",
+        "durationSeconds": 248.75,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 16957023
+      }
+    },
+    {
+      "sourceId": "tqF2NBWp6_8",
+      "title": "திருக்குறள் - கொடுங்கோன்மை | Kodungonmai | Full Song Film",
+      "file": "thirukkural-backlog-06\\kodungonmai\\KODUNGONMAI-CINEMATIC-v1.mp4",
+      "googleVids": null,
+      "status": "ready; pending upload quota",
+      "qc": {
+        "sourceId": "tqF2NBWp6_8",
+        "durationSeconds": 275.1666666666667,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 19781669
+      }
+    },
+    {
+      "sourceId": "5-z9v-1INWg",
+      "title": "திருக்குறள் - சிற்றினம் சேராமை | Sitrinam Seraamai | Full Song Film",
+      "file": "thirukkural-backlog-06\\sitrinam_seraamai\\SITRINAM_SERAAMAI-CINEMATIC-v1.mp4",
+      "googleVids": null,
+      "status": "ready; pending upload quota",
+      "qc": {
+        "sourceId": "5-z9v-1INWg",
+        "durationSeconds": 353.4166666666667,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 20513543
+      }
+    },
+    {
+      "sourceId": "sScywbUNArA",
+      "title": "திருக்குறள் - செங்கோன்மை | Sengonmai | Full Song Film",
+      "file": "thirukkural-backlog-07\\sengonmai\\SENGONMAI-CINEMATIC-v1.mp4",
+      "googleVids": null,
+      "status": "ready; pending upload quota",
+      "qc": {
+        "sourceId": "sScywbUNArA",
+        "durationSeconds": 296.9166666666667,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 19676375
+      }
+    },
+    {
+      "sourceId": "NIvQ6yD1wnY",
+      "title": "திருக்குறள் - சொல்வன்மை | Solvanmai | Full Song Film",
+      "file": "thirukkural-backlog-07\\solvanmai\\SOLVANMAI-CINEMATIC-v1.mp4",
+      "googleVids": null,
+      "status": "ready; pending upload quota",
+      "qc": {
+        "sourceId": "NIvQ6yD1wnY",
+        "durationSeconds": 338.75,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 19836478
+      }
+    },
+    {
+      "sourceId": "pTxTsQzF8Xs",
+      "title": "திருக்குறள் - சுற்றந்தழால் | Suttranthazhaal | Full Song Film",
+      "file": "thirukkural-backlog-07\\suttranthazhaal\\SUTTRANTHAZHAAL-CINEMATIC-v1.mp4",
+      "googleVids": null,
+      "status": "ready; pending upload quota",
+      "qc": {
+        "sourceId": "pTxTsQzF8Xs",
+        "durationSeconds": 413.0833333333333,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 23564178
+      }
+    },
+    {
+      "sourceId": "C7PTFCAFIRI",
+      "title": "திருக்குறள் - அவா அறுத்தல் | Avaa Aruththal | Full Song Film",
+      "file": "thirukkural-backlog-08\\avaa_aruththal\\AVAA_ARUTHTHAL-CINEMATIC-v1.mp4",
+      "googleVids": null,
+      "status": "ready; pending upload quota",
+      "qc": {
+        "sourceId": "C7PTFCAFIRI",
+        "durationSeconds": 231.75,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 16186732
+      }
+    },
+    {
+      "sourceId": "K6mhIh64XE8",
+      "title": "திருக்குறள் - இறை மாட்சி | Irai Maatchi | Full Song Film",
+      "file": "thirukkural-backlog-08\\irai_maatchi\\IRAI_MAATCHI-CINEMATIC-v1.mp4",
+      "googleVids": null,
+      "status": "ready; pending upload quota",
+      "qc": {
+        "sourceId": "K6mhIh64XE8",
+        "durationSeconds": 227.66666666666666,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 15681639
+      }
+    },
+    {
+      "sourceId": "scUcWDtCge8",
+      "title": "திருக்குறள் - ஊழ் வினை | Oozh Vinai | Full Song Film",
+      "file": "thirukkural-backlog-08\\oozh_vinai\\OOZH_VINAI-CINEMATIC-v1.mp4",
+      "googleVids": null,
+      "status": "ready; pending upload quota",
+      "qc": {
+        "sourceId": "scUcWDtCge8",
+        "durationSeconds": 234.08333333333334,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 18914876
       }
     }
   ]

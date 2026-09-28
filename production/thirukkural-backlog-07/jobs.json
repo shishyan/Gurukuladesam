@@ -1,0 +1,55 @@
+{
+  "songs": [
+    {
+      "sourceId": "pTxTsQzF8Xs",
+      "chapter": "சுற்றந்தழால்",
+      "english": "Suttranthazhaal",
+      "theme": "cherishing family and community bonds",
+      "slug": "suttranthazhaal",
+      "supportingImages": [
+        "thirukkural-backlog-01/amaichu/S02.png",
+        "thirukkural-backlog-01/amaichu/S06.png",
+        "thirukkural-backlog-02/arivudaimai/S07.png",
+        "thirukkural-backlog-01/amaichu/S08.png",
+        "thirukkural-backlog-02/avaiyarithal/S07.png",
+        "thirukkural-backlog-02/arivudaimai/S09.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S11.png",
+        "thirukkural-backlog-01/amaichu/S12.png"
+      ]
+    },
+    {
+      "sourceId": "sScywbUNArA",
+      "chapter": "செங்கோன்மை",
+      "english": "Sengonmai",
+      "theme": "fair and just governance",
+      "slug": "sengonmai",
+      "supportingImages": [
+        "thirukkural-backlog-01/amaichu/S02.png",
+        "thirukkural-backlog-01/amaichu/S03.png",
+        "thirukkural-backlog-01/amaichu/S04.png",
+        "thirukkural-backlog-01/amaichu/S06.png",
+        "thirukkural-backlog-01/amaichu/S07.png",
+        "thirukkural-backlog-02/avaiyarithal/S05.png",
+        "thirukkural-backlog-02/avaiyarithal/S09.png",
+        "thirukkural-backlog-01/amaichu/S10.png"
+      ]
+    },
+    {
+      "sourceId": "NIvQ6yD1wnY",
+      "chapter": "சொல்வன்மை",
+      "english": "Solvanmai",
+      "theme": "clear and thoughtful speech",
+      "slug": "solvanmai",
+      "supportingImages": [
+        "thirukkural-backlog-01/amaichu/S02.png",
+        "thirukkural-backlog-01/amaichu/S03.png",
+        "thirukkural-backlog-01/amaichu/S04.png",
+        "thirukkural-backlog-01/amaichu/S06.png",
+        "thirukkural-backlog-01/amaichu/S07.png",
+        "thirukkural-backlog-02/avaiyarithal/S05.png",
+        "thirukkural-backlog-02/avaiyarithal/S09.png",
+        "thirukkural-backlog-01/amaichu/S10.png"
+      ]
+    }
+  ]
+}

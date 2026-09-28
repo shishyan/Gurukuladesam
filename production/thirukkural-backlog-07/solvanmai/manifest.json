@@ -1,0 +1,113 @@
+{
+  "sourceId": "NIvQ6yD1wnY",
+  "title": "திருக்குறள் - சொல்வன்மை | Solvanmai | Full Song Film",
+  "output": "SOLVANMAI-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "narrative scene 1",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-07\\solvanmai\\new-1.png",
+      "inFrame": 0,
+      "outFrame": 332
+    },
+    {
+      "image": "S02.png",
+      "role": "narrative scene 2",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S02.png",
+      "inFrame": 332,
+      "outFrame": 667
+    },
+    {
+      "image": "S03.png",
+      "role": "narrative scene 3",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S03.png",
+      "inFrame": 667,
+      "outFrame": 1008
+    },
+    {
+      "image": "S04.png",
+      "role": "narrative scene 4",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-07\\solvanmai\\new-2.png",
+      "inFrame": 1008,
+      "outFrame": 1366
+    },
+    {
+      "image": "S05.png",
+      "role": "narrative scene 5",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S04.png",
+      "inFrame": 1366,
+      "outFrame": 1702
+    },
+    {
+      "image": "S06.png",
+      "role": "narrative scene 6",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S06.png",
+      "inFrame": 1702,
+      "outFrame": 2021
+    },
+    {
+      "image": "S07.png",
+      "role": "narrative scene 7",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S07.png",
+      "inFrame": 2021,
+      "outFrame": 2375
+    },
+    {
+      "image": "S08.png",
+      "role": "narrative scene 8",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-07\\solvanmai\\new-3.png",
+      "inFrame": 2375,
+      "outFrame": 2698
+    },
+    {
+      "image": "S09.png",
+      "role": "narrative scene 9",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\avaiyarithal\\S05.png",
+      "inFrame": 2698,
+      "outFrame": 3061
+    },
+    {
+      "image": "S10.png",
+      "role": "narrative scene 10",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\avaiyarithal\\S09.png",
+      "inFrame": 3061,
+      "outFrame": 3394
+    },
+    {
+      "image": "S11.png",
+      "role": "narrative scene 11",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S10.png",
+      "inFrame": 3394,
+      "outFrame": 3732
+    },
+    {
+      "image": "S12.png",
+      "role": "narrative scene 12",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-07\\solvanmai\\new-4.png",
+      "inFrame": 3732,
+      "outFrame": 4065
+    }
+  ],
+  "imageDerived": true,
+  "theme": "clear and thoughtful speech",
+  "duplicateAudit": {
+    "publicVideosChecked": 180,
+    "matchingFilms": []
+  },
+  "publicationStatus": "pending YouTube daily upload quota",
+  "fps": 12,
+  "targetFrames": 4065,
+  "cutRule": "near even spacing at low audio energy"
+}

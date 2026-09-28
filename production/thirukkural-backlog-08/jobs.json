@@ -1,0 +1,55 @@
+{
+  "songs": [
+    {
+      "sourceId": "C7PTFCAFIRI",
+      "chapter": "அவா அறுத்தல்",
+      "english": "Avaa Aruththal",
+      "theme": "contentment and freedom from excessive desire",
+      "slug": "avaa_aruththal",
+      "supportingImages": [
+        "thirukkural-backlog-02/arivudaimai/S01.png",
+        "thirukkural-backlog-02/arivudaimai/S02.png",
+        "thirukkural-backlog-02/arivudaimai/S04.png",
+        "thirukkural-backlog-02/arivudaimai/S08.png",
+        "thirukkural-backlog-01/avai_anjaamai/S11.png",
+        "thirukkural-backlog-02/arivudaimai/S10.png",
+        "thirukkural-backlog-02/arivudaimai/S11.png",
+        "thirukkural-backlog-02/arivudaimai/S12.png"
+      ]
+    },
+    {
+      "sourceId": "K6mhIh64XE8",
+      "chapter": "இறை மாட்சி",
+      "english": "Irai Maatchi",
+      "theme": "the virtues and responsibility of a good ruler",
+      "slug": "irai_maatchi",
+      "supportingImages": [
+        "thirukkural-backlog-01/amaichu/S02.png",
+        "thirukkural-backlog-01/amaichu/S03.png",
+        "thirukkural-backlog-01/amaichu/S04.png",
+        "thirukkural-backlog-01/amaichu/S06.png",
+        "thirukkural-backlog-01/amaichu/S07.png",
+        "thirukkural-backlog-02/avaiyarithal/S05.png",
+        "thirukkural-backlog-02/avaiyarithal/S09.png",
+        "thirukkural-backlog-01/amaichu/S10.png"
+      ]
+    },
+    {
+      "sourceId": "scUcWDtCge8",
+      "chapter": "ஊழ் வினை",
+      "english": "Oozh Vinai",
+      "theme": "destiny, changing circumstances and thoughtful human effort",
+      "slug": "oozh_vinai",
+      "supportingImages": [
+        "thirukkural-backlog-02/aalvinaiyudaimai/S01.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S02.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S03.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S04.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S07.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S09.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S10.png",
+        "thirukkural-backlog-02/aalvinaiyudaimai/S11.png"
+      ]
+    }
+  ]
+}

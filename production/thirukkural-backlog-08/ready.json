@@ -1,0 +1,58 @@
+{
+  "songs": [
+    {
+      "sourceId": "C7PTFCAFIRI",
+      "title": "திருக்குறள் - அவா அறுத்தல் | Avaa Aruththal | Full Song Film",
+      "file": "avaa_aruththal\\AVAA_ARUTHTHAL-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "C7PTFCAFIRI",
+        "durationSeconds": 231.75,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 16186732
+      }
+    },
+    {
+      "sourceId": "K6mhIh64XE8",
+      "title": "திருக்குறள் - இறை மாட்சி | Irai Maatchi | Full Song Film",
+      "file": "irai_maatchi\\IRAI_MAATCHI-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "K6mhIh64XE8",
+        "durationSeconds": 227.66666666666666,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 15681639
+      }
+    },
+    {
+      "sourceId": "scUcWDtCge8",
+      "title": "திருக்குறள் - ஊழ் வினை | Oozh Vinai | Full Song Film",
+      "file": "oozh_vinai\\OOZH_VINAI-CINEMATIC-v1.mp4",
+      "status": "ready; pending daily upload quota",
+      "publishedUrl": null,
+      "qc": {
+        "sourceId": "scUcWDtCge8",
+        "durationSeconds": 234.08333333333334,
+        "scenes": 12,
+        "uniqueImages": 12,
+        "originalAacBitstreamMatched": true,
+        "fullDecodePassed": true,
+        "allScenesHaveMovement": true,
+        "logoPosition": "bottom-left, 24px inset",
+        "fileBytes": 18914876
+      }
+    }
+  ]
+}

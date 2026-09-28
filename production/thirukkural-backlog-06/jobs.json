@@ -1,0 +1,55 @@
+{
+  "songs": [
+    {
+      "sourceId": "3CICxCn-4A0",
+      "chapter": "கேள்விச் செல்வம்",
+      "english": "Kelvi Selvam",
+      "theme": "the wealth of listening and learning",
+      "slug": "kelvi_selvam",
+      "supportingImages": [
+        "thirukkural-backlog-02/arivudaimai/S01.png",
+        "thirukkural-backlog-02/arivudaimai/S02.png",
+        "thirukkural-backlog-02/arivudaimai/S04.png",
+        "thirukkural-backlog-02/arivudaimai/S08.png",
+        "thirukkural-backlog-01/avai_anjaamai/S11.png",
+        "thirukkural-backlog-02/arivudaimai/S10.png",
+        "thirukkural-backlog-02/arivudaimai/S11.png",
+        "thirukkural-backlog-02/arivudaimai/S12.png"
+      ]
+    },
+    {
+      "sourceId": "tqF2NBWp6_8",
+      "chapter": "கொடுங்கோன்மை",
+      "english": "Kodungonmai",
+      "theme": "the harm of oppressive rule and the value of humane governance",
+      "slug": "kodungonmai",
+      "supportingImages": [
+        "thirukkural-backlog-01/amaichu/S02.png",
+        "thirukkural-backlog-01/amaichu/S03.png",
+        "thirukkural-backlog-01/amaichu/S04.png",
+        "thirukkural-backlog-01/amaichu/S06.png",
+        "thirukkural-backlog-01/amaichu/S07.png",
+        "thirukkural-backlog-02/avaiyarithal/S05.png",
+        "thirukkural-backlog-02/avaiyarithal/S09.png",
+        "thirukkural-backlog-01/amaichu/S10.png"
+      ]
+    },
+    {
+      "sourceId": "5-z9v-1INWg",
+      "chapter": "சிற்றினம் சேராமை",
+      "english": "Sitrinam Seraamai",
+      "theme": "choosing wise and ethical companions",
+      "slug": "sitrinam_seraamai",
+      "supportingImages": [
+        "thirukkural-backlog-02/arivudaimai/S01.png",
+        "thirukkural-backlog-02/arivudaimai/S02.png",
+        "thirukkural-backlog-02/arivudaimai/S04.png",
+        "thirukkural-backlog-02/arivudaimai/S08.png",
+        "thirukkural-backlog-01/avai_anjaamai/S11.png",
+        "thirukkural-backlog-02/arivudaimai/S10.png",
+        "thirukkural-backlog-02/arivudaimai/S11.png",
+        "thirukkural-backlog-02/arivudaimai/S12.png"
+      ]
+    }
+  ]
+}

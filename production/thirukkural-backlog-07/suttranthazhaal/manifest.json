@@ -1,0 +1,113 @@
+{
+  "sourceId": "pTxTsQzF8Xs",
+  "title": "திருக்குறள் - சுற்றந்தழால் | Suttranthazhaal | Full Song Film",
+  "output": "SUTTRANTHAZHAAL-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "narrative scene 1",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-07\\suttranthazhaal\\new-1.png",
+      "inFrame": 0,
+      "outFrame": 413
+    },
+    {
+      "image": "S02.png",
+      "role": "narrative scene 2",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S02.png",
+      "inFrame": 413,
+      "outFrame": 817
+    },
+    {
+      "image": "S03.png",
+      "role": "narrative scene 3",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S06.png",
+      "inFrame": 817,
+      "outFrame": 1247
+    },
+    {
+      "image": "S04.png",
+      "role": "narrative scene 4",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-07\\suttranthazhaal\\new-2.png",
+      "inFrame": 1247,
+      "outFrame": 1651
+    },
+    {
+      "image": "S05.png",
+      "role": "narrative scene 5",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S07.png",
+      "inFrame": 1651,
+      "outFrame": 2062
+    },
+    {
+      "image": "S06.png",
+      "role": "narrative scene 6",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S08.png",
+      "inFrame": 2062,
+      "outFrame": 2479
+    },
+    {
+      "image": "S07.png",
+      "role": "narrative scene 7",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\avaiyarithal\\S07.png",
+      "inFrame": 2479,
+      "outFrame": 2904
+    },
+    {
+      "image": "S08.png",
+      "role": "narrative scene 8",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-07\\suttranthazhaal\\new-3.png",
+      "inFrame": 2904,
+      "outFrame": 3302
+    },
+    {
+      "image": "S09.png",
+      "role": "narrative scene 9",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\arivudaimai\\S09.png",
+      "inFrame": 3302,
+      "outFrame": 3715
+    },
+    {
+      "image": "S10.png",
+      "role": "narrative scene 10",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\aalvinaiyudaimai\\S11.png",
+      "inFrame": 3715,
+      "outFrame": 4134
+    },
+    {
+      "image": "S11.png",
+      "role": "narrative scene 11",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S12.png",
+      "inFrame": 4134,
+      "outFrame": 4542
+    },
+    {
+      "image": "S12.png",
+      "role": "narrative scene 12",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-07\\suttranthazhaal\\new-4.png",
+      "inFrame": 4542,
+      "outFrame": 4957
+    }
+  ],
+  "imageDerived": true,
+  "theme": "cherishing family and community bonds",
+  "duplicateAudit": {
+    "publicVideosChecked": 180,
+    "matchingFilms": []
+  },
+  "publicationStatus": "pending YouTube daily upload quota",
+  "fps": 12,
+  "targetFrames": 4957,
+  "cutRule": "near even spacing at low audio energy"
+}

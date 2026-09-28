@@ -1,0 +1,113 @@
+{
+  "sourceId": "K6mhIh64XE8",
+  "title": "திருக்குறள் - இறை மாட்சி | Irai Maatchi | Full Song Film",
+  "output": "IRAI_MAATCHI-CINEMATIC-v1.mp4",
+  "shots": [
+    {
+      "image": "S01.png",
+      "role": "narrative scene 1",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-08\\irai_maatchi\\new-1.png",
+      "inFrame": 0,
+      "outFrame": 219
+    },
+    {
+      "image": "S02.png",
+      "role": "narrative scene 2",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S02.png",
+      "inFrame": 219,
+      "outFrame": 463
+    },
+    {
+      "image": "S03.png",
+      "role": "narrative scene 3",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S03.png",
+      "inFrame": 463,
+      "outFrame": 692
+    },
+    {
+      "image": "S04.png",
+      "role": "narrative scene 4",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-08\\irai_maatchi\\new-2.png",
+      "inFrame": 692,
+      "outFrame": 906
+    },
+    {
+      "image": "S05.png",
+      "role": "narrative scene 5",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S04.png",
+      "inFrame": 906,
+      "outFrame": 1135
+    },
+    {
+      "image": "S06.png",
+      "role": "narrative scene 6",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S06.png",
+      "inFrame": 1135,
+      "outFrame": 1364
+    },
+    {
+      "image": "S07.png",
+      "role": "narrative scene 7",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S07.png",
+      "inFrame": 1364,
+      "outFrame": 1584
+    },
+    {
+      "image": "S08.png",
+      "role": "narrative scene 8",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-08\\irai_maatchi\\new-3.png",
+      "inFrame": 1584,
+      "outFrame": 1820
+    },
+    {
+      "image": "S09.png",
+      "role": "narrative scene 9",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\avaiyarithal\\S05.png",
+      "inFrame": 1820,
+      "outFrame": 2052
+    },
+    {
+      "image": "S10.png",
+      "role": "narrative scene 10",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-02\\avaiyarithal\\S09.png",
+      "inFrame": 2052,
+      "outFrame": 2281
+    },
+    {
+      "image": "S11.png",
+      "role": "narrative scene 11",
+      "artOrigin": "existing relevant scene library",
+      "assetSource": "thirukkural-backlog-01\\amaichu\\S10.png",
+      "inFrame": 2281,
+      "outFrame": 2509
+    },
+    {
+      "image": "S12.png",
+      "role": "narrative scene 12",
+      "artOrigin": "new generated chapter scene",
+      "assetSource": "thirukkural-backlog-08\\irai_maatchi\\new-4.png",
+      "inFrame": 2509,
+      "outFrame": 2732
+    }
+  ],
+  "imageDerived": true,
+  "theme": "the virtues and responsibility of a good ruler",
+  "duplicateAudit": {
+    "publicVideosChecked": 180,
+    "matchingFilms": []
+  },
+  "publicationStatus": "pending YouTube daily upload quota",
+  "fps": 12,
+  "targetFrames": 2732,
+  "cutRule": "near even spacing at low audio energy"
+}
