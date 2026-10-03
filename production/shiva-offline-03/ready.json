@@ -2,7 +2,7 @@
   {
     "title": "ஆடலமுதப் பத்து | Aadalamudha Pathu Cinematic Shiva Film",
     "sourceId": "juuVtFBK3X8",
-    "status": "Ready for later upload",
+    "status": "Public in Studio; checks complete",
     "manifest": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-03\\aadalamudha_pathu\\manifest.json",
     "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-03\\aadalamudha_pathu\\AADALAMUDHA-PATHU-FILM.mp4",
     "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-03\\aadalamudha_pathu\\opening-qc.png",
@@ -14,12 +14,24 @@
     "scenes": 12,
     "durationSeconds": 344.25,
     "bytes": 23100800,
-    "sha256": "bff14a1a9470155028df9107a4cd36e4816b01244c99048f3c63b4fcb4a135a9"
+    "sha256": "bff14a1a9470155028df9107a4cd36e4816b01244c99048f3c63b4fcb4a135a9",
+    "youtubeUrl": "https://youtu.be/8IAiHMylZJc",
+    "publicationVerified": true,
+    "playlistsAssigned": [
+      "Discography",
+      "Lord Shiva Songs"
+    ]
   },
   {
     "title": "அபராதத்து ஆற்றாமை | Abaraathathu Aatraamai Cinematic Shiva Film",
     "sourceId": "kshlDPh2IqE",
-    "status": "Ready for later upload",
+    "status": "Public in Studio; checks complete",
+    "youtubeUrl": "https://youtu.be/6_qh4-WoWNM",
+    "publicationVerified": true,
+    "playlistsAssigned": [
+      "Discography",
+      "Lord Shiva Songs"
+    ],
     "manifest": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-03\\abaraathathu_aatraamai\\manifest.json",
     "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-03\\abaraathathu_aatraamai\\ABARAATHATHU-AATRAAMAI-FILM.mp4",
     "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-03\\abaraathathu_aatraamai\\opening-qc.png",
@@ -36,7 +48,13 @@
   {
     "title": "எழுத்தறியும் பெருமான் மாலை | Ezhuthariyum Peruman Maalai Cinematic Shiva Film",
     "sourceId": "kyiaup-gjMc",
-    "status": "Ready for later upload",
+    "status": "Public in Studio; checks complete",
+    "youtubeUrl": "https://youtu.be/Yg2b_xJGGEQ",
+    "publicationVerified": true,
+    "playlistsAssigned": [
+      "Discography",
+      "Lord Shiva Songs"
+    ],
     "manifest": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-03\\ezhuthariyum_peruman_maalai\\manifest.json",
     "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-03\\ezhuthariyum_peruman_maalai\\EZHUTHARIYUM-PERUMAN-MAALAI-FILM.mp4",
     "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-03\\ezhuthariyum_peruman_maalai\\opening-qc.png",

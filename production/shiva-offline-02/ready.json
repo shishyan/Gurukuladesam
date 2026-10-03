@@ -2,7 +2,7 @@
   {
     "title": "தியாக வண்ணப் பதிகம் | Thiyaga Vanna Pathigam Cinematic Shiva Film",
     "sourceId": "DCJ2qoMSIBA",
-    "status": "Ready for later upload",
+    "status": "Public in Studio; checks complete",
     "manifest": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-02\\thiyaga_vanna_pathigam\\manifest.json",
     "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-02\\thiyaga_vanna_pathigam\\THIYAGA-VANNA-PATHIGAM-FILM.mp4",
     "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-02\\thiyaga_vanna_pathigam\\opening-qc.png",
@@ -14,12 +14,18 @@
     "scenes": 12,
     "durationSeconds": 276.25,
     "bytes": 19943796,
-    "sha256": "bd0bdbdb4eb7322200377accfd616c719378ab5eb4448997546eeda3a2256da0"
+    "sha256": "bd0bdbdb4eb7322200377accfd616c719378ab5eb4448997546eeda3a2256da0",
+    "publishedUrl": "https://youtu.be/jZFTlpJwn6A",
+    "publicationVerified": true,
+    "playlistsAssigned": [
+      "Discography",
+      "Lord Shiva Songs"
+    ]
   },
   {
     "title": "திருவருள் வழக்க விளக்கம் | Thiruvarul Vazhakka Vilakkam Cinematic Shiva Film",
     "sourceId": "hDoLscfeg5Q",
-    "status": "Ready for later upload",
+    "status": "Public in Studio; checks complete",
     "manifest": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-02\\thiruvarul_vazhakka_vilakkam\\manifest.json",
     "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-02\\thiruvarul_vazhakka_vilakkam\\THIRUVARUL-VAZHAKKA-VILAKKAM-FILM.mp4",
     "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-02\\thiruvarul_vazhakka_vilakkam\\opening-qc.png",
@@ -31,12 +37,18 @@
     "scenes": 24,
     "durationSeconds": 878.9166666666666,
     "bytes": 51080380,
-    "sha256": "64e71f5ea48be3cd35204e7a044e77e88bb7b3bef8b6cef98c781c4d72f19140"
+    "sha256": "64e71f5ea48be3cd35204e7a044e77e88bb7b3bef8b6cef98c781c4d72f19140",
+    "publishedUrl": "https://youtu.be/wGtcobqR01Q",
+    "publicationVerified": true,
+    "playlistsAssigned": [
+      "Discography",
+      "Lord Shiva Songs"
+    ]
   },
   {
     "title": "திருவெண்பா | Thiruvenba Cinematic Shiva Film",
     "sourceId": "o5PVED0ZcfU",
-    "status": "Ready for later upload",
+    "status": "Public in Studio; checks complete",
     "manifest": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-02\\thiruvenba\\manifest.json",
     "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-02\\thiruvenba\\THIRUVENBA-FILM.mp4",
     "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-02\\thiruvenba\\opening-qc.png",
@@ -48,6 +60,12 @@
     "scenes": 12,
     "durationSeconds": 193.58333333333334,
     "bytes": 15200290,
-    "sha256": "69b7327b01078b3a8b3b6cbba21616ee14af4f3408d632dcf9e7a36054a8c61b"
+    "sha256": "69b7327b01078b3a8b3b6cbba21616ee14af4f3408d632dcf9e7a36054a8c61b",
+    "youtubeUrl": "https://youtu.be/QXqjB9UnD7E",
+    "publicationVerified": true,
+    "playlistsAssigned": [
+      "Discography",
+      "Lord Shiva Songs"
+    ]
   }
 ]

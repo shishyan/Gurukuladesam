@@ -2,7 +2,13 @@
   {
     "title": "திருமுல்லைவாயில் | Thirumullaivayil Cinematic Shiva Film",
     "sourceId": "73GrCFM_v6Q",
-    "status": "Ready for later upload",
+    "status": "Public in Studio; checks complete",
+    "youtubeUrl": "https://youtu.be/orWUAxhBOsg",
+    "publicationVerified": true,
+    "playlistsAssigned": [
+      "Discography",
+      "Lord Shiva Songs"
+    ],
     "manifest": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-05\\thirumullaivayil\\manifest.json",
     "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-05\\thirumullaivayil\\THIRUMULLAIVAYIL-FILM.mp4",
     "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-05\\thirumullaivayil\\opening-qc.png",
@@ -19,7 +25,13 @@
   {
     "title": "நமச்சிவாய ஸங்கீர்த்தனம் | Namasivaya Sankeerthanam Cinematic Shiva Film",
     "sourceId": "EOkuHFSfv8c",
-    "status": "Ready for later upload",
+    "status": "Public in Studio; checks complete",
+    "youtubeUrl": "https://youtu.be/Yk9JZ7WTk-k",
+    "publicationVerified": true,
+    "playlistsAssigned": [
+      "Discography",
+      "Lord Shiva Songs"
+    ],
     "manifest": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-05\\namasivaya_sankeerthanam\\manifest.json",
     "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-05\\namasivaya_sankeerthanam\\NAMASIVAYA-SANKEERTHANAM-FILM.mp4",
     "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-05\\namasivaya_sankeerthanam\\opening-qc.png",
@@ -36,7 +48,13 @@
   {
     "title": "கொடைமடப் புகழ்ச்சி | Kodaimada Pugazhchi Cinematic Shiva Film",
     "sourceId": "nGBmGzsD-kM",
-    "status": "Ready for later upload",
+    "status": "Public in Studio; checks still running",
+    "youtubeUrl": "https://youtu.be/TlaBaW3-ckI",
+    "publicationVerified": true,
+    "playlistsAssigned": [
+      "Discography",
+      "Lord Shiva Songs"
+    ],
     "manifest": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-05\\kodaimada_pugazhchi\\manifest.json",
     "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-05\\kodaimada_pugazhchi\\KODAIMADA-PUGAZHCHI-FILM.mp4",
     "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-05\\kodaimada_pugazhchi\\opening-qc.png",

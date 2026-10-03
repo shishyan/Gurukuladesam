@@ -2,7 +2,13 @@
   {
     "title": "காட்சிப் பெருமிதம் | Kaatchi Perumitham Cinematic Shiva Film",
     "sourceId": "MlaG3Z3_Kck",
-    "status": "Ready for later upload",
+    "status": "Public in Studio; checks complete",
+    "youtubeUrl": "https://youtu.be/fGUDd1DvDcE",
+    "publicationVerified": true,
+    "playlistsAssigned": [
+      "Discography",
+      "Lord Shiva Songs"
+    ],
     "manifest": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-04\\kaatchi_perumitham\\manifest.json",
     "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-04\\kaatchi_perumitham\\KAATCHI-PERUMITHAM-FILM.mp4",
     "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-04\\kaatchi_perumitham\\opening-qc.png",
@@ -19,7 +25,13 @@
   {
     "title": "சிவபுண்ணியத் தேற்றம் | Sivapunniya Thetram Cinematic Shiva Film",
     "sourceId": "YORF54ouPz0",
-    "status": "Ready for later upload",
+    "status": "Public in Studio; checks still running",
+    "youtubeUrl": "https://youtu.be/pkbzO9Clp2w",
+    "publicationVerified": true,
+    "playlistsAssigned": [
+      "Discography",
+      "Lord Shiva Songs"
+    ],
     "manifest": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-04\\sivapunniya_thetram\\manifest.json",
     "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-04\\sivapunniya_thetram\\SIVAPUNNIYA-THETRAM-FILM.mp4",
     "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-04\\sivapunniya_thetram\\opening-qc.png",
@@ -36,7 +48,13 @@
   {
     "title": "திருவடிச் சரண்புகல் | Thiruvadi Saranpugal Cinematic Shiva Film",
     "sourceId": "Z7qFXMBjnak",
-    "status": "Ready for later upload",
+    "status": "Public in Studio; checks complete",
+    "youtubeUrl": "https://youtu.be/PXQW4sYo4nY",
+    "publicationVerified": true,
+    "playlistsAssigned": [
+      "Discography",
+      "Lord Shiva Songs"
+    ],
     "manifest": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-04\\thiruvadi_saranpugal\\manifest.json",
     "output": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-04\\thiruvadi_saranpugal\\THIRUVADI-SARANPUGAL-FILM.mp4",
     "thumbnail": "C:\\GitHub\\Gurukuladesam-audit\\production\\shiva-offline-04\\thiruvadi_saranpugal\\opening-qc.png",

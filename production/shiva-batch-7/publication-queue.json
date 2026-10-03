@@ -1,14 +1,14 @@
 {
   "channel": "@guru-kula-desam",
-  "pendingCount": 10,
-  "blocker": "YouTube daily upload limit",
+  "pendingCount": 0,
+  "blocker": null,
   "instructions": "Check Studio for existing draft and source ID before uploading. Publish publicly and assign both playlists. Update release ledger with verified URL.",
   "songs": [
     {
       "sourceId": "zTHsoP6OIAc",
       "title": "ஈஸ்வர நாமவளி சரணம்! (II) | Cinematic Lord Shiva Devotional Film",
       "file": "shiva-batch-6/eeswara_naamavali_ii/EESWARA_NAAMAVALI_II-CINEMATIC-ritual-v2.mp4",
-      "status": "ready; pending upload quota",
+      "status": "published; Studio Public verified",
       "playlists": [
         "Discography",
         "Lord Shiva Songs"
@@ -17,13 +17,20 @@
         "uniqueScenes": 12,
         "exactDecodedAudio": true,
         "fullDecodePassed": true
-      }
+      },
+      "publishedUrl": "https://youtu.be/KvU4v5v2X98",
+      "publicationVerified": true,
+      "playlistsAssigned": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "playlistAssignmentStatus": "recorded in Studio inventory; public playlist membership not independently rechecked"
     },
     {
       "sourceId": "e9fTnxiiLnc",
       "title": "திருவார்த்தை 2026 (திருவாசகம்) | Cinematic Lord Shiva Devotional Film",
       "file": "shiva-batch-6/thiruvarthai/THIRUVARTHAI-CINEMATIC-ritual-v2.mp4",
-      "status": "ready; pending upload quota",
+      "status": "published and public playback verified",
       "playlists": [
         "Discography",
         "Lord Shiva Songs"
@@ -32,13 +39,20 @@
         "uniqueScenes": 12,
         "exactDecodedAudio": true,
         "fullDecodePassed": true
-      }
+      },
+      "publishedUrl": "https://www.youtube.com/watch?v=DI2ZW8jS_6o",
+      "publicationVerified": true,
+      "playlistsAssigned": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "playlistAssignmentStatus": "selected in upload wizard; public membership verification pending"
     },
     {
       "sourceId": "SDPLWITWGho",
       "title": "திருவருட்பா - நற்றுணை விளக்கம் 2026 | Cinematic Lord Shiva Devotional Film",
       "file": "shiva-batch-6/nattrunai_vilakkam/NATTRUNAI_VILAKKAM-CINEMATIC-ritual-v2.mp4",
-      "status": "ready; pending upload quota",
+      "status": "published and public playback verified",
       "playlists": [
         "Discography",
         "Lord Shiva Songs"
@@ -47,13 +61,20 @@
         "uniqueScenes": 12,
         "exactDecodedAudio": true,
         "fullDecodePassed": true
-      }
+      },
+      "publishedUrl": "https://www.youtube.com/watch?v=qRZuTdyAghw",
+      "publicationVerified": true,
+      "playlistsAssigned": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "playlistAssignmentStatus": "selected in upload wizard; public membership verification pending"
     },
     {
       "sourceId": "iKIsoxTz5-k",
       "title": "Poovar Senni Mannan (Thiruvasagam) | Yaththirai Paththu | Cinematic Lord Shiva Devotional Film",
       "file": "shiva-batch-6/poovar_senni/POOVAR_SENNI-CINEMATIC-ritual-v2.mp4",
-      "status": "ready; pending upload quota",
+      "status": "published and Studio Public verified",
       "playlists": [
         "Discography",
         "Lord Shiva Songs"
@@ -62,13 +83,20 @@
         "uniqueScenes": 12,
         "exactDecodedAudio": true,
         "fullDecodePassed": true
-      }
+      },
+      "publishedUrl": "https://www.youtube.com/watch?v=dpx7C3wuyio",
+      "publicationVerified": true,
+      "playlistsAssigned": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "playlistAssignmentStatus": "selected in upload wizard; live membership not independently checked"
     },
     {
       "sourceId": "xqM-FFGFDC4",
       "title": "தில்லை வாழ் அந்தணர்! | Cinematic Lord Shiva Devotional Film",
       "file": "shiva-batch-6/thillai_vazh_anthanar/THILLAI_VAZH_ANTHANAR-CINEMATIC-ritual-v2.mp4",
-      "status": "ready; pending upload quota",
+      "status": "published; Studio Public verified",
       "playlists": [
         "Discography",
         "Lord Shiva Songs"
@@ -77,13 +105,20 @@
         "uniqueScenes": 12,
         "exactDecodedAudio": true,
         "fullDecodePassed": true
-      }
+      },
+      "publishedUrl": "https://www.youtube.com/watch?v=-zVzQ1XnY8Q",
+      "publicationVerified": true,
+      "playlistsAssigned": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "playlistAssignmentStatus": "2 playlists shown in video details; live membership not independently checked"
     },
     {
       "sourceId": "XB7cD-5ye-k",
       "title": "திருப்படை ஆட்சி (திருவாசகம்) | Cinematic Devotional Film",
       "file": "shiva-batch-7/thiruppadai_aatchi/THIRUPPADAI_AATCHI-CINEMATIC-ritual-v2.mp4",
-      "status": "ready; pending upload quota",
+      "status": "published; Studio Public verified",
       "playlists": [
         "Discography",
         "Lord Shiva Songs"
@@ -92,13 +127,20 @@
         "uniqueScenes": 12,
         "exactDecodedAudio": true,
         "fullDecodePassed": true
-      }
+      },
+      "publishedUrl": "https://youtu.be/QRdpedglKkU",
+      "publicationVerified": true,
+      "playlistsAssigned": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "playlistAssignmentStatus": "selected in upload wizard; live membership not independently checked"
     },
     {
       "sourceId": "-bqKXZW8vFk",
       "title": "திருவருட்பா - அருளியல் வினாவல் 2026 | Cinematic Devotional Film",
       "file": "shiva-batch-7/aruliyal_vinaaval/ARULIYAL_VINAAVAL-CINEMATIC-ritual-v2.mp4",
-      "status": "ready; pending upload quota",
+      "status": "publish submitted; SD processing pending public visibility",
       "playlists": [
         "Discography",
         "Lord Shiva Songs"
@@ -107,13 +149,20 @@
         "uniqueScenes": 12,
         "exactDecodedAudio": true,
         "fullDecodePassed": true
-      }
+      },
+      "publishedUrl": "https://youtu.be/xq_sktu9GyU",
+      "publicationVerified": false,
+      "playlistsAssigned": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "playlistAssignmentStatus": "selected in upload wizard; live membership pending"
     },
     {
       "sourceId": "SLaW0c4zDuc",
       "title": "திருவருட்பா - அன்பு மாலை - 2026 (I) | Cinematic Devotional Film",
       "file": "shiva-batch-7/anbu_maalai_i/ANBU_MAALAI_I-CINEMATIC-ritual-v2.mp4",
-      "status": "ready; pending upload quota",
+      "status": "publish submitted; SD processing pending public visibility",
       "playlists": [
         "Discography",
         "Lord Shiva Songs"
@@ -122,13 +171,20 @@
         "uniqueScenes": 12,
         "exactDecodedAudio": true,
         "fullDecodePassed": true
-      }
+      },
+      "publishedUrl": "https://youtu.be/FGeahfpAbiw",
+      "publicationVerified": false,
+      "playlistsAssigned": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "playlistAssignmentStatus": "selected in upload wizard; live membership pending"
     },
     {
       "sourceId": "fdB9R7QeXo0",
       "title": "திருவாசகம் | குழைத்த பத்து | 2026 | Cinematic Devotional Film",
       "file": "shiva-batch-7/kuzhaitha_pathu/KUZHAITHA_PATHU-CINEMATIC-ritual-v2.mp4",
-      "status": "ready; pending upload quota",
+      "status": "published; Studio Public verified",
       "playlists": [
         "Discography",
         "Lord Shiva Songs"
@@ -137,13 +193,20 @@
         "uniqueScenes": 12,
         "exactDecodedAudio": true,
         "fullDecodePassed": true
-      }
+      },
+      "publishedUrl": "https://youtu.be/2mdEV1acg-U",
+      "publicationVerified": true,
+      "playlistsAssigned": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "playlistAssignmentStatus": "selected in upload wizard; live membership not independently checked"
     },
     {
       "sourceId": "2QOF2ycA4RQ",
       "title": "Aadhi Yogeeswarar Naama Oli Saranam | Cinematic Devotional Film",
       "file": "shiva-batch-7/aadhi_yogeeswarar/AADHI_YOGEESWARAR-CINEMATIC-ritual-v2.mp4",
-      "status": "ready; pending upload quota",
+      "status": "publish submitted; SD processing pending public visibility",
       "playlists": [
         "Discography",
         "Lord Shiva Songs"
@@ -152,7 +215,21 @@
         "uniqueScenes": 12,
         "exactDecodedAudio": true,
         "fullDecodePassed": true
-      }
+      },
+      "publishedUrl": "https://youtu.be/GJJW8gIHJ0E",
+      "publicationVerified": false,
+      "playlistsAssigned": [
+        "Discography",
+        "Lord Shiva Songs"
+      ],
+      "playlistAssignmentStatus": "selected in upload wizard; live membership pending"
     }
-  ]
+  ],
+  "latestUploadAttempt": {
+    "sourceId": "2QOF2ycA4RQ",
+    "title": "Aadhi Yogeeswarar Naama Oli Saranam | Cinematic Devotional Film",
+    "url": "https://youtu.be/GJJW8gIHJ0E",
+    "status": "publish submitted; SD processing pending public visibility",
+    "updatedAtUtc": "2026-09-29T07:12:12.611767+00:00"
+  }
 }
